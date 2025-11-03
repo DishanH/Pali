@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+translator.log
+
+# API Keys (IMPORTANT - never commit these!)
+.env
+.env.local
+*.key
+api_key.txt
+
+# Cache
+translation_cache.json
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files (optional - uncomment if you don't want to track translations)
+# Pāthikavaggapāḷi/chapters/*.json
+# example_output.json
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
