@@ -1,0 +1,92 @@
+{
+  "id": "an2.3",
+  "title": {
+    "pali": "Bālavaggo",
+    "english": "The Chapter on Fools",
+    "sinhala": "බාල වග්ගය"
+  },
+  "sections": [
+    {
+      "number": 22,
+      "pali": "‘‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca accayaṃ accayato na passati, yo ca accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti. Ime kho, bhikkhave, dve bālā’ti. ‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca accayaṃ accayato passati, yo ca accayaṃ desentassa yathādhammaṃ paṭiggaṇhāti. Ime kho, bhikkhave, dve paṇḍitā’’’ti.",
+      "english": "There are these two kinds of foolish people, monks. Which two? One who does not see a transgression as a transgression, and one who does not accept, in accordance with the Dhamma, a transgression when it is pointed out by another. These, monks, are the two kinds of foolish people.\n\nThere are these two kinds of wise people, monks. Which two? One who sees a transgression as a transgression, and one who accepts, in accordance with the Dhamma, a transgression when it is pointed out by another. These, monks, are the two kinds of wise people.",
+      "sinhala": "මහණෙනි, මේ බාලයෝ දෙදෙනෙක් වෙති. කවරහුද ඒ දෙදෙනා? යම් කෙනෙක් වරදක් වරදක් වශයෙන් නොදකී ද, යම් කෙනෙක් වරද දෙසන තැනැත්තාට ධර්මානුකූලව එය නොපිළිගනී ද, මහණෙනි, සැබැවින්ම මේ බාලයෝ දෙදෙනාය.\n\nමහණෙනි, මේ පණ්ඩිතයෝ දෙදෙනෙක් වෙති. කවරහුද ඒ දෙදෙනා? යම් කෙනෙක් වරදක් වරදක් වශයෙන් දකී ද, යම් කෙනෙක් වරද දෙසන තැනැත්තාට ධර්මානුකූලව එය පිළිගනී ද, මහණෙනි, සැබැවින්ම මේ පණ්ඩිතයෝ දෙදෙනාය.",
+      "paliTitle": ""
+    },
+    {
+      "number": 23,
+      "pali": "‘‘Dveme, bhikkhave, tathāgataṃ abbhācikkhanti. Katame dve? Duṭṭho vā dosantaro, saddho vā duggahitena [duggahītena (sī.)]. Ime kho, bhikkhave, dve tathāgataṃ abbhācikkhantī’’ti.",
+      "english": "Monks, these two kinds of people slander the Tathāgata. Which two? Either one who is malicious and harbors ill-will, or one who is faithful but has a wrongly apprehended understanding. Indeed, monks, these two kinds of people slander the Tathāgata.",
+      "sinhala": "මේ මහණෙනි, මේ දෙදෙනෙක් තථාගතයන් වහන්සේට අපහාස කරති. කවර දෙදෙනෙක්ද? ද්වේෂයෙන් අභ්‍යන්තරය දූෂණය වූ තැනැත්තා හෝ, ශ්‍රද්ධාවෙන් යුතු නමුත්, වැරදි ලෙස ධර්මය ග්‍රහණය කරගත් තැනැත්තා හෝ වේ. සැබවින්ම මහණෙනි, මේ දෙදෙනා තථාගතයන් වහන්සේට අපහාස කරති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 24,
+      "pali": "‘‘‘Dveme, bhikkhave, tathāgataṃ abbhācikkhanti. Katame dve? Yo ca abhāsitaṃ alapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpeti, yo ca bhāsitaṃ lapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpeti. Ime kho, bhikkhave, dve tathāgataṃ abbhācikkhantī’ti. ‘Dveme, bhikkhave, tathāgataṃ nābbhācikkhanti. Katame dve? Yo ca abhāsitaṃ alapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpeti, yo ca bhāsitaṃ lapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpeti. Ime kho, bhikkhave, dve tathāgataṃ nābbhācikkhantī’’’ti.",
+      "english": "“Monks, these two misrepresent the Tathāgata. Which two? One who declares what was not spoken or uttered by the Tathāgata to have been spoken or uttered by the Tathāgata; and one who declares what was spoken or uttered by the Tathāgata to have been not spoken or uttered by the Tathāgata. These two, indeed, monks, misrepresent the Tathāgata.”\n\n“Monks, these two do not misrepresent the Tathāgata. Which two? One who declares what was not spoken or uttered by the Tathāgata to have been not spoken or uttered by the Tathāgata; and one who declares what was spoken or uttered by the Tathāgata to have been spoken or uttered by the Tathāgata. These two, indeed, monks, do not misrepresent the Tathāgata.”",
+      "sinhala": "මහණෙනි, මේ දෙදෙනෙක් තථාගතයන් වහන්සේට අභූත චෝදනා කරති. කවර දෙදෙනෙක්ද? තථාගතයන් වහන්සේ විසින් දේශනා නොකළ, නොපැවසූ දෙයක් තථාගතයන් වහන්සේ විසින් දේශනා කරන ලද්දක්, පවසන ලද්දක් යැයි ප්‍රකාශ කරන්නේද, තථාගතයන් වහන්සේ විසින් දේශනා කරන ලද, පවසන ලද දෙයක් තථාගතයන් වහන්සේ විසින් දේශනා නොකළ, නොපැවසූවක් යැයි ප්‍රකාශ කරන්නේද. මහණෙනි, මේ දෙදෙනා තථාගතයන් වහන්සේට අභූත චෝදනා කරති.\n\nමහණෙනි, මේ දෙදෙනෙක් තථාගතයන් වහන්සේට අභූත චෝදනා නොකරති. කවර දෙදෙනෙක්ද? තථාගතයන් වහන්සේ විසින් දේශනා නොකළ, නොපැවසූ දෙයක් තථාගතයන් වහන්සේ විසින් දේශනා නොකළ, නොපැවසූවක් යැයි ප්‍රකාශ කරන්නේද, තථාගතයන් වහන්සේ විසින් දේශනා කරන ලද, පවසන ලද දෙයක් තථාගතයන් වහන්සේ විසින් දේශනා කරන ලද්දක්, පවසන ලද්දක් යැයි ප්‍රකාශ කරන්නේද. මහණෙනි, මේ දෙදෙනා තථාගතයන් වහන්සේට අභූත චෝදනා නොකරති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 25,
+      "pali": "‘‘Dveme, bhikkhave, tathāgataṃ abbhācikkhanti. Katame dve? Yo ca neyyatthaṃ suttantaṃ nītattho suttantoti dīpeti, yo ca nītatthaṃ suttantaṃ neyyattho suttantoti dīpeti. Ime kho, bhikkhave, dve tathāgataṃ abbhācikkhantī’’ti.",
+      "english": "Monks, these two slander the Tathāgata. Which two? He who declares a discourse requiring interpretation to be a discourse of definitive meaning, and he who declares a discourse of definitive meaning to be a discourse requiring interpretation. Indeed, Monks, these two slander the Tathāgata.",
+      "sinhala": "මහණෙනි, මේ දෙදෙනා තථාගතයන් වහන්සේට අපවාද කරති. ඒ දෙදෙනා කවරහුද? යමෙක් නම්, විවරණය කළ යුතු අර්ථයක් ඇති (නය්‍යාර්ථ) සූත්‍රයක්, විවරණය කළ අවසන් අර්ථයක් ඇති (නීතාර්ථ) සූත්‍රයක් ලෙසින් දේශනා කරන්නේද, තවද යමෙක්, විවරණය කළ අවසන් අර්ථයක් ඇති (නීතාර්ථ) සූත්‍රයක්, විවරණය කළ යුතු අර්ථයක් ඇති (නය්‍යාර්ථ) සූත්‍රයක් ලෙසින් දේශනා කරන්නේද, මහණෙනි, ඒ දෙදෙනා තථාගතයන් වහන්සේට අපවාද කරති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 26,
+      "pali": "‘‘Dveme, bhikkhave, tathāgataṃ nābbhācikkhanti. Katame dve? Yo ca neyyatthaṃ suttantaṃ neyyattho suttantoti dīpeti, yo ca nītatthaṃ suttantaṃ nītattho suttantoti dīpeti. Ime kho, bhikkhave, dve tathāgataṃ nābbhācikkhantī’’ti.",
+      "english": "Monks, these two do not slander the Tathāgata. Which two? One who explains a discourse that requires interpretation as a discourse that requires interpretation, and one who explains a discourse of definitive meaning as a discourse of definitive meaning. These two, monks, do not slander the Tathāgata.",
+      "sinhala": "මහණෙනි, මේ දෙදෙනා තථාගතයන් වහන්සේට අපහාස නොකරති. ඒ දෙදෙනා කවරහුද? යම් කෙනෙක් නය්‍යාර්ථ සූත්‍රයක් නය්‍යාර්ථ සූත්‍රයක් හැටියට දේශනා කරන්නේද, යම් කෙනෙක් නීතාර්ථ සූත්‍රයක් නීතාර්ථ සූත්‍රයක් හැටියට දේශනා කරන්නේද, මහණෙනි, මේ දෙදෙනා තථාගතයන් වහන්සේට අපහාස නොකරති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 27,
+      "pali": "‘‘Paṭicchannakammantassa, bhikkhave, dvinnaṃ gatīnaṃ aññatarā gati pāṭikaṅkhā – nirayo vā tiracchānayoni vāti. Appaṭicchannakammantassa, bhikkhave, dvinnaṃ gatīnaṃ aññatarā gati pāṭikaṅkhā – devā vā manussā vā’’ti.",
+      "english": "Monks, for one whose deeds are hidden, one of two destinations is to be expected: hell or the animal realm. For one whose deeds are not hidden, one of two destinations is to be expected: the devas or humans.",
+      "sinhala": "මහණෙනි, වසන් කළ කර්ම ඇත්තාට ගති දෙකෙන් එකක් අපේක්ෂා කළ හැකිය – එනම් නිරය හෝ තිරිසන් යෝනිය යි. මහණෙනි, ප්‍රකට කර්ම ඇත්තාට ගති දෙකෙන් එකක් අපේක්ෂා කළ හැකිය – එනම් දෙව්ලොව හෝ මනුලොව යි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 28,
+      "pali": "‘‘Micchādiṭṭhikassa, bhikkhave, dvinnaṃ gatīnaṃ aññatarā gati pāṭikaṅkhā – nirayo vā tiracchānayoni vā’’ti.",
+      "english": "Monks, for one who holds wrong view, one of two destinations is to be expected: either hell or the animal realm.",
+      "sinhala": "මහණෙනි, මිථ්‍යාදෘෂ්ටික පුද්ගලයාට ගති දෙකින් එකක් නියත වශයෙන්ම බලාපොරොත්තු විය යුතු යි – එනම් නිරය හෝ තිරිසන් යෝනිය යි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 29,
+      "pali": "‘‘Sammādiṭṭhikassa, bhikkhave, dvinnaṃ gatīnaṃ aññatarā gati pāṭikaṅkhā – devā vā manussā vā’’ti.",
+      "english": "Monks, for one possessing Right View, one of two destinations is to be expected: either gods or humans.",
+      "sinhala": "මහණෙනි, සම්මාදිට්ඨිය ඇති තැනැත්තාට ගති දෙකක් අතුරෙන් එක් ගතියක් අපේක්ෂා කළ හැක. එනම් දෙවියන් අතර හෝ මිනිසුන් අතරය.",
+      "paliTitle": ""
+    },
+    {
+      "number": 30,
+      "pali": "‘‘Dussīlassa, bhikkhave, dve paṭiggāhā – nirayo vā tiracchānayoni vā. Sīlavato, bhikkhave, dve paṭiggāhā – devā vā manussā vā’’ti [devo vā manusso vāti (ka.)].",
+      "english": "Monks, for one who is unvirtuous, there are two destinations: either hell or the animal realm. Monks, for one who is virtuous, there are two destinations: either the devas or human beings.",
+      "sinhala": "මහණෙනි, දුස්සීලයාට ප්‍රතිග්‍රාහයෝ දෙදෙනෙක් වෙත්. එනම් නිරය හෝ තිරශ්චීන යෝනිය හෝ යි. මහණෙනි, සීලවතාට ප්‍රතිග්‍රාහයෝ දෙදෙනෙක් වෙත්. එනම් දෙවියන් හෝ මිනිසුන් හෝ යි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 31,
+      "pali": "‘‘Dvāhaṃ, bhikkhave, atthavase sampassamāno araññavanapatthāni [araññe pavanapatthāni (sī. pī.)] pantāni senāsanāni paṭisevāmi. Katame dve? Attano ca diṭṭhadhammasukhavihāraṃ sampassamāno, pacchimañca janataṃ anukampamāno. Ime kho ahaṃ, bhikkhave, dve atthavase sampassamāno araññavanapatthāni pantāni senāsanāni paṭisevāmī’’ti.",
+      "english": "Monks, it is by contemplating two advantages that I resort to secluded forest and jungle dwellings. Which two? Considering my own comfortable abiding in this very life, and out of compassion for future generations. Indeed, monks, it is by contemplating these two advantages that I resort to secluded forest and jungle dwellings.",
+      "sinhala": "මහණෙනි, මම අනුසස් දෙකක් සලකමින් හුදෙකලා වූ අරණ\\u200D්ය වනපෙත්හි පිහිටි සේනාසන පටිසේවනය කරමි. ඒ දෙක කවරේද? මාගේ දිට්ඨධම\\u200D්ම සැප විහරණය සැලකීමත්, අනාගත පරපුර කෙරෙහි අනුකම්පා කිරීමත් යන මේ දෙකයි. මහණෙනි, ඒකාන්තයෙන්ම මම මේ අනුසස් දෙක සලකමින් හුදෙකලා වූ අරණ\\u200D්ය වනපෙත්හි පිහිටි සේනාසන පටිසේවනය කරමි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 32,
+      "pali": "‘‘Dve me, bhikkhave, dhammā vijjābhāgiyā. Katame dve? Samatho ca vipassanā ca. Samatho, bhikkhave, bhāvito kamattha [kimattha (syā. kaṃ.), katamattha (ka.)] manubhoti? Cittaṃ bhāvīyati. Cittaṃ bhāvitaṃ kamatthamanubhoti? Yo rāgo so pahīyati. Vipassanā, bhikkhave, bhāvitā kamatthamanubhoti? Paññā bhāvīyati. Paññā bhāvitā kamatthamanubhoti? Yā avijjā sā pahīyati. Rāgupakkiliṭṭhaṃ vā, bhikkhave, cittaṃ na vimuccati, avijjupakkiliṭṭhā vā paññā bhāvīyati. Iti kho, bhikkhave, rāgavirāgā cetovimutti, avijjāvirāgā paññāvimuttī’’ti. ",
+      "english": "Monks, these are the two qualities that partake in true knowledge. Which two? Serenity and Insight.\n\nMonks, when serenity is developed, what purpose does it serve? The mind is developed. When the mind is developed, what purpose does it serve? Craving is abandoned.\n\nMonks, when insight is developed, what purpose does it serve? Wisdom is developed. When wisdom is developed, what purpose does it serve? Ignorance is abandoned.\n\nMonks, a mind defiled by craving is not liberated, and wisdom defiled by ignorance is developed.\n\nThus, monks, from the fading away of craving comes the liberation of mind, and from the fading away of ignorance comes the liberation by wisdom.",
+      "sinhala": "‘‘මහණෙනි, මේ ධර්ම දෙක විද්‍යාවට අනුග්‍රහ කරන්නාහුය. කවර දෙකක්ද යත්? සමථය හා විපස්සනාවය. මහණෙනි, සමථය වඩන ලද්දේ කුමකට හේතු වෙයිද? සිත වඩනු ලැබේ. සිත වඩන ලද්දේ කුමකට හේතු වෙයිද? යම් රාගයක් වේද, එය ප්‍රහීණ වේ. මහණෙනි, විපස්සනාව වඩන ලද්දේ කුමකට හේතු වෙයිද? ප්‍රඥාව වඩනු ලැබේ. ප්‍රඥාව වඩන ලද්දේ කුමකට හේතු වෙයිද? යම් අවිද්‍යාවක් වේද, එය ප්‍රහීණ වේ. මහණෙනි, රාගයෙන් කිලිටි වූ සිත නොමිදෙයි, නැතහොත් අවිද්‍යාවෙන් කිලිටි වූ ප්‍රඥාව නොමිදෙයි. මහණෙනි, මෙසේ රාගය නැති කිරීමෙන් චේතෝවිමුක්තියත්, අවිද්‍යාව නැති කිරීමෙන් ප්‍රඥා විමුක්තියත් වෙයි.’’",
+      "paliTitle": ""
+    }
+  ],
+  "footer": {
+    "pali": "Bālavaggo tatiyo.",
+    "english": "",
+    "sinhala": ""
+  }
+}

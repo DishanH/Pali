@@ -1,0 +1,125 @@
+{
+  "name": "Tikanipātapāḷi",
+  "title": {
+    "pali": "Tikanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Tikanipātapāḷi niṭṭhitā."
+  },
+  "chapters": [
+    {
+      "id": "an3.1",
+      "title": {
+        "pali": "Bālavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.2",
+      "title": {
+        "pali": "Rathakāravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.3",
+      "title": {
+        "pali": "Puggalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.4",
+      "title": {
+        "pali": "Devadūtavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.5",
+      "title": {
+        "pali": "Cūḷavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.6",
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.7",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.8",
+      "title": {
+        "pali": "Ānandavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.9",
+      "title": {
+        "pali": "Samaṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.10",
+      "title": {
+        "pali": "Sambodhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.11",
+      "title": {
+        "pali": "Maṅgalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.12",
+      "title": {
+        "pali": "Acelakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.13",
+      "title": {
+        "pali": "Kammapathapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an3.14",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

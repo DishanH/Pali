@@ -1,0 +1,94 @@
+{
+  "id": "mahavagga",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "dighanikaya",
+    "name": {
+      "pali": "Dīgha Nikāya",
+      "english": "Long Discourses",
+      "sinhala": "දීඝ නිකාය"
+    }
+  },
+  "vagga": {
+    "id": "mahavagga",
+    "number": 2,
+    "name": {
+      "pali": "Mahāvaggapāḷi",
+      "english": "The Great Collection",
+      "sinhala": "මහා වග්ග පාළිය"
+    }
+  },
+  "title": {
+    "pali": "Mahāvaggapāḷi",
+    "english": "The Great Collection",
+    "sinhala": "මහා වග්ග පාළිය"
+  },
+  "footer": {
+    "pali": "Mahāvaggo niṭṭhito. Tassuddānaṃ – Mahāpadāna nidānaṃ, nibbānañca sudassanaṃ; Janavasabha govindaṃ, samayaṃ sakkapañhakaṃ; Mahāsatipaṭṭhānañca, pāyāsi dasamaṃ bhave [satipaṭṭhānapāyāsi, mahāvaggassa saṅgaho (sī. pī.) satipaṭṭhānapāyāsi, mahāvaggoti vuccatīti (syā.)].",
+    "english": "The Great Collection is completed. Its summary: Mahāpadāna, Mahānidāna, Mahāparinibbāna and Mahāsudassana; Janavasabha, Mahāgovinda, Mahāsamaya, and Sakkapañha; Mahāsatipaṭṭhāna, and Pāyāsi as the tenth. The Great Collection is finished.",
+    "sinhala": "මහා වග්ගය නිමි වේ. එහි සාරාංශය - මහාපදාන, මහානිදාන, මහාපරිනිර්වාණ සහ මහාසුදස්සන; ජනවසභ, මහාගෝවින්ද, මහාසමය සහ සක්කපඤ්හ; මහාසතිපට්ඨාන සහ දහවැන්න ලෙස පායාසි. මහා වග්ගය නිමි වේ."
+  },
+  "description": {
+    "english": "The second collection of the Long Discourses (Dīgha Nikāya), containing three major suttas including the famous Mahāparinibbāna Sutta describing the Buddha's final days.",
+    "sinhala": "දීඝ නිකායේ දෙවන එකතුව වන මෙය බුදුරජාණන් වහන්සේගේ අවසාන දින විස්තර කරන සුප්‍රසිද්ධ මහාපරිනිර්වාණ සූත්‍රය ඇතුළු ප්‍රධාන සූත්‍ර තුනක් අඩංගු වේ."
+  },
+  "totalChapters": 3,
+  "language": {
+    "source": "pali",
+    "translations": ["english", "sinhala"]
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-11-10",
+  "chapters": [
+    {
+      "id": "dn14",
+      "number": 14,
+      "title": {
+        "pali": "Mahāpadānasuttaṃ",
+        "english": "The Great Discourse on the Lineage",
+        "sinhala": "මහාපදාන සූත්‍රය"
+      },
+      "description": {
+        "english": "The Buddha recounts the story of Vipassī Buddha and the six Buddhas who preceded him.",
+        "sinhala": "බුදුරජාණන් වහන්සේ විපස්සී බුදුරජාණන් වහන්සේගේ කතාව සහ ඔහුට පෙර සිටි බුදුවරුන් හය දෙනාගේ කතාව විස්තර කරයි."
+      },
+      "link": "chapters/dn14-Mahāpadānasuttaṃ.json"
+    },
+    {
+      "id": "dn15",
+      "number": 15,
+      "title": {
+        "pali": "Mahānidānasuttaṃ",
+        "english": "The Great Discourse on Causation",
+        "sinhala": "මහානිදාන සූත්‍රය"
+      },
+      "description": {
+        "english": "A detailed exposition of dependent origination (paṭiccasamuppāda) and related profound teachings.",
+        "sinhala": "ප්‍රතීත්‍යසමුත්පාදය සහ ඒ හා සම්බන්ධ ගැඹුරු ඉගැන්වීම් පිළිබඳ විස්තරාත්මක විස්තරයකි."
+      },
+      "link": "chapters/dn15-Mahānidānasuttaṃ.json"
+    },
+    {
+      "id": "dn16",
+      "number": 16,
+      "title": {
+        "pali": "Mahāparinibbānasuttaṃ",
+        "english": "The Great Discourse on the Final Nibbāna",
+        "sinhala": "මහාපරිනිර්වාණ සූත්‍රය"
+      },
+      "description": {
+        "english": "The Buddha's final journey, his last teachings, and his passing into parinibbāna. One of the most important suttas in the Pāli Canon.",
+        "sinhala": "බුදුරජාණන් වහන්සේගේ අවසාන ගමන, අවසාන ඉගැන්වීම් සහ පරිනිර්වාණයට පැමිණීම. පාළි කෘතියේ වඩාත් වැදගත් සූත්‍රවලින් එකකි."
+      },
+      "link": "chapters/dn16-Mahāparinibbānasuttaṃ.json"
+    }
+  ]
+}
+

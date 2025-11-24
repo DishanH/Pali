@@ -1,0 +1,45 @@
+{
+  "name": "Chakkanipātapāḷi",
+  "title": {
+    "pali": "Chakkanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer":{
+    "pali":"Chakkanipātapāḷi niṭṭhitā."
+  },
+  "chapters": [
+    {
+      "id": "an6.1",
+      "title": {
+        "pali": "Āhuneyyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an6.2",
+      "title": {
+        "pali": "Sāraṇīyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an6.3",
+      "title": {
+        "pali": "Dhammikavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an6.4",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "name": "Dukanipātapāḷi",
+  "title": {
+    "pali": "Dukanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Dukanipātapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "an2.1",
+      "title": {
+        "pali": "Kammakaraṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.2",
+      "title": {
+        "pali": "Adhikaraṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.3",
+      "title": {
+        "pali": "Bālavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.4",
+      "title": {
+        "pali": "Samacittavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.5",
+      "title": {
+        "pali": "Parisavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.6",
+      "title": {
+        "pali": "Puggalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.7",
+      "title": {
+        "pali": "Sukhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.8",
+      "title": {
+        "pali": "Sanimittavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.9",
+      "title": {
+        "pali": "Dhammavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.10",
+      "title": {
+        "pali": "Bālavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.11",
+      "title": {
+        "pali": "Āsāduppajahavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.12",
+      "title": {
+        "pali": "Āyācanavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.13",
+      "title": {
+        "pali": "Dānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.14",
+      "title": {
+        "pali": "Santhāravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.15",
+      "title": {
+        "pali": "Samāpattivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.16",
+      "title": {
+        "pali": "Kodhapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.17",
+      "title": {
+        "pali": "Akusalapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.18",
+      "title": {
+        "pali": "Vinayapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an2.19",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

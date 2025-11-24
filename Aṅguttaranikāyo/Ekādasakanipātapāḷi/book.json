@@ -1,0 +1,31 @@
+{
+  "name": "Ekādasakanipātapāḷi",
+  "title": {
+    "pali": "Ekādasakanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Ekādasakanipātapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "an11.1",
+      "title": {
+        "pali": "Anussativaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an11.2",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

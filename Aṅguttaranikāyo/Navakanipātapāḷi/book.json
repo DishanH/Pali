@@ -1,0 +1,95 @@
+{
+  "name": "Navakanipātapāḷi",
+  "title": {
+    "pali": "Navakanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Navakanipātapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "an9.1",
+      "title": {
+        "pali": "Sambodhivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.2",
+      "title": {
+        "pali": "Sīhanādavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.3",
+      "title": {
+        "pali": "Sattāvāsavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.4",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.5",
+      "title": {
+        "pali": "Sāmaññavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.6",
+      "title": {
+        "pali": "Khemavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.7",
+      "title": {
+        "pali": "Satipaṭṭhānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.8",
+      "title": {
+        "pali": "Sammappadhānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.9",
+      "title": {
+        "pali": "Iddhipādavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an9.10",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

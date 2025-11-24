@@ -1,0 +1,155 @@
+{
+  "id": "an2.10",
+  "title": {
+    "pali": "Bālavaggo",
+    "english": "The Chapter on Fools",
+    "sinhala": "බාල වග්ගය"
+  },
+  "sections": [
+    {
+      "number": 99,
+      "pali": "‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca anāgataṃ bhāraṃ vahati, yo ca āgataṃ bhāraṃ na vahati. Ime kho, bhikkhave, dve bālā’’ti.",
+      "english": "These two, monks, are fools. Which two? He who carries a burden that has not yet come, and he who does not carry a burden that has come. These two, monks, are indeed fools.",
+      "sinhala": "මහණෙනි, මේ දෙදෙනා බාලයෝ වෙති. කවර දෙදෙනෙක්ද? යම් කෙනෙක් නොපැමිණි භාරයක් දරන්නේද, යම් කෙනෙක් පැමිණි භාරයක් නොදරන්නේද, මහණෙනි, සැබවින්ම මේ දෙදෙනා බාලයෝ වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 100,
+      "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca anāgataṃ bhāraṃ na vahati, yo ca āgataṃ bhāraṃ vahati. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+      "english": "Monks, there are these two wise persons. Which two? The one who does not carry the burden of what has not yet come, and the one who carries the burden of what has come. These, monks, are the two wise persons.",
+      "sinhala": "මහණෙනි, මේ පණ්ඩිතයෝ දෙදෙනෙකි. ඒ දෙදෙනා කවරහුද? යම් කෙනෙක් අනාගත භාරයක් නොඋසුලන්නේද, යම් කෙනෙක් පැමිණි භාරයක් උසුලන්නේද යන මොවුහුය. මහණෙනි, මේ දෙදෙනාම පණ්ඩිතයෝ වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 101,
+      "pali": "‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca akappiye kappiyasaññī, yo ca kappiye akappiyasaññī. Ime kho, bhikkhave, dve bālā’’ti.",
+      "english": "Monks, these two are fools. Which two? The one who perceives what is inappropriate as appropriate, and the one who perceives what is appropriate as inappropriate. Indeed, monks, these two are fools.",
+      "sinhala": "භික්ෂූන් වහන්ස, මේ බාලයෝ දෙදෙනෙක් වෙති. ඒ දෙදෙනා කවරහුද? යමෙක් අකැප දේ කැප යැයි සලකන්නේද, යමෙක් කැප දේ අකැප යැයි සලකන්නේද, භික්ෂූන් වහන්ස, මේ දෙදෙනාම බාලයෝ වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 102,
+      "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca akappiye akappiyasaññī, yo ca kappiye kappiyasaññī. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+      "english": "“Monks, there are these two wise ones. Which two? One who perceives what is unskillful as unskillful, and one who perceives what is skillful as skillful. These, monks, are the two wise ones.”",
+      "sinhala": "මහණෙනි, මේ පණ්ඩිතයෝ දෙදෙනෙක් වෙති.\nකවර දෙදෙනෙක්ද?\nයම් කෙනෙක් නුසුදුසු දේ නුසුදුසු යැයි සංඥාවෙන් යුක්තව දකින්නේද, තවද යම් කෙනෙක් සුදුසු දේ සුදුසු යැයි සංඥාවෙන් යුක්තව දකින්නේද යන මේ දෙදෙනාය.\nමහණෙනි, සැබැවින්ම මේ පණ්ඩිතයෝ දෙදෙනෙක් වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 103,
+      "pali": "‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca anāpattiyā āpattisaññī, yo ca āpattiyā anāpattisaññī. Ime kho, bhikkhave, dve bālā’’ti.",
+      "english": "Monks, these two are fools. Which two? He who perceives an offense where there is no offense, and he who perceives no offense where there is an offense. Indeed, monks, these are the two fools.",
+      "sinhala": "මහණෙනි, මේ බාල පුද්ගලයෝ දෙදෙනෙකි. ඒ දෙදෙනා කවරහුද? යම් කිසිවෙක් වරදක් නොවන දෙයක් වරදක් යැයි සලකයි ද, යම් කිසිවෙක් වරදක් වන දෙයක් වරදක් නොවේ යැයි සලකයි ද, මහණෙනි, මේ දෙදෙනා සැබවින්ම බාලයෝ වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 104,
+      "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca anāpattiyā anāpattisaññī, yo ca āpattiyā āpattisaññī. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+      "english": "Monastics, there are these two wise ones. Which two? Whoever perceives a non-offense as a non-offense, and whoever perceives an offense as an offense. These, monastics, are the two wise ones.",
+      "sinhala": "මහණෙනි, මේ පණ්ඩිතයෝ දෙදෙනෙකි. කවරහුද ඒ දෙදෙනා? යම් කෙනෙක් අපත්තියක් නොවන දෙය, අපත්තියක් නොවන බවට නිවැරදිව අවබෝධ කරගන්නාහුද, තවද යම් කෙනෙක් අපත්තියක් වන දෙය, අපත්තියක් වන බවට නිවැරදිව අවබෝධ කරගන්නාහුද. මහණෙනි, මේ දෙදෙනා වනාහී පණ්ඩිතයෝ වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 105,
+      "pali": "‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca adhamme dhammasaññī, yo ca dhamme adhammasaññī. Ime kho, bhikkhave, dve bālā’’ti.",
+      "english": "Monks, there are these two foolish individuals. Which two? One who perceives what is not Dhamma as Dhamma, and one who perceives what is Dhamma as not Dhamma. Monks, these are the two foolish individuals.",
+      "sinhala": "මහණෙනි, මේ දෙදෙනෙක් බාලයෝ වෙති.\n\nකවර දෙදෙනෙක්ද?\n\nයම් කෙනෙක් අධර්මය ධර්මය යැයි වටහාගන්නාද, යම් කෙනෙක් ධර්මය අධර්මය යැයි වටහාගන්නාද.\n\nමහණෙනි, මේ දෙදෙනාම බාලයෝ වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 106,
+      "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca dhamme dhammasaññī, yo ca adhamme adhammasaññī. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+      "english": "Monastics, there are these two wise persons. Which two? Whoever perceives the Dhamma as Dhamma, and whoever perceives what is not Dhamma as not Dhamma. These, monastics, are the two wise persons.",
+      "sinhala": "මහණෙනි, මේ පණ්ඩිතයෝ දෙදෙනෙකි. ඒ කවර දෙදෙනෙක්ද? යමෙක් ධර්මය ධර්මය ලෙසින්ම හඳුනා ගන්නේද, යමෙක් අධර්මය අධර්මය ලෙසින්ම හඳුනා ගන්නේද. මහණෙනි, මේ දෙදෙනා වනාහී පණ්ඩිතයෝ වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 107,
+      "pali": "‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca avinaye vinayasaññī, yo ca vinaye avinayasaññī. Ime kho, bhikkhave, dve bālā’’ti.",
+      "english": "O bhikkhus, these two are fools. Which two? He who perceives as discipline that which is not discipline, and he who perceives as not discipline that which is discipline. Indeed, O bhikkhus, these are the two fools.",
+      "sinhala": "භික්ෂූන් වහන්ස, මේ බාල පුද්ගලයන් දෙදෙනෙකි. කවර දෙදෙනෙක් ද? අවිනය විනය යැයි සලකන යමෙක් ද, විනය අවිනය යැයි සලකන යමෙක් ද වෙති. භික්ෂූන් වහන්ස, මේ දෙදෙනා ම බාලයෝ වෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 108,
+      "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca avinaye avinayasaññī, yo ca vinaye vinayasaññī. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+      "english": "Monks, there are these two wise ones. Which two? The one who perceives indiscipline as indiscipline, and the one who perceives discipline as discipline. Indeed, monks, these are the two wise ones.",
+      "sinhala": "මහණෙනි, මේ පණ්‌ඩිතයෝ දෙදෙනෙකි. කවර දෙදෙනෙක් ද? යම් කෙනෙක් අවිනය අවිනය වශයෙන්ම හඳුනා ගනී ද, තවද යම් කෙනෙක් විනය විනය වශයෙන්ම හඳුනා ගනී ද, මහණෙනි, මේ දෙදෙනාම පණ්‌ඩිතයෝ ය.",
+      "paliTitle": ""
+    },
+    {
+      "number": 109,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca na kukkuccāyitabbaṃ kukkuccāyati, yo ca kukkuccāyitabbaṃ na kukkuccāyati. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+      "english": "Monks, the taints increase for two kinds of individuals. Which two? He who feels remorse for what should not be a cause for remorse, and he who does not feel remorse for what should be a cause for remorse. Indeed, monks, for these two kinds of individuals, the taints increase.",
+      "sinhala": "මහණෙනි, දෙදෙනෙකුගේ ආසවයෝ වැඩෙත්. ඒ දෙදෙනා කවරහුද යත්: යම් පුද්ගල‍්‍යෙක් පසුතැවීමට හෝ දොස් පැවරීමට නුසුදුසු දෙයක් ගැන පසුතැවෙයිද, දොස් පවරයිද, යම් පුද්ගල‍්‍යෙක් පසුතැවීමට හෝ දොස් පැවරීමට සුදුසු දෙයක් ගැන පසුතැවෙන්නේද, දොස් පවරන්නේද නැද්ද. මහණෙනි, මේ දෙදෙනාගේ ආසවයෝ වැඩෙත්.",
+      "paliTitle": ""
+    },
+    {
+      "number": 110,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca na kukkuccāyitabbaṃ na kukkuccāyati, yo ca kukkuccāyitabbaṃ kukkuccāyati. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+      "english": "Monks, the taints do not increase for two types of individuals. Which two? He who does not feel remorse about what should not be regretted, and he who does feel remorse about what should be regretted. Indeed, monks, for these two, the taints do not increase.",
+      "sinhala": "මහණෙනි, පුද්ගලයන් දෙදෙනෙකුගේ ආශ්‍ර‍ව වැඩි නොවේ. ඒ දෙදෙනා කවරහුද? කුක්කුච්චායනය නොකළ යුතු දේ ගැන කුක්කුච්චායනය නොකරන තැනැත්තා සහ කුක්කුච්චායනය කළ යුතු දේ ගැන කුක්කුච්චායනය කරන තැනැත්තා යන දෙදෙනාය. මහණෙනි, මෙන්න මේ දෙදෙනාගේ ආශ්‍ර‍ව වැඩි නොවේ.",
+      "paliTitle": ""
+    },
+    {
+      "number": 111,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca akappiye kappiyasaññī, yo ca kappiye akappiyasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+      "english": "Monks, the taints increase for two types of individuals. Which two are these? One who perceives the unfitting as fitting, and one who perceives the fitting as unfitting. Monks, it is for these two that the taints indeed increase.",
+      "sinhala": "භික්ෂූණි, කාරණා දෙකක් නිසා ආශ්‍රවයන් වර්ධනය වේ. ඒ කාරණා දෙක කුමක්ද? යම් කෙනෙක් අකැප දේ කැප යැයි සිතා ගන්නේ ද, යම් කෙනෙක් කැප දේ අකැප යැයි සිතා ගන්නේ ද (ඒ කාරණා දෙකයි). භික්ෂූණි, නියත වශයෙන්ම මේ ද්විත්ව කාරණා නිසාම ආශ්‍රවයන් වර්ධනය වේ.",
+      "paliTitle": ""
+    },
+    {
+      "number": 112,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca akappiye akappiyasaññī, yo ca kappiye kappiyasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+      "english": "Monks, for two types of individuals, the effluents do not increase. For which two? For one who perceives as improper that which is indeed improper, and for one who perceives as proper that which is indeed proper. Monks, for these two types of individuals, the effluents do not increase.",
+      "sinhala": "භික්ෂූන් වහන්ස, පුද්ගලයන් දෙදෙනෙකුට ආශ්‍රව වැඩෙන්නේ නැත. ඒ දෙදෙනා කවුරුන්ද? අකැප දේ අකැප යැයි සංඥා කරන්නා සහ කැප දේ කැප යැයි සංඥා කරන්නා වේ. භික්ෂූන් වහන්ස, සැබවින්ම මේ දෙදෙනාට ආශ්‍රව වැඩෙන්නේ නැත.",
+      "paliTitle": ""
+    },
+    {
+      "number": 113,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca āpattiyā anāpattisaññī, yo ca anāpattiyā āpattisaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+      "english": "Monks, for two individuals, the taints increase. For which two? For him who perceives an offense as a non-offense, and for him who perceives a non-offense as an offense. Indeed, Monks, for these two individuals, the taints increase.",
+      "sinhala": "භික්‍ෂූණි, ආකාර දෙකක් ඇති අයට ආශ්‍රවයන් වර්ධනය වේ.\nඒ ආකාර දෙක කවරේද?\nයම් කෙනෙක් තමන් විසින් කරන ලද වරදක් වරදක් නොවන ලෙස සලකන්නේද, තවද යම් කෙනෙක් වරදක් නොවන දෙයක් වරදක් ලෙස සලකන්නේද (ඒ දෙදෙනාටය).\nභික්‍ෂූණි, සැබවින්ම මේ ආකාර දෙක ඇති අයට ආශ්‍රවයන් වර්ධනය වේ.",
+      "paliTitle": ""
+    },
+    {
+      "number": 114,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca āpattiyā āpattisaññī, yo ca anāpattiyā anāpattisaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+      "english": "“Monks, for two kinds of people, the taints do not grow. Which two? Whoever perceives an offense as an offense, and whoever perceives a non-offense as a non-offense. Indeed, monks, for these two, the taints do not grow.”",
+      "sinhala": "භික්ෂූන් වහන්ස, පුද්ගලයන් දෙදෙනෙකුගේ ආශ්‍රවයන් වර්ධනය වන්නේ නැත. ඒ කවර දෙදෙනෙක්ද? යම් අයෙක් වරදක් වරදක් ලෙසම හඳුනන්නේද, යම් අයෙක් වරදක් නොවන දෙයක් වරදක් නොවන දෙයක් ලෙසම හඳුනන්නේද, භික්ෂූන් වහන්ස, මේ දෙදෙනාගේ ආශ්‍රවයන් වර්ධනය වන්නේ නැත.",
+      "paliTitle": ""
+    },
+    {
+      "number": 115,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca adhamme dhammasaññī, yo ca dhamme adhammasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+      "english": "Monks, for two kinds of people the taints increase. For which two? For whoever perceives what is not Dhamma as Dhamma, and for whoever perceives what is Dhamma as not Dhamma. Indeed, monks, for these two the taints increase.",
+      "sinhala": "භික්ෂූන් වහන්ස, මේ දෙදෙනාට ආශ්‍රව වැඩෙති. ඒ දෙදෙනා කවරහුද? යම් කෙනෙක් අධර්මය ධර්මය යැයි සලකයි ද, යම් කෙනෙක් ධර්මය අධර්මය යැයි සලකයි ද. භික්ෂූන් වහන්ස, ඒ දෙදෙනාටම ආශ්‍රව වැඩෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 116,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca dhamme dhammasaññī, yo ca adhamme adhammasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+      "english": "Monks, for two, the taints do not increase. For which two? The one who perceives Dhamma as Dhamma, and the one who perceives non-Dhamma as non-Dhamma. Monks, for these two, the taints certainly do not increase.",
+      "sinhala": "මහණෙනි, දෙදෙනෙකුට ආසවයන් වැඩෙන්නේ නැත. ඒ දෙදෙනා කවරහුද? යමෙක් ධර්මය ධර්මය ලෙසින්ම දකියිද, යමෙක් අධර්මය අධර්මය ලෙසින්ම දකියිද, මහණෙනි, මේ දෙදෙනාට ආසවයන් වැඩෙන්නේ නැත.",
+      "paliTitle": ""
+    },
+    {
+      "number": 117,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca avinaye vinayasaññī, yo ca vinaye avinayasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+      "english": "Monks, the taints increase for two kinds of people. For which two? For whoever perceives as discipline that which is not discipline, and for whoever perceives as non-discipline that which is discipline. Monks, for these two, the taints indeed increase.",
+      "sinhala": "මහණෙනි, දෙදෙනෙකුගේ ආශ්‍රවයෝ වැඩෙති. ඒ දෙදෙනා කවරහුද? යමෙක් අවිනය විනය ලෙස සලකයි ද, යමෙක් විනය අවිනය ලෙස සලකයි ද, මහණෙනි, මේ දෙදෙනාගේ ආශ්‍රවයෝ වැඩෙති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 118,
+      "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca avinaye avinayasaññī, yo ca vinaye vinayasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti. ",
+      "english": "Monks, the cankers of two kinds of individuals do not increase. Which two? Whoever perceives what is not discipline as not discipline, and whoever perceives what is discipline as discipline. Indeed, Monks, the cankers of these two do not increase.",
+      "sinhala": "මහණෙනි, දෙදෙනෙකුට ආශ්‍රවයන් වර්ධනය නොවෙති. කවර දෙදෙනෙකුට ද? අවිනයෙහි අවිනය වශයෙන් සංඥා කරන කෙනා ද, විනයෙහි විනය වශයෙන් සංඥා කරන කෙනා ද යන දෙදෙනාට ය. මහණෙනි, මේ දෙදෙනාට ආශ්‍රවයන් වර්ධනය නොවෙති.",
+      "paliTitle": ""
+    }
+  ],
+  "footer": {
+    "pali": "Bālavaggo pañcamo.",
+    "english": "",
+    "sinhala": ""
+  }
+}

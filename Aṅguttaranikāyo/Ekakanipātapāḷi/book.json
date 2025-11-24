@@ -1,0 +1,95 @@
+{
+  "name": "Ekakanipātapāḷi",
+  "title": {
+    "pali": "Ekakanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Ekakanipātapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "an1.1",
+      "title": {
+        "pali": "Rūpādivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.2",
+      "title": {
+        "pali": "Nīvaraṇappahānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.3",
+      "title": {
+        "pali": "Akammaniyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.4",
+      "title": {
+        "pali": "Adantavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.5",
+      "title": {
+        "pali": "Paṇihitaacchavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.6",
+      "title": {
+        "pali": "Accharāsaṅghātavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.7",
+      "title": {
+        "pali": "Vīriyārambhādivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.8",
+      "title": {
+        "pali": "Kalyāṇamittādivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.9",
+      "title": {
+        "pali": "Pamādādivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an1.10",
+      "title": {
+        "pali": "Dutiyapamādādivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

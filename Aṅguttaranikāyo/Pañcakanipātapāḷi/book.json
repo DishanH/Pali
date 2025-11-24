@@ -1,0 +1,247 @@
+{
+  "name": "Pañcakanipātapāḷi",
+  "title": {
+    "pali": "Pañcakanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Pañcakanipātapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "an5.1",
+      "title": {
+        "pali": "Sekhabalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.2",
+      "title": {
+        "pali": "Balavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.3",
+      "title": {
+        "pali": "Pañcaṅgikavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.4",
+      "title": {
+        "pali": "Sumanavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.5",
+      "title": {
+        "pali": "Muṇḍarājavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.6",
+      "title": {
+        "pali": "Nīvaraṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.7",
+      "title": {
+        "pali": "Saññāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.8",
+      "title": {
+        "pali": "Yodhājīvavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.9",
+      "title": {
+        "pali": "Theravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.10",
+      "title": {
+        "pali": "Kakudhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.11",
+      "title": {
+        "pali": "Phāsuvihāravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.12",
+      "title": {
+        "pali": "Andhakavindavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.13",
+      "title": {
+        "pali": "Gilānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.14",
+      "title": {
+        "pali": "Rājavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.15",
+      "title": {
+        "pali": "Tikaṇḍakīvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.16",
+      "title": {
+        "pali": "Saddhammavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.17",
+      "title": {
+        "pali": "Āghātavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.18",
+      "title": {
+        "pali": "Upāsakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.19",
+      "title": {
+        "pali": "Araññavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.20",
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.21",
+      "title": {
+        "pali": "Kimilavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.22",
+      "title": {
+        "pali": "Akkosakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.23",
+      "title": {
+        "pali": "Dīghacārikavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.24",
+      "title": {
+        "pali": "Āvāsikavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.25",
+      "title": {
+        "pali": "Duccaritavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.26",
+      "title": {
+        "pali": "Upasampadāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.27",
+      "title": {
+        "pali": "Sammutipeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.28",
+      "title": {
+        "pali": "Sikkhāpadapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an5.29",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

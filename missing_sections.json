@@ -1,0 +1,71 @@
+{
+  "summary": {
+    "total_chapters_analyzed": 10,
+    "chapters_with_missing": 2,
+    "total_missing_sections": 10
+  },
+  "chapters": {
+    "dn20": {
+      "chapter_title": "Mahāsamayasuttaṃ",
+      "file": "dn20-Mahāsamayasuttaṃ.json",
+      "missing_sections": [
+        {
+          "section_number": 335,
+          "found": false,
+          "error": "Section 335 not found in chapter"
+        },
+        {
+          "section_number": 336,
+          "found": false,
+          "error": "Section 336 not found in chapter"
+        },
+        {
+          "section_number": 337,
+          "found": false,
+          "error": "Section 337 not found in chapter"
+        },
+        {
+          "section_number": 338,
+          "found": false,
+          "error": "Section 338 not found in chapter"
+        },
+        {
+          "section_number": 339,
+          "found": false,
+          "error": "Section 339 not found in chapter"
+        },
+        {
+          "section_number": 340,
+          "found": false,
+          "error": "Section 340 not found in chapter"
+        },
+        {
+          "section_number": 341,
+          "found": false,
+          "error": "Section 341 not found in chapter"
+        },
+        {
+          "section_number": 342,
+          "found": false,
+          "error": "Section 342 not found in chapter"
+        }
+      ]
+    },
+    "dn21": {
+      "chapter_title": "Sakkapañhasuttaṃ",
+      "file": "dn21-Sakkapañhasuttaṃ.json",
+      "missing_sections": [
+        {
+          "section_number": 354,
+          "found": false,
+          "error": "Section 354 not found in chapter"
+        },
+        {
+          "section_number": 370,
+          "found": false,
+          "error": "Section 370 not found in chapter"
+        }
+      ]
+    }
+  }
+}

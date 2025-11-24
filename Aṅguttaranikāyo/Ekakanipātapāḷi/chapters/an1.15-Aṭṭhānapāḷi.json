@@ -1,0 +1,174 @@
+{
+  "id": "an1.15",
+  "title": {
+    "pali": "Aṭṭhānapāḷi",
+    "english": "Impossibilities",
+    "sinhala": "අසම්භව පාළිය"
+  },
+  "sections": [
+    {
+      "number": 268,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo kañci [kiñci (ka.)] saṅkhāraṃ niccato upagaccheyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano kañci saṅkhāraṃ niccato upagaccheyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, it is inconceivable, that a person endowed with right view would regard any conditioned phenomenon as permanent. Such a possibility does not exist. However, Monks, it is indeed a possibility that an ordinary person would regard any conditioned phenomenon as permanent. Such a possibility does exist.",
+      "sinhala": "භික්ෂූණි, යම් දෘෂ්ටි සම්පන්න වූ පුද්ගලයෙක් කිසිදු සංස්කාරයක් නිත්‍ය වශයෙන් ගන්නේ නම්, මෙය අටුවානක්මය, අනවකාශයකි. එවැනි අවස්ථාවක් නොපවතී.\n\nඑහෙත් භික්ෂූණි, යම් පෘථග්ජන පුද්ගලයෙක් කිසිදු සංස්කාරයක් නිත්‍ය වශයෙන් ගන්නේ නම්, එවැනි අවස්ථාවක් පවතී. මෙය විය හැකි අවස්ථාවකි.",
+      "paliTitle": "1. Paṭhamavaggo"
+    },
+    {
+      "number": 269,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo kañci saṅkhāraṃ sukhato upagaccheyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano kañci saṅkhāraṃ sukhato upagaccheyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, there is no such occasion, for a person accomplished in view to regard any conditioned phenomenon as happiness. Such an occasion does not exist. But, Monks, this occasion does exist: for an ordinary person to regard any conditioned phenomenon as happiness. Such an occasion indeed exists.",
+      "sinhala": "මහණෙනි, යම් දෘෂ්ටිසම්පන්න පුද්ගලයෙක් කිසියම් සංස්කාරයක් සැප වශයෙන් සලකන්නේ නම්, මේ තත්ත්වය අස්ථානයකි, අවකාශයක් නැත්තකි. එබඳු තත්ත්වයක් නොපවතින්නකි. මහණෙනි, යම් පෘථග්ජනයෙක් කිසියම් සංස්කාරයක් සැප වශයෙන් සලකන්නේ නම්, මේ තත්ත්වය පවතින්නකි. මේ තත්ත්වය පවතින්නකි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 270,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo kañci dhammaṃ attato upagaccheyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano kañci dhammaṃ attato upagaccheyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monastics, it is impossible, there is no occasion, for a person accomplished in view to regard any phenomenon as self. Such a possibility does not exist. But this possibility does exist, monastics, that an ordinary person would regard any phenomenon as self. This possibility exists.",
+      "sinhala": "මහණෙනි, දැක්මෙන් සම්පූර්ණ වූ පුද්ගලයා යම් කිසි ධර්මයක් ආත්මය ලෙස ගන්නවා යනු සිදු විය නොහැක්කකි, අවකාශයක් නැත්තකි. එවැනි අවස්ථාවක් නැත. නමුත් මහණෙනි, පෘථග්ජනයෙක් යම් කිසි ධර්මයක් ආත්මය ලෙස ගන්නවා යනු සිදු විය හැක්කකි. එවැනි අවස්ථාවක් ඇත.",
+      "paliTitle": ""
+    },
+    {
+      "number": 271,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo mātaraṃ jīvitā voropeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho, bhikkhave, vijjati yaṃ puthujjano mātaraṃ jīvitā voropeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, an unfitting occurrence, for a person endowed with right view to murder his mother. Such a situation does not exist. However, monks, it is possible for an ordinary person to murder his mother. Such a situation does exist.",
+      "sinhala": "මහණෙනි, නිවැරදි දැක්මෙන් යුක්ත වූ පුද්ගලයෙකු විසින් මවගේ ජීවිතය නැති කිරීම නොවියහැක්කකි, එවැන්නකට ඉඩක් නැත. එවැනි අවස්ථාවක් නොපවතී. එහෙත් මහණෙනි, පෘථග්ජන පුද්ගලයෙකු විසින් මවගේ ජීවිතය නැති කිරීම නම් විය හැක්කකි. එවැනි අවස්ථාවක් පවතී.",
+      "paliTitle": ""
+    },
+    {
+      "number": 272,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo pitaraṃ jīvitā voropeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano pitaraṃ jīvitā voropeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is an impossibility, an unlikelihood, that a person accomplished in right view would intentionally deprive his father of life. Such a situation does not exist. However, monks, it is indeed a possibility that a common, unenlightened person would intentionally deprive his father of life. Such a situation does exist.",
+      "sinhala": "භික්ෂූන් වහන්ස, නිවැරදි දැක්මෙන් යුක්ත පුද්ගලයෙක් පියෙකුගේ ජීවිතය නැති කිරීම කිසිසේත් සිදුවිය නොහැක්කකි; ඊට අවස්ථාවක් නැත. එවැනි දෙයක් සිදු නොවේ. භික්ෂූන් වහන්ස, නමුත් සාමාන්‍ය පෘථග්ජන පුද්ගලයෙක් පියෙකුගේ ජීවිතය නැති කිරීම විය හැකි දෙයකි. එවැනි දෙයක් සිදු විය හැක.",
+      "paliTitle": ""
+    },
+    {
+      "number": 273,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo arahantaṃ jīvitā voropeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano arahantaṃ jīvitā voropeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, there is no occasion, for a person accomplished in right view to take the life of an Arahant. Such a situation does not exist. Yet, Monks, this possibility does exist for an ordinary person to take the life of an Arahant. This possibility is found.",
+      "sinhala": "භික්ෂූණි, දෘෂ්ටි සම්පන්න වූ පුද්ගලයෙක් අරහතුන් වහන්සේ නමක් ජීවිතක්ෂයට පත් කරන්නේ යැයි යනු අස්ථානයකි, අවකාශයක් නැත. එබඳු අවස්ථාවක් නොමැත. එහෙත් භික්ෂූණි, පෘථග්ජන පුද්ගලයෙක් අරහතුන් වහන්සේ නමක් ජීවිතක්ෂයට පත් කරන්නේ යැයි යන අවස්ථාව ඇත. එබඳු අවස්ථාවක් ඇත.",
+      "paliTitle": ""
+    },
+    {
+      "number": 274,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo tathāgatassa paduṭṭhacitto lohitaṃ uppādeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano tathāgatassa paduṭṭhacitto lohitaṃ uppādeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, there is no occasion for a person perfected in right view, with a malevolent mind, to shed the Tathāgata's blood. That is not a situation that exists.\n\nHowever, monks, it is indeed a situation that exists for an ordinary worldling, with a malevolent mind, to shed the Tathāgata's blood. This is a situation that exists.",
+      "sinhala": "භික්‍ෂූන් වහන්ස, දිට්ඨිසම්පන්න පුද්ගලයකු තථාගතයන් වහන්සේ කෙරෙහි ද්වේෂ සහගත සිතින් ලේ ඉපදවීමක් කිරීම අස්ථානයකි, අවකාශයක් නැත්තකි. එය සිදුවිය හැකි කරුණක් නොවේ. එහෙත් භික්‍ෂූන් වහන්ස, පෘථග්ජන පුද්ගලයකු තථාගතයන් වහන්සේ කෙරෙහි ද්වේෂ සහගත සිතින් ලේ ඉපදවීමක් කිරීම ස්ථානයකි, සිදුවිය හැකි කරුණකි. එය සිදුවිය හැකි කරුණකි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 275,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo saṅghaṃ bhindeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano saṅghaṃ bhindeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, it is out of the question, that a person endowed with right view would cause a schism in the Sangha. Such a possibility does not exist. However, monks, it is indeed a possibility that an ordinary person, a worldling, would cause a schism in the Sangha. This possibility does exist.",
+      "sinhala": "භික්ෂූන් වහන්ස, සම්මා දිට්ඨියෙන් යුක්ත පුද්ගලයා සංඝයා භේද කිරීම යනු අස්ථානයකි, එවැනි අවස්ථාවක් නැත. එය සිදුවිය නොහැක්කකි. එහෙත් භික්ෂූන් වහන්ස, පෘථග්ජනයා සංඝයා භේද කිරීම යනු සිදුවිය හැකි කරුණකි. මෙවැන්නක් සිදුවිය හැකිය.",
+      "paliTitle": ""
+    },
+    {
+      "number": 276,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo aññaṃ satthāraṃ uddiseyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano aññaṃ satthāraṃ uddiseyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "It is impossible, monastics, there is no occasion for it, that a person accomplished in right view would declare another teacher. Such a situation does not exist. However, it is indeed possible, monastics, that an ordinary person would declare another teacher. Such a situation does exist.",
+      "sinhala": "භික්ෂූනි, දෘෂ්ටි සම්පන්න වූ පුද්ගලයකු වෙනත් ශාස්තෘවරයකු සරණ යෑමට හෝ උපදේශකයා ලෙස දැක්වීමට අවකාශයක් හෝ හැකියාවක් කිසිසේත් නොපවතී. භික්ෂූනි, නමුදු පෘථග්ජන පුද්ගලයකු වෙනත් ශාස්තෘවරයකු සරණ යෑමට හෝ උපදේශකයා ලෙස දැක්වීමට අවස්ථාවක් පවතියි. එබඳු තත්ත්වයක් පවතියි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 277,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ ekissā lokadhātuyā dve arahanto sammāsambuddhā apubbaṃ acarimaṃ uppajjeyyuṃ. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ ekissā lokadhātuyā ekova arahaṃ sammāsambuddho uppajjeyya. Ṭhānametaṃ vijjatī’’ti. Vaggo paṭhamo.",
+      "english": "Monks, this is an impossibility, there is no such occasion, that in one world-system two Arahants, Fully Self-Enlightened Ones, would arise with neither preceding nor following the other. Such a possibility does not exist. However, monks, this is possible, such a basis exists, that only one Arahant, a Fully Self-Enlightened One, would arise in one world-system. This is possible.\n\nThe First Section.",
+      "sinhala": "භික්ෂූනි, එකම ලෝකධාතුවක රහත් වූ සම්මා සම්බුදුවරුන් දෙදෙනෙකුට එකවර, නොපෙර නොව පසු ව පහළ වීම කිසිසේත් විය නොහැකි, නුසුදුසු අවස්ථාවකි. එයට කිසිදු ඉඩක් හෝ අවකාශයක් නොමැත. එබඳු අවස්ථාවක් නොපවතී.\n\nභික්ෂූනි, යම් හෙයකින්, එකම ලෝකධාතුවක එක් රහත් සම්මා සම්බුදුවරයෙක්ම පහළ වීම නම් මෙවන් අවස්ථාවක් පවතී. මෙබඳු අවස්ථාවක් නම් සිදු විය හැකියි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 278,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ ekissā lokadhātuyā dve rājāno cakkavattī apubbaṃ acarimaṃ uppajjeyyuṃ. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ ekissā lokadhātuyā eko rājā cakkavattī uppajjeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "It is impossible, monks, there is no occasion for two Universal Monarchs to arise simultaneously in a single world-system. That is not a possible state of affairs. But, monks, this is indeed possible: for one Universal Monarch to arise in a single world-system. This is a possible state of affairs.",
+      "sinhala": "මහණෙනි, එකම ලෝක ධාතුවක චක්‍රවර්තී රජවරුන් දෙදෙනෙකු එකවර, පෙර නොපසු ලෙස පහළ වීම අට්ඨානමය දෙයකි, අනවකාසයකි. එවැනි දෙයක් සිදු විය නොහැක්කකි. මහණෙනි, එකම ලෝක ධාතුවක එක් චක්‍රවර්තී රජෙකු පහළ වීම ඨානමය දෙයකි, සිදු විය හැකි දෙයකි.",
+      "paliTitle": "2. Dutiyavaggo"
+    },
+    {
+      "number": 279,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ itthī arahaṃ assa sammāsambuddho. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho, etaṃ, bhikkhave, vijjati yaṃ puriso arahaṃ assa sammāsambuddho. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, there is no such occasion, for a woman to be an Arahant, a Perfectly Self-Awakened Buddha. Such an occasion does not exist. However, Monks, it is indeed possible for a man to be an Arahant, a Perfectly Self-Awakened Buddha. Such an occasion does exist.",
+      "sinhala": "මහණෙනි, යම් ස්ත්‍රි​යක් රහත් වූ සම්මාසම්බු​ද්ධ කෙනෙකුන් වේ නම්, එය නොපවතින කාරණයකි, ඒ සඳහා ඉඩක් නොමැත. එබඳු අවස්​ථාවක් නොපවතී. එහෙත් මහණෙනි, යම් පුරු​ෂයෙක් රහත් වූ සම්මාසම්බු​ද්ධ කෙනෙකුන් වේ නම්, ඒ අවස්​ථාව පවතින්නකි. මේ අවස්​ථාව පවතින්නකි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 280,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ itthī rājā assa cakkavattī. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puriso rājā assa cakkavattī. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is an impossibility, there is no occasion, for a woman to be a universal monarch. Such a situation does not exist. However, monks, it is indeed possible for a man to be a universal monarch. Such a situation does exist.",
+      "sinhala": "මහණෙනි, කාන්තාවක් චක්‍ර‌වර්තී රාජයෙකු වීම අසම්භව දෙයකි, ඊට කිසිදු අවස්ථාවක් නොමැත. එය සිදු විය නොහැක්කකි. නමුත් මහණෙනි, පුරුෂයෙකු චක්‍ර‌වර්තී රාජයෙකු වීම විය හැක්කකි, ඊට අවස්ථාවක් ඇත. මෙය සිදු විය හැක්කකි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 281,
+      "numberRange": "281-283",
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ itthī sakkattaṃ kāreyya…pe… mārattaṃ kāreyya…pe… brahmattaṃ kāreyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puriso sakkattaṃ kāreyya…pe… mārattaṃ kāreyya…pe… brahmattaṃ kāreyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, there is no occasion, for a woman to achieve the state of Sakka, or the state of Māra, or the state of Brahmā. Such a possibility does not exist.\n\nHowever, monks, it is indeed a possibility for a man to achieve the state of Sakka, or the state of Māra, or the state of Brahmā. Such a possibility does exist.",
+      "sinhala": "මහණෙනි, ස්ත්‍රියක් සක් දෙව් බවට, ...පෙ... මාර බවට, ...පෙ... බ්‍රහ්ම බවට පත්වීම යනු කිසිසේත් සිදුවිය නොහැක්කකි, එයට අවකාශයක් නැත. එවැනි කරුණක් නොපවතී. නමුත් මහණෙනි, පුරුෂයෙකු සක් දෙව් බවට, ...පෙ... මාර බවට, ...පෙ... බ්‍රහ්ම බවට පත්වීම යනු සිදුවිය හැකි කරුණකි. එවැනි කරුණක් පවතී.",
+      "paliTitle": ""
+    },
+    {
+      "number": 284,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ kāyaduccaritassa iṭṭho kanto manāpo vipāko nibbatteyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ kāyaduccaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is an impossibility, there is no chance whatsoever, that a desirable, pleasing, or agreeable karmic result would arise from bodily misconduct. Such a situation does not exist. However, monks, this situation certainly does exist: that an undesirable, unpleasing, or disagreeable karmic result would arise from bodily misconduct. This situation indeed exists.",
+      "sinhala": "මහණෙනි, කය දුසිරිතෙහි යෙදීමෙන් යම් සිත්කළු, ප්‍රි‍ය, මනාප විපාකයක් හටගන්නේ නම්, ඒකාන්තයෙන් එය විය නොහැක්කකි; එබඳු අවස්ථාවක් ඇත්තක් නොවේ. එය සිදුවිය හැකි කාරණයක් නොවේ.\n\nනමුත් මහණෙනි, කය දුසිරිතෙහි යෙදීමෙන් යම් අහිතකර, අප්‍රි‍ය, අමනාප විපාකයක් හටගන්නේ නම්, ඒකාන්තයෙන් එය සිදුවිය හැක්කකි. එය සිදුවිය හැකි කාරණයකි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 285,
+      "numberRange": "285-286",
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ vacīduccaritassa…pe… yaṃ manoduccaritassa iṭṭho kanto manāpo vipāko nibbatteyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ manoduccaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya. Ṭhānametaṃ vijjatī’’ti. Vaggo dutiyo.",
+      "english": "Monks, it is impossible, there is no occasion, for a desirable, agreeable, and pleasing result to arise from bodily misconduct, verbal misconduct, or mental misconduct. Such a situation does not exist.\n\nBut it is indeed possible, monks, this does exist, that an undesirable, disagreeable, and unpleasing result might arise from mental misconduct. This is possible.",
+      "sinhala": "මහණෙනි, කයින්, වචනයෙන් හෝ සිතින් දුශ්චරිතයෙහි නිරත වූවකුට ඉෂ්ට වූ, කාන්ත වූ, මනාප වූ විපාකයක් හටගැනීම අථානයකි, මෙයට අවකාශයක් නැත. මෙය සිදුවිය නොහැක්කකි.\n\nඑහෙත් මහණෙනි, මනෝ දුශ්චරිතයෙහි නිරත වූවකුට අනිෂ්ට වූ, අකාන්ත වූ, අමනාප වූ විපාකයක් හටගැනීම සිදුවිය හැක්කකි. මෙය සිදුවිය හැක්කකි.",
+      "paliTitle": ""
+    },
+    {
+      "number": 287,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ kāyasucaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ kāyasucaritassa iṭṭho kanto manāpo vipāko nibbatteyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, there is no occasion for it, that an undesirable, unagreeable, and displeasing result should arise from wholesome bodily conduct. Such a situation does not exist. However, Monks, this is indeed possible, such a situation does exist, that a desirable, agreeable, and pleasing result should arise from wholesome bodily conduct. This is indeed possible.",
+      "sinhala": "මහණෙනි, කයින් කළ සුචරිතයකට අනිෂ්ට වූද, අප්‍රි‍ය වූද, නොමනාප වූද විපාකයක් හටගැනීම කිසිසේත් සිදුවිය නොහැකි, අවකාශයක් නොමැති දෙයකි. එවැනි කරුණක් නොපවතී. එහෙත් මහණෙනි, කයින් කළ සුචරිතයකට ඉෂ්ට වූද, ප්‍රි‍ය වූද, මනාප වූද විපාකයක් හටගැනීම සිදුවිය හැකි කරුණකි. එවැනි කරුණක් පවතී.",
+      "paliTitle": "3. Tatiyavaggo"
+    },
+    {
+      "number": 288,
+      "numberRange": "288-289",
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ vacīsucaritassa…pe… manosucaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ manosucaritassa iṭṭho kanto manāpo vipāko nibbatteyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "It is impossible, bhikkhus, there is no occasion, for wholesome verbal conduct, and similarly for wholesome bodily conduct, and for wholesome mental conduct, to produce an undesirable, disagreeable, displeasing result. Such a thing is not possible. However, bhikkhus, it is possible, such a thing exists, for wholesome mental conduct to produce a desirable, agreeable, pleasing result. Such a thing is possible.",
+      "sinhala": "මහණෙනි, කාය සුචරිතයෙන්, වචී සුචරිතයෙන් හෝ මනෝ සුචරිතයෙන් අනිෂ්ට වූ, අකාන්ත වූ, අමනාප වූ විපාකයක් හටගැනීම සිදුවිය නොහැක්කකි, එවැන්නකට අවස්ථාවක් ද නැත. එබඳු කරුණක් ඇත්තේම නැත.\n\nමහණෙනි, නමුත් මනෝ සුචරිතයෙන් ඉෂ්ට වූ, කාන්ත වූ, මනාප වූ විපාකයක් හටගැනීම සිදුවිය හැක්කකි. එබඳු කරුණක් ඇත්තේම ය.",
+      "paliTitle": ""
+    },
+    {
+      "number": 290,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ kāyaduccaritasamaṅgī tannidānā tappaccayā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ kāyaduccaritasamaṅgī tannidānā tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, it is an impossibility, that one endowed with bodily misconduct, due to that cause, due to that condition, with the breaking up of the body, after death, should be reborn in a good destination, a heavenly world. Such a possibility does not exist. But, monks, this is possible: that one endowed with bodily misconduct, due to that cause, due to that condition, with the breaking up of the body, after death, should be reborn in a state of deprivation, a bad destination, a lower realm, hell. Such a possibility exists.",
+      "sinhala": "මහණෙනි, කයින් කරන දුසිරිතෙන් යුක්ත වූවෙක්, ඒ හේතුවෙන්, ඒ කරුණෙන්, කය බිඳී මරණින් මතු සුගතියකට, ස්වර්ග ලෝකයකට උපදිනවා යනු අසම්භාව්‍ය වූත්, අවස්ථාවක් නොමැති වූත් දෙයකි. එවැනි දෙයක් කිසිසේත් විය නොහැක. එහෙත් මහණෙනි, කයින් කරන දුසිරිතෙන් යුක්ත වූවෙක්, ඒ හේතුවෙන්, ඒ කරුණෙන්, කය බිඳී මරණින් මතු අපාය, දුර්ගති, විනිපාත, නිරය යන තැනකට උපදිනවා යනු විය හැකි දෙයකි. එවැනි දෙයක් විය හැක.",
+      "paliTitle": ""
+    },
+    {
+      "number": 291,
+      "numberRange": "291-292",
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ vacīduccaritasamaṅgī…pe… yaṃ manoduccaritasamaṅgī tannidānā tappaccayā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ manoduccaritasamaṅgī tannidānā tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "It is impossible, monks, there is no possibility, that one who is endowed with misconduct in speech—and so on—and who is endowed with misconduct in mind, because of that, dependent on that, with the breaking up of the body, after death, would be reborn in a good destination, a heavenly world. Such a situation does not exist. However, monks, this situation does exist: that one who is endowed with misconduct in mind, because of that, dependent on that, with the breaking up of the body, after death, would be reborn in a state of deprivation, an unhappy destination, a ruinous state, hell. Such a situation does exist.",
+      "sinhala": "භික්ෂූණි, යම් කෙනෙක් කාය, වචී, මනෝ යන දුශ්චරිතයන්ගෙන් යුක්තව, ඒ හේතු කොට ගෙන, ඒ ප්‍රත්‍යය කොට ගෙන, කය බිඳී මරණින් මතු සුගතියක, සවර්ග ලෝකයක උපදින්නේ නම්, මෙය විය නොහැක්කකි, එවැනි අවස්ථාවක් නොමැත. එවැනි දෙයක් සිදුවිය නොහැක. එහෙත් භික්ෂූණි, යම් කෙනෙක් මනෝ දුශ්චරිතයෙන් යුක්තව, ඒ හේතු කොට ගෙන, ඒ ප්‍රත්‍යය කොට ගෙන, කය බිඳී මරණින් මතු අපායක, දුගතියක, විනිපාතයක, නිරයක උපදින්නේ නම්, මෙය විය හැක්කකි. එවැනි දෙයක් සිදුවිය හැක.",
+      "paliTitle": ""
+    },
+    {
+      "number": 293,
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ kāyasucaritasamaṅgī tannidānā tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ kāyasucaritasamaṅgī tannidānā tappaccayā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya. Ṭhānametaṃ vijjatī’’ti.",
+      "english": "Monks, it is impossible, it is out of the question, that one endowed with good bodily conduct, due to that and conditioned by that, would upon the breaking up of the body, after death, be reborn in a state of deprivation, a bad destination, a state of downfall, or hell. Such a state of affairs is not found. However, monks, it is indeed possible that one endowed with good bodily conduct, due to that and conditioned by that, would upon the breaking up of the body, after death, be reborn in a good destination, a heavenly realm. This is indeed possible.",
+      "sinhala": "භික්ෂූණි, කායසුචරිතයෙන් යුක්ත වූවෙක්, ඒ හේතුවෙන් සහ ඒ ප්‍රත්‍යයෙන්, ශරීරය බිඳී මරණින් මතු අපායට, දුගතියට, විනිපාතයට, නිරයට උපදී යන මේ කරුණ අසම්භාව්‍යය, අවකාශ රහිතය. එබඳු අවස්ථාවක් නොපවතී.\n\nඑහෙත් භික්ෂූණි, කායසුචරිතයෙන් යුක්ත වූවෙක්, ඒ හේතුවෙන් සහ ඒ ප්‍රත්‍යයෙන්, ශරීරය බිඳී මරණින් මතු සුගතියට, ස්වර්ග ලෝකයට උපදී යන මේ කරුණ පවතී. මේ අවස්ථාව පවතී.",
+      "paliTitle": ""
+    },
+    {
+      "number": 294,
+      "numberRange": "294-295",
+      "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ vacīsucaritasamaṅgī…pe… yaṃ manosucaritasamaṅgī tannidānā tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ manosucaritasamaṅgī tannidānā tappaccayā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya. Ṭhānametaṃ vijjatī’’ti. ",
+      "english": "Monks, it is impossible, it cannot happen, that one endowed with wholesome bodily conduct, wholesome verbal conduct, and wholesome mental conduct, by reason and condition of that, with the breaking up of the body, after death, would reappear in a state of deprivation, a bad destination, a lower realm, hell. This is not possible. But, monks, this is possible, that one endowed with wholesome bodily conduct, wholesome verbal conduct, and wholesome mental conduct, by reason and condition of that, with the breaking up of the body, after death, would reappear in a good destination, a heavenly world. This is possible.",
+      "sinhala": "මහණෙනි, මෙය අස්ථානයක්, අවස්ථාවක් නොවේ. එනම්, යමෙක් කයින් යහපත් කල් ක්‍රියාවෙන්, වචනයෙන් යහපත් කල් ක්‍රියාවෙන් සහ සිතින් යහපත් කල් ක්‍රියාවෙන් යුක්තව, එම හේතුවෙන් සහ එම ප්‍රත්‍යයෙන්, කය බිඳී යාමෙන්, මරණින් මතු, අපාය, දුර්ගති, විනිපාත, නිරය යන තලයන්ට උපදින්නේය යන්නයි. මෙවැනි දෙයක් සිදුවිය නොහැක.\n\nඑහෙත් මහණෙනි, මෙය ස්ථානයක්, සිදුවිය හැකි දෙයකි. එනම්, යමෙක් කයින් යහපත් කල් ක්‍රියාවෙන්, වචනයෙන් යහපත් කල් ක්‍රියාවෙන් සහ සිතින් යහපත් කල් ක්‍රියාවෙන් යුක්තව, එම හේතුවෙන් සහ එම ප්‍රත්‍යයෙන්, කය බිඳී යාමෙන්, මරණින් මතු, සුගති, ස්වර්ග ලෝකයන්ට උපදින්නේය යන්නයි. මෙවැනි දෙයක් සිදුවිය හැක.",
+      "paliTitle": ""
+    }
+  ],
+  "footer": {
+    "pali": "Vaggo tatiyo. Aṭṭhānapāḷi pannarasamo.",
+    "english": "",
+    "sinhala": ""
+  }
+}

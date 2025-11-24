@@ -1,0 +1,191 @@
+{
+  "name": "Dasakanipātapāḷi",
+  "title": {
+    "pali": "Dasakanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Dasakanipātapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "an10.1",
+      "title": {
+        "pali": "Ānisaṃsavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.2",
+      "title": {
+        "pali": "Nāthavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.3",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.4",
+      "title": {
+        "pali": "Upālivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.5",
+      "title": {
+        "pali": "Akkosavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.6",
+      "title": {
+        "pali": "Sacittavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.7",
+      "title": {
+        "pali": "Yamakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.8",
+      "title": {
+        "pali": "Ākaṅkhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.9",
+      "title": {
+        "pali": "Theravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.10",
+      "title": {
+        "pali": "Upālivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.11",
+      "title": {
+        "pali": "Samaṇasaññāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.12",
+      "title": {
+        "pali": "Paccorohaṇivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.13",
+      "title": {
+        "pali": "Parisuddhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.14",
+      "title": {
+        "pali": "Sādhuvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.15",
+      "title": {
+        "pali": "Ariyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.16",
+      "title": {
+        "pali": "Puggalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.17",
+      "title": {
+        "pali": "Sādhuvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.18",
+      "title": {
+        "pali": "Ariyamaggavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.19",
+      "title": {
+        "pali": "Aparapuggalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.20",
+      "title": {
+        "pali": "Karajakāyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.21",
+      "title": {
+        "pali": "Sāmaññavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an10.22",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

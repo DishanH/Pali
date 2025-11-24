@@ -1,0 +1,95 @@
+{
+  "name": "Sattakanipātapāḷi",
+  "title": {
+    "pali": "Sattakanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Sattakanipātapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "an7.1",
+      "title": {
+        "pali": "Dhanavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.2",
+      "title": {
+        "pali": "Anusayavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.3",
+      "title": {
+        "pali": "Devatāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.4",
+      "title": {
+        "pali": "Mahāyaññavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.5",
+      "title": {
+        "pali": "Abyākatavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.6",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.7",
+      "title": {
+        "pali": "Vinayavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.8",
+      "title": {
+        "pali": "Samaṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.9",
+      "title": {
+        "pali": "Āhuneyyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an7.10",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

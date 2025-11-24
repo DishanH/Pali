@@ -1,0 +1,37 @@
+{
+  "id": "an1.11",
+  "title": {
+    "pali": "Adhammavaggo",
+    "english": "The Chapter on Unrighteousness",
+    "sinhala": "අධර්ම වර්ගය"
+  },
+  "sections": [
+    {
+      "number": 140,
+      "pali": "‘‘Ye te, bhikkhave, bhikkhū adhammaṃ adhammoti dīpenti te, bhikkhave, bhikkhū bahujanahitāya paṭipannā bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. Bahuñca te, bhikkhave, bhikkhū puññaṃ pasavanti, te cimaṃ saddhammaṃ ṭhapentī’’ti [thapentīti (ka.)]. Paṭhamaṃ.",
+      "english": "Monks, those monks who declare what is not Dhamma as not Dhamma, such monks are practicing for the welfare of the many, for the happiness of the many, for the benefit, welfare, and happiness of many people, both gods and humans. Furthermore, those monks generate much merit; they establish this true Dhamma.",
+      "sinhala": "මහණෙනි, යම් ඒ භික්ෂූහු අධර්මය අධර්මය යැයි ප්‍රකාශ කරත්ද, මහණෙනි, ඒ භික්ෂූහු බොහෝ දෙනාගේ හිත පිණිස, බොහෝ දෙනාගේ සුව පිණිස, බොහෝ දෙවිමිනිසුන්ගේ අර්ථය පිණිස, හිත පිණිස, සුවය පිණිස පිළිපන්නාහු වෙත්. මහණෙනි, ඒ භික්ෂූහු බොහෝ පිනක් උපදවති. ඔවුහු මේ සද්ධර්මය ස්ථාපිත කරති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 141,
+      "pali": "‘‘Ye te, bhikkhave, bhikkhū dhammaṃ dhammoti dīpenti te, bhikkhave, bhikkhū bahujanahitāya paṭipannā bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. Bahuñca te, bhikkhave, bhikkhū puññaṃ pasavanti, te cimaṃ saddhammaṃ ṭhapentī’’ti. Dutiyaṃ.",
+      "english": "Monastics, those bhikkhus who elucidate the Dhamma as Dhamma—those bhikkhus, O monastics, are practicing for the welfare of many people, for the happiness of many people, for the benefit, welfare, and happiness of many people, both divine and human. And those bhikkhus, O monastics, generate much merit, and they establish this true Dhamma.",
+      "sinhala": "මහණෙනි, යම් ඒ භික්ෂූන් වහන්සේලා ධර්මය ධර්මය ලෙසම දේශනා කරත් ද, මහණෙනි, ඒ භික්ෂූන් වහන්සේලා බොහෝ ජනයාගේ හිත පිණිස ද, බොහෝ ජනයාගේ සැපය පිණිස ද, දෙවි මිනිසුන් සහිත බොහෝ ජනයාගේ අර්ථය පිණිස ද, හිත පිණිස ද, සැපය පිණිස ද පිළිපන්නාහු වෙති. මහණෙනි, ඒ භික්ෂූන් වහන්සේලා බොහෝ පින් ද රැස් කරති. ඔවුහු මේ සද්ධර්මය පිහිටුවති.",
+      "paliTitle": ""
+    },
+    {
+      "number": 142,
+      "numberRange": "142-149",
+      "pali": "‘‘Ye te, bhikkhave, bhikkhū avinayaṃ avinayoti dīpenti…pe… vinayaṃ vinayoti dīpenti…pe… abhāsitaṃ alapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpenti…pe… bhāsitaṃ lapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpenti…pe… anāciṇṇaṃ tathāgatena anāciṇṇaṃ tathāgatenāti dīpenti…pe… āciṇṇaṃ tathāgatena āciṇṇaṃ tathāgatenāti dīpenti…pe… apaññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti…pe… paññattaṃ tathāgatena paññattaṃ tathāgatenāti dīpenti te, bhikkhave, bhikkhū bahujanahitāya paṭipannā bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. Bahuñca te, bhikkhave, bhikkhū puññaṃ pasavanti, te cimaṃ saddhammaṃ ṭhapentī’’ti. Dasamaṃ. ",
+      "english": "Bhikkhus, those monks who declare what is not discipline as not discipline, who declare what is discipline as discipline, who declare what was not spoken or uttered by the Tathāgata as not spoken or uttered by the Tathāgata, who declare what was spoken or uttered by the Tathāgata as spoken or uttered by the Tathāgata, who declare what was not practiced by the Tathāgata as not practiced by the Tathāgata, who declare what was practiced by the Tathāgata as practiced by the Tathāgata, who declare what was not laid down by the Tathāgata as not laid down by the Tathāgata, and who declare what was laid down by the Tathāgata as laid down by the Tathāgata—those monks, bhikkhus, are practicing for the welfare of the many, for the happiness of the many, for the benefit, welfare, and happiness of many people, of devas and humans. And those monks, bhikkhus, generate much merit; they establish this True Dhamma.",
+      "sinhala": "යම් ඒ භික්ෂූහු, භික්ෂූනි, විනය නොවන දේ විනය නොවන බව ප්‍රකාශ කරත් ද, විනය වන දේ විනය බව ප්‍රකාශ කරත් ද, තථාගතයන් වහන්සේ විසින් නොදෙසන ලද, නොකියන ලද දේ තථාගතයන් වහන්සේ විසින් නොදෙසන ලද, නොකියන ලද දේ බව ප්‍රකාශ කරත් ද, තථාගතයන් වහන්සේ විසින් දෙසන ලද, කියන ලද දේ තථාගතයන් වහන්සේ විසින් දෙසන ලද, කියන ලද දේ බව ප්‍රකාශ කරත් ද, තථාගතයන් වහන්සේ විසින් නොපැවැත් වූ දේ තථාගතයන් වහන්සේ විසින් නොපැවැත් වූ දේ බව ප්‍රකාශ කරත් ද, තථාගතයන් වහන්සේ විසින් පැවැත් වූ දේ තථාගතයන් වහන්සේ විසින් පැවැත් වූ දේ බව ප්‍රකාශ කරත් ද, තථාගතයන් වහන්සේ විසින් පනවනු නොලැබූ දේ තථාගතයන් වහන්සේ විසින් පනවනු නොලැබූ දේ බව ප්‍රකාශ කරත් ද, තථාගතයන් වහන්සේ විසින් පනවනු ලැබූ දේ තථාගතයන් වහන්සේ විසින් පනවනු ලැබූ දේ බව ප්‍රකාශ කරත් ද, ඒ භික්ෂූහු, භික්ෂූනි, බොහෝ ජනයාගේ යහපත පිණිස ද, බොහෝ ජනයාගේ සැපය පිණිස ද පිළිපන්නෝ වෙති. දෙවි මිනිසුන් ඇතුළු බොහෝ ජනයාගේ අර්ථය, යහපත සහ සැපය පිණිස ඔවුහු කටයුතු කරති. තව ද, භික්ෂූනි, ඒ භික්ෂූහු බොහෝ පින් රැස් කරත්. ඔවුහු මේ සද්ධර්මය පිහිටුවත්.",
+      "paliTitle": ""
+    }
+  ],
+  "footer": {
+    "pali": "Adhammavaggo ekādasamo.",
+    "english": "",
+    "sinhala": ""
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "name": "Catukkanipātapāḷi",
+  "title": {
+    "pali": "Catukkanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer":{
+    "pali":"Catukkanipātapāḷi niṭṭhitā."
+  },
+  "chapters": [
+    {
+      "id": "an4.1",
+      "title": {
+        "pali": "Bhaṇḍagāmavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.2",
+      "title": {
+        "pali": "Caravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.3",
+      "title": {
+        "pali": "Uruvelavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.4",
+      "title": {
+        "pali": "Cakkavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.5",
+      "title": {
+        "pali": "Rohitassavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.6",
+      "title": {
+        "pali": "Puññābhisandavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.7",
+      "title": {
+        "pali": "Pattakammavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.8",
+      "title": {
+        "pali": "Apaṇṇakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.9",
+      "title": {
+        "pali": "Macalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.10",
+      "title": {
+        "pali": "Asuravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.11",
+      "title": {
+        "pali": "Valāhakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.12",
+      "title": {
+        "pali": "Kesivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.13",
+      "title": {
+        "pali": "Bhayavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.14",
+      "title": {
+        "pali": "Puggalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.15",
+      "title": {
+        "pali": "Ābhāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.16",
+      "title": {
+        "pali": "Indriyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.17",
+      "title": {
+        "pali": "Paṭipadāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.18",
+      "title": {
+        "pali": "Sañcetaniyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.19",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.20",
+      "title": {
+        "pali": "Sappurisavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.21",
+      "title": {
+        "pali": "Duccaritavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.22",
+      "title": {
+        "pali": "Kammavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.23",
+      "title": {
+        "pali": "Āpattibhayavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.24",
+      "title": {
+        "pali": "Abhiññāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.25",
+      "title": {
+        "pali": "Kammapathavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an4.26",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

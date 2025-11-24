@@ -1,0 +1,101 @@
+{
+  "name": "Aṭṭhakanipātapāḷi",
+  "title": {
+    "pali": "Aṭṭhakanipātapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Aṭṭhakanipātapāḷi niṭṭhitā."
+  },
+  "chapters": [
+    {
+      "id": "an8.1",
+      "title": {
+        "pali": "Mettāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.2",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.3",
+      "title": {
+        "pali": "Gahapativaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.4",
+      "title": {
+        "pali": "Dānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.5",
+      "title": {
+        "pali": "Uposathavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.6",
+      "title": {
+        "pali": "Gotamīvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.7",
+      "title": {
+        "pali": "Bhūmicālavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.8",
+      "title": {
+        "pali": "Yamakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.9",
+      "title": {
+        "pali": "Sativaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.10",
+      "title": {
+        "pali": "Sāmaññavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "an8.11",
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}
