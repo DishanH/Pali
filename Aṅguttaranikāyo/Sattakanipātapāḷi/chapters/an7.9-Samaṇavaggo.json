@@ -2,78 +2,78 @@
   "id": "an7.9",
   "title": {
     "pali": "Samaṇavaggo",
-    "english": "",
-    "sinhala": ""
+    "english": "The Chapter on Monks",
+    "sinhala": "ශ්‍රම​ණ වර්ගය"
   },
   "sections": [
     {
       "number": 85,
       "pali": "[mahāni. 18; cūḷani. ajitamāṇavapucchāniddesa 8] ‘‘Sattannaṃ, bhikkhave, dhammānaṃ bhinnattā bhikkhu hoti. Katamesaṃ sattannaṃ? Sakkāyadiṭṭhi bhinnā hoti, vicikicchā bhinnā hoti, sīlabbataparāmāso bhinno hoti, rāgo bhinno hoti, doso bhinno hoti, moho bhinno hoti, māno bhinno hoti. Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ bhinnattā bhikkhu hotī’’ti. Paṭhamaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "Monks, one is a bhikkhu because of the complete eradication of seven qualities. Which seven? Identity view is eradicated, skeptical doubt is eradicated, grasping at rites and rituals is eradicated, lust is eradicated, aversion is eradicated, delusion is eradicated, and conceit is eradicated. Indeed, monks, it is because of the complete eradication of these seven qualities that one is a bhikkhu.",
+      "sinhala": "මහණෙනි, ධර්‍මයන් සතක් ප්‍ර‍හීණ වූ බැවින් භික්ෂුවක් වේ.\nඒ සත කවරේද?\nසක්කාය දෘෂ්ටිය ප්‍ර‍හීණ වී ඇත, විචිකිච්ඡාව ප්‍ර‍හීණ වී ඇත, සීලබ්බත පරාමාසය ප්‍ර‍හීණ වී ඇත, රාගය ප්‍ර‍හීණ වී ඇත, ද්වේෂය ප්‍ර‍හීණ වී ඇත, මෝහය ප්‍ර‍හීණ වී ඇත, මානය ප්‍ර‍හීණ වී ඇත.\nමහණෙනි, මේ ධර්‍මයන් සත ප්‍ර‍හීණ වූ බැවින් භික්ෂුවක් වේ.\nපළමුවනයි.",
       "paliTitle": "Bhikkhusuttaṃ"
     },
     {
       "number": 86,
       "pali": "Sattannaṃ, bhikkhave, dhammānaṃ samitattā samaṇo hoti…pe…. Dutiyaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "O bhikkhus, by virtue of the complete pacification of seven qualities, one is a true renunciant… The second.",
+      "sinhala": "භික්ෂූනි, සත් ධර්මයන් සංසිඳවීම හේතුවෙන් ශ්‍රමණයෙක් වෙයි.\nදෙවෙනියට.",
       "paliTitle": "Samaṇasuttaṃ"
     },
     {
       "number": 87,
       "pali": "Bāhitattā brāhmaṇo hoti…pe…. Tatiyaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "Thirdly, one is a brahmin by having banished defilements.",
+      "sinhala": "කෙලෙස් බැහැර කළ හෙයින් ඔහු බ්‍රාහ්මණයෙක් වේ. මෙය තෙවැන්නයි.",
       "paliTitle": "Brāhmaṇasuttaṃ"
     },
     {
       "number": 88,
       "pali": "Nissutattā [nissuttattā (syā.) ma. ni. 1.434 passitabbaṃ] sottiyo [sotthiko (sī.), sottiko (syā.)] hoti…pe…. Catutthaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "By being thoroughly learned in the teaching, one becomes a true hearer. By being a true hearer, one becomes an expounder of the meaning. By being an expounder of the meaning, one becomes an expounder of the Teaching. By being an expounder of the Teaching, one becomes a speaker of the Teaching. By being a speaker of the Teaching, one becomes a bearer and rememberer of the Teaching. By being a bearer and rememberer of the Teaching, one becomes a practitioner of it. By being a practitioner, one becomes one who penetrates the Teaching. By being one who penetrates the Teaching, one becomes one who has developed disenchantment. The fourth.",
+      "sinhala": "ධර්මය මැනවින් ශ්‍රවණය කර අවබෝධ කරගැනීම නිසා සුවපත් වූවෙක් වන්නේය.\nමෙය සතරවැනි කරුණයි.",
       "paliTitle": "Sottiyasuttaṃ"
     },
     {
       "number": 89,
       "pali": "Nhātattā nhātako [nahātatto nahātako (sī. syā.)] hoti…pe…. Pañcamaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "By virtue of having purified oneself, one is a purified one.\nThe fifth.",
+      "sinhala": "කෙලෙස් මල නහවාගත් හෙයින්, [ඒ පුද්ගලයා] පිරිසිදු වූ තැනැත්තෙක් වෙයි. මෙය පස්වැන්නයි.",
       "paliTitle": "Nhātakasuttaṃ"
     },
     {
       "number": 90,
       "pali": "Viditattā vedagū hoti…pe…. Chaṭṭhaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "Because he has thoroughly known all phenomena as they truly are, he is a master of ultimate wisdom. The Sixth.",
+      "sinhala": "යමක් අවබෝධ කළ බැවින්, හෙතෙම පරම ඥානයට පැමිණි අයකු වෙයි; (කෙලෙස් බැඳීම්වලින්) නිදහස් වූ බැවින්, බ්‍රහ්මචාරී ජීවිතය වසන ලද්දේ වෙයි; (සියලු කෙලෙස් ගිනිවලින්) මුළුමනින්ම සන්සිඳුනු බැවින්, බ්‍රහ්මචාරී ජීවිතය සම්පූර්ණයෙන්ම අවසන් කරන ලද්දේ වෙයි. සයවැන්නයි.",
       "paliTitle": "Vedagūsuttaṃ"
     },
     {
       "number": 91,
       "pali": "Ārakattā [arahattā (sī.), arī hatattā (ka.) ma. ni. 1.434 pāḷi aṭṭhakathāṭīkā passitabbā. syāmapotthake pana sakalampi idaṃ sattamasuttaṃ natthi] ariyo hoti…pe…. Sattamaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "One is noble because of being far. In the Sinhala recension, the reading is 'because of being worthy,' and in the Kaccāyana recension, it is 'because of having destroyed enemies.' One should consult Majjhima Nikāya 1.434 and its Pali commentaries and sub-commentaries for clarification. However, it is noted that this entire seventh discourse is absent from the Siamese edition. Thus one is noble, and so forth. The Seventh.",
+      "sinhala": "කෙලෙසුන්ගෙන් ඈත්ව සිටීම හේතුවෙන් ආර්‍ය වේ. සත්වන සූත්‍රයයි.",
       "paliTitle": "Ariyasuttaṃ"
     },
     {
       "number": 92,
       "pali": "‘‘Ārakattā arahā hoti. Katamesaṃ sattannaṃ? Sakkāyadiṭṭhi ārakā hoti, vicikicchā ārakā hoti, sīlabbataparāmāso ārako hoti, rāgo ārako hoti, doso ārako hoti, moho ārako hoti, māno ārako hoti. Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ ārakattā arahā hotī’’ti. Aṭṭhamaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "One is an Arahant due to being far removed. Far removed from which seven? Identity view is far removed, skeptical doubt is far removed, clinging to rites and rituals is far removed, lust is far removed, aversion is far removed, delusion is far removed, conceit is far removed. Indeed, monastics, it is due to being far removed from these seven qualities that one is an Arahant.",
+      "sinhala": "කෙලෙස් දුරු කළ බැවින් රහත් වේ.\nඒ සත් ධර්මය කුමක්ද?\nසක්කායදිට්ඨිය දුරු වී ඇත. විචිකිච්ඡාව දුරු වී ඇත. සීලබ්බතපරාමාසය දුරු වී ඇත. රාගය දුරු වී ඇත. ද්වේෂය දුරු වී ඇත. මෝහය දුරු වී ඇත. මානය දුරු වී ඇත.\nමහණෙනි, සැබවින්ම මේ සත් ධර්මයන් දුරු කළ බැවින්, රහත් වේ.",
       "paliTitle": "Arahāsuttaṃ"
     },
     {
       "number": 93,
       "pali": "‘‘Sattime, bhikkhave, asaddhammā. Katame satta? Assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. Ime kho, bhikkhave, satta asaddhammā’’ti. Navamaṃ.",
-      "english": "",
-      "sinhala": "",
+      "english": "Monks, these are seven unwholesome qualities. Which seven? One lacks conviction, one is without moral shame, one is without moral dread, one has little learning, one is indolent, one lacks mindfulness, and one is unwise. These, monks, are the seven unwholesome qualities.",
+      "sinhala": "භික්ෂූණි, මේ අසද්ධර්ම හතක් තිබේ. ඒ හත කවරේද? අශ්‍රද්ධාවන්ත වේ, නොහිරියෙන් යුතු වේ, නොඔතප්පියෙන් යුතු වේ, අල්පශ්‍රැත වේ, කුසීත වේ, මුට්ඨසති වේ, දුෂ්ප්‍රාඥ වේ. භික්ෂූණි, මේවා අසද්ධර්ම හතක් වන්නේය.",
       "paliTitle": "Asaddhammasuttaṃ"
     },
     {
       "number": 94,
       "pali": "‘‘Sattime, bhikkhave, saddhammā. Katame satta? Saddho hoti, hirīmā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. Ime kho, bhikkhave, satta saddhammā’’ti. Dasamaṃ. ",
-      "english": "",
-      "sinhala": "",
+      "english": "Monks, there are these seven qualities of the true Dhamma. Which seven? He is endowed with faith, he possesses moral shame, he possesses moral dread, he is learned, he maintains persistent effort, he is mindful, and he is wise. These, monks, are the seven qualities of the true Dhamma.",
+      "sinhala": "මහණෙනි, මේ සත් සද්ධර්මයෝ ය. කවර සතක් ද?\n\nශ්‍රද්ධාවෙන් යුක්ත වෙයි. හිරි ඇති වෙයි. ඔතප් ඇති වෙයි. බහුශ්‍රැත වෙයි. ආරද්ධවීර්‍ය්‍යය ඇති වෙයි. සිහි ඇති වෙයි. ප්‍රඥාවෙන් යුක්ත වෙයි. මහණෙනි, මේ සත් සද්ධර්මයෝ ය.",
       "paliTitle": "Saddhammasuttaṃ"
     }
   ],

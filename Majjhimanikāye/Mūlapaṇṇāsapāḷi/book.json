@@ -1,0 +1,50 @@
+{
+  "name": "Mūlapaṇṇāsapāḷi",
+  "title": {
+    "pali": "Mūlapaṇṇāsapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "mn.1.1",
+      "title": {
+        "pali": "Mūlapariyāyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.1.2",
+      "title": {
+        "pali": "Sīhanādavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.1.3",
+      "title": {
+        "pali": "Opammavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.1.4",
+      "title": {
+        "pali": "Mahāyamakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.1.5",
+      "title": {
+        "pali": "Cūḷayamakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

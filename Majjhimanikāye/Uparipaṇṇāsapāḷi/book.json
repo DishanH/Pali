@@ -1,0 +1,50 @@
+{
+  "name": "Uparipaṇṇāsapāḷi",
+  "title": {
+    "pali": "Uparipaṇṇāsapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "mn.3.1",
+      "title": {
+        "pali": "Devadahavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.3.2",
+      "title": {
+        "pali": "Anupadavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.3.3",
+      "title": {
+        "pali": "Suññatavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.3.4",
+      "title": {
+        "pali": "Vibhaṅgavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.3.5",
+      "title": {
+        "pali": "Saḷāyatanavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

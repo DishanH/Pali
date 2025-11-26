@@ -1,0 +1,1457 @@
+{
+  "id": "ap2.14",
+  "title": {
+    "pali": "Yasavaggo",
+    "english": "",
+    "sinhala": ""
+  },
+  "sections": [
+    {
+      "number": 1,
+      "pali": "Yasattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 1,
+      "pali": "‘‘Mahāsamuddaṃ oggayha, bhavanaṃ me sunimmitaṃ; Sunimmitā pokkharaṇī, cakkavākūpakūjitā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 2,
+      "pali": "‘‘Mandārakehi sañchannā, padumuppalakehi ca; Nadī ca sandate tattha, supatitthā manoramā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 3,
+      "pali": "‘‘Macchakacchapasañchannā, nānādijasamotthaṭā [nānāmigasamotthaṭā (syā.)]; Mayūrakoñcābhirudā, kokilādīhi vagguhi.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 4,
+      "pali": "‘‘Pārevatā ravihaṃsā, cakkavākā nadīcarā; Tittirā sāḷikā cettha, pāvakā [sambakā (ka.)] jīvaṃjīvakā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 5,
+      "pali": "‘‘Haṃsākoñcābhinaditā, kosiyā piṅgalā [piṅgalī (sī.), siṅgalī, siṅghalī (ka.)] bahū; Sattaratanasampannā, maṇimuttapavāḷikā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 6,
+      "pali": "‘‘Sabbe soṇṇamayā rukkhā, nānākhandhasameritā; Ujjotenti divārattiṃ, bhavanaṃ sabbakālikaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 7,
+      "pali": "‘‘Saṭṭhituriyasahassāni, sāyaṃ pāto pavajjare; Soḷasitthisahassāni, parivārenti maṃ sadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 8,
+      "pali": "‘‘Abhinikkhamma bhavanā, sumedhaṃ lokanāyakaṃ; Pasannacitto sumano, vandayiṃ taṃ [sabbadassiṃ (ka.)] mahāyasaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 9,
+      "pali": "‘‘Sambuddhaṃ abhivādetvā, sasaṅghaṃ taṃ nimantayiṃ; Adhivāsesi so dhīro, sumedho lokanāyako.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 10,
+      "pali": "‘‘Mama dhammakathaṃ katvā, uyyojesi mahāmuni; Sambuddhaṃ abhivādetvā, bhavanaṃ me upāgamiṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 11,
+      "pali": "‘‘Āmantayiṃ parijanaṃ, sabbe sannipatuṃ tadā; ‘Pubbaṇhasamayaṃ buddho, bhavanaṃ āgamissati’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 12,
+      "pali": "‘‘‘Lābhā amhaṃ suladdhā no, ye vasāma tavantike; Mayampi buddhaseṭṭhassa, pūjayissāma satthuno’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 13,
+      "pali": "‘‘Annaṃ pānaṃ paṭṭhapetvā, kālaṃ ārocayiṃ ahaṃ; Vasīsatasahassehi, upesi lokanāyako.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 14,
+      "pali": "‘‘Pañcaṅgikehi turiyehi, paccuggamamakāsahaṃ; Sabbasoṇṇamaye pīṭhe, nisīdi purisuttamo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 15,
+      "pali": "‘‘Uparicchadanaṃ āsi, sabbasoṇṇamayaṃ tadā; Bījanīyo pavāyanti, bhikkhusaṅghaṃ anuttaraṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 16,
+      "pali": "‘‘Pahūtenannapānena, bhikkhusaṅghaṃ atappayiṃ; Paccekadussayugale, bhikkhusaṅghassadāsahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 17,
+      "pali": "‘‘Yaṃ vadeti sumedho so, āhutīnaṃ paṭiggaho; Bhikkhusaṅghe nisīditvā, imā gāthā abhāsatha.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 18,
+      "pali": "‘‘‘Yo maṃ annena pānena, sabbe ime ca tappayi; Tamahaṃ kittayissāmi, suṇātha mama bhāsato.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 19,
+      "pali": "‘‘‘Aṭṭhārase kappasate, devaloke ramissati; Sahassakkhattuṃ rājāyaṃ, cakkavattī bhavissati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 20,
+      "pali": "‘‘‘Upagacchati yaṃ yoniṃ, devattaṃ atha mānusaṃ; Sabbasoṇṇamayaṃ tassa, chadanaṃ dhārayissati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 21,
+      "pali": "‘‘‘Tiṃsakappasahassamhi, okkākakulasambhavo; Gotamo nāma gottena, satthā loke bhavissati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 22,
+      "pali": "‘‘‘Tassa dhammesu dāyādo, oraso dhammanimmito; Sabbāsave pariññāya, nibbāyissatināsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 23,
+      "pali": "‘‘‘Bhikkhusaṅghe nisīditvā, sīhanādaṃ nadissati’; Citake chattaṃ dhārenti, heṭṭhā chattamhi ḍayhatha.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 24,
+      "pali": "‘‘Sāmaññaṃ me anuppattaṃ, kilesā jhāpitā mayā; Maṇḍape rukkhamūle vā, santāso me na vijjati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 25,
+      "pali": "‘‘Tiṃsakappasahassamhi, yaṃ dānamadadiṃ tadā; Duggatiṃ nābhijānāmi, sabbadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 26,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ, bhavā sabbe samūhatā; Nāgova bandhanaṃ chetvā, viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 27,
+      "pali": "‘‘Svāgataṃ vata me āsi, mama buddhassa santike; Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 28,
+      "pali": "‘‘Paṭisambhidā catasso, vimokkhāpi ca aṭṭhime; Chaḷabhiññā sacchikatā, kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā yaso thero imā gāthāyo abhāsitthāti. Yasattherassāpadānaṃ paṭhamaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 2,
+      "pali": "Nadīkassapattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 29,
+      "pali": "‘‘Padumuttarassa bhagavato, lokajeṭṭhassa tādino; Piṇḍacāraṃ carantassa, vārato uttamaṃ yasaṃ; Aggaphalaṃ gahetvāna, adāsiṃ satthuno ahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 30,
+      "pali": "‘‘Tena kammena devindo, lokajeṭṭho narāsabho; Sampattomhi acalaṃ ṭhānaṃ, hitvā jayaparājayaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 31,
+      "pali": "‘‘Satasahassito kappe, yaṃ phalaṃ adadiṃ tadā; Duggatiṃ nābhijānāmi, aggadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 32,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 33,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 34,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā nadīkassapo thero imā gāthāyo Abhāsitthāti. Nadīkassapattherassāpadānaṃ dutiyaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 3,
+      "pali": "Gayākassapattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 35,
+      "pali": "‘‘Ajinacammavatthohaṃ [ajinavattaṃ nivattohaṃ (sī.)], khāribhāradharo tadā; Khārikaṃ hārayitvāna, kolaṃ ahāsi assamaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 36,
+      "pali": "‘‘Bhagavā tamhi samaye, eko adutiyo jino; Mamassamaṃ upāgacchi, jotento sabbakālikaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 37,
+      "pali": "‘‘Sakaṃ cittaṃ pasādetvā, abhivādetvāna subbataṃ; Ubho hatthehi paggayha, kolaṃ buddhassadāsahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 38,
+      "pali": "‘‘Ekatiṃse ito kappe, yaṃ phalaṃ adadiṃ tadā; Duggatiṃ nābhijānāmi, koladānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 39,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 40,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 41,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā gayākassapo thero imā gāthāyo Abhāsitthāti. Gayākassapattherassāpadānaṃ tatiyaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 4,
+      "pali": "Kimilattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 42,
+      "pali": "‘‘Nibbute kakusandhamhi, brāhmaṇamhi vusīmati; Gahetvā salalaṃ mālaṃ, maṇḍapaṃ kārayiṃ ahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 43,
+      "pali": "‘‘Tāvatiṃsaṃ gato santo, labhimha [labhāmi (ka.)] byamhamuttamaṃ; Aññe devetirocāmi, puññakammassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 44,
+      "pali": "‘‘Divā vā yadi vā rattiṃ, caṅkamanto ṭhito cahaṃ; Channo salalapupphehi, puññakammassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 45,
+      "pali": "‘‘Imasmiṃyeva kappamhi, yaṃ buddhamabhipūjayiṃ; Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 46,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 47,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 48,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā kimilo [kimbilo (sī.)] thero imā gāthāyo Abhāsitthāti. Kimilattherassāpadānaṃ catutthaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 5,
+      "pali": "Vajjīputtattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 49,
+      "pali": "‘‘Sahassaraṃsī bhagavā, sayambhū aparājito; Vivekā vuṭṭhahitvāna, gocarāyābhinikkhami.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 50,
+      "pali": "‘‘Phalahattho ahaṃ disvā, upagacchiṃ narāsabhaṃ; Pasannacitto sumano, savaṇṭaṃ adadiṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 51,
+      "pali": "‘‘Catunnavutito kappe, yaṃ phalaṃ adadiṃ tadā; Duggatiṃ nābhijānāmi, phaladānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 52,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 53,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 54,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā vajjīputto thero imā gāthāyo Abhāsitthāti. Vajjīputtattherassāpadānaṃ pañcamaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 6,
+      "pali": "Uttarattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 55,
+      "pali": "‘‘Sumedho nāma sambuddho, bāttiṃsavaralakkhaṇo; Vivekakāmo bhagavā, himavantamupāgami.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 56,
+      "pali": "‘‘Ajjhogāhetvā himavantaṃ, aggo kāruṇiko muni; Pallaṅkaṃ ābhujitvāna, nisīdi purisuttamo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 57,
+      "pali": "‘‘Vijjadharo tadā āsiṃ, antalikkhacaro ahaṃ; Tisūlaṃ sugataṃ gayha, gacchāmi ambare tadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 58,
+      "pali": "‘‘Pabbatagge yathā aggi, puṇṇamāyeva candimā; Vanaṃ obhāsate buddho, sālarājāva phullito.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 59,
+      "pali": "‘‘Vanaggā nikkhamitvāna, buddharaṃsībhidhāvare [buddharaṃsī vidhāvare (sī. ka.)]; Naḷaggivaṇṇasaṅkāsā [naḷaggiva nasaṅkāsaṃ (sī.)], disvā cittaṃ pasādayiṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 60,
+      "pali": "‘‘Vicinaṃ addasaṃ pupphaṃ, kaṇikāraṃ devagandhikaṃ; Tīṇi pupphāni ādāya, buddhaseṭṭhamapūjayiṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 61,
+      "pali": "‘‘Buddhassa ānubhāvena, tīṇi pupphāni me tadā; Uddhaṃ vaṇṭā adhopattā, chāyaṃ kubbanti satthuno.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 62,
+      "pali": "‘‘Tena kammena sukatena, cetanāpaṇidhīhi ca; Jahitvā mānusaṃ dehaṃ tāvatiṃsamagacchahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 63,
+      "pali": "‘‘Tattha me sukataṃ byamhaṃ, kaṇikārīti [kaṇikāroti (sī.)] ñāyati; Saṭṭhiyojanamubbedhaṃ, tiṃsayojanavitthataṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 64,
+      "pali": "‘‘Sahassakaṇḍaṃ satabheṇḍu, dhajālu haritāmayaṃ; Satasahassaniyyūhā [satasahassāni byūhāni (sī.)], byamhe pātubhaviṃsu [pāturahaṃsu (sī.), pāturahiṃsu (ka.)] me.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 65,
+      "pali": "‘‘Soṇṇamayā maṇimayā, lohitaṅkamayāpi ca; Phalikāpi ca pallaṅkā, yenicchakā yadicchakā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 66,
+      "pali": "‘‘Mahārahañca sayanaṃ, tūlikā vikatīyutaṃ; Uddhalomiñca ekantaṃ, bimbohanasamāyutaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 67,
+      "pali": "‘‘Bhavanā nikkhamitvāna, caranto devacārikaṃ; Yathā icchāmi [yathā gacchāmi (sī.)] gamanaṃ, devasaṅghapurakkhato.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 68,
+      "pali": "‘‘Pupphassa heṭṭhā tiṭṭhāmi, uparicchadanaṃ mama; Samantā yojanasataṃ, kaṇikārehi chāditaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 69,
+      "pali": "‘‘Saṭṭhituriyasahassāni, sāyapātaṃ upaṭṭhahuṃ; Parivārenti maṃ niccaṃ, rattindivamatanditā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 70,
+      "pali": "‘‘Tattha naccehi gītehi, tālehi vāditehi ca; Ramāmi khiḍḍā ratiyā, modāmi kāmakāmahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 71,
+      "pali": "‘‘Tattha bhutvā pivitvā ca, modāmi tidase tadā; Nārīgaṇehi sahito, modāmi byamhamuttame.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 72,
+      "pali": "‘‘Satānaṃ pañcakkhattuñca, devarajjamakārayiṃ; Satānaṃ tīṇikkhattuñca, cakkavattī ahosahaṃ; Padesarajjaṃ vipulaṃ, gaṇanāto asaṅkhiyaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 73,
+      "pali": "‘‘Bhave bhave saṃsaranto, mahābhogaṃ labhāmahaṃ; Bhoge me ūnatā natthi, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 74,
+      "pali": "‘‘Duve bhave saṃsarāmi, devatte atha mānuse; Aññaṃ gatiṃ na jānāmi, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 75,
+      "pali": "‘‘Duve kule pajāyāmi [yattha pacchā pajāyāmi (sī.)], khattiye cāpi brāhmaṇe; Nīce kule na jāyāmi, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 76,
+      "pali": "‘‘Hatthiyānaṃ assayānaṃ, sivikaṃ sandamānikaṃ; Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 77,
+      "pali": "‘‘Dāsīgaṇaṃ dāsagaṇaṃ, nāriyo samalaṅkatā; Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 78,
+      "pali": "‘‘Koseyyakambaliyāni, khomakappāsikāni ca; Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 79,
+      "pali": "‘‘Navavatthaṃ navaphalaṃ, navaggarasabhojanaṃ; Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 80,
+      "pali": "‘‘Imaṃ khāda imaṃ bhuñja, imamhi sayane saya; Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 81,
+      "pali": "‘‘Sabbattha pūjito homi, yaso accuggato mama; Mahāpakkho [mahesakkho (ka.)] sadā homi, abhejjapariso sadā; Ñātīnaṃ uttamo homi, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 82,
+      "pali": "‘‘Sītaṃ uṇhaṃ na jānāmi, pariḷāho na vijjati; Atho cetasikaṃ dukkhaṃ, hadaye me na vijjati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 83,
+      "pali": "‘‘Suvaṇṇavaṇṇo hutvāna, saṃsarāmi bhavābhave; Vevaṇṇiyaṃ na jānāmi, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 84,
+      "pali": "‘‘Devalokā cavitvāna, sukkamūlena codito; Sāvatthiyaṃ pure jāto, mahāsālesu aḍḍhake.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 85,
+      "pali": "‘‘Pañca kāmaguṇe hitvā, pabbajiṃ anagāriyaṃ; Jātiyā sattavassohaṃ, arahattamapāpuṇiṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 86,
+      "pali": "‘‘Upasampadāyī buddho, guṇamaññāya cakkhumā; Taruṇo pūjanīyohaṃ, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 87,
+      "pali": "‘‘Dibbacakkhuvisuddhaṃ me, samādhikusalo ahaṃ; Abhiññāpāramippatto, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 88,
+      "pali": "‘‘Paṭisambhidā anuppatto, iddhipādesu kovido; Dhammesu pāramippatto, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 89,
+      "pali": "‘‘Tiṃsakappasahassamhi, yaṃ buddhamabhipūjayiṃ; Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 90,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 91,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 92,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā uttaro thero imā gāthāyo Abhāsitthāti. Uttarattherassāpadānaṃ chaṭṭhaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 7,
+      "pali": "Aparauttarattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 93,
+      "pali": "‘‘Nibbute lokanāthamhi, siddhatthe lokanāyake; Mama ñātī samānetvā, dhātupūjaṃ akāsahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 94,
+      "pali": "‘‘Catunnavutito kappe, yaṃ dhātumabhipūjayiṃ; Duggatiṃ nābhijānāmi, dhātupūjāyidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 95,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 96,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 97,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā aparauttaratthero imā gāthāyo Abhāsitthāti. Aparassa uttarattherassāpadānaṃ sattamaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 8,
+      "pali": "Bhaddajittheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 98,
+      "pali": "‘‘Ogayha yaṃ pokkharaṇiṃ, nānākuñjarasevitaṃ; Uddharāmi bhisaṃ tattha, ghāsahetu ahaṃ tadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 99,
+      "pali": "‘‘Bhagavā tamhi samaye, padumuttarasavhayo; Rattambaradharo buddho, gacchate anilañjase.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 100,
+      "pali": "‘‘Dhunanto paṃsukūlāni, saddaṃ assosahaṃ tadā; Uddhaṃ nijjhāyamānohaṃ, addasaṃ lokanāyakaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 101,
+      "pali": "‘‘Tattheva ṭhitako santo, āyāciṃ lokanāyakaṃ; Madhuṃ bhisehi sahitaṃ, khīraṃ sappiṃ muḷālikaṃ [madhuṃ bhisehi pacati, khīrasappi mulālibhi (ka.) bhisadāyakattherāpadānepi].",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 102,
+      "pali": "‘‘Paṭiggaṇhātu me buddho, anukampāya cakkhumā; Tato kāruṇiko satthā, orohitvā mahāyaso.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 103,
+      "pali": "‘‘Paṭiggaṇhi mama bhikkhaṃ, anukampāya cakkhumā; Paṭiggahetvā sambuddho, akā me anumodanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 104,
+      "pali": "‘‘‘Sukhī hotu mahāpuñña, gati tuyhaṃ samijjhatu; Iminā bhisadānena, labhassu vipulaṃ sukhaṃ’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 105,
+      "pali": "‘‘Idaṃ vatvāna sambuddho, jalajuttamanāmako; Bhikkhamādāya sambuddho, ākāsenāgamā jino.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 106,
+      "pali": "‘‘Tato bhisaṃ gahetvāna, agacchiṃ mama assamaṃ; Bhisaṃ rukkhe laggetvāna, mama dānaṃ anussariṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 107,
+      "pali": "‘‘Mahāvāto uṭṭhahitvā, sañcālesi vanaṃ tadā; Ākāso abhinādittha, asanī ca phalī tadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 108,
+      "pali": "‘‘Tato me asanīpāto, matthake nipatī tadā; Sohaṃ nisinnako santo, tattha kālaṅkato ahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 109,
+      "pali": "‘‘Puññakammena saññutto, tusitaṃ upapajjahaṃ; Kaḷevaraṃ me patitaṃ, devaloke ramāmahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 110,
+      "pali": "‘‘Chaḷasītisahassāni, nāriyo samalaṅkatā; Sāyaṃ pātaṃ upaṭṭhanti, bhisadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 111,
+      "pali": "‘‘Manussayonimāgantvā, sukhito homahaṃ tadā; Bhogā me ūnatā natthi, bhisadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 112,
+      "pali": "‘‘Anukampitako tena, devadevena tādinā; Sabbāsavaparikkhīṇā, natthi dāni punabbhavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 113,
+      "pali": "‘‘Satasahassito kappe, yaṃ bhisaṃ adadiṃ tadā; Duggatiṃ nābhijānāmi, bhisadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 114,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 115,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 116,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā bhaddajitthero imā gāthāyo Abhāsitthāti. Bhaddajittherassāpadānaṃ aṭṭhamaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 9,
+      "pali": "Sivakattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 117,
+      "pali": "‘‘Esanāya carantassa, vipassissa mahesino; Rittakaṃ pattaṃ disvāna, kummāsaṃ pūrayiṃ ahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 118,
+      "pali": "‘‘Ekanavutito kappe, yaṃ bhikkhamadadiṃ tadā; Duggatiṃ nābhijānāmi, kummāsassa idaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 119,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 120,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 121,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā sivakatthero imā gāthāyo Abhāsitthāti. Sivakattherassāpadānaṃ navamaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 10,
+      "pali": "Upavānattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 122,
+      "pali": "‘‘Padumuttaro nāma jino, sabbadhammāna pāragū; Jalitvā aggikkhandhova, sambuddho parinibbuto.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 123,
+      "pali": "‘‘Mahājanā samāgamma, pūjayitvā tathāgataṃ; Citaṃ katvāna sugataṃ, sarīraṃ abhiropayuṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 124,
+      "pali": "‘‘Sarīrakiccaṃ katvāna, dhātuṃ tattha samānayuṃ; Sadevamanussā sabbe, buddhathūpaṃ akaṃsu te.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 125,
+      "pali": "‘‘Paṭhamā kañcanamayā, dutiyā ca maṇimayā; Tatiyā rūpiyamayā, catutthī phalikāmayā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 126,
+      "pali": "‘‘Tattha pañcamikā ceva [tattha pañcamikā ceti (sī.)], lohitaṅkamayā ahu; Chaṭṭhā masāragallassa, sabbaṃ ratanamayūpari.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 127,
+      "pali": "‘‘Jaṅghā maṇimayā āsi, vedikā ratanāmayā; Sabbasoṇṇamayo thūpo, uddhaṃ yojanamuggato.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 128,
+      "pali": "‘‘Devā tattha samāgantvā, ekato mantayuṃ tadā; ‘Mayampi thūpaṃ kassāma, lokanāthassa tādino.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 129,
+      "pali": "‘‘‘Dhātu āveṇikā natthi, sarīraṃ ekapiṇḍitaṃ; Imamhi buddhathūpamhi, kassāma kañcukaṃ mayaṃ’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 130,
+      "pali": "‘‘Devā sattahi ratnehi, aññaṃ vaḍḍhesuṃ yojanaṃ; Thūpo dviyojanubbedho, timiraṃ byapahanti so.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 131,
+      "pali": "‘‘Nāgā tattha samāgantvā, ekato mantayuṃ tadā; ‘Manussā ceva devā ca, buddhathūpaṃ akaṃsu te.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 132,
+      "pali": "‘‘‘Mā no pamattā assumha, appamattā sadevakā; Mayampi thūpaṃ kassāma, lokanāthassa tādino’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 133,
+      "pali": "‘‘Indanīlaṃ mahānīlaṃ, atho jotirasaṃ maṇiṃ; Ekato sannipātetvā, buddhathūpaṃ achādayuṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 134,
+      "pali": "‘‘Sabbaṃ maṇimayaṃ āsi, yāvatā [tāvatā (ka.)] buddhacetiyaṃ; Tiyojanasamubbedhaṃ, ālokakaraṇaṃ tadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 135,
+      "pali": "‘‘Garuḷā ca samāgantvā, ekato mantayuṃ tadā; ‘Manussā devanāgā ca, buddhapūjaṃ akaṃsu te.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 136,
+      "pali": "‘‘‘Mā no pamattā assumha, appamattā sadevakā; Mayampi thūpaṃ kassāma, lokanāthassa tādino’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 137,
+      "pali": "‘‘Sabbaṃ maṇimayaṃ thūpaṃ, akaruṃ te ca kañcukaṃ; Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 138,
+      "pali": "‘‘Catuyojanamubbedho, buddhathūpo virocati; Obhāseti disā sabbā, sataraṃsīva uggato.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 139,
+      "pali": "‘‘Kumbhaṇḍā ca samāgantvā, ekato mantayuṃ tadā; ‘Manussā ceva devā ca, nāgā ca garuḷā tathā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 140,
+      "pali": "‘‘‘Paccekaṃ buddhaseṭṭhassa, akaṃsu thūpamuttamaṃ; Mā no pamattā assumha, appamattā sadevakā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 141,
+      "pali": "‘‘‘Mayampi thūpaṃ kassāma, lokanāthassa tādino; Ratanehi chādessāma, āyataṃ buddhacetiyaṃ’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 142,
+      "pali": "‘‘Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ; Pañcayojanamubbedho, thūpo obhāsate tadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 143,
+      "pali": "‘‘Yakkhā tattha samāgantvā, ekato mantayuṃ tadā; ‘Manussā devanāgā ca, garuḷā ca kumbhaṇḍakā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 144,
+      "pali": "‘‘‘Paccekaṃ buddhaseṭṭhassa, akaṃsu thūpamuttamaṃ; Mā no pamattā assumha, appamattā sadevakā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 145,
+      "pali": "‘‘‘Mayampi thūpaṃ kassāma, lokanāthassa tādino; Phalikā chādayissāma, āyataṃ buddhacetiyaṃ’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 146,
+      "pali": "‘‘Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ; Chayojanikamubbedho, thūpo obhāsate tadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 147,
+      "pali": "‘‘Gandhabbā ca samāgantvā, ekato mantayuṃ tadā; ‘Manujā devatā nāgā, kumbhaṇḍā garuḷā tathā [kumbhaṇḍā ca yakkhā tathā (sī.)].",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 148,
+      "pali": "‘‘‘Sabbe akaṃsu buddhathūpaṃ, mayamettha akārakā; Mayampi thūpaṃ kassāma, lokanāthassa tādino’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 149,
+      "pali": "‘‘Vediyo satta katvāna, dhajaṃ chattaṃ akaṃsu te; Sabbasoṇṇamayaṃ thūpaṃ, gandhabbā kārayuṃ tadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 150,
+      "pali": "‘‘Sattayojanamubbedho, thūpo obhāsate tadā; Rattindivā na ñāyanti, āloko hoti sabbadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 151,
+      "pali": "‘‘Abhibhonti na tassābhā, candasūrā satārakā; Samantā yojanasate, padīpopi na pajjali.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 152,
+      "pali": "‘‘Tena kālena ye keci, thūpaṃ pūjenti mānusā; Na te thūpaṃ āruhanti, ambare ukkhipanti te.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 153,
+      "pali": "‘‘Devehi ṭhapito yakkho, abhisammatanāmako; Dhajaṃ vā pupphadāmaṃ vā, abhiropeti uttariṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 154,
+      "pali": "‘‘Na te passanti taṃ yakkhaṃ, dāmaṃ passanti gacchato; Evaṃ passitvā gacchantā, sabbe gacchanti suggatiṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 155,
+      "pali": "‘‘Viruddhā ye pāvacane, pasannā ye ca sāsane; Pāṭihīraṃ daṭṭhukāmā, thūpaṃ pūjenti mānusā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 156,
+      "pali": "‘‘Nagare haṃsavatiyā, ahosiṃ bhatako tadā; Āmoditaṃ janaṃ disvā, evaṃ cintesahaṃ tadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 157,
+      "pali": "‘‘‘Uḷāro bhagavā neso, yassa dhātughare disaṃ; Imā ca janatā tuṭṭhā, kāraṃ kubbaṃ na tappare.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 158,
+      "pali": "‘‘‘Ahampi kāraṃ kassāmi, lokanāthassa tādino; Tassa dhammesu dāyādo, bhavissāmi anāgate’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 159,
+      "pali": "‘‘Sudhotaṃ rajakenāhaṃ, uttareyyaṃ paṭaṃ mama; Veḷagge ālaggetvāna, dhajaṃ ukkhipimambare.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 160,
+      "pali": "‘‘Abhisammatako gayha, ambare hāsi me dhajaṃ; Vāteritaṃ dhajaṃ disvā, bhiyyo hāsaṃ janesahaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 161,
+      "pali": "‘‘Tattha cittaṃ pasādetvā, samaṇaṃ upasaṅkamiṃ; Taṃ bhikkhuṃ abhivādetvā, vipākaṃ pucchahaṃ dhaje.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 162,
+      "pali": "‘‘So me kathesi ānandī, pītisañjananaṃ mama; ‘Tassa dhajassa vipākaṃ, anubhossasi sabbadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 163,
+      "pali": "‘‘‘Hatthiassarathāpattī, senā ca caturaṅginī; Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 164,
+      "pali": "‘‘‘Saṭṭhituriyasahassāni, bheriyo samalaṅkatā; Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 165,
+      "pali": "‘‘‘Chaḷasītisahassāni, nāriyo samalaṅkatā; Vicittavatthābharaṇā, āmukkamaṇikuṇḍalā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 166,
+      "pali": "‘‘‘Āḷārapamhā hasulā, susaññā [sutthanā (sī.) apa. thera 2.48.19 maṇipūjakattherāpadānepi] tanumajjhimā; Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 167,
+      "pali": "‘‘‘Tiṃsakappasahassāni, devaloke ramissasi; Asītikkhattuṃ devindo, devarajjaṃ karissasi.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 168,
+      "pali": "‘‘‘Sahassakkhattuṃ rājā ca, cakkavattī bhavissati; Padesarajjaṃ vipulaṃ, gaṇanāto asaṅkhiyaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 169,
+      "pali": "‘‘‘Kappasatasahassamhi, okkākakulasambhavo; Gotamo nāma gottena, satthā loke bhavissati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 170,
+      "pali": "‘‘‘Devalokā cavitvāna, sukkamūlena codito; Puññakammena saññutto, brahmabandhu bhavissasi.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 171,
+      "pali": "‘‘‘Asītikoṭiṃ chaḍḍetvā, dāse kammakare bahū; Gotamassa bhagavato, sāsane pabbajissasi.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 172,
+      "pali": "‘‘‘Ārādhayitvā sambuddhaṃ, gotamaṃ sakyapuṅgavaṃ; Upavānoti nāmena, hessasi satthu sāvako’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 173,
+      "pali": "‘‘Satasahasse kataṃ kammaṃ, phalaṃ dassesi me idha; Sumutto saravegova, kilese jhāpayiṃ [kilesā jhāpitā (sī.)] mama.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 174,
+      "pali": "‘‘Cakkavattissa santassa, cātuddīpissarassa me; Tīṇi yojanāni sāmantā, ussīyanti dhajā sadā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 175,
+      "pali": "‘‘Satasahassito kappe, yaṃ kammamakariṃ tadā; Duggatiṃ nābhijānāmi, dhajadānassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 176,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 177,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 178,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā upavānatthero imā gāthāyo Abhāsitthāti. Upavānattherassāpadānaṃ dasamaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 11,
+      "pali": "Raṭṭhapālattheraapadānaṃ",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 179,
+      "pali": "‘‘Padumuttarassa bhagavato, lokajeṭṭhassa tādino; Varanāgo mayā dinno, īsādanto urūḷhavā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 180,
+      "pali": "‘‘Setacchattopasobhito, sakappano [sīdabbano (sī.)] sahatthipo; Agghāpetvāna taṃ sabbaṃ, saṅghārāmaṃ akārayiṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 181,
+      "pali": "‘‘Catupaññāsasahassāni, pāsāde kārayiṃ ahaṃ; Mahoghadānaṃ [mahagghañca (sī.), mayā bhattaṃ (ka.) apa. thera 1.2.99] karitvāna, niyyādesiṃ mahesino.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 182,
+      "pali": "‘‘Anumodi mahāvīro, sayambhū aggapuggalo; Sabbe jane hāsayanto, desesi amataṃ padaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 183,
+      "pali": "‘‘Taṃ me buddho viyākāsi, jalajuttamanāmako; Bhikkhusaṅghe nisīditvā, imā gāthā abhāsatha.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 184,
+      "pali": "‘‘‘Catupaññāsasahassāni, pāsāde kārayī ayaṃ; Kathayissāmi vipākaṃ, suṇātha mama bhāsato.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 185,
+      "pali": "‘‘‘Aṭṭhārasasahassāni, kūṭāgārā bhavissare; Byamhuttamamhi nibbattā, sabbasoṇṇamayā ca te.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 186,
+      "pali": "‘‘‘Paññāsakkhattuṃ devindo, devarajjaṃ karissati; Aṭṭhapaññāsakkhattuñca, cakkavattī bhavissati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 187,
+      "pali": "‘‘‘Kappasatasahassamhi, okkākakulasambhavo; Gotamo nāma gottena, satthā loke bhavissati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 188,
+      "pali": "‘‘‘Devalokā cavitvāna, sukkamūlena codito; Aḍḍhe kule mahābhoge, nibbattissati tāvade.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 189,
+      "pali": "‘‘‘So pacchā pabbajitvāna, sukkamūlena codito; Raṭṭhapāloti nāmena, hessati satthu sāvako.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 190,
+      "pali": "‘‘‘Padhānapahitatto so, upasanto nirūpadhi; Sabbāsave pariññāya, nibbāyissatināsavo’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 191,
+      "pali": "‘‘Uṭṭhāya abhinikkhamma, jahitā bhogasampadā; Kheḷapiṇḍeva bhogamhi, pemaṃ mayhaṃ na vijjati.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 192,
+      "pali": "‘‘Vīriyaṃ me dhuradhorayhaṃ, yogakkhemādhivāhanaṃ; Dhāremi antimaṃ dehaṃ, sammāsambuddhasāsane.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 193,
+      "pali": "‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 194,
+      "pali": "‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 195,
+      "pali": "‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’. Itthaṃ sudaṃ āyasmā raṭṭhapālo thero imā gāthāyo Abhāsitthāti. Raṭṭhapālattherassāpadānaṃ ekādasamaṃ. Yasavaggo chapaññāsamo. Tassuddānaṃ – Yaso nadīkassapo ca, gayākimilavajjino; Duve uttarā bhaddajī, sivako upavāhano; Raṭṭhapālo ekasataṃ, gāthānaṃ pañcanavuti. Therāpadānaṃ samattaṃ. Ettāvatā buddhāpadānañca paccekāpadānañca therāpadānañca Samattāni. Namo tassa bhagavato arahato sammāsambuddhassa Khuddakanikāye Therīapadānapāḷi",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    }
+  ],
+  "footer": {
+    "pali": "",
+    "english": "",
+    "sinhala": ""
+  }
+}

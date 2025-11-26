@@ -1,0 +1,117 @@
+{
+  "name": "Khandhavaggo",
+  "title": {
+    "pali": "Khandhavaggo",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Khandhavaggo tatiyo. Tassuddānaṃ – Khandha rādhasaṃyuttañca, diṭṭhiokkanta [okkanti (sabbattha)] uppādā; Kilesa sāriputtā ca, nāgā supaṇṇa gandhabbā; Valāha vacchajhānanti, khandhavaggamhi terasāti. Khandhavaggasaṃyuttapāḷi niṭṭhitā."
+  },
+  "chapters": [
+    {
+      "id": "sn.3.1",
+      "title": {
+        "pali": "Khandhasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.2",
+      "title": {
+        "pali": "Rādhasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.3",
+      "title": {
+        "pali": "Diṭṭhisaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.4",
+      "title": {
+        "pali": "Okkantasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.5",
+      "title": {
+        "pali": "Uppādasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.6",
+      "title": {
+        "pali": "Kilesasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.7",
+      "title": {
+        "pali": "Sāriputtasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.8",
+      "title": {
+        "pali": "Nāgasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.9",
+      "title": {
+        "pali": "Supaṇṇasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.10",
+      "title": {
+        "pali": "Gandhabbakāyasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.11",
+      "title": {
+        "pali": "Valāhakasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.12",
+      "title": {
+        "pali": "Vacchagottasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.3.13",
+      "title": {
+        "pali": "Jhānasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

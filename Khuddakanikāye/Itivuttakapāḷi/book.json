@@ -1,0 +1,90 @@
+{
+  "name": "Itivuttakapāḷi",
+  "title": {
+    "pali": "Itivuttakapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "iti.1",
+      "title": {
+        "pali": "Paṭhamavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.2",
+      "title": {
+        "pali": "Dutiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.3",
+      "title": {
+        "pali": "Tatiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.4",
+      "title": {
+        "pali": "Paṭhamavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.5",
+      "title": {
+        "pali": "Dutiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.6",
+      "title": {
+        "pali": "Paṭhamavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.7",
+      "title": {
+        "pali": "Dutiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.8",
+      "title": {
+        "pali": "Tatiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.9",
+      "title": {
+        "pali": "Catutthavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "iti.10",
+      "title": {
+        "pali": "Pañcamavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

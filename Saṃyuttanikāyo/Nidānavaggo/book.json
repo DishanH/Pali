@@ -1,0 +1,95 @@
+{
+  "name": "Nidānavaggo",
+  "title": {
+    "pali": "Nidānavaggo",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": " Nidānavaggo dutiyo. Tassuddānaṃ – Nidānābhisamayadhātu, anamataggena kassapaṃ; Sakkārarāhulalakkhaṇo, opamma-bhikkhunā vaggo. Dutiyo tena pavuccatīti. Nidānavaggasaṃyuttapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "sn.2.1",
+      "title": {
+        "pali": "Nidānasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.2",
+      "title": {
+        "pali": "Abhisamayasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.3",
+      "title": {
+        "pali": "Dhātusaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.4",
+      "title": {
+        "pali": "Anamataggasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.5",
+      "title": {
+        "pali": "Kassapasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.6",
+      "title": {
+        "pali": "Lābhasakkārasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.7",
+      "title": {
+        "pali": "Rāhulasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.8",
+      "title": {
+        "pali": "Lakkhaṇasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.9",
+      "title": {
+        "pali": "Opammasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.2.10",
+      "title": {
+        "pali": "Bhikkhusaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

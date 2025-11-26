@@ -1,0 +1,34 @@
+{
+  "name": "Paṭisambhidāmaggapāḷi",
+  "title": {
+    "pali": "Paṭisambhidāmaggapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "ps.1",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ps.2",
+      "title": {
+        "pali": "Yuganaddhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ps.3",
+      "title": {
+        "pali": "Paññāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

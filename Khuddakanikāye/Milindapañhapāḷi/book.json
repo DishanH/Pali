@@ -1,0 +1,194 @@
+{
+  "name": "Milindapañhapāḷi",
+  "title": {
+    "pali": "Milindapañhapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "mil.1",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.2",
+      "title": {
+        "pali": "Addhānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.3",
+      "title": {
+        "pali": "Vicāravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.4",
+      "title": {
+        "pali": "Nibbānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.5",
+      "title": {
+        "pali": "Buddhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.6",
+      "title": {
+        "pali": "Sativaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.7",
+      "title": {
+        "pali": "Arūpadhammavavattanavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.8",
+      "title": {
+        "pali": "Iddhibalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.9",
+      "title": {
+        "pali": "Abhejjavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.10",
+      "title": {
+        "pali": "Paṇāmitavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.11",
+      "title": {
+        "pali": "Sabbaññutañāṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.12",
+      "title": {
+        "pali": "Santhavavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.13",
+      "title": {
+        "pali": "Buddhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.14",
+      "title": {
+        "pali": "Nippapañcavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.15",
+      "title": {
+        "pali": "Vessantaravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.16",
+      "title": {
+        "pali": "Anumānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.17",
+      "title": {
+        "pali": "Gadrabhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.18",
+      "title": {
+        "pali": "Samuddavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.19",
+      "title": {
+        "pali": "Pathavīvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.20",
+      "title": {
+        "pali": "Upacikāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.21",
+      "title": {
+        "pali": "Sīhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.22",
+      "title": {
+        "pali": "Makkaṭakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mil.23",
+      "title": {
+        "pali": "Kumbhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

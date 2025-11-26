@@ -1,0 +1,218 @@
+{
+  "name": "Dhammapadapāḷi",
+  "title": {
+    "pali": "Dhammapadapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "dhp.1",
+      "title": {
+        "pali": "Yamakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.2",
+      "title": {
+        "pali": "Appamādavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.3",
+      "title": {
+        "pali": "Cittavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.4",
+      "title": {
+        "pali": "Pupphavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.5",
+      "title": {
+        "pali": "Bālavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.6",
+      "title": {
+        "pali": "Paṇḍitavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.7",
+      "title": {
+        "pali": "Arahantavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.8",
+      "title": {
+        "pali": "Sahassavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.9",
+      "title": {
+        "pali": "Pāpavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.10",
+      "title": {
+        "pali": "Daṇḍavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.11",
+      "title": {
+        "pali": "Jarāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.12",
+      "title": {
+        "pali": "Attavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.13",
+      "title": {
+        "pali": "Lokavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.14",
+      "title": {
+        "pali": "Buddhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.15",
+      "title": {
+        "pali": "Sukhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.16",
+      "title": {
+        "pali": "Piyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.17",
+      "title": {
+        "pali": "Kodhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.18",
+      "title": {
+        "pali": "Malavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.19",
+      "title": {
+        "pali": "Dhammaṭṭhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.20",
+      "title": {
+        "pali": "Maggavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.21",
+      "title": {
+        "pali": "Pakiṇṇakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.22",
+      "title": {
+        "pali": "Nirayavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.23",
+      "title": {
+        "pali": "Nāgavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.24",
+      "title": {
+        "pali": "Taṇhāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.25",
+      "title": {
+        "pali": "Bhikkhuvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.26",
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

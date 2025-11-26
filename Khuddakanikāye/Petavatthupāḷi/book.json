@@ -1,0 +1,450 @@
+{
+  "name": "Petavatthupāḷi",
+  "title": {
+    "pali": "Petavatthupāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "pv.1",
+      "title": {
+        "pali": "Uragavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.2",
+      "title": {
+        "pali": "Khettūpamapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.3",
+      "title": {
+        "pali": "Sūkaramukhapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.4",
+      "title": {
+        "pali": "Pūtimukhapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.5",
+      "title": {
+        "pali": "Piṭṭhadhītalikapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.6",
+      "title": {
+        "pali": "Tirokuṭṭapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.7",
+      "title": {
+        "pali": "Pañcaputtakhādapetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.8",
+      "title": {
+        "pali": "Sattaputtakhādapetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.9",
+      "title": {
+        "pali": "Goṇapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.10",
+      "title": {
+        "pali": "Mahāpesakārapetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.11",
+      "title": {
+        "pali": "Khallāṭiyapetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.12",
+      "title": {
+        "pali": "Nāgapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.13",
+      "title": {
+        "pali": "Uragapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.14",
+      "title": {
+        "pali": "Ubbarivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.15",
+      "title": {
+        "pali": "Saṃsāramocakapetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.16",
+      "title": {
+        "pali": "Sāriputtattheramātupetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.17",
+      "title": {
+        "pali": "Mattāpetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.18",
+      "title": {
+        "pali": "Nandāpetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.19",
+      "title": {
+        "pali": "Maṭṭhakuṇḍalīpetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.20",
+      "title": {
+        "pali": "Kaṇhapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.21",
+      "title": {
+        "pali": "Dhanapālaseṭṭhipetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.22",
+      "title": {
+        "pali": "Cūḷaseṭṭhipetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.23",
+      "title": {
+        "pali": "Aṅkurapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.24",
+      "title": {
+        "pali": "Uttaramātupetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.25",
+      "title": {
+        "pali": "Suttapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.26",
+      "title": {
+        "pali": "Kaṇṇamuṇḍapetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.27",
+      "title": {
+        "pali": "Ubbaripetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.28",
+      "title": {
+        "pali": "Cūḷavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.29",
+      "title": {
+        "pali": "Abhijjamānapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.30",
+      "title": {
+        "pali": "Sāṇavāsītherapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.31",
+      "title": {
+        "pali": "Rathakārapetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.32",
+      "title": {
+        "pali": "Bhusapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.33",
+      "title": {
+        "pali": "Kumārapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.34",
+      "title": {
+        "pali": "Seriṇīpetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.35",
+      "title": {
+        "pali": "Migaluddakapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.36",
+      "title": {
+        "pali": "Dutiyamigaluddakapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.37",
+      "title": {
+        "pali": "Kūṭavinicchayikapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.38",
+      "title": {
+        "pali": "Dhātuvivaṇṇapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.39",
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.40",
+      "title": {
+        "pali": "Ambasakkarapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.41",
+      "title": {
+        "pali": "Serīsakapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.42",
+      "title": {
+        "pali": "Nandakapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.43",
+      "title": {
+        "pali": "Revatīpetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.44",
+      "title": {
+        "pali": "Ucchupetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.45",
+      "title": {
+        "pali": "Kumārapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.46",
+      "title": {
+        "pali": "Rājaputtapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.47",
+      "title": {
+        "pali": "Gūthakhādakapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.48",
+      "title": {
+        "pali": "Gūthakhādakapetivatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.49",
+      "title": {
+        "pali": "Gaṇapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.50",
+      "title": {
+        "pali": "Pāṭaliputtapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.51",
+      "title": {
+        "pali": "Ambavanapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.52",
+      "title": {
+        "pali": "Akkharukkhapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.53",
+      "title": {
+        "pali": "Bhogasaṃharapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.54",
+      "title": {
+        "pali": "Seṭṭhiputtapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "pv.55",
+      "title": {
+        "pali": "Saṭṭhikūṭapetavatthu",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

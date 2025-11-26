@@ -1,0 +1,93 @@
+{
+  "name": "Saḷāyatanavaggo",
+  "title": {
+    "pali": "Saḷāyatanavaggo",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Saḷāyatanavaggo catuttho. Tassuddānaṃ – Saḷāyatanavedanā, mātugāmo jambukhādako; Sāmaṇḍako moggallāno, citto gāmaṇi saṅkhataṃ; Abyākatanti dasadhāti. Saḷāyatanavaggasaṃyuttapāḷi niṭṭhitā."
+  },
+  "chapters": [
+    {
+      "id": "sn.4.1",
+      "title": {
+        "pali": "Saḷāyatanasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.2",
+      "title": {
+        "pali": "Vedanāsaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.3",
+      "title": {
+        "pali": "Mātugāmasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.4",
+      "title": {
+        "pali": "Jambukhādakasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.5",
+      "title": {
+        "pali": "Sāmaṇḍakasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.6",
+      "title": {
+        "pali": "Moggallānasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.7",
+      "title": {
+        "pali": "Cittasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.8",
+      "title": {
+        "pali": "Gāmaṇisaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.9",
+      "title": {
+        "pali": "Asaṅkhatasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.4.10",
+      "title": {
+        "pali": "Abyākatasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Mahāvaggo",
+  "title": {
+    "pali": "Mahāvaggo",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Mahāvaggo pañcamo. Tassuddānaṃ – Maggabojjhaṅgaṃ satiyā, indriyaṃ sammappadhānaṃ; Baliddhipādānuruddhā, jhānānāpānasaṃyutaṃ; Sotāpatti saccañcāti, mahāvaggoti vuccatīti. Mahāvaggasaṃyuttapāḷi niṭṭhitā."
+  },
+  "chapters": [
+    {
+      "id": "sn.5.1",
+      "title": {
+        "pali": "Maggasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.2",
+      "title": {
+        "pali": "Bojjhaṅgasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.3",
+      "title": {
+        "pali": "Satipaṭṭhānasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.4",
+      "title": {
+        "pali": "Indriyasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.5",
+      "title": {
+        "pali": "Sammappadhānasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.6",
+      "title": {
+        "pali": "Balasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.7",
+      "title": {
+        "pali": "Iddhipādasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.8",
+      "title": {
+        "pali": "Anuruddhasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.9",
+      "title": {
+        "pali": "Jhānasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.10",
+      "title": {
+        "pali": "Ānāpānasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.11",
+      "title": {
+        "pali": "Sotāpattisaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "sn.5.12",
+      "title": {
+        "pali": "Saccasaṃyuttaṃ",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

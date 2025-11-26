@@ -1,0 +1,50 @@
+{
+  "name": "Majjhimapaṇṇāsapāḷi",
+  "title": {
+    "pali": "Majjhimapaṇṇāsapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "mn.2.1",
+      "title": {
+        "pali": "Gahapativaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.2.2",
+      "title": {
+        "pali": "Bhikkhuvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.2.3",
+      "title": {
+        "pali": "Paribbājakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.2.4",
+      "title": {
+        "pali": "Rājavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "mn.2.5",
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

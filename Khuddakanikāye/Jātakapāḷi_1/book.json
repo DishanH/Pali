@@ -1,0 +1,346 @@
+{
+  "name": "Jātakapāḷi_1",
+  "title": {
+    "pali": "Jātakapāḷi 1",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "ja1.1",
+      "title": {
+        "pali": "Apaṇṇakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.2",
+      "title": {
+        "pali": "Sīlavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.3",
+      "title": {
+        "pali": "Kuruṅgavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.4",
+      "title": {
+        "pali": "Kulāvakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.5",
+      "title": {
+        "pali": "Atthakāmavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.6",
+      "title": {
+        "pali": "Āsīsavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.7",
+      "title": {
+        "pali": "Itthivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.8",
+      "title": {
+        "pali": "Varuṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.9",
+      "title": {
+        "pali": "Apāyimhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.10",
+      "title": {
+        "pali": "Littavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.11",
+      "title": {
+        "pali": "Parosatavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.12",
+      "title": {
+        "pali": "Haṃcivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.13",
+      "title": {
+        "pali": "Kusanāḷivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.14",
+      "title": {
+        "pali": "Asampadānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.15",
+      "title": {
+        "pali": "Kakaṇṭakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.16",
+      "title": {
+        "pali": "Daḷhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.17",
+      "title": {
+        "pali": "Santhavavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.18",
+      "title": {
+        "pali": "Kalyāṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.19",
+      "title": {
+        "pali": "Asadisavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.20",
+      "title": {
+        "pali": "Ruhakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.21",
+      "title": {
+        "pali": "Nataṃdaḷhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.22",
+      "title": {
+        "pali": "Bīraṇathambhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.23",
+      "title": {
+        "pali": "Kāsāvavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.24",
+      "title": {
+        "pali": "Upāhanavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.25",
+      "title": {
+        "pali": "Siṅgālavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.26",
+      "title": {
+        "pali": "Saṅkappavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.27",
+      "title": {
+        "pali": "Padumavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.28",
+      "title": {
+        "pali": "Udapānavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.29",
+      "title": {
+        "pali": "Abbhantaravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.30",
+      "title": {
+        "pali": "Kumbhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.31",
+      "title": {
+        "pali": "Kāliṅgavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.32",
+      "title": {
+        "pali": "Pucimandavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.33",
+      "title": {
+        "pali": "Kuṭidūsakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.34",
+      "title": {
+        "pali": "Kokilavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.35",
+      "title": {
+        "pali": "Cūḷakuṇālavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.36",
+      "title": {
+        "pali": "Maṇikuṇḍalavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.37",
+      "title": {
+        "pali": "Vaṇṇārohavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.38",
+      "title": {
+        "pali": "Aḍḍhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.39",
+      "title": {
+        "pali": "Avāriyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.40",
+      "title": {
+        "pali": "Kharaputtavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.41",
+      "title": {
+        "pali": "Kukkuvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja1.42",
+      "title": {
+        "pali": "Gandhāravaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

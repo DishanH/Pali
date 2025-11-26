@@ -1,0 +1,449 @@
+{
+  "id": "vv.38",
+  "title": {
+    "pali": "Khīrodanadāyikāvimānavatthu",
+    "english": "",
+    "sinhala": ""
+  },
+  "sections": [
+    {
+      "number": 409,
+      "pali": "‘‘Abhikkantena vaṇṇena…pe… osadhī viya tārakā.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 410,
+      "pali": "‘‘Kena tetādiso vaṇṇo…pe…vaṇṇo ca te sabbadisā pabhāsatī’’ti.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 412,
+      "pali": "Sā devatā attamanā…pe… yassa kammassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 413,
+      "pali": "‘‘Khīrodanaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa; Evaṃ karitvā kammaṃ, sugatiṃ upapajja modāmi.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 414,
+      "pali": "‘‘Tassā me passa vimānaṃ, accharā kāmavaṇṇinīhamasmi; Accharāsahassassāhaṃ, pavarā passa puññānaṃ vipākaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 415,
+      "pali": "‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī’’ti. (Anantaraṃ pañcavīsativimānaṃ yathā khīrodanadāyikāvimānaṃ tathā vitthāretabbaṃ) [( ) natthi sī. potthake]",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 12,
+      "pali": "Phāṇitadāyikāvimānavatthu (1)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 417,
+      "pali": "‘‘Abhikkantena vaṇṇena…pe… sabbadisā pabhāsatī’’ti.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 420,
+      "pali": "Sā devatā attamanā…pe… yassa kammassidaṃ phalaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 421,
+      "pali": "‘‘Phāṇitaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe…’’.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 13,
+      "pali": "Ucchukhaṇḍikadāyikāvatthu (2)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 429,
+      "pali": "Ucchukhaṇḍikaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 14,
+      "pali": "Timbarusakadāyikāvimānavatthu (3)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 437,
+      "pali": "Timbarusakaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 15,
+      "pali": "Kakkārikadāyikāvimānavatthu (4)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 445,
+      "pali": "Kakkārikaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 16,
+      "pali": "Eḷālukadāyikāvimānavatthu (5)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 453,
+      "pali": "Eḷālukaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 17,
+      "pali": "Valliphaladāyikāvimānavatthu(6)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 461,
+      "pali": "Valliphalaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 18,
+      "pali": "Phārusakadāyikāvimānavatthu (7)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 469,
+      "pali": "Phārusakaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 19,
+      "pali": "Hatthappatāpakadāyikāvimānavatthu (8)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 477,
+      "pali": "Hatthappatāpakaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 20,
+      "pali": "Sākamuṭṭhidāyikāvimānavatthu (9)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 485,
+      "pali": "Sākamuṭṭhiṃ ahamadāsiṃ, bhikkhuno panthapaṭipannassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 21,
+      "pali": "Pupphakamuṭṭhidāyikāvimānavatthu (10)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 493,
+      "pali": "Pupphakamuṭṭhiṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 22,
+      "pali": "Mūlakadāyikāvimānavatthu (11)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 501,
+      "pali": "Mūlakaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 23,
+      "pali": "Nimbamuṭṭhidāyikāvimānavatthu (12)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 506,
+      "pali": "Nimbamuṭṭhiṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 24,
+      "pali": "Ambakañjikadāyikāvimānavatthu (13)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 517,
+      "pali": "Ambakañjikaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 25,
+      "pali": "Doṇinimmajjanidāyikāvimānavatthu (14)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 525,
+      "pali": "Doṇinimmajjaniṃ [doṇinimmujjanaṃ (syā.)] ahamadāsiṃ, bhikkhuno piṇḍāya carantassa… pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 26,
+      "pali": "Kāyabandhanadāyikāvimānavatthu (15)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 533,
+      "pali": "Kāyabandhanaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 27,
+      "pali": "Aṃsabaddhakadāyikāvimānavatthu (16)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 541,
+      "pali": "Aṃsabaddhakaṃ [aṃsavaṭṭakaṃ (sī.), aṃsabandhanaṃ (ka.)] ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 28,
+      "pali": "Āyogapaṭṭadāyikāvimānavatthu (17)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 546,
+      "pali": "Āyogapaṭṭaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 29,
+      "pali": "Vidhūpanadāyikāvimānavatthu (18)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 557,
+      "pali": "Vidhūpanaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 30,
+      "pali": "Tālavaṇṭadāyikāvimānavatthu (19)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 565,
+      "pali": "Tālavaṇṭaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 31,
+      "pali": "Morahatthadāyikāvimānavatthu (20)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 573,
+      "pali": "Morahatthaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 32,
+      "pali": "Chattadāyikāvimānavatthu (21)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 581,
+      "pali": "Chattaṃ [chattañca (ka.)] ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 33,
+      "pali": "Upāhanadāyikāvimānavatthu (22)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 586,
+      "pali": "Upāhanaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 34,
+      "pali": "Pūvadāyikāvimānavatthu (23)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 597,
+      "pali": "Pūvaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 35,
+      "pali": "Modakadāyikāvimānavatthu (24)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 605,
+      "pali": "Modakaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 36,
+      "pali": "Sakkhalikadāyikāvimānavatthu (25)",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 613,
+      "pali": "‘‘Sakkhalikaṃ [sakkhaliṃ (sī. syā.)] ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 614,
+      "pali": "‘‘Tassā me passa vimānaṃ, accharā kāmavaṇṇinīhamasmi; Accharāsahassassāhaṃ, pavarā passa puññānaṃ vipākaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 615,
+      "pali": "‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī’’ti.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 617,
+      "pali": "‘‘Svāgataṃ vata me ajja, suppabhātaṃ suhuṭṭhitaṃ [suvuṭṭhitaṃ (sī.)]; Yaṃ addasāmi [addasaṃ (sī. syā.), addasāsiṃ (pī.)] devatāyo, accharā kāmavaṇṇiniyo [kāmavaṇṇiyo (sī.)].",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    },
+    {
+      "number": 618,
+      "pali": "‘‘Imāsāhaṃ [tāsāhaṃ (syā. ka.)] dhammaṃ sutvā [sutvāna (syā. ka.)], kāhāmi kusalaṃ bahuṃ. Dānena samacariyāya, saññamena damena ca; Svāhaṃ tattha gamissāmi [tattheva gacchāmi (ka.)], yattha gantvā na socare’’ti. Guttilavimānaṃ pañcamaṃ.",
+      "english": "",
+      "sinhala": "",
+      "paliTitle": ""
+    }
+  ],
+  "footer": {
+    "pali": "",
+    "english": "",
+    "sinhala": ""
+  }
+}

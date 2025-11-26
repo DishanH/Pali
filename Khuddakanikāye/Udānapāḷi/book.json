@@ -1,0 +1,66 @@
+{
+  "name": "Udānapāḷi",
+  "title": {
+    "pali": "Udānapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "ud.1",
+      "title": {
+        "pali": "Bodhivaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ud.2",
+      "title": {
+        "pali": "Mucalindavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ud.3",
+      "title": {
+        "pali": "Nandavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ud.4",
+      "title": {
+        "pali": "Meghiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ud.5",
+      "title": {
+        "pali": "Jaccandhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ud.6",
+      "title": {
+        "pali": "Cūḷavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ud.7",
+      "title": {
+        "pali": "Pāṭaligāmiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}
