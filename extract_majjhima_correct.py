@@ -142,8 +142,8 @@ class MajjhimaVaggaExtractor:
     def extract_suttas_from_vagga(self, vagga_text: str) -> List[Dict]:
         """
         Extract suttas (sections) from a vagga
-        Suttas in Majjhima are marked like: "1. Mūlapariyāyasuttaṃ"
-        followed by numbered sections like "1. Evaṃ me sutaṃ..."
+        Suttas in Majjhima are marked like: "1. Mūlapariyāyasuttaṃ" or "51-60. Suttadasakaṃ"
+        followed by numbered sections like "1. Evaṃ me sutaṃ..." or "51-60. Content..."
         """
         lines = vagga_text.split('\n')
         suttas = []
@@ -160,18 +160,47 @@ class MajjhimaVaggaExtractor:
             if not line_stripped:
                 continue
             
+            # Check for sutta title with range: "51-60. Suttadasakaṃ"
+            sutta_range_match = re.match(r'^(\d+)-(\d+)\.\s+(.+suttaṃ|.+suttapañcakaṃ|.+suttadasakaṃ)$', line_stripped, re.IGNORECASE)
             # Check for sutta title: number, dot, space, name ending with suttaṃ
             sutta_match = re.match(r'^(\d+)\.\s+(.+suttaṃ)$', line_stripped, re.IGNORECASE)
             
-            if sutta_match:
-                # This is a sutta title, save it for the next section
+            if sutta_range_match:
+                # This is a sutta title with range, save it for the next section
+                current_sutta_title = sutta_range_match.group(3)
+                continue
+            elif sutta_match:
+                # This is a regular sutta title, save it for the next section
                 current_sutta_title = sutta_match.group(2)
                 continue
             
+            # Check for section number with range: "51-60. Content..."
+            section_range_match = re.match(r'^(\d+)-(\d+)\.\s+(.+)', line_stripped)
             # Check for section number: number, dot, space, then content
             section_match = re.match(r'^(\d+)\.\s+(.+)', line_stripped)
             
-            if section_match:
+            if section_range_match:
+                # Save previous sutta
+                if current_sutta is not None:
+                    current_sutta['pali'] = ' '.join(current_lines)
+                    suttas.append(current_sutta)
+                
+                start_num = int(section_range_match.group(1))
+                end_num = int(section_range_match.group(2))
+                number_range = f"{start_num}-{end_num}"
+                rest_of_line = section_range_match.group(3)
+                
+                current_sutta = {
+                    "number": start_num,
+                    "numberRange": number_range,
+                    "pali": "",
+                    "english": "",
+                    "sinhala": "",
+                    "paliTitle": current_sutta_title if current_sutta_title else ""
+                }
+                current_lines = [rest_of_line]
+                current_sutta_title = None  # Reset after using
+            elif section_match:
                 # Save previous sutta
                 if current_sutta is not None:
                     current_sutta['pali'] = ' '.join(current_lines)
@@ -307,15 +336,15 @@ def main():
     """Main entry point - for testing single file"""
     
     book_config = {
-        'name': 'Mūlapaṇṇāsapāḷi',
-        'pali_title': 'Mūlapaṇṇāsapāḷi',
+        'name': 'Majjhimapaṇṇāsapāḷi',
+        'pali_title': 'Majjhimapaṇṇāsapāḷi',
         'english_title': '',
         'sinhala_title': '',
-        'book_num': 1,  # First book of Majjhima
+        'book_num': 2,  # Second book of Majjhima
     }
     
-    pdf_path = r"Majjhimanikāye\pdfs\Mūlapaṇṇāsapāḷi.pdf"
-    output_dir = r"Majjhimanikāye\Mūlapaṇṇāsapāḷi"
+    pdf_path = r"Majjhimanikāye\pdfs\Majjhimapaṇṇāsapāḷi.pdf"
+    output_dir = r"Majjhimanikāye\Majjhimapaṇṇāsapāḷi"
     
     if not os.path.exists(pdf_path):
         print(f"❌ Error: PDF file not found: {pdf_path}")

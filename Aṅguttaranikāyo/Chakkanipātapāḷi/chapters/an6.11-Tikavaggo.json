@@ -11,75 +11,95 @@
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Rāgo, doso, moho. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Rāgassa pahānāya asubhā bhāvetabbā, dosassa pahānāya mettā bhāvetabbā, mohassa pahānāya paññā bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Paṭhamaṃ.",
       "english": "Monks, there are these three qualities. Which three? Greed, hatred, and delusion. Indeed, Monks, these are the three qualities. For the abandoning of these three qualities, Monks, three qualities should be cultivated. Which three? For the abandoning of greed, unattractiveness should be cultivated; for the abandoning of hatred, loving-kindness should be cultivated; for the abandoning of delusion, wisdom should be cultivated. Indeed, Monks, for the abandoning of these three qualities, these three qualities should be cultivated.",
       "sinhala": "භික්ෂූනි, මේ ධර්ම තුනක් ඇත. කවර ධර්ම තුනක් ද? රාගය, ද්වේෂය, මෝහය යි. භික්ෂූනි, මේ ධර්ම තුන යි. භික්ෂූනි, මේ ධර්ම තුන ප්‍රහාණය කිරීම පිණිස ධර්ම තුනක් වර්ධනය කළ යුතු ය. කවර ධර්ම තුනක් ද? රාගය ප්‍රහාණය කිරීම පිණිස අසුභ භාවනාව වර්ධනය කළ යුතු ය. ද්වේෂය ප්‍රහාණය කිරීම පිණිස මෛත්‍රී භාවනාව වර්ධනය කළ යුතු ය. මෝහය ප්‍රහාණය කිරීම පිණිස ප්‍රඥාව වර්ධනය කළ යුතු ය. භික්ෂූනි, මේ ධර්ම තුන ප්‍රහාණය කිරීම පිණිස මේ ධර්ම තුන වර්ධනය කළ යුතු ය. මෙය පළමුවැන්නයි.",
-      "paliTitle": "Rāgasuttaṃ"
+      "paliTitle": "Rāgasuttaṃ",
+      "englishTitle": "The Discourse on Lust",
+      "sinhalaTitle": "රාග සූත්‍රය"
     },
     {
       "number": 108,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Kāyaduccaritaṃ, vacīduccaritaṃ, manoduccaritaṃ. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāyaduccaritassa pahānāya kāyasucaritaṃ bhāvetabbaṃ, vacīduccaritassa pahānāya vacīsucaritaṃ bhāvetabbaṃ, manoduccaritassa pahānāya manosucaritaṃ bhāvetabbaṃ. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Dutiyaṃ.",
       "english": "Monks, these are the three qualities. Which three? Misconduct of body, misconduct of speech, and misconduct of mind. Indeed, monks, these are the three qualities. For the abandoning of these three qualities, monks, three other qualities should be cultivated. Which three? For the abandoning of bodily misconduct, bodily good conduct should be cultivated; for the abandoning of verbal misconduct, verbal good conduct should be cultivated; for the abandoning of mental misconduct, mental good conduct should be cultivated. Indeed, monks, for the abandoning of these three qualities, these three qualities should be cultivated.",
       "sinhala": "භික්ෂූනි, මේ ධර්ම කරුණු තුනක් ඇත. ඒ කවර තුනක්ද? එනම්, කායදුශ්චරිතය, වචීදුශ්චරිතය, මනෝදුශ්චරිතය යන ඒවාය. භික්ෂූනි, මේවා ධර්ම කරුණු තුනකි. භික්ෂූනි, මේ ධර්ම කරුණු තුන ප්‍රහාණය කිරීම පිණිස ධර්ම කරුණු තුනක් වැඩිය යුතුයි. ඒ කවර තුනක්ද? කායදුශ්චරිතය ප්‍රහාණය කිරීම පිණිස කායසුචරිතය වැඩිය යුතුයි. වචීදුශ්චරිතය ප්‍රහාණය කිරීම පිණිස වචීසුචරිතය වැඩිය යුතුයි. මනෝදුශ්චරිතය ප්‍රහාණය කිරීම පිණිස මනෝසුචරිතය වැඩිය යුතුයි. භික්ෂූනි, මේ ධර්ම කරුණු තුන ප්‍රහාණය කිරීම පිණිස මේ ධර්ම කරුණු තුනම වැඩිය යුතුයි.\n\nදෙවැන්නයි.",
-      "paliTitle": "Duccaritasuttaṃ"
+      "paliTitle": "Duccaritasuttaṃ",
+      "englishTitle": "Discourse on Misconduct",
+      "sinhalaTitle": "දුශ්චරිත සූත්‍රය"
     },
     {
       "number": 109,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Kāmavitakko, byāpādavitakko, vihiṃsāvitakko. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāmavitakkassa pahānāya nekkhammavitakko bhāvetabbo, byāpādavitakkassa pahānāya abyāpādavitakko bhāvetabbo, vihiṃsāvitakkassa pahānāya avihiṃsāvitakko bhāvetabbo. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Tatiyaṃ.",
       "english": "Monks, there are these three qualities. Which three? The thought of sensual desire, the thought of ill-will, and the thought of harming. These, monks, are the three qualities. For the abandoning of these three qualities, monks, three other qualities should be developed. Which three? For the abandoning of the thought of sensual desire, the thought of renunciation should be developed; for the abandoning of the thought of ill-will, the thought of non-ill-will should be developed; for the abandoning of the thought of harming, the thought of non-harming should be developed. For the abandoning of these three qualities, monks, these three qualities should be developed.",
       "sinhala": "මහණෙනි, මේ ධර්ම කරුණු තුනකි. ඒ කුමන තුනක් ද? කාම විතක්කය, ව්‍යාපාද විතක්කය, විහිංසා විතක්කය යන මේවා ය. මහණෙනි, සැබවින්ම මේ ධර්ම කරුණු තුන ය. මහණෙනි, සැබවින්ම මේ ධර්ම කරුණු තුන ප්‍රහාණය කිරීම පිණිස ධර්ම කරුණු තුනක් වැඩිය යුතු ය. ඒ කුමන තුනක් ද? කාම විතක්කය ප්‍රහාණය කිරීම පිණිස නෛෂ්ක‍්‍රම්‍ය විතක්කය වැඩිය යුතු ය. ව්‍යාපාද විතක්කය ප්‍රහාණය කිරීම පිණිස අව්‍යාපාද විතක්කය වැඩිය යුතු ය. විහිංසා විතක්කය ප්‍රහාණය කිරීම පිණිස අවිහිංසා විතක්කය වැඩිය යුතු ය. මහණෙනි, සැබවින්ම මේ ධර්ම කරුණු තුන ප්‍රහාණය කිරීම පිණිස මේ ධර්ම කරුණු තුන වැඩිය යුතු ය.",
-      "paliTitle": "Vitakkasuttaṃ"
+      "paliTitle": "Vitakkasuttaṃ",
+      "englishTitle": "The Thought Discourse",
+      "sinhalaTitle": "විතක්ක සූත‍්‍රය"
     },
     {
       "number": 110,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Kāmasaññā, byāpādasaññā, vihiṃsāsaññā. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāmasaññāya pahānāya nekkhammasaññā bhāvetabbā, byāpādasaññāya pahānāya abyāpādasaññā bhāvetabbā, vihiṃsāsaññāya pahānāya avihiṃsāsaññā bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Catutthaṃ.",
       "english": "Monks, there are these three qualities. Which three? The perception of sensuality, the perception of ill-will, and the perception of harm. Indeed, monks, these are the three qualities. For the abandoning of these three qualities, monks, three other qualities are to be developed. Which three? For the abandoning of the perception of sensuality, the perception of renunciation is to be developed. For the abandoning of the perception of ill-will, the perception of non-ill-will is to be developed. For the abandoning of the perception of harm, the perception of non-harm is to be developed. Indeed, monks, for the abandoning of these three qualities, these three qualities are to be developed.",
       "sinhala": "මහණෙනි, මේ ධර්ම තුනක් ඇත. ඒ කවර තුනක්ද? කාම සංඥාව, ව්‍යාපාද සංඥාව, විහිංසා සංඥාව. මහණෙනි, මේ ධර්ම තුන නම් මේවාය. මහණෙනි, මේ ධර්ම තුන ප්‍200D‍රහාණය කිරීම සඳහා ධර්ම තුනක් වඩනු ලැබිය යුතුය. ඒ කවර තුනක්ද? කාම සංඥාව ප්‍200D‍රහාණය කිරීම සඳහා නෙක්ඛම්ම සංඥාව වඩනු ලැබිය යුතුය. ව්‍යාපාද සංඥාව ප්‍200D‍රහාණය කිරීම සඳහා අව්‍යාපාද සංඥාව වඩනු ලැබිය යුතුය. විහිංසා සංඥාව ප්‍200D‍රහාණය කිරීම සඳහා අවිහිංසා සංඥාව වඩනු ලැබිය යුතුය. මහණෙනි, මේ ධර්ම තුන ප්‍200D‍රහාණය කිරීම සඳහා මේ ධර්ම තුන වඩනු ලැබිය යුතු යි.",
-      "paliTitle": "Saññāsuttaṃ"
+      "paliTitle": "Saññāsuttaṃ",
+      "englishTitle": "Discourse on Perception",
+      "sinhalaTitle": "සංඥා සූත‍්‍රය"
     },
     {
       "number": 111,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Kāmadhātu, byāpādadhātu, vihiṃsādhātu. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāmadhātuyā pahānāya nekkhammadhātu bhāvetabbā, byāpādadhātuyā pahānāya abyāpādadhātu bhāvetabbā, vihiṃsādhātuyā pahānāya avihiṃsādhātu bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Pañcamaṃ.",
       "english": "Monks, there are these three states. Which three? The sphere of sensual desire, the sphere of ill-will, and the sphere of harmfulness. Monks, these are the three states. For the abandoning of these three states, monks, three other states are to be cultivated. Which three? For the abandoning of the sphere of sensual desire, the sphere of renunciation is to be cultivated; for the abandoning of the sphere of ill-will, the sphere of non-ill-will is to be cultivated; for the abandoning of the sphere of harmfulness, the sphere of non-harmfulness is to be cultivated. Monks, for the abandoning of these three states, these three states are to be cultivated.",
       "sinhala": "භික්ෂූණි, මේ ධර්ම තුනකි. ඒ කවර තුනක්ද? කාම ධාතුව, ව්‍යාපාද ධාතුව, විහිංසා ධාතුවයි. භික්ෂූණි, මේ ධර්ම තුන එබඳු වෙති. භික්ෂූණි, මේ ධර්ම තුන ප\\u200D්‍රහාණය කිරීම පිණිස ධර්ම තුනක් වැඩිය යුතුයි. ඒ කවර තුනක්ද? කාම ධාතුව ප\\u200D්‍රහාණය කිරීම පිණිස නෛෂ\\u200D්ක\\u200D්‍රම්‍ය ධාතුව වැඩිය යුතුයි; ව්‍යාපාද ධාතුව ප\\u200D්‍රහාණය කිරීම පිණිස අව්‍යාපාද ධාතුව වැඩිය යුතුයි; විහිංසා ධාතුව ප\\u200D්‍රහාණය කිරීම පිණිස අවිහිංසා ධාතුව වැඩිය යුතුයි. භික්ෂූණි, මේ ධර්ම තුන ප\\u200D්‍රහාණය කිරීම පිණිස මේ ධර්ම තුන වැඩිය යුතුයි.",
-      "paliTitle": "Dhātusuttaṃ"
+      "paliTitle": "Dhātusuttaṃ",
+      "englishTitle": "Discourse on Elements",
+      "sinhalaTitle": "ධාතු සූත්‍රය"
     },
     {
       "number": 112,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Assādadiṭṭhi, attānudiṭṭhi, micchādiṭṭhi. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Assādadiṭṭhiyā pahānāya aniccasaññā bhāvetabbā, attānudiṭṭhiyā pahānāya anattasaññā bhāvetabbā, micchādiṭṭhiyā pahānāya sammādiṭṭhi bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Chaṭṭhaṃ.",
       "english": "Bhikkhus, there are these three qualities. Which three? The view of gratification, the view of self, and wrong view. Indeed, bhikkhus, these are the three qualities. For the abandoning of these three qualities, bhikkhus, three qualities are to be developed. Which three? For the abandoning of the view of gratification, the perception of impermanence is to be developed; for the abandoning of the view of self, the perception of non-self is to be developed; for the abandoning of wrong view, right view is to be developed. Indeed, bhikkhus, for the abandoning of these three qualities, these three qualities are to be developed.",
       "sinhala": "මහණෙනි, මේ ධර්මතා තුනකි. ඒ තුන කවරේද? ආශ්වාද දෘෂ්ටිය, ආත්ම දෘෂ්ටිය, මිත්‍යා දෘෂ්ටියයි. මහණෙනි, මේ ධර්මතා තුන වන්නේය. මහණෙනි, මේ ධර්මතා තුන ප්‍රහාණය කිරීම පිණිස ධර්මතා තුනක් වැඩිය යුතුයි. ඒ තුන කවරේද? ආශ්වාද දෘෂ්ටිය ප්‍රහාණය කිරීම පිණිස අනිත්‍ය සංඥාව වැඩිය යුතුයි. ආත්ම දෘෂ්ටිය ප්‍රහාණය කිරීම පිණිස අනාත්ම සංඥාව වැඩිය යුතුයි. මිත්‍යා දෘෂ්ටිය ප්‍රහාණය කිරීම පිණිස සම්මා දෘෂ්ටිය වැඩිය යුතුයි. මහණෙනි, මේ ධර්මතා තුන ප්‍රහාණය කිරීම පිණිස මේ ධර්මතා තුන වැඩිය යුතුයි.",
-      "paliTitle": "Assādasuttaṃ"
+      "paliTitle": "Assādasuttaṃ",
+      "englishTitle": "The Discourse on Enjoyment",
+      "sinhalaTitle": "ආශ්වාද සූත්‍රය"
     },
     {
       "number": 113,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Arati, vihiṃsā [vihesā (ka.)], adhammacariyā. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Aratiyā pahānāya muditā bhāvetabbā, vihiṃsāya pahānāya avihiṃsā bhāvetabbā, adhammacariyāya pahānāya dhammacariyā bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Sattamaṃ.",
       "english": "“Monks, there are these three qualities. Which three? Discontent, harmfulness, and unrighteous conduct. These, monks, are the three qualities. For the abandonment of these three qualities, monks, three qualities should be developed. Which three? For the abandonment of discontent, sympathetic joy should be developed; for the abandonment of harmfulness, non-harming should be developed; for the abandonment of unrighteous conduct, righteous conduct should be developed. For the abandonment of these three qualities, monks, these three qualities should be developed.”",
       "sinhala": "භික්ෂූණි, මේ ධර්ම තුනක් තිබේ. ඒ තුන කවරේද? අරතිය, විහිංසාව සහ අධම්මචරියාව යන මේවාය. භික්ෂූණි, මේ ධර්ම තුනකි.\n\nභික්ෂූණි, මේ ධර්ම තුන ප්‍රහාණය කිරීම පිණිස ධර්ම තුනක් වඩනු ලැබිය යුතුය. ඒ තුන කවරේද? අරතිය ප්‍රහාණය කිරීම පිණිස මුදිතාව වඩනු ලැබිය යුතුය. විහිංසාව ප්‍රහාණය කිරීම පිණිස අවිහිංසාව වඩනු ලැබිය යුතුය. අධම්මචරියාව ප්‍රහාණය කිරීම පිණිස ධම්මචරියාව වඩනු ලැබිය යුතුය. භික්ෂූණි, මේ ධර්ම තුන ප්‍රහාණය කිරීම පිණිස මේ ධර්ම තුන වඩනු ලැබිය යුතුය.",
-      "paliTitle": "Aratisuttaṃ"
+      "paliTitle": "Aratisuttaṃ",
+      "englishTitle": "Discourse on Discontent",
+      "sinhalaTitle": "අරති සූත්‍රය"
     },
     {
       "number": 114,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Asantuṭṭhitā, asampajaññaṃ, mahicchatā. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Asantuṭṭhitāya pahānāya santuṭṭhitā bhāvetabbā, asampajaññassa pahānāya sampajaññaṃ bhāvetabbaṃ, mahicchatāya pahānāya appicchatā bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Aṭṭhamaṃ.",
       "english": "Bhikkhus, there are these three qualities. Which three? Discontent, lack of clear comprehension, and great desire. These, bhikkhus, are the three qualities. For the abandoning of these three qualities, bhikkhus, three qualities should be developed. Which three? For the abandoning of discontent, contentment should be developed; for the abandoning of lack of clear comprehension, clear comprehension should be developed; for the abandoning of great desire, little desire should be developed. For the abandoning of these three qualities, bhikkhus, these three qualities should be developed.",
       "sinhala": "භික්ෂූනි, මේ ධර්ම තුනක් ඇත. කවර තුනක්ද යත්: අසන්තෝෂය, අසම්පජඤ්ඤය, මහායිච්ඡතාවය. භික්ෂූනි, මේ ධර්ම තුනක් වේ. භික්ෂූනි, මේ ධර්ම තුන ප්‍රහාණය කිරීම පිණිස ධර්ම තුනක් වැඩිය යුතුයි. කවර තුනක්ද යත්: අසන්තෝෂය ප්‍රහාණය කිරීම පිණිස සන්තෝෂය වැඩිය යුතුයි, අසම්පජඤ්ඤය ප්‍රහාණය කිරීම පිණිස සම්පජඤ්ඤය වැඩිය යුතුයි, මහායිච්ඡතාවය ප්‍රහාණය කිරීම පිණිස අල්පේච්ඡතාවය වැඩිය යුතුයි. භික්ෂූනි, මේ ධර්ම තුන ප්‍රහාණය කිරීම පිණිස මේ ධර්ම තුන වැඩිය යුතුයි.",
-      "paliTitle": "Santuṭṭhitāsuttaṃ"
+      "paliTitle": "Santuṭṭhitāsuttaṃ",
+      "englishTitle": "Discourse on Contentment",
+      "sinhalaTitle": "සන‍්තුෂ්‍ටිතා සූත්‍‍රය"
     },
     {
       "number": 115,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Dovacassatā, pāpamittatā, cetaso vikkhepo. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Dovacassatāya pahānāya sovacassatā bhāvetabbā, pāpamittatāya pahānāya kalyāṇamittatā bhāvetabbā, cetaso vikkhepassa pahānāya ānāpānassati bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Navamaṃ.",
       "english": "Monks, there are these three qualities. Which three? Disobedience, bad companionship, and distraction of mind. Monks, these are indeed the three qualities. Monks, for the abandonment of these three qualities, three qualities are to be developed. Which three? For the abandonment of disobedience, obedience is to be developed; for the abandonment of bad companionship, good companionship is to be developed; and for the abandonment of distraction of mind, mindfulness of breathing is to be developed. Monks, for the abandonment of these three qualities, these three qualities are to be developed.",
       "sinhala": "මහණෙනි, මේ ධර‍්ම තුනක් වෙති. ඒ තුන කවරේද?\n\nඅවවාද නොපිළිගැනීම, පාප මිත්‍‌ර සේවනය, සිතේ විසිර යාම යි. මහණෙනි, මේ ධර‍්ම තුන වෙති.\n\nමහණෙනි, මේ ධර‍්ම තුන ප්‍‌රහාණය කිරීම පිණිස ධර‍්ම තුනක් වැඩිය යුතු ය. ඒ තුන කවරේද?\n\nඅවවාද නොපිළිගැනීම ප්‍‌රහාණය කිරීම පිණිස සොවචස්සතාව (යහපත් අනුශාසනා පිළිගැනීමේ ගුණය) වැඩිය යුතු ය. පාප මිත්‍‌ර සේවනය ප්‍‌රහාණය කිරීම පිණිස කල්‍යාණ මිත්‍‌ර සේවනය වැඩිය යුතු ය. සිතේ විසිර යාම ප්‍‌රහාණය කිරීම පිණිස ආනාපානසතිය වැඩිය යුතු ය. මහණෙනි, මේ ධර‍්ම තුන ප්‍‌රහාණය කිරීම පිණිස මේ ධර‍්ම තුන වැඩිය යුතු ය.",
-      "paliTitle": "Dovacassatāsuttaṃ"
+      "paliTitle": "Dovacassatāsuttaṃ",
+      "englishTitle": "Discourse on Disobedience",
+      "sinhalaTitle": "දෝවචස්සතා සූත්‍රය"
     },
     {
       "number": 116,
       "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Uddhaccaṃ, asaṃvaro, pamādo. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Uddhaccassa pahānāya samatho bhāvetabbo, asaṃvarassa pahānāya saṃvaro bhāvetabbo, pamādassa pahānāya appamādo bhāvetabbo. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Dasamaṃ. ",
       "english": "Monks, there are these three states. Which three? Restlessness, lack of restraint, and heedlessness. These, monks, are the three states.\n\nFor the abandonment of these three states, monks, three other states should be developed. Which three? For the abandonment of restlessness, tranquility should be developed; for the abandonment of lack of restraint, restraint should be developed; and for the abandonment of heedlessness, heedfulness should be developed. For the abandonment of these three states, monks, these three other states should be developed.",
       "sinhala": "මහණෙනි, මේ ධර්ම තුනක් ඇත. ඒවා කවරේද? උද්ධච්චය, අසංවරය, ප්‍රමාදයයි. මහණෙනි, මේ ධර්ම තුන නම් මේවායි.\n\nමහණෙනි, මේ ධර්ම තුන ප්‍රහාණය කිරීම පිණිස ධර්ම තුනක් වැඩිය යුතුය. ඒවා කවරේද? උද්ධච්චය ප්‍රහාණය පිණිස සමථය වැඩිය යුතුය, අසංවරය ප්‍රහාණය පිණිස සංවරය වැඩිය යුතුය, ප්‍රමාදය ප්‍රහාණය පිණිස අප්‍රමාදය වැඩිය යුතුය. මහණෙනි, මේ ධර්ම තුන ප්‍රහාණය කිරීම පිණිස මේ ධර්ම තුන වැඩිය යුතුය.",
-      "paliTitle": "Uddhaccasuttaṃ"
+      "paliTitle": "Uddhaccasuttaṃ",
+      "englishTitle": "Discourse on Restlessness",
+      "sinhalaTitle": "උද්දච්ච සූත්‍රය"
     }
   ],
   "footer": {
     "pali": "Tikavaggo ekādasamo. [paṭhamo (syā.)] Tassuddānaṃ – Rāgaduccaritavitakka, saññā dhātūti vuccati; Assādaaratituṭṭhi, duve ca uddhaccena vaggoti.",
-    "english": "",
-    "sinhala": ""
+    "english": "The Eleventh Triad Chapter",
+    "sinhala": "එකොළොස්වන ත්‍ර‌ික වග්ගය"
   }
 }

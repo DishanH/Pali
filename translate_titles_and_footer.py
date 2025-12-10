@@ -278,6 +278,7 @@ CORRECTED SINHALA TEXT (using ONLY Sinhala Unicode U+0D80-U+0DFF):"""
         stats = {
             'titles_translated': 0,
             'titles_skipped': 0,
+            'vaggas_translated': 0,
             'footer_translated': False
         }
         
@@ -301,7 +302,13 @@ CORRECTED SINHALA TEXT (using ONLY Sinhala Unicode U+0D80-U+0DFF):"""
             has_english = section.get('englishTitle', '').strip()
             has_sinhala = section.get('sinhalaTitle', '').strip()
             
-            if has_english and has_sinhala:
+            # Check for vagga field
+            vagga = section.get('vagga', '').strip()
+            has_vagga_english = section.get('vaggaEnglish', '').strip()
+            has_vagga_sinhala = section.get('vaggaSinhala', '').strip()
+            
+            # Skip if all translations exist
+            if has_english and has_sinhala and (not vagga or (has_vagga_english and has_vagga_sinhala)):
                 stats['titles_skipped'] += 1
                 continue
             
@@ -325,6 +332,27 @@ CORRECTED SINHALA TEXT (using ONLY Sinhala Unicode U+0D80-U+0DFF):"""
                     print(f" ✓ {sinhala_title}")
                 else:
                     print(f"  ✓ Sinhala: {has_sinhala}")
+                
+                # Translate vagga if present and missing translations
+                if vagga:
+                    if not has_vagga_english:
+                        print(f"  → English vagga ({vagga})...", end='', flush=True)
+                        english_vagga = self.translate_title(vagga, 'English')
+                        section['vaggaEnglish'] = english_vagga
+                        print(f" ✓ {english_vagga}")
+                    else:
+                        print(f"  ✓ Vagga English: {has_vagga_english}")
+                    
+                    if not has_vagga_sinhala:
+                        print(f"  → Sinhala vagga ({vagga})...", end='', flush=True)
+                        sinhala_vagga = self.translate_title(vagga, 'Sinhala')
+                        section['vaggaSinhala'] = sinhala_vagga
+                        print(f" ✓ {sinhala_vagga}")
+                    else:
+                        print(f"  ✓ Vagga Sinhala: {has_vagga_sinhala}")
+                    
+                    if not has_vagga_english or not has_vagga_sinhala:
+                        stats['vaggas_translated'] += 1
                 
                 stats['titles_translated'] += 1
                 
@@ -385,20 +413,59 @@ CORRECTED SINHALA TEXT (using ONLY Sinhala Unicode U+0D80-U+0DFF):"""
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(chapter_data, f, ensure_ascii=JSON_ENSURE_ASCII, indent=JSON_INDENT)
         
-        logger.info(f"Chapter {chapter_id} completed: {stats['titles_translated']} titles translated, {stats['titles_skipped']} skipped")
-        print(f"\n✅ Completed: {stats['titles_translated']} titles translated, {stats['titles_skipped']} already done")
+        logger.info(f"Chapter {chapter_id} completed: {stats['titles_translated']} titles translated, {stats['vaggas_translated']} vaggas translated, {stats['titles_skipped']} skipped")
+        print(f"\n✅ Completed: {stats['titles_translated']} titles translated, {stats['vaggas_translated']} vaggas translated, {stats['titles_skipped']} already done")
         
         return stats
     
-    def process_directory(self, directory: str, file_pattern: str = "*.json", resume_from_file: str = None, resume_from_section: int = 0):
-        """Process all JSON files in a directory"""
-        json_files = sorted(glob.glob(os.path.join(directory, file_pattern)))
+    def process_directory(self, directory: str, file_pattern: str = "*.json", resume_from_file: str = None, resume_from_section: int = 0, recursive: bool = False):
+        """
+        Process all JSON files in a directory
+        
+        Args:
+            directory: Base directory to search
+            file_pattern: File pattern to match (e.g., "*.json", "mn*.json")
+            resume_from_file: Filename to resume from
+            resume_from_section: Section index to resume from
+            recursive: If True, search all subdirectories for 'chapters' folders
+        """
+        json_files = []
+        
+        if recursive:
+            # Find all 'chapters' subdirectories recursively
+            print(f"\n🔍 Searching for 'chapters' directories in: {directory}")
+            chapters_dirs = []
+            
+            for root, dirs, files in os.walk(directory):
+                if 'chapters' in dirs:
+                    chapters_path = os.path.join(root, 'chapters')
+                    chapters_dirs.append(chapters_path)
+            
+            if not chapters_dirs:
+                print(f"No 'chapters' directories found in {directory}")
+                return
+            
+            print(f"Found {len(chapters_dirs)} chapters directories:")
+            for chapters_dir in sorted(chapters_dirs):
+                rel_path = os.path.relpath(chapters_dir, directory)
+                print(f"  📁 {rel_path}")
+            
+            # Collect all JSON files from all chapters directories
+            for chapters_dir in sorted(chapters_dirs):
+                matching_files = sorted(glob.glob(os.path.join(chapters_dir, file_pattern)))
+                json_files.extend(matching_files)
+                if matching_files:
+                    rel_path = os.path.relpath(chapters_dir, directory)
+                    print(f"  ✓ {len(matching_files)} files in {rel_path}")
+        else:
+            # Single directory mode (original behavior)
+            json_files = sorted(glob.glob(os.path.join(directory, file_pattern)))
         
         if not json_files:
-            print(f"No JSON files found in {directory} matching pattern {file_pattern}")
+            print(f"No JSON files found matching pattern '{file_pattern}'")
             return
         
-        print(f"\nFound {len(json_files)} JSON files to process")
+        print(f"\n📚 Total: {len(json_files)} JSON files to process")
         
         # If resuming, skip files before resume point
         start_index = 0
@@ -406,12 +473,15 @@ CORRECTED SINHALA TEXT (using ONLY Sinhala Unicode U+0D80-U+0DFF):"""
             for idx, json_file in enumerate(json_files):
                 if os.path.basename(json_file) == resume_from_file:
                     start_index = idx
-                    print(f"🔄 Resuming from file: {resume_from_file}")
+                    print(f"\n🔄 Resuming from file: {resume_from_file}")
                     break
+            if start_index == 0 and resume_from_file:
+                print(f"\n⚠ Warning: Resume file '{resume_from_file}' not found. Starting from beginning.")
         
         total_stats = {
             'files_processed': 0,
             'titles_translated': 0,
+            'vaggas_translated': 0,
             'titles_skipped': 0,
             'footers_translated': 0
         }
@@ -424,6 +494,7 @@ CORRECTED SINHALA TEXT (using ONLY Sinhala Unicode U+0D80-U+0DFF):"""
                 stats = self.process_json_file(json_file, resume_from_section=section_resume)
                 total_stats['files_processed'] += 1
                 total_stats['titles_translated'] += stats['titles_translated']
+                total_stats['vaggas_translated'] += stats['vaggas_translated']
                 total_stats['titles_skipped'] += stats['titles_skipped']
                 if stats['footer_translated']:
                     total_stats['footers_translated'] += 1
@@ -444,6 +515,7 @@ CORRECTED SINHALA TEXT (using ONLY Sinhala Unicode U+0D80-U+0DFF):"""
         print(f"{'='*60}")
         print(f"Files processed: {total_stats['files_processed']}")
         print(f"Titles translated: {total_stats['titles_translated']}")
+        print(f"Vaggas translated: {total_stats['vaggas_translated']}")
         print(f"Titles skipped: {total_stats['titles_skipped']}")
         print(f"Footers translated: {total_stats['footers_translated']}")
         print(f"{'='*60}")
@@ -473,7 +545,11 @@ def main():
         return
     
     # Get directory path
-    directory = input("\nEnter path to chapters directory (e.g., Pāthikavaggapāḷi/chapters): ").strip()
+    print("\nDirectory Options:")
+    print("  1. Single chapters directory (e.g., Majjhimanikāye/Uparipaṇṇāsapāḷi/chapters)")
+    print("  2. Parent directory with multiple subdirectories (e.g., Majjhimanikāye)")
+    
+    directory = input("\nEnter directory path: ").strip()
     
     if not directory:
         directory = "Pāthikavaggapāḷi/chapters"
@@ -482,13 +558,32 @@ def main():
         print(f"ERROR: Directory not found: {directory}")
         return
     
+    # Determine if recursive search is needed
+    recursive = False
+    has_chapters_subdir = os.path.exists(os.path.join(directory, 'chapters'))
+    is_chapters_dir = os.path.basename(directory) == 'chapters'
+    
+    if not is_chapters_dir and not has_chapters_subdir:
+        # Check if there are subdirectories with 'chapters' folders
+        has_nested_chapters = False
+        for root, dirs, files in os.walk(directory):
+            if 'chapters' in dirs:
+                has_nested_chapters = True
+                break
+        
+        if has_nested_chapters:
+            recursive_input = input("\nFound subdirectories with 'chapters' folders. Search recursively? (y/n, default: y): ").strip().lower()
+            recursive = recursive_input != 'n'
+        else:
+            print("\nNo 'chapters' subdirectories found. Will search in the specified directory.")
+    
     # Ask about file pattern
-    file_pattern = input("\nEnter file pattern (default: dn*.json for dn1, dn2, etc.): ").strip()
+    file_pattern = input("\nEnter file pattern (default: *.json, examples: mn*.json, dn*.json): ").strip()
     if not file_pattern:
-        file_pattern = "dn*.json"
+        file_pattern = "*.json"
     
     # Ask about resuming
-    resume_from_file = input("\nResume from file (e.g., dn10-Subhasuttaṃ.json) or press Enter to start from beginning: ").strip()
+    resume_from_file = input("\nResume from file (e.g., mn.3.1-Devadahavaggo.json) or press Enter to start from beginning: ").strip()
     resume_from_section = 0
     
     if resume_from_file:
@@ -508,7 +603,8 @@ def main():
             directory, 
             file_pattern=file_pattern,
             resume_from_file=resume_from_file,
-            resume_from_section=resume_from_section
+            resume_from_section=resume_from_section,
+            recursive=recursive
         )
         print("\n✓ Translation process completed!")
     except Exception as e:

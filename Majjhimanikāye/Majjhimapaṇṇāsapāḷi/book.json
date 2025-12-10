@@ -5,6 +5,11 @@
     "english": "",
     "sinhala": ""
   },
+  "footer": {
+    "pali": "Majjhimapaṇṇāsakaṃ samattaṃ.",
+    "english": "",
+    "sinhala": ""
+  },
   "chapters": [
     {
       "id": "mn.2.1",

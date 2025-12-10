@@ -101,19 +101,26 @@ class KhuddakaExtractor:
         for i, line in enumerate(lines):
             line_stripped = line.strip()
             
-            # Pattern 1: Vaggo - "1. Yamakavaggo"
+            # Pattern 1: Vaggo with number - "1. Yamakavaggo"
             match1 = re.match(r'^(\d+)\.\s+(.+vaggo)$', line_stripped, re.IGNORECASE)
             # Pattern 2: Nipāta - "1. Uragavaggo" (Sutta Nipāta style)
             match2 = re.match(r'^(\d+)\.\s+(.+nipāta)$', line_stripped, re.IGNORECASE)
             # Pattern 3: Vatthu - "1. Upakāravatthu" (for Vimānavatthu, Petavatthu)
             match3 = re.match(r'^(\d+)\.\s+(.+vatthu)$', line_stripped, re.IGNORECASE)
-            # Pattern 4: Named sections - look for titles with specific keywords
-            match4 = re.match(r'^(\d+)\.\s+([A-ZĀĪŪṄÑṬḌṆḶṂ].+)$', line_stripped)
+            # Pattern 4: Vaggo without number - "Pārāyanavaggo", "Paṭhamavaggo" (Cūḷaniddesa style)
+            match4 = re.match(r'^([A-ZĀĪŪṄÑṬḌṆḶṂ][a-zāīūṅñṭḍṇḷṃ]+vaggo)$', line_stripped, re.IGNORECASE)
+            # Pattern 5: Named sections - look for titles with specific keywords
+            match5 = re.match(r'^(\d+)\.\s+([A-ZĀĪŪṄÑṬḌṆḶṂ].+)$', line_stripped)
             
-            match = match1 or match2 or match3
+            match = match1 or match2 or match3 or match4
             if match:
-                chapter_num = int(match.group(1))
-                chapter_title = match.group(2)
+                if match4:
+                    # Vaggo without number - use sequential numbering
+                    chapter_num = len(chapters) + 1
+                    chapter_title = match.group(1)
+                else:
+                    chapter_num = int(match.group(1))
+                    chapter_title = match.group(2)
                 
                 # Generate ID
                 chapter_id = f"{self.book_config['id_prefix']}.{len(chapters) + 1}"
@@ -174,21 +181,37 @@ class KhuddakaExtractor:
         
         return boundaries
     
-    def extract_sections_from_chapter(self, chapter_text: str) -> List[Dict]:
+    def extract_sections_from_chapter(self, chapter_text: str, chapter_title: str) -> List[Dict]:
         """
         Extract numbered sections from a chapter
         Handles various formats:
-        - Numbered verses/sections
+        - Numbered verses/sections with vagga grouping
+        - Number ranges (e.g., 51-60)
         - Sutta-like structures
+        Section numbers reset within each vagga
         """
         lines = chapter_text.split('\n')
         sections = []
         current_section = None
         current_lines = []
         current_title = None
+        current_vagga = chapter_title  # Default vagga is the chapter title
         
-        # Skip the first line (chapter title)
-        start_idx = 1
+        # Skip header lines (Namo, Khuddakanikāye, book title, chapter title)
+        start_idx = 0
+        for idx, line in enumerate(lines):
+            line_stripped = line.strip()
+            # Skip empty lines and common headers
+            if not line_stripped or line_stripped.startswith('Namo') or line_stripped == 'Khuddakanikāye':
+                continue
+            # If we find the chapter title, start after it
+            if line_stripped == chapter_title:
+                start_idx = idx + 1
+                break
+            # If we find a numbered item or section title, start from there
+            if re.match(r'^\d+\.', line_stripped):
+                start_idx = idx
+                break
         
         for i in range(start_idx, len(lines)):
             line_stripped = lines[i].strip()
@@ -196,16 +219,68 @@ class KhuddakaExtractor:
             if not line_stripped:
                 continue
             
-            # Check for sutta/section title (optional)
-            title_match = re.match(r'^(\d+)\.\s+(.+suttaṃ)$', line_stripped, re.IGNORECASE)
-            if title_match:
-                current_title = title_match.group(2)
+            # Check for vagga markers (sub-chapters within a chapter)
+            # Pattern: "1. Yamakavaggo" or "2. Appamādavaggo"
+            vagga_match = re.match(r'^(\d+)\.\s+(.+vaggo)$', line_stripped, re.IGNORECASE)
+            if vagga_match:
+                current_vagga = vagga_match.group(2)
                 continue
             
+            # Check for sutta/section title with range: "51-60. Suttadasakaṃ"
+            title_range_match = re.match(r'^(\d+)-(\d+)\.\s+(.+suttaṃ|.+suttapañcakaṃ|.+suttadasakaṃ)$', line_stripped, re.IGNORECASE)
+            # Check for sutta/section title (optional) - broader pattern to catch more titles
+            # Matches patterns like "1. Akitticariyā", "2. Tissametteyyamāṇavapucchā", etc.
+            title_match = re.match(r'^(\d+)\.\s+([A-ZĀĪŪṄÑṬḌṆḶṂ][a-zāīūṅñṭḍṇḷṃ]+(?:suttaṃ|cariyā|kaṇḍaṃ|niddeso|vaggo|kathā|pucchā|gāthā))$', line_stripped, re.IGNORECASE)
+            # Check for standalone title without number (like "Vatthugāthā")
+            standalone_title_match = re.match(r'^([A-ZĀĪŪṄÑṬḌṆḶṂ][a-zāīūṅñṭḍṇḷṃ]+(?:gāthā|niddeso|kathā|pucchā))$', line_stripped, re.IGNORECASE)
+            
+            if title_range_match:
+                current_title = title_range_match.group(3)
+                continue
+            elif title_match:
+                current_title = title_match.group(2)
+                continue
+            elif standalone_title_match:
+                current_title = standalone_title_match.group(1)
+                continue
+            
+            # Check for numbered section/verse with range
+            section_range_match = re.match(r'^(\d+)-(\d+)\.\s*(.*)$', line_stripped)
             # Check for numbered section/verse
             section_match = re.match(r'^(\d+)\.\s*(.*)$', line_stripped)
             
-            if section_match:
+            if section_range_match:
+                # Save previous section
+                if current_section is not None:
+                    current_section['pali'] = ' '.join(current_lines)
+                    sections.append(current_section)
+                
+                start_num = int(section_range_match.group(1))
+                end_num = int(section_range_match.group(2))
+                number_range = f"{start_num}-{end_num}"
+                rest_of_line = section_range_match.group(3)
+                
+                current_section = {
+                    "number": start_num,
+                    "numberRange": number_range,
+                    "pali": "",
+                    "english": "",
+                    "sinhala": "",
+                    "paliTitle": current_title if current_title else ""
+                }
+                
+                # Only add vagga if it's different from chapter title
+                if current_vagga != chapter_title:
+                    current_section["vagga"] = current_vagga
+                
+                # Include the rest of the line if present
+                if rest_of_line:
+                    current_lines = [rest_of_line]
+                else:
+                    current_lines = []
+                    
+                current_title = None  # Reset after using
+            elif section_match:
                 # Save previous section
                 if current_section is not None:
                     current_section['pali'] = ' '.join(current_lines)
@@ -221,6 +296,10 @@ class KhuddakaExtractor:
                     "sinhala": "",
                     "paliTitle": current_title if current_title else ""
                 }
+                
+                # Only add vagga if it's different from chapter title
+                if current_vagga != chapter_title:
+                    current_section["vagga"] = current_vagga
                 
                 # Include the rest of the line if present
                 if rest_of_line:
@@ -242,6 +321,9 @@ class KhuddakaExtractor:
                         "sinhala": "",
                         "paliTitle": ""
                     }
+                    # Only add vagga if it's different from chapter title
+                    if current_vagga != chapter_title:
+                        current_section["vagga"] = current_vagga
                     current_lines = [line_stripped]
         
         # Save the last section
@@ -253,7 +335,7 @@ class KhuddakaExtractor:
     
     def create_chapter_json(self, chapter_info: Dict, chapter_text: str) -> Dict:
         """Create a JSON structure for a chapter"""
-        sections = self.extract_sections_from_chapter(chapter_text)
+        sections = self.extract_sections_from_chapter(chapter_text, chapter_info['title'])
         
         chapter_json = {
             "id": chapter_info['id'],

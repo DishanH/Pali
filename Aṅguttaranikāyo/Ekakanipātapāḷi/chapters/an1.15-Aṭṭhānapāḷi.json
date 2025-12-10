@@ -11,7 +11,9 @@
       "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ diṭṭhisampanno puggalo kañci [kiñci (ka.)] saṅkhāraṃ niccato upagaccheyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ puthujjano kañci saṅkhāraṃ niccato upagaccheyya. Ṭhānametaṃ vijjatī’’ti.",
       "english": "Monks, it is impossible, it is inconceivable, that a person endowed with right view would regard any conditioned phenomenon as permanent. Such a possibility does not exist. However, Monks, it is indeed a possibility that an ordinary person would regard any conditioned phenomenon as permanent. Such a possibility does exist.",
       "sinhala": "භික්ෂූණි, යම් දෘෂ්ටි සම්පන්න වූ පුද්ගලයෙක් කිසිදු සංස්කාරයක් නිත්‍ය වශයෙන් ගන්නේ නම්, මෙය අටුවානක්මය, අනවකාශයකි. එවැනි අවස්ථාවක් නොපවතී.\n\nඑහෙත් භික්ෂූණි, යම් පෘථග්ජන පුද්ගලයෙක් කිසිදු සංස්කාරයක් නිත්‍ය වශයෙන් ගන්නේ නම්, එවැනි අවස්ථාවක් පවතී. මෙය විය හැකි අවස්ථාවකි.",
-      "paliTitle": "1. Paṭhamavaggo"
+      "paliTitle": "1. Paṭhamavaggo",
+      "englishTitle": "1. First Section",
+      "sinhalaTitle": "පළමු වග්‍‌ගය"
     },
     {
       "number": 269,
@@ -81,7 +83,9 @@
       "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ ekissā lokadhātuyā dve rājāno cakkavattī apubbaṃ acarimaṃ uppajjeyyuṃ. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ ekissā lokadhātuyā eko rājā cakkavattī uppajjeyya. Ṭhānametaṃ vijjatī’’ti.",
       "english": "It is impossible, monks, there is no occasion for two Universal Monarchs to arise simultaneously in a single world-system. That is not a possible state of affairs. But, monks, this is indeed possible: for one Universal Monarch to arise in a single world-system. This is a possible state of affairs.",
       "sinhala": "මහණෙනි, එකම ලෝක ධාතුවක චක්‍රවර්තී රජවරුන් දෙදෙනෙකු එකවර, පෙර නොපසු ලෙස පහළ වීම අට්ඨානමය දෙයකි, අනවකාසයකි. එවැනි දෙයක් සිදු විය නොහැක්කකි. මහණෙනි, එකම ලෝක ධාතුවක එක් චක්‍රවර්තී රජෙකු පහළ වීම ඨානමය දෙයකි, සිදු විය හැකි දෙයකි.",
-      "paliTitle": "2. Dutiyavaggo"
+      "paliTitle": "2. Dutiyavaggo",
+      "englishTitle": "The Second Section",
+      "sinhalaTitle": "2. දෙවන වර්‍ගය"
     },
     {
       "number": 279,
@@ -125,7 +129,9 @@
       "pali": "‘‘Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ kāyasucaritassa aniṭṭho akanto amanāpo vipāko nibbatteyya. Netaṃ ṭhānaṃ vijjati. Ṭhānañca kho etaṃ, bhikkhave, vijjati yaṃ kāyasucaritassa iṭṭho kanto manāpo vipāko nibbatteyya. Ṭhānametaṃ vijjatī’’ti.",
       "english": "Monks, it is impossible, there is no occasion for it, that an undesirable, unagreeable, and displeasing result should arise from wholesome bodily conduct. Such a situation does not exist. However, Monks, this is indeed possible, such a situation does exist, that a desirable, agreeable, and pleasing result should arise from wholesome bodily conduct. This is indeed possible.",
       "sinhala": "මහණෙනි, කයින් කළ සුචරිතයකට අනිෂ්ට වූද, අප්‍රි‍ය වූද, නොමනාප වූද විපාකයක් හටගැනීම කිසිසේත් සිදුවිය නොහැකි, අවකාශයක් නොමැති දෙයකි. එවැනි කරුණක් නොපවතී. එහෙත් මහණෙනි, කයින් කළ සුචරිතයකට ඉෂ්ට වූද, ප්‍රි‍ය වූද, මනාප වූද විපාකයක් හටගැනීම සිදුවිය හැකි කරුණකි. එවැනි කරුණක් පවතී.",
-      "paliTitle": "3. Tatiyavaggo"
+      "paliTitle": "3. Tatiyavaggo",
+      "englishTitle": "The Third Section",
+      "sinhalaTitle": "තුන්‍වන වග්‍ගය"
     },
     {
       "number": 288,
@@ -168,7 +174,7 @@
   ],
   "footer": {
     "pali": "Vaggo tatiyo. Aṭṭhānapāḷi pannarasamo.",
-    "english": "",
-    "sinhala": ""
+    "english": "Third Chapter. Fifteenth Passage on Impossibilities.",
+    "sinhala": "තෙවන වග‍්ගය. පහළොස්වන අට‍්ඨානපාළිය."
   }
 }

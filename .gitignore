@@ -44,6 +44,7 @@ translator.log
 .env.local
 *.key
 api_key.txt
+api_key_state.json
 
 # Cache
 translation_cache.json

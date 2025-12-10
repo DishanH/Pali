@@ -11,7 +11,9 @@
       "pali": "‘‘Etadaggaṃ, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ rattaññūnaṃ yadidaṃ aññāsikoṇḍañño’’ [aññātakoṇḍaññoti (ka.), aññākoṇḍañño (sī. syā. kaṃ. pī.)].",
       "english": "Monks, among my disciple monks who are of long standing, Aññāsi Koṇḍañña is the foremost.",
       "sinhala": "මහණෙනි, මගේ ශ්‍රා‍වක භික්ෂූන් අතුරින්, දිගු කලක් සසුනේ හික්මී, ගැඹුරු ධර්‍ම ඥානය ලද්දවුන් අතරින්, අඤ්ඤාසි කොණ්ඩඤ්ඤ ස්ථවිරයන් වහන්සේ අග්‍ර‍ වෙති.",
-      "paliTitle": "1. Paṭhamavaggo"
+      "paliTitle": "1. Paṭhamavaggo",
+      "englishTitle": "First Section",
+      "sinhalaTitle": "පළමු වග්ගය"
     },
     {
       "number": 189,
@@ -81,7 +83,9 @@
       "pali": "‘‘Etadaggaṃ, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ manomayaṃ kāyaṃ abhinimminantānaṃ yadidaṃ cūḷapanthako’’ [cullapanthako (sī. syā. kaṃ. pī.)].",
       "english": "Monks, among my disciple monks, of those who create mind-made bodies, Cūḷapanthaka is the foremost.",
       "sinhala": "භික්ෂූන් වහන්ස, මනෝමය කය මවාගන්නා මාගේ ශ්‍රා​වක භික්ෂූන් අතුරින් චූලපන්ථක ස්ථවිරයන් වහන්සේ ප්‍රධාන වෙති.",
-      "paliTitle": "Dutiyavaggo"
+      "paliTitle": "Dutiyavaggo",
+      "englishTitle": "The Second Section",
+      "sinhalaTitle": "දෙවන වර්ගය"
     },
     {
       "number": 199,
@@ -158,7 +162,9 @@
       "pali": "‘‘Etadaggaṃ, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ sikkhākāmānaṃ yadidaṃ rāhulo’’.",
       "english": "Monks, among my monk disciples who are keen on training, Rahula is the foremost.",
       "sinhala": "භික්ෂූනි, මාගේ ශ්‍රාවක භික්ෂූන් අතුරින් ශික්‍ෂාකාමී වූවන්ගෙන් අග්‍ර වන්නේ රාහුල යි.",
-      "paliTitle": "Tatiyavaggo"
+      "paliTitle": "Tatiyavaggo",
+      "englishTitle": "Third Section",
+      "sinhalaTitle": "තෙවැනි වර්ගය"
     },
     {
       "number": 210,
@@ -228,7 +234,9 @@
       "pali": "‘‘Etadaggaṃ, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ bahussutānaṃ yadidaṃ ānando’’.",
       "english": "Monks, among my bhikkhu disciples who are extensively learned, Ananda is the foremost.",
       "sinhala": "මහණෙනි, මාගේ ශ්‍රාවක භික්ෂූන් අතුරෙන් බහුශ්‍රැතයන් අතුරෙහි ආනන්ද අග්‍ර වන්නේ ය.",
-      "paliTitle": "Catutthavaggo"
+      "paliTitle": "Catutthavaggo",
+      "englishTitle": "The Fourth Section",
+      "sinhalaTitle": "සිව්වන වග්‍ගය"
     },
     {
       "number": 220,
@@ -340,7 +348,9 @@
       "pali": "‘‘Etadaggaṃ, bhikkhave, mama sāvikānaṃ bhikkhunīnaṃ rattaññūnaṃ yadidaṃ mahāpajāpatigotamī’’.",
       "english": "Monks, among my female disciples, the bhikkhunīs who are of long standing, Mahāpajāpatī Gotamī is foremost.",
       "sinhala": "මහණෙනි, මාගේ ශ්‍රාවිකා භික්ෂුණීන් අතුරින්, දීර්ඝ කාලයක් සසුනේ පැවැතීමෙන් ප්‍රඥාව ලැබූවන් අතරින්, මහාප්‍රජාපතී ගෝතමිය අග්‍ර වන්නීය.",
-      "paliTitle": "Pañcamavaggo"
+      "paliTitle": "Pañcamavaggo",
+      "englishTitle": "The Fifth Section",
+      "sinhalaTitle": "පස්වන වග්ගය"
     },
     {
       "number": 236,
@@ -431,7 +441,9 @@
       "pali": "‘‘Etadaggaṃ, bhikkhave, mama sāvakānaṃ upāsakānaṃ paṭhamaṃ saraṇaṃ gacchantānaṃ yadidaṃ tapussabhallikā [tapassubhallikā (sī. pī.)] vāṇijā’’.",
       "english": "Monks, foremost among my lay follower disciples who went for refuge for the first time are the merchants Tapussa and Bhallika.",
       "sinhala": "මහණෙනි, මාගේ ශ්‍රාවකයන් වන උපාසකවරුන් අතුරින්, මුලින්ම සරණ ගියවුන් අතර මේ කරුණෙහිලා අග්‍රස්ථානයට පත්වූවෝ නම්, තපස්සු භල්ලික යන වෙළෙන්දෝය.",
-      "paliTitle": "Chaṭṭhavaggo"
+      "paliTitle": "Chaṭṭhavaggo",
+      "englishTitle": "The Sixth Section",
+      "sinhalaTitle": "හයවැනි වග්ගය"
     },
     {
       "number": 249,
@@ -501,7 +513,9 @@
       "pali": "‘‘Etadaggaṃ, bhikkhave, mama sāvikānaṃ upāsikānaṃ paṭhamaṃ saraṇaṃ gacchantīnaṃ yadidaṃ sujātā seniyadhītā’’ [senānī dhītā (sī. syā. kaṃ. pī.)].",
       "english": "Monks, among my female lay disciples who first went for refuge, Sujātā, the daughter of Seniya, is foremost.",
       "sinhala": "මහණෙනි, මාගේ ශ්‍රාවිකාවන් වන උපාසිකාවන් අතුරින් පළමුව සරණ ගියවුන් අතරින් අග්‍රස්ථානය හිමි වන්නේ සේනිය දියණිය වූ සුජාතාවට යි.",
-      "paliTitle": "Sattamavaggo"
+      "paliTitle": "Sattamavaggo",
+      "englishTitle": "Seventh Chapter",
+      "sinhalaTitle": "සත‍්වන වග‍්ගය"
     },
     {
       "number": 259,
@@ -569,7 +583,7 @@
   ],
   "footer": {
     "pali": "Vaggo sattamo. Etadaggavaggo cuddasamo.",
-    "english": "",
-    "sinhala": ""
+    "english": "Chapter Seven. Etadagga Chapter Fourteen.",
+    "sinhala": "සත්වන වග්ගය. දසසතරවන එතදග්ග වග්ගය."
   }
 }

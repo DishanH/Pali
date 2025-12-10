@@ -175,6 +175,12 @@ def main():
         print(f"[{i}/{len(books)}] {book_info['name']}")
         print("=" * 80)
         
+        # Skip Buddhavaṃsapāḷi (manually fixed by user)
+        if book_info['name'] == 'Buddhavaṃsapāḷi':
+            print(f"⚠️  Skipping: Buddhavaṃsapāḷi (manually fixed)")
+            skipped += 1
+            continue
+        
         pdf_path = os.path.join(base_pdf_dir, book_info['pdf_filename'])
         output_dir = os.path.join(base_output_dir, book_info['name'])
         

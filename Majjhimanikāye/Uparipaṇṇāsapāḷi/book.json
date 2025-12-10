@@ -5,6 +5,11 @@
     "english": "",
     "sinhala": ""
   },
+  "footer": {
+    "pali": "Uparipaṇṇāsakaṃ samattaṃ. Tīhi paṇṇāsakehi paṭimaṇḍito sakalo Majjhimanikāyo samatto.",
+    "english": "",
+    "sinhala": ""
+  },
   "chapters": [
     {
       "id": "mn.3.1",
