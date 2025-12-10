@@ -23,11 +23,11 @@ try:
         RETRY_DELAY, SERVER_OVERLOAD_RETRY_DELAY, API_TIMEOUT, MAX_CHUNK_SIZE
     )
 except ImportError:
-    MODEL_NAME = 'gemini-1.5-flash'
-    VERIFY_MODEL_NAME = 'gemini-1.5-flash'
+    MODEL_NAME = 'gemini-2.5-flash'
+    VERIFY_MODEL_NAME = 'gemini-2.5-flash'
     ENABLE_VERIFICATION = False
-    VERIFY_DELAY = 0.5
-    RATE_LIMIT_DELAY = 1.0
+    VERIFY_DELAY = 13.0
+    RATE_LIMIT_DELAY = 13.0
     TRANSLATION_TEMPERATURE = 0.3
     LOG_LEVEL = 'INFO'
     LOG_FILE = 'translator.log'
@@ -874,16 +874,16 @@ def main():
         return
     
     # Get RPM limit
-    rpm_input = input("\nEnter your API RPM limit (10 for free tier, 15 for basic, press Enter for default 10): ").strip()
-    rpm_limit = 10  # Default
+    rpm_input = input("\nEnter your API RPM limit (5 for gemini-2.5-flash, 10 for older models, press Enter for default 5): ").strip()
+    rpm_limit = 5  # Default for gemini-2.5-flash (Dec 2024)
     if rpm_input:
         try:
             rpm_limit = int(rpm_input)
             if rpm_limit < 1:
-                print("Invalid RPM limit, using default: 10")
-                rpm_limit = 10
+                print("Invalid RPM limit, using default: 5")
+                rpm_limit = 5
         except ValueError:
-            print("Invalid input, using default RPM limit: 10")
+            print("Invalid input, using default RPM limit: 5")
     
     print(f"✓ Using RPM limit: {rpm_limit} requests per minute")
     

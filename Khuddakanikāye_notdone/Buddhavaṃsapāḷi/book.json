@@ -1,0 +1,23 @@
+{
+  "name": "Buddhavaṃsapāḷi",
+  "title": {
+    "pali": "Buddhavaṃsapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Buddhavaṃsoniṭṭhito",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "bv.1",
+      "title": {
+        "pali": "Buddhavaṃsapāḷi",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

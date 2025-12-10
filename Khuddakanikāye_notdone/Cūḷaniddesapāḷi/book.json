@@ -1,0 +1,55 @@
+{
+  "name": "Cūḷaniddesapāḷi",
+  "title": {
+    "pali": "Cūḷaniddesapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "Cūḷaniddesapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "cnd.1",
+      "title": {
+        "pali": "Pārāyanavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "cnd.2",
+      "title": {
+        "pali": "Paṭhamavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "cnd.3",
+      "title": {
+        "pali": "Dutiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "cnd.4",
+      "title": {
+        "pali": "Tatiyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "cnd.5",
+      "title": {
+        "pali": "Catutthavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "name": "Dhammapadapāḷi",
+  "title": {
+    "pali": "Dhammapadapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer": {
+    "pali": "(Ettāvatā sabbapaṭhame yamakavagge cuddasa vatthūni, appamādavagge nava, cittavagge nava, pupphavagge dvādasa, bālavagge pannarasa, paṇḍitavagge ekādasa, arahantavagge dasa, sahassavagge cuddasa, pāpavagge dvādasa, daṇḍavagge ekādasa, jarāvagge nava, attavagge dasa, lokavagge ekādasa, buddhavagge nava [aṭṭha (ka.)], sukhavagge aṭṭha, piyavagge nava, kodhavagge aṭṭha, malavagge dvādasa, dhammaṭṭhavagge dasa, maggavagge dvādasa, pakiṇṇakavagge nava, nirayavagge nava, nāgavagge aṭṭha, taṇhāvagge dvādasa, bhikkhuvagge dvādasa, brāhmaṇavagge cattālīsāti pañcādhikāni tīṇi vatthusatāni. Satevīsacatussatā, catusaccavibhāvinā; Satattayañca vatthūnaṃ, pañcādhikaṃ samuṭṭhitāti) [( ) etthantare pāṭho videsapotthakesu natthi, aṭṭhakathāsuyeva dissati]. [dhammapadassa vaggassuddānaṃ§yamakaṃ pamādaṃ cittaṃ, pupphaṃ bālañca paṇḍitaṃ.§rahantaṃ sahassaṃ pāpaṃ, daṇḍaṃ jarā attalokaṃ.§buddhaṃ sukhaṃ piyaṃ kodhaṃ, malaṃ dhammaṭṭhamaggañca.§pakiṇṇakaṃ nirayaṃ nāgaṃ, taṇhā bhikkhū ca brāhmaṇo.§gāthāyuddānaṃ§yamake vīsagāthāyo, appamādalokamhi ca.§piye dvādasagāthāyo, citte jarattekādasa.§pupphabālasahassamhi, buddha magga pakiṇṇake.§soḷasa paṇḍite kodhe, niraye nāge catuddasa.§arahante dasaggāthā, pāpasukhamhi terasa.§sattarasa daṇḍadhammaṭṭhe, malamhi ekavīsati.§taṇhāvagge sattabbīsa, tevīsa bhikkhuvaggamhi.§brāhmaṇe ekatālīsa, catussatā satevīsa. (ka.)] Dhammapade vaggānamuddānaṃ – Yamakappamādo cittaṃ, pupphaṃ bālena paṇḍito; Arahanto sahassañca, pāpaṃ daṇḍena te dasa. Jarā attā ca loko ca, buddho sukhaṃ piyena ca; Kodho malañca dhammaṭṭho, maggavaggena vīsati. Pakiṇṇaṃ nirayo nāgo, taṇhā bhikkhu ca brāhmaṇo; Ete chabbīsati vaggā, desitādiccabandhunā. Gāthānamuddānaṃ – Yamake vīsati gāthā, appamādamhi dvādasa; Ekādasa cittavagge, pupphavaggamhi soḷasa. Bāle ca soḷasa gāthā, paṇḍitamhi catuddasa; Arahante dasa gāthā, sahasse honti soḷasa. Terasa pāpavaggamhi, daṇḍamhi dasa satta ca; Ekādasa jarā vagge, attavaggamhi tā dasa. Dvādasa lokavaggamhi, buddhavaggamhi ṭhārasa [soḷasa (sabbattha)]; Sukhe ca piyavagge ca, gāthāyo honti dvādasa. Cuddasa kodhavaggamhi, malavaggekavīsati; Sattarasa ca dhammaṭṭhe, maggavagge sattarasa. Pakiṇṇe soḷasa gāthā, niraye nāge ca cuddasa; Chabbīsa taṇhāvaggamhi, tevīsa bhikkhuvaggikā. Ekatālīsagāthāyo, brāhmaṇe vaggamuttame; Gāthāsatāni cattāri, tevīsa ca punāpare; Dhammapade nipātamhi, desitādiccabandhunāti. Dhammapadapāḷi niṭṭhitā.",
+    "english": "",
+    "sinhala": ""
+  },
+  "chapters": [
+    {
+      "id": "dhp.1",
+      "title": {
+        "pali": "Yamakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.2",
+      "title": {
+        "pali": "Appamādavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.3",
+      "title": {
+        "pali": "Cittavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.4",
+      "title": {
+        "pali": "Pupphavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.5",
+      "title": {
+        "pali": "Bālavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.6",
+      "title": {
+        "pali": "Paṇḍitavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.7",
+      "title": {
+        "pali": "Arahantavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.8",
+      "title": {
+        "pali": "Sahassavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.9",
+      "title": {
+        "pali": "Pāpavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.10",
+      "title": {
+        "pali": "Daṇḍavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.11",
+      "title": {
+        "pali": "Jarāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.12",
+      "title": {
+        "pali": "Attavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.13",
+      "title": {
+        "pali": "Lokavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.14",
+      "title": {
+        "pali": "Buddhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.15",
+      "title": {
+        "pali": "Sukhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.16",
+      "title": {
+        "pali": "Piyavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.17",
+      "title": {
+        "pali": "Kodhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.18",
+      "title": {
+        "pali": "Malavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.19",
+      "title": {
+        "pali": "Dhammaṭṭhavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.20",
+      "title": {
+        "pali": "Maggavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.21",
+      "title": {
+        "pali": "Pakiṇṇakavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.22",
+      "title": {
+        "pali": "Nirayavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.23",
+      "title": {
+        "pali": "Nāgavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.24",
+      "title": {
+        "pali": "Taṇhāvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.25",
+      "title": {
+        "pali": "Bhikkhuvaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "dhp.26",
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

@@ -13,6 +13,14 @@ from pathlib import Path
 from typing import Dict, List
 import logging
 
+# Import API Key Manager
+try:
+    from api_key_manager import APIKeyManager, load_env_file
+    HAS_KEY_MANAGER = True
+except ImportError:
+    HAS_KEY_MANAGER = False
+    print("⚠️  Warning: api_key_manager.py not found. Multi-key rotation disabled.")
+
 # Import configuration
 try:
     from config import (
@@ -49,17 +57,33 @@ logger = logging.getLogger(__name__)
 class TitleTranslator:
     """Translates paliTitle and footer fields in JSON chapter files"""
     
-    def __init__(self, api_key: str):
-        """Initialize the translator with Google Generative AI"""
-        if not api_key:
-            api_key = os.getenv("GOOGLE_API_KEY", "")
+    def __init__(self, api_key: str = None, key_manager: APIKeyManager = None):
+        """
+        Initialize the translator with Google Generative AI
         
-        if not api_key:
-            raise ValueError("API key is required. Set API_KEY or GOOGLE_API_KEY environment variable")
+        Args:
+            api_key: Single API key (legacy mode)
+            key_manager: APIKeyManager instance for multi-key rotation
+        """
+        self.key_manager = key_manager
+        
+        if key_manager:
+            # Use key manager for automatic rotation
+            api_key = key_manager.get_current_key()
+            logger.info(f"Title Translator initialized with API Key Manager ({key_manager.get_status()['total_keys']} keys)")
+        else:
+            # Legacy single key mode
+            if not api_key:
+                api_key = os.getenv("GOOGLE_API_KEY", "")
+            
+            if not api_key:
+                raise ValueError("API key is required. Set API_KEY or GOOGLE_API_KEY environment variable")
+            
+            logger.info("Title Translator initialized with single API key (no rotation)")
         
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(MODEL_NAME)
-        logger.info(f"Title Translator initialized with model: {MODEL_NAME}")
+        logger.info(f"Using model: {MODEL_NAME}")
     
     def validate_sinhala_characters(self, text: str) -> tuple:
         """Validate that Sinhala text doesn't contain foreign script characters"""
@@ -136,6 +160,14 @@ class TitleTranslator:
         text = text.strip()
         
         return text
+    
+    def _reconfigure_api(self):
+        """Reconfigure API with current key from key manager"""
+        if self.key_manager:
+            api_key = self.key_manager.get_current_key()
+            genai.configure(api_key=api_key)
+            self.model = genai.GenerativeModel(MODEL_NAME)
+            logger.info("API reconfigured with new key")
     
     def translate_title(self, pali_title: str, target_language: str, retry_count: int = 0) -> str:
         """Translate a Pali title to target language"""
@@ -223,6 +255,15 @@ CORRECTED SINHALA TEXT (using ONLY Sinhala Unicode U+0D80-U+0DFF):"""
                         logger.warning(f"Failed to fix foreign characters: {str(fix_error)}")
             
             logger.info(f"Title translation completed: {translation}")
+            
+            # Track request count and check for key rotation
+            if self.key_manager:
+                self.key_manager.increment_request_count()
+                
+                # Check if we just rotated (count reset to 0)
+                if self.key_manager.request_count == 0:
+                    self._reconfigure_api()
+            
             time.sleep(RATE_LIMIT_DELAY)
             
             return translation
@@ -527,19 +568,60 @@ def main():
     print("Section Title & Footer Translator")
     print("=" * 60)
     
-    # Get API key
-    api_key = input("Enter your Google Generative AI API key (or press Enter to use env variable): ").strip()
+    # Check for .env file and load it
+    env_file = '.env'
+    if os.path.exists(env_file):
+        print(f"\n✓ Found {env_file} file")
+        if HAS_KEY_MANAGER:
+            load_env_file(env_file)
     
-    if not api_key:
-        api_key = os.getenv("GOOGLE_API_KEY", "")
+    # Ask about using multi-key rotation
+    key_manager = None
+    use_multi_key = False
     
-    if not api_key:
-        print("ERROR: No API key provided. Set GOOGLE_API_KEY environment variable or enter it when prompted.")
-        return
+    if HAS_KEY_MANAGER:
+        multi_key_input = input("\nUse automatic API key rotation? (y/n, default: y): ").strip().lower()
+        use_multi_key = multi_key_input != 'n'
+        
+        if use_multi_key:
+            try:
+                # Try to create key manager from .env
+                max_requests = int(os.getenv('MAX_REQUESTS_PER_KEY', '220'))
+                total_quota = int(os.getenv('TOTAL_QUOTA_PER_KEY', '250'))
+                warning_threshold = int(os.getenv('QUOTA_WARNING_THRESHOLD', '200'))
+                
+                key_manager = APIKeyManager(
+                    max_requests_per_key=max_requests,
+                    total_quota_per_key=total_quota,
+                    warning_threshold=warning_threshold
+                )
+                
+                print(f"\n✓ API Key Manager initialized")
+                key_manager.print_status()
+                
+            except Exception as e:
+                print(f"\n⚠️  Failed to initialize API Key Manager: {e}")
+                print("Falling back to single key mode...")
+                use_multi_key = False
+    
+    # Get API key for single key mode
+    api_key = None
+    if not use_multi_key:
+        api_key = input("\nEnter your Google Generative AI API key (or press Enter to use env variable): ").strip()
+        
+        if not api_key:
+            api_key = os.getenv("GOOGLE_API_KEY", "")
+        
+        if not api_key:
+            print("ERROR: No API key provided. Set GOOGLE_API_KEY environment variable or enter it when prompted.")
+            return
     
     # Initialize translator
     try:
-        translator = TitleTranslator(api_key)
+        if use_multi_key and key_manager:
+            translator = TitleTranslator(key_manager=key_manager)
+        else:
+            translator = TitleTranslator(api_key=api_key)
     except Exception as e:
         print(f"ERROR: Failed to initialize translator: {e}")
         return
@@ -607,9 +689,22 @@ def main():
             recursive=recursive
         )
         print("\n✓ Translation process completed!")
+        
+        # Show final key manager status
+        if key_manager:
+            print("\n" + "=" * 60)
+            print("FINAL API KEY USAGE")
+            print("=" * 60)
+            key_manager.print_status()
+        
     except Exception as e:
         print(f"\nERROR: {e}")
         logger.exception("Detailed error:")
+        
+        # Show key status on error
+        if key_manager:
+            key_manager.print_status()
+        
         return
 
 

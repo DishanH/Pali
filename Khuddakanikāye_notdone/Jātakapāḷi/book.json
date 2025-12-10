@@ -1,0 +1,189 @@
+{
+  "name": "Jātakapāḷi",
+  "title": {
+    "pali": "Jātakapāḷi",
+    "english": "",
+    "sinhala": ""
+  },
+  "footer":{
+    "pali":"Jātakapāḷi niṭṭhitā."
+  },
+  "chapters": [
+    {
+      "id": "ja.1",
+      "title": {
+        "pali": "Ekakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.2",
+      "title": {
+        "pali": "Dukanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.3",
+      "title": {
+        "pali": "Tikanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.4",
+      "title": {
+        "pali": "Catukkanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.5",
+      "title": {
+        "pali": "Pañcakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.6",
+      "title": {
+        "pali": "Chakkanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.7",
+      "title": {
+        "pali": "Sattakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.8",
+      "title": {
+        "pali": "Aṭṭhakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.9",
+      "title": {
+        "pali": "Navakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.10",
+      "title": {
+        "pali": "Dasakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.11",
+      "title": {
+        "pali": "Ekādasakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.12",
+      "title": {
+        "pali": "Dvādasakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.13",
+      "title": {
+        "pali": "Terasakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.14",
+      "title": {
+        "pali": "Pakiṇṇakanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.15",
+      "title": {
+        "pali": "Vīsatinipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.16",
+      "title": {
+        "pali": "Tiṃsanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.17",
+      "title": {
+        "pali": "Cattālīsanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.18",
+      "title": {
+        "pali": "Paṇṇāsanipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.19",
+      "title": {
+        "pali": "Saṭṭhinipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.20",
+      "title": {
+        "pali": "Sattatinipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.21",
+      "title": {
+        "pali": "Asītinipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    },
+    {
+      "id": "ja.22",
+      "title": {
+        "pali": "Mahānipāto",
+        "english": "",
+        "sinhala": ""
+      }
+    }
+  ]
+}

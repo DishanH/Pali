@@ -16,7 +16,8 @@ See PAID_TIER_OPTIMIZATION.md for detailed guide.
 # Google Generative AI Model for Primary Translation
 # Options: 'gemini-1.5-flash', 'gemini-1.5-pro', 'gemini-2.0-flash-exp', 'gemini-pro'
 # Note: Different models have different rate limits and capabilities
-# gemini-2.5-flash has been VERY SLOW - switching to gemini-1.5-flash for reliability
+# WARNING: gemini-2.5-flash has VERY LOW limits (5 RPM) as of Dec 2024
+# ONLY gemini-2.5-flash is available currently - must work with 5 RPM limit
 MODEL_NAME = 'gemini-2.5-flash'
 
 # Google Generative AI Model for Verification & Readability Enhancement
@@ -35,7 +36,9 @@ ENABLE_VERIFICATION = False  # Disabled to reduce API calls and avoid rate limit
 # Verification delay (seconds) - separate from primary translation delay
 # Recommend higher value to avoid rate limits
 # This is in ADDITION to the RATE_LIMIT_DELAY before each verification
-VERIFY_DELAY = 3.0  # Longer delay for verification (sends large prompts)
+# With 5 RPM limit, verification is NOT RECOMMENDED (doubles API calls)
+# Keep ENABLE_VERIFICATION = False to avoid hitting limits
+VERIFY_DELAY = 15.0  # Longer delay for verification (sends large prompts)
 
 # ============================================================================
 # Rate Limiting Configuration
@@ -43,12 +46,15 @@ VERIFY_DELAY = 3.0  # Longer delay for verification (sends large prompts)
 
 # Delay between API calls (seconds)
 # Increase this if you hit rate limits
+# Google changed limits (Dec 2024): gemini-2.5-flash now has only 5 RPM!
+# For 5 RPM limit: Need 12+ seconds between calls (60s / 5 requests = 12s)
 # For 10 RPM limit: Need 6+ seconds between calls (60s / 10 requests = 6s)
 # For 15 RPM limit: Need 4+ seconds between calls (60s / 15 requests = 4s)
-# Recommended: 7 seconds for 10 RPM tier to have safety margin
+# CURRENT: Using gemini-2.5-flash with only 5 RPM (very restrictive!)
 # Note: Each section typically makes 2 API calls (English + Sinhala)
-# IMPORTANT: If you still hit limits, increase this to 8-10 seconds
-RATE_LIMIT_DELAY = 7.0  # Safe for 10 RPM limit (60/10 = 6s minimum)
+# With 5 RPM, you can only do ~2 sections per minute (30s per section)
+# INCREASED to 15s for extra safety margin (was hitting limits at 13s)
+RATE_LIMIT_DELAY = 15.0  # Extra safe for 5 RPM limit (60/5 = 12s minimum, +3s safety buffer)
 
 # Maximum retries for failed API calls
 MAX_RETRIES = 5  # Increased for 503 overload errors
