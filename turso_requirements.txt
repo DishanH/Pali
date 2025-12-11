@@ -1,0 +1,7 @@
+# Turso Database Import Requirements
+
+# Turso/libSQL client library
+libsql-experimental>=0.10.0
+
+# Optional: For better error handling and logging
+python-dotenv>=1.0.0
