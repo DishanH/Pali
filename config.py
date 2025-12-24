@@ -18,13 +18,13 @@ See PAID_TIER_OPTIMIZATION.md for detailed guide.
 # Note: Different models have different rate limits and capabilities
 # WARNING: gemini-2.5-flash has VERY LOW limits (5 RPM) as of Dec 2024
 # ONLY gemini-2.5-flash is available currently - must work with 5 RPM limit
-MODEL_NAME = 'gemini-2.5-flash'
+MODEL_NAME = 'gemini-flash-latest'
 
 # Google Generative AI Model for Verification & Readability Enhancement
 # This model checks the primary translation and improves readability
 # Can be same or different from MODEL_NAME
 # Recommended: Use a more powerful model for verification (e.g., gemini-1.5-pro)
-VERIFY_MODEL_NAME = 'gemini-2.5-flash'
+VERIFY_MODEL_NAME = 'gemini-flash-latest'
 
 # Enable two-phase translation with verification
 # If False, only primary translation is used
