@@ -1,5 +1,30 @@
 {
-  "name": "Dukanipātapāḷi",
+  "id": "dukanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "dukanipata",
+    "number": 2,
+    "name": {
+      "pali": "Dukanipātapāḷi",
+      "english": "The Division of Pairs",
+      "sinhala": "දූක නිපාත පාළිය"
+    }
+  },
   "title": {
     "pali": "Dukanipātapāḷi",
     "english": "The Division of Pairs",
@@ -7,161 +32,286 @@
   },
   "footer": {
     "pali": "Dukanipātapāḷi niṭṭhitā.",
-    "english": "",
-    "sinhala": ""
+    "english": "The Division of Pairs is completed.",
+    "sinhala": "දූක නිපාත පාළිය නිමි වේ."
   },
+  "description": {
+    "english": "The second collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around pairs of factors.",
+    "sinhala": "අංගුත්තර නිකායේ දෙවන එකතුව වන මෙය සාධක යුගල වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+  },
+  "totalChapters": 19,
+  "language": {
+    "source": "pali",
+    "translations": ["english", "sinhala"]
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-24",
   "chapters": [
     {
       "id": "an2.1",
+      "number": 1,
       "title": {
         "pali": "Kammakaraṇavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Action",
+        "sinhala": "කම්මකරණ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of actions and their consequences in spiritual development.",
+        "sinhala": "ආධ්‍යාත්මික දියුණුවේදී ක්‍රියා වර්ග දෙක සහ ඒවායේ ප්‍රතිඵල පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.1-Kammakaraṇavaggo.json"
     },
     {
       "id": "an2.2",
+      "number": 2,
       "title": {
         "pali": "Adhikaraṇavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Legal Procedures",
+        "sinhala": "අධිකරණ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of legal procedures and dispute resolution in the monastic community.",
+        "sinhala": "භික්ෂු සමාජයේ නීතිමය ක්‍රියාමාර්ග වර්ග දෙක සහ ආරවුල් විසඳීම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.2-Adhikaraṇavaggo.json"
     },
     {
       "id": "an2.3",
+      "number": 3,
       "title": {
         "pali": "Bālavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Fools",
+        "sinhala": "බාල වග්ගය"
+      },
+      "description": {
+        "english": "Teachings contrasting the two types of people: fools and the wise, and their characteristics.",
+        "sinhala": "පුද්ගල වර්ග දෙක: මෝඩයන් සහ ප්‍රඥාවන්තයන් සහ ඔවුන්ගේ ලක්ෂණ සංසන්දනය කරන ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.3-Bālavaggo.json"
     },
     {
       "id": "an2.4",
+      "number": 4,
       "title": {
         "pali": "Samacittavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Equanimity",
+        "sinhala": "සමචිත්ත වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of mental states: balanced and unbalanced mind.",
+        "sinhala": "මානසික තත්ව වර්ග දෙක: සමතුලිත සහ අසමතුලිත මනස පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.4-Samacittavaggo.json"
     },
     {
       "id": "an2.5",
+      "number": 5,
       "title": {
         "pali": "Parisavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Assemblies",
+        "sinhala": "පරිස වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of assemblies: those that are harmonious and those that are not.",
+        "sinhala": "පරිස වර්ග දෙක: සමගිය ඇති සහ නැති ඒවා පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.5-Parisavaggo.json"
     },
     {
       "id": "an2.6",
+      "number": 6,
       "title": {
         "pali": "Puggalavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Persons",
+        "sinhala": "පුග්ගල වග්ගය"
+      },
+      "description": {
+        "english": "Classifications of persons into two types based on their spiritual qualities and behavior.",
+        "sinhala": "ආධ්‍යාත්මික ගුණාංග සහ හැසිරීම මත පදනම්ව පුද්ගලයන් වර්ග දෙකකට වර්ගීකරණය."
+      },
+      "link": "chapters/an2.6-Puggalavaggo.json"
     },
     {
       "id": "an2.7",
+      "number": 7,
       "title": {
         "pali": "Sukhavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Happiness",
+        "sinhala": "සුඛ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of happiness: worldly and spiritual happiness.",
+        "sinhala": "සුඛ වර්ග දෙක: ලෞකික සහ ආධ්‍යාත්මික සුඛ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.7-Sukhavaggo.json"
     },
     {
       "id": "an2.8",
+      "number": 8,
       "title": {
         "pali": "Sanimittavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Signs",
+        "sinhala": "සනිමිත්ත වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of mental signs or objects of meditation.",
+        "sinhala": "මානසික ලකුණු හෝ භාවනා වස්තු වර්ග දෙක පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.8-Sanimittavaggo.json"
     },
     {
       "id": "an2.9",
+      "number": 9,
       "title": {
         "pali": "Dhammavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Dhamma",
+        "sinhala": "ධම්ම වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two aspects of Dhamma: the letter and the spirit of the teaching.",
+        "sinhala": "ධර්මයේ අංශ දෙක: ඉගැන්වීමේ අකුර සහ ආත්මය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.9-Dhammavaggo.json"
     },
     {
       "id": "an2.10",
+      "number": 10,
       "title": {
         "pali": "Bālavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Second Chapter on Fools",
+        "sinhala": "දෙවන බාල වග්ගය"
+      },
+      "description": {
+        "english": "Further teachings on the characteristics that distinguish fools from the wise.",
+        "sinhala": "මෝඩයන් ප්‍රඥාවන්තයන්ගෙන් වෙන් කරන ලක්ෂණ පිළිබඳ තවත් ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.10-Bālavaggo.json"
     },
     {
       "id": "an2.11",
+      "number": 11,
       "title": {
         "pali": "Āsāduppajahavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Giving Up Corruption",
+        "sinhala": "ආසාදුප්පජහ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two ways of dealing with mental corruptions: giving them up or not.",
+        "sinhala": "මානසික දූෂණයන් සමඟ කටයුතු කිරීමේ ක්‍රම දෙක: ඒවා අතහැරීම හෝ නොඅතහැරීම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.11-Āsāduppajahavaggo.json"
     },
     {
       "id": "an2.12",
+      "number": 12,
       "title": {
         "pali": "Āyācanavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Requesting",
+        "sinhala": "ආයාචන වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of requests: appropriate and inappropriate ways of asking.",
+        "sinhala": "ඉල්ලීම් වර්ග දෙක: සුදුසු සහ නුසුදුසු ඉල්ලීමේ ක්‍රම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.12-Āyācanavaggo.json"
     },
     {
       "id": "an2.13",
+      "number": 13,
       "title": {
         "pali": "Dānavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Giving",
+        "sinhala": "දාන වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of giving: material gifts and the gift of Dhamma.",
+        "sinhala": "දානය වර්ග දෙක: භෞතික දාන සහ ධර්ම දානය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.13-Dānavaggo.json"
     },
     {
       "id": "an2.14",
+      "number": 14,
       "title": {
         "pali": "Santhāravaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Hospitality",
+        "sinhala": "සන්ථාර වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of hospitality: proper and improper ways of receiving guests.",
+        "sinhala": "ආගන්තුකයන් පිළිගැනීමේ නිසි සහ නුසුදුසු ක්‍රම වන ආගන්තුක සත්කාර වර්ග දෙක පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.14-Santhāravaggo.json"
     },
     {
       "id": "an2.15",
+      "number": 15,
       "title": {
         "pali": "Samāpattivaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Attainments",
+        "sinhala": "සමාපත්ති වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the two types of meditative attainments and their characteristics.",
+        "sinhala": "භාවනාත්මක ජයග්‍රහණ වර්ග දෙක සහ ඒවායේ ලක්ෂණ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an2.15-Samāpattivaggo.json"
     },
     {
       "id": "an2.16",
+      "number": 16,
       "title": {
         "pali": "Kodhapeyyālaṃ",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Repetition Series on Anger",
+        "sinhala": "කෝධ පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on anger and patience, and their effects in pairs.",
+        "sinhala": "කෝපය සහ ඉවසීම සහ යුගල වශයෙන් ඒවායේ බලපෑම් පිළිබඳ ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an2.16-Kodhapeyyālaṃ.json"
     },
     {
       "id": "an2.17",
+      "number": 17,
       "title": {
         "pali": "Akusalapeyyālaṃ",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Repetition Series on Unwholesome States",
+        "sinhala": "අකුසල පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on unwholesome and wholesome mental states in pairs.",
+        "sinhala": "අකුසල සහ කුසල මානසික තත්ව යුගල වශයෙන් ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an2.17-Akusalapeyyālaṃ.json"
     },
     {
       "id": "an2.18",
+      "number": 18,
       "title": {
         "pali": "Vinayapeyyālaṃ",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Repetition Series on Discipline",
+        "sinhala": "විනය පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on disciplinary matters and their opposites in pairs.",
+        "sinhala": "විනය කරුණු සහ ඒවායේ ප්‍රතිවිරුද්ධ කරුණු යුගල වශයෙන් ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an2.18-Vinayapeyyālaṃ.json"
     },
     {
       "id": "an2.19",
+      "number": 19,
       "title": {
         "pali": "Rāgapeyyālaṃ",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Repetition Series on Greed",
+        "sinhala": "රාග පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on greed, hatred, delusion and their opposites in pairs.",
+        "sinhala": "ලෝභය, ද්වේෂය, මෝහය සහ ඒවායේ ප්‍රතිවිරුද්ධ ගුණාංග යුගල වශයෙන් ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an2.19-Rāgapeyyālaṃ.json"
     }
   ]
 }

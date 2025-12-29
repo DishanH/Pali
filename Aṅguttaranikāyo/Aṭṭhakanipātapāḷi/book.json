@@ -1,101 +1,205 @@
 {
-  "name": "Aṭṭhakanipātapāḷi",
+  "id": "atthakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "atthakanipata",
+    "number": 8,
+    "name": {
+      "pali": "Aṭṭhakanipātapāḷi",
+      "english": "The Book of Eights",
+      "sinhala": "අෂ්ටක නිපාත පාලිය"
+    }
+  },
   "title": {
     "pali": "Aṭṭhakanipātapāḷi",
     "english": "The Book of Eights",
-    "sinhala": "අෂ්ටක නිපාත පාලිය."
+    "sinhala": "අෂ්ටක නිපාත පාලිය"
   },
   "footer": {
-    "pali": "Aṭṭhakanipātapāḷi niṭṭhitā."
+    "pali": "Aṭṭhakanipātapāḷi niṭṭhitā.",
+    "english": "The Book of Eights is completed.",
+    "sinhala": "අෂ්ටක නිපාත පාලිය නිමි වේ."
   },
+  "description": {
+    "english": "The eighth collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around groups of eight factors.",
+    "sinhala": "අංගුත්තර නිකායේ අටවන එකතුව වන මෙය සාධක අටේ කණ්ඩායම් වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+  },
+  "totalChapters": 11,
+  "language": {
+    "source": "pali",
+    "translations": ["english", "sinhala"]
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-24",
   "chapters": [
     {
       "id": "an8.1",
+      "number": 1,
       "title": {
         "pali": "Mettāvaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Loving-Kindness",
+        "sinhala": "මෙත්තා වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the eight benefits of loving-kindness meditation and related practices.",
+        "sinhala": "මෛත්‍රී භාවනාවේ ප්‍රතිලාභ අට සහ ඒ හා සම්බන්ධ භාවනා පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.1-Mettāvaggo.json"
     },
     {
       "id": "an8.2",
+      "number": 2,
       "title": {
         "pali": "Mahāvaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Great Chapter",
+        "sinhala": "මහා වග්ගය"
+      },
+      "description": {
+        "english": "Important teachings on various sets of eight factors essential for spiritual progress.",
+        "sinhala": "ආධ්‍යාත්මික ප්‍රගතිය සඳහා අත්‍යවශ්‍ය සාධක අටේ විවිධ කට්ටල පිළිබඳ වැදගත් ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.2-Mahāvaggo.json"
     },
     {
       "id": "an8.3",
+      "number": 3,
       "title": {
         "pali": "Gahapativaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Householders",
+        "sinhala": "ගහපති වග්ගය"
+      },
+      "description": {
+        "english": "Teachings specifically for householders on the eight qualities and practices for lay practitioners.",
+        "sinhala": "ගිහි භාවනාකරුවන් සඳහා ගුණාංග සහ භාවනා අට පිළිබඳ ගෘහස්ථයන්ට විශේෂයෙන් ලබා දුන් ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.3-Gahapativaggo.json"
     },
     {
       "id": "an8.4",
+      "number": 4,
       "title": {
         "pali": "Dānavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Giving",
+        "sinhala": "දාන වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the eight aspects of giving and the qualities that make donations fruitful.",
+        "sinhala": "දානයේ අංශ අට සහ දාන ඵලදායී කරන ගුණාංග පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.4-Dānavaggo.json"
     },
     {
       "id": "an8.5",
+      "number": 5,
       "title": {
         "pali": "Uposathavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Observance Days",
+        "sinhala": "උපෝසථ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the eight precepts observed on Uposatha days and their spiritual benefits.",
+        "sinhala": "උපෝසථ දිනවල පිළිපදින සිල් අට සහ ඒවායේ ආධ්‍යාත්මික ප්‍රතිලාභ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.5-Uposathavaggo.json"
     },
     {
       "id": "an8.6",
+      "number": 6,
       "title": {
         "pali": "Gotamīvaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Gotamī",
+        "sinhala": "ගෝතමී වග්ගය"
+      },
+      "description": {
+        "english": "Teachings involving Mahāpajāpatī Gotamī and the establishment of the order of nuns.",
+        "sinhala": "මහාපජාපති ගෝතමී සහ භික්ෂුණී සංඝයේ ස්ථාපනය සම්බන්ධ ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.6-Gotamīvaggo.json"
     },
     {
       "id": "an8.7",
+      "number": 7,
       "title": {
         "pali": "Bhūmicālavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Earthquakes",
+        "sinhala": "භූමිචාල වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the eight causes of earthquakes and their symbolic spiritual significance.",
+        "sinhala": "භූමිකම්පනවල හේතු අට සහ ඒවායේ සංකේතාත්මක ආධ්‍යාත්මික වැදගත්කම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.7-Bhūmicālavaggo.json"
     },
     {
       "id": "an8.8",
+      "number": 8,
       "title": {
         "pali": "Yamakavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Pairs",
+        "sinhala": "යමක වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on eight pairs of contrasting qualities and their role in spiritual development.",
+        "sinhala": "ප්‍රතිවිරුද්ධ ගුණාංගවල යුගල අට සහ ආධ්‍යාත්මික දියුණුවේදී ඒවායේ භූමිකාව පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.8-Yamakavaggo.json"
     },
     {
       "id": "an8.9",
+      "number": 9,
       "title": {
         "pali": "Sativaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Mindfulness",
+        "sinhala": "සති වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the eight aspects of mindfulness and awareness in spiritual practice.",
+        "sinhala": "ආධ්‍යාත්මික භාවනාවේ සිහිකල්පනාවේ සහ දැනුවත්භාවයේ අංශ අට පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.9-Sativaggo.json"
     },
     {
       "id": "an8.10",
+      "number": 10,
       "title": {
         "pali": "Sāmaññavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on the Ascetic Life",
+        "sinhala": "සාමඤ්ඤ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the eight qualities that characterize the true ascetic or spiritual life.",
+        "sinhala": "සැබෑ සමණ හෝ ආධ්‍යාත්මික ජීවිතය සංලක්ෂිත කරන ගුණාංග අට පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an8.10-Sāmaññavaggo.json"
     },
     {
       "id": "an8.11",
+      "number": 11,
       "title": {
         "pali": "Rāgapeyyālaṃ",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Repetition Series on Greed",
+        "sinhala": "රාග පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on greed, hatred, delusion and their opposites in groups of eight.",
+        "sinhala": "ලෝභය, ද්වේෂය, මෝහය සහ ඒවායේ ප්‍රතිවිරුද්ධ ගුණාංග අටේ කණ්ඩායම්වල ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an8.11-Rāgapeyyālaṃ.json"
     }
   ]
 }

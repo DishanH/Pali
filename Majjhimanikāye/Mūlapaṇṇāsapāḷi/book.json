@@ -1,5 +1,30 @@
 {
-  "name": "Mūlapaṇṇāsapāḷi",
+  "id": "mulapannasa",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "majjhimanikaya",
+    "name": {
+      "pali": "Majjhima Nikāya",
+      "english": "Middle Length Discourses",
+      "sinhala": "මජ්ඣිම නිකාය"
+    }
+  },
+  "pannasa": {
+    "id": "mulapannasa",
+    "number": 1,
+    "name": {
+      "pali": "Mūlapaṇṇāsapāḷi",
+      "english": "The Fundamental Division of Fifty Discourses",
+      "sinhala": "මූලපණ්ණාසපාළිය"
+    }
+  },
   "title": {
     "pali": "Mūlapaṇṇāsapāḷi",
     "english": "The Fundamental Division of Fifty Discourses",
@@ -7,49 +32,90 @@
   },
   "footer": {
     "pali": "Mūlapaṇṇāsakaṃ samattaṃ.",
-    "english": "",
-    "sinhala": ""
+    "english": "The Fundamental Division of Fifty is completed.",
+    "sinhala": "මූලපණ්ණාසකය නිමි වේ."
   },
+  "description": {
+    "english": "The first collection of the Middle Length Discourses (Majjhima Nikāya), containing fifty fundamental suttas covering core Buddhist teachings.",
+    "sinhala": "මජ්ඣිම නිකායේ පළමු එකතුව වන මෙය මූලික බෞද්ධ ඉගැන්වීම් ආවරණය කරන මූලික සූත්‍ර පනහක් අඩංගු වේ."
+  },
+  "totalChapters": 5,
+  "language": {
+    "source": "pali",
+    "translations": ["english", "sinhala"]
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-24",
   "chapters": [
     {
       "id": "mn.1.1",
+      "number": 1,
       "title": {
         "pali": "Mūlapariyāyavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Root Sequence Chapter",
+        "sinhala": "මූලපරියාය වග්ගය"
+      },
+      "description": {
+        "english": "Fundamental teachings on perception, consciousness, and the root of all phenomena, including the famous Mūlapariyāya Sutta.",
+        "sinhala": "සුප්‍රසිද්ධ මූලපරියාය සූත්‍රය ඇතුළුව සංඥාව, විඤ්ඤාණය සහ සියලු ධර්මවල මූලය පිළිබඳ මූලික ඉගැන්වීම්."
+      },
+      "link": "chapters/mn.1.1-Mūlapariyāyavaggo.json"
     },
     {
       "id": "mn.1.2",
+      "number": 2,
       "title": {
         "pali": "Sīhanādavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Lion's Roar Chapter",
+        "sinhala": "සීහනාද වග්ගය"
+      },
+      "description": {
+        "english": "Powerful declarations of the Buddha's unique qualities and the distinctive features of his teaching, like a lion's roar.",
+        "sinhala": "සිංහයාගේ ගර්ජනාව මෙන් බුදුරජාණන් වහන්සේගේ අද්විතීය ගුණාංග සහ ඔහුගේ ඉගැන්වීමේ සුවිශේෂී ලක්ෂණවල බලවත් ප්‍රකාශන."
+      },
+      "link": "chapters/mn.1.2-Sīhanādavaggo.json"
     },
     {
       "id": "mn.1.3",
+      "number": 3,
       "title": {
         "pali": "Opammavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Simile Chapter",
+        "sinhala": "උපම වග්ගය"
+      },
+      "description": {
+        "english": "Teachings using various similes and metaphors to illustrate profound spiritual truths and practices.",
+        "sinhala": "ගැඹුරු ආධ්‍යාත්මික සත්‍යයන් සහ භාවනා නිදර්ශනය කිරීම සඳහා විවිධ උපමා සහ රූපක භාවිතා කරන ඉගැන්වීම්."
+      },
+      "link": "chapters/mn.1.3-Opammavaggo.json"
     },
     {
       "id": "mn.1.4",
+      "number": 4,
       "title": {
         "pali": "Mahāyamakavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Great Pairs Chapter",
+        "sinhala": "මහායමක වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on great pairs of opposites and how to transcend dualistic thinking in spiritual practice.",
+        "sinhala": "මහා ප්‍රතිවිරුද්ධ යුගල සහ ආධ්‍යාත්මික භාවනාවේදී ද්විත්ව චින්තනය අභිබවා යන ආකාරය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/mn.1.4-Mahāyamakavaggo.json"
     },
     {
       "id": "mn.1.5",
+      "number": 5,
       "title": {
         "pali": "Cūḷayamakavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Lesser Pairs Chapter",
+        "sinhala": "චූළයමක වග්ගය"
+      },
+      "description": {
+        "english": "Further teachings on pairs of concepts and the middle way between extremes in understanding and practice.",
+        "sinhala": "සංකල්ප යුගල සහ අවබෝධයේ සහ භාවනාවේ අන්තයන් අතර මධ්‍යම මාර්ගය පිළිබඳ තවත් ඉගැන්වීම්."
+      },
+      "link": "chapters/mn.1.5-Cūḷayamakavaggo.json"
     }
   ]
 }

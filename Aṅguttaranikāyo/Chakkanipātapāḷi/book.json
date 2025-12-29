@@ -1,45 +1,107 @@
 {
-  "name": "Chakkanipātapāḷi",
+  "id": "chakkanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "chakkanipata",
+    "number": 6,
+    "name": {
+      "pali": "Chakkanipātapāḷi",
+      "english": "The Book of the Sixes",
+      "sinhala": "ඡක්‌ක නිපාත පාළිය"
+    }
+  },
   "title": {
     "pali": "Chakkanipātapāḷi",
     "english": "The Book of the Sixes",
-    "sinhala": "ඡක්‌ක නිපාත පාළිය."
+    "sinhala": "ඡක්‌ක නිපාත පාළිය"
   },
   "footer": {
-    "pali": "Chakkanipātapāḷi niṭṭhitā."
+    "pali": "Chakkanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Sixes is completed.",
+    "sinhala": "ඡක්‌ක නිපාත පාළිය නිමි වේ."
   },
+  "description": {
+    "english": "The sixth collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around groups of six factors.",
+    "sinhala": "අංගුත්තර නිකායේ හයවන එකතුව වන මෙය සාධක හයේ කණ්ඩායම් වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+  },
+  "totalChapters": 4,
+  "language": {
+    "source": "pali",
+    "translations": ["english", "sinhala"]
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-24",
   "chapters": [
     {
       "id": "an6.1",
+      "number": 1,
       "title": {
         "pali": "Āhuneyyavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Worthy of Offerings",
+        "sinhala": "ආහුනේය්‍ය වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the six qualities that make a person worthy of offerings and reverence.",
+        "sinhala": "පුද්ගලයෙකු පූජා සහ ගෞරවයට සුදුසු කරන ගුණාංග හය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an6.1-Āhuneyyavaggo.json"
     },
     {
       "id": "an6.2",
+      "number": 2,
       "title": {
         "pali": "Sāraṇīyavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Cordial Qualities",
+        "sinhala": "සාරණීය වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the six cordial qualities that promote harmony and unity in the community.",
+        "sinhala": "සමාජයේ සමගිය සහ එකමුතුකම ප්‍රවර්ධනය කරන සුහද ගුණාංග හය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an6.2-Sāraṇīyavaggo.json"
     },
     {
       "id": "an6.3",
+      "number": 3,
       "title": {
         "pali": "Dhammikavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Righteous Qualities",
+        "sinhala": "ධම්මික වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the six righteous qualities that lead to spiritual progress and moral excellence.",
+        "sinhala": "ආධ්‍යාත්මික ප්‍රගතිය සහ සදාචාරාත්මක උත්කර්ෂතාවයට මග පාදන ධර්මිෂ්ඨ ගුණාංග හය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an6.3-Dhammikavaggo.json"
     },
     {
       "id": "an6.4",
+      "number": 4,
       "title": {
         "pali": "Rāgapeyyālaṃ",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Repetition Series on Greed",
+        "sinhala": "රාග පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on greed, hatred, delusion and their opposites in groups of six.",
+        "sinhala": "ලෝභය, ද්වේෂය, මෝහය සහ ඒවායේ ප්‍රතිවිරුද්ධ ගුණාංග හයේ කණ්ඩායම්වල ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an6.4-Rāgapeyyālaṃ.json"
     }
   ]
 }

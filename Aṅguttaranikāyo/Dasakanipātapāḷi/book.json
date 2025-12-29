@@ -1,191 +1,359 @@
 {
-  "name": "Dasakanipātapāḷi",
+  "id": "dasakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "dasakanipata",
+    "number": 10,
+    "name": {
+      "pali": "Dasakanipātapāḷi",
+      "english": "The Book of Tens",
+      "sinhala": "දසක නිපාත පාළිය"
+    }
+  },
   "title": {
     "pali": "Dasakanipātapāḷi",
-    "english": "The Book of Tens.",
+    "english": "The Book of Tens",
     "sinhala": "දසක නිපාත පාළිය"
   },
   "footer": {
     "pali": "Dasakanipātapāḷi niṭṭhitā.",
-    "english": "",
-    "sinhala": ""
+    "english": "The Book of Tens is completed.",
+    "sinhala": "දසක නිපාත පාළිය නිමි වේ."
   },
+  "description": {
+    "english": "The tenth collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around groups of ten factors.",
+    "sinhala": "අංගුත්තර නිකායේ දහවන එකතුව වන මෙය සාධක දහයේ කණ්ඩායම් වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+  },
+  "totalChapters": 22,
+  "language": {
+    "source": "pali",
+    "translations": ["english", "sinhala"]
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-24",
   "chapters": [
     {
       "id": "an10.1",
+      "number": 1,
       "title": {
         "pali": "Ānisaṃsavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Benefits",
+        "sinhala": "ආනිසංස වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten benefits of various spiritual practices and virtuous conduct.",
+        "sinhala": "විවිධ ආධ්‍යාත්මික භාවනා සහ ගුණවත් හැසිරීමේ ප්‍රතිලාභ දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.1-Ānisaṃsavaggo.json"
     },
     {
       "id": "an10.2",
+      "number": 2,
       "title": {
         "pali": "Nāthavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Protectors",
+        "sinhala": "නාථ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten protectors and sources of refuge in spiritual life.",
+        "sinhala": "ආධ්‍යාත්මික ජීවිතයේ ආරක්ෂකයන් සහ නිවන ප්‍රභව දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.2-Nāthavaggo.json"
     },
     {
       "id": "an10.3",
+      "number": 3,
       "title": {
         "pali": "Mahāvaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Great Chapter",
+        "sinhala": "මහා වග්ගය"
+      },
+      "description": {
+        "english": "Comprehensive teachings on various sets of ten factors crucial for spiritual development.",
+        "sinhala": "ආධ්‍යාත්මික දියුණුව සඳහා තීරණාත්මක සාධක දහයේ විවිධ කට්ටල පිළිබඳ සවිස්තරාත්මක ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.3-Mahāvaggo.json"
     },
     {
       "id": "an10.4",
+      "number": 4,
       "title": {
         "pali": "Upālivaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Upāli",
+        "sinhala": "උපාලි වග්ගය"
+      },
+      "description": {
+        "english": "Teachings involving Venerable Upāli, the foremost expert in monastic discipline.",
+        "sinhala": "භික්ෂු විනයේ ප්‍රමුඛ විශේෂඥයා වන උපාලි මහ ස්ථවිරයන් වහන්සේ සම්බන්ධ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.4-Upālivaggo.json"
     },
     {
       "id": "an10.5",
+      "number": 5,
       "title": {
         "pali": "Akkosavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Abuse",
+        "sinhala": "අක්කෝස වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on how to respond to abuse and maintain spiritual equanimity in difficult situations.",
+        "sinhala": "අපහාසයට ප්‍රතිචාර දැක්වීම සහ දුෂ්කර තත්වයන්හිදී ආධ්‍යාත්මික සමතුලිතතාවය පවත්වා ගැනීම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.5-Akkosavaggo.json"
     },
     {
       "id": "an10.6",
+      "number": 6,
       "title": {
         "pali": "Sacittavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on One's Own Mind",
+        "sinhala": "සචිත්ත වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten aspects of understanding and training one's own mind.",
+        "sinhala": "තමන්ගේම මනස අවබෝධ කර ගැනීමේ සහ පුහුණු කිරීමේ අංශ දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.6-Sacittavaggo.json"
     },
     {
       "id": "an10.7",
+      "number": 7,
       "title": {
         "pali": "Yamakavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Pairs",
+        "sinhala": "යමක වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on ten pairs of contrasting qualities and their role in spiritual development.",
+        "sinhala": "ප්‍රතිවිරුද්ධ ගුණාංගවල යුගල දහ සහ ආධ්‍යාත්මික දියුණුවේදී ඒවායේ භූමිකාව පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.7-Yamakavaggo.json"
     },
     {
       "id": "an10.8",
+      "number": 8,
       "title": {
         "pali": "Ākaṅkhavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Wishes",
+        "sinhala": "ආකංඛ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten spiritual wishes and aspirations of a dedicated practitioner.",
+        "sinhala": "කැපවූ භාවනාකරුවෙකුගේ ආධ්‍යාත්මික ප්‍රාර්ථනා සහ අභිලාෂයන් දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.8-Ākaṅkhavaggo.json"
     },
     {
       "id": "an10.9",
+      "number": 9,
       "title": {
         "pali": "Theravaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Elders",
+        "sinhala": "ථේර වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten qualities and responsibilities of senior monks and spiritual elders.",
+        "sinhala": "ජ්‍යේෂ්ඨ භික්ෂූන්ගේ සහ ආධ්‍යාත්මික ගුරුවරුන්ගේ ගුණාංග සහ වගකීම් දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.9-Theravaggo.json"
     },
     {
       "id": "an10.10",
+      "number": 10,
       "title": {
         "pali": "Upālivaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Second Chapter on Upāli",
+        "sinhala": "දෙවන උපාලි වග්ගය"
+      },
+      "description": {
+        "english": "Further teachings involving Venerable Upāli on monastic discipline and conduct.",
+        "sinhala": "භික්ෂු විනය සහ හැසිරීම පිළිබඳ උපාලි මහ ස්ථවිරයන් වහන්සේ සම්බන්ධ තවත් ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.10-Upālivaggo.json"
     },
     {
       "id": "an10.11",
+      "number": 11,
       "title": {
         "pali": "Samaṇasaññāvaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Ascetic Perceptions",
+        "sinhala": "සමණසඤ්ඤා වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten perceptions that characterize the true ascetic mindset.",
+        "sinhala": "සැබෑ සමණ මානසිකත්වය සංලක්ෂිත කරන සංඥා දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.11-Samaṇasaññāvaggo.json"
     },
     {
       "id": "an10.12",
+      "number": 12,
       "title": {
         "pali": "Paccorohaṇivaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Gradual Instruction",
+        "sinhala": "පච්චෝරෝහණි වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten stages of gradual instruction in the spiritual path.",
+        "sinhala": "ආධ්‍යාත්මික මාර්ගයේ ක්‍රමානුකූල උපදේශනයේ අවධි දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.12-Paccorohaṇivaggo.json"
     },
     {
       "id": "an10.13",
+      "number": 13,
       "title": {
         "pali": "Parisuddhavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Purification",
+        "sinhala": "පරිසුද්ධ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten aspects of purification in body, speech, and mind.",
+        "sinhala": "කාය, වචන සහ මනසේ පවිත්‍රකරණයේ අංශ දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.13-Parisuddhavaggo.json"
     },
     {
       "id": "an10.14",
+      "number": 14,
       "title": {
         "pali": "Sādhuvaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on the Good",
+        "sinhala": "සාධු වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten qualities that make a person truly good and virtuous.",
+        "sinhala": "පුද්ගලයෙකු සැබවින්ම හොඳ සහ ගුණවත් කරන ගුණාංග දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.14-Sādhuvaggo.json"
     },
     {
       "id": "an10.15",
+      "number": 15,
       "title": {
         "pali": "Ariyavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on the Noble",
+        "sinhala": "ආර්‍ය වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten noble qualities that characterize an enlightened being.",
+        "sinhala": "ප්‍රබුද්ධ සත්වයෙකු සංලක්ෂිත කරන උතුම් ගුණාංග දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.15-Ariyavaggo.json"
     },
     {
       "id": "an10.16",
+      "number": 16,
       "title": {
         "pali": "Puggalavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Persons",
+        "sinhala": "පුග්ගල වග්ගය"
+      },
+      "description": {
+        "english": "Classifications of persons into ten types based on their spiritual development and qualities.",
+        "sinhala": "ආධ්‍යාත්මික දියුණුව සහ ගුණාංග මත පදනම්ව පුද්ගලයන් වර්ග දහකට වර්ගීකරණය."
+      },
+      "link": "chapters/an10.16-Puggalavaggo.json"
     },
     {
       "id": "an10.17",
+      "number": 17,
       "title": {
         "pali": "Sādhuvaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Second Chapter on the Good",
+        "sinhala": "දෙවන සාධු වග්ගය"
+      },
+      "description": {
+        "english": "Further teachings on goodness and virtue in ten aspects.",
+        "sinhala": "අංශ දහකින් යුත් යහපත්කම සහ ගුණ පිළිබඳ තවත් ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.17-Sādhuvaggo.json"
     },
     {
       "id": "an10.18",
+      "number": 18,
       "title": {
         "pali": "Ariyamaggavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on the Noble Path",
+        "sinhala": "ආර්‍යමග්ග වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten aspects of the Noble Eightfold Path and its extensions.",
+        "sinhala": "ආර්‍ය අෂ්ටාංගික මාර්ගයේ සහ එහි ව්‍යාප්තිවල අංශ දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.18-Ariyamaggavaggo.json"
     },
     {
       "id": "an10.19",
+      "number": 19,
       "title": {
         "pali": "Aparapuggalavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on Other Persons",
+        "sinhala": "අපරපුග්ගල වග්ගය"
+      },
+      "description": {
+        "english": "Additional classifications of persons and their spiritual characteristics in groups of ten.",
+        "sinhala": "පුද්ගලයන්ගේ අතිරේක වර්ගීකරණ සහ ඔවුන්ගේ ආධ්‍යාත්මික ලක්ෂණ දහේ කණ්ඩායම්වල."
+      },
+      "link": "chapters/an10.19-Aparapuggalavaggo.json"
     },
     {
       "id": "an10.20",
+      "number": 20,
       "title": {
         "pali": "Karajakāyavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on the Body Born of Deeds",
+        "sinhala": "කරජකාය වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten aspects of how actions create the body and determine rebirth.",
+        "sinhala": "ක්‍රියා ශරීරය නිර්මාණය කරන ආකාරය සහ පුනර්භවය තීරණය කරන අංශ දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.20-Karajakāyavaggo.json"
     },
     {
       "id": "an10.21",
+      "number": 21,
       "title": {
         "pali": "Sāmaññavaggo",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Chapter on the Ascetic Life",
+        "sinhala": "සාමඤ්ඤ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the ten qualities that define the true ascetic life and spiritual practice.",
+        "sinhala": "සැබෑ සමණ ජීවිතය සහ ආධ්‍යාත්මික භාවනාව නිර්වචනය කරන ගුණාංග දහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an10.21-Sāmaññavaggo.json"
     },
     {
       "id": "an10.22",
+      "number": 22,
       "title": {
         "pali": "Rāgapeyyālaṃ",
-        "english": "",
-        "sinhala": ""
-      }
+        "english": "The Repetition Series on Greed",
+        "sinhala": "රාග පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on greed, hatred, delusion and their opposites in groups of ten.",
+        "sinhala": "ලෝභය, ද්වේෂය, මෝහය සහ ඒවායේ ප්‍රතිවිරුද්ධ ගුණාංග දහයේ කණ්ඩායම්වල ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an10.22-Rāgapeyyālaṃ.json"
     }
   ]
 }
