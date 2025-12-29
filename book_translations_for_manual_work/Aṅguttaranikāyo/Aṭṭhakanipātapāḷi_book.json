@@ -36,7 +36,7 @@
     "sinhala": "අෂ්ටක නිපාතය මෙයින් අවසන් වේ."
   },
   "description": {
-    "english": "The eighth major division of the Anguttara Nikaya, featuring suttas that are grouped according to sets of eight items, themes, or qualities.",
+    "english": "The eighth major division of the Anguttara Nikaya, featuring suttas that are organized according to sets of eight items, themes, or qualities.",
     "sinhala": "අංගුත්තර නිකායට අයත් අටවන කොටස වන මෙහි, කරුණු හෝ ගුණාංග අට බැගින් වූ දේශනා ඇතුළත් වේ."
   },
   "totalChapters": 11,
@@ -181,12 +181,12 @@
       "number": 10,
       "title": {
         "pali": "Sāmaññavaggo",
-        "english": "Asceticism",
+        "english": "Similitudes",
         "sinhala": "සාමඤ්ඤ වර්ගය"
       },
       "description": {
-        "english": "Discusses the qualities that define a true ascetic and the goals of the monastic life.",
-        "sinhala": "සැබෑ ශ්‍රමණයෙකුගේ ගුණාංග සහ පැවිදි ජීවිතයේ පරමාර්ථ පිළිබඳව සාකච්ඡා කෙරේ."
+        "english": "Contains various teachings using groups of eight to explain common spiritual qualities and monastic conduct.",
+        "sinhala": "පොදු ආධ්‍යාත්මික ගුණාංග සහ පැවිදි විනය පැහැදිලි කිරීම සඳහා අටේ කණ්ඩායම් භාවිත කරමින් කළ විවිධ දේශනා මෙහි ඇතුළත් වේ."
       },
       "link": "chapters/an8.10-Sāmaññavaggo.json"
     },

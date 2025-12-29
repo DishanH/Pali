@@ -1,0 +1,362 @@
+{
+  "id": "dasakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "The Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "dasakanipata",
+    "number": 10,
+    "name": {
+      "pali": "Dasakanipātapāḷi",
+      "english": "The Book of the Tens",
+      "sinhala": "දසක නිපාතය"
+    }
+  },
+  "title": {
+    "pali": "Dasakanipātapāḷi",
+    "english": "The Book of the Tens",
+    "sinhala": "දසක නිපාතය"
+  },
+  "footer": {
+    "pali": "Dasakanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Tens is concluded.",
+    "sinhala": "දසක නිපාතය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The tenth division of the Anguttara Nikaya, featuring suttas organized around sets of ten principles, including the ten fetters, the ten perceptions, and the ten powers of a Buddha.",
+    "sinhala": "අංගුත්තර නිකායේ දසවන කොටස වන මෙහි දස සංයෝජන, දස සංඥා සහ බුදුවරයෙකු සතු දස බල ඇතුළු කරුණු දහය බැගින් වූ දේශනා අන්තර්ගත වේ."
+  },
+  "totalChapters": 22,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "an10.1",
+      "number": 1,
+      "title": {
+        "pali": "Ānisaṃsavaggo",
+        "english": "Benefits",
+        "sinhala": "ආනිසංස වර්ගය"
+      },
+      "description": {
+        "english": "Discourses on the ten benefits of virtuous conduct and the natural progression of spiritual development.",
+        "sinhala": "සීලවන්තව ජීවත්වීමේ ආනිසංස දහය සහ ආධ්‍යාත්මික දියුණුවේ අනුපිළිවෙල පිළිබඳ දේශනා."
+      },
+      "link": "chapters/an10.1-Ānisaṃsavaggo.json"
+    },
+    {
+      "id": "an10.2",
+      "number": 2,
+      "title": {
+        "pali": "Nāthavaggo",
+        "english": "Protectors",
+        "sinhala": "නාථ වර්ගය"
+      },
+      "description": {
+        "english": "Discusses the ten qualities that provide spiritual protection and make one a 'protector' of oneself.",
+        "sinhala": "තමාට තමාම පිහිටක් (නාථයෙක්) කරවන ගුණාංග දහය පිළිබඳව මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an10.2-Nāthavaggo.json"
+    },
+    {
+      "id": "an10.3",
+      "number": 3,
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "The Great Chapter",
+        "sinhala": "මහා වර්ගය"
+      },
+      "description": {
+        "english": "Extensive discourses covering vital topics like the ten powers of the Buddha and the growth of wisdom.",
+        "sinhala": "බුදුරජාණන් වහන්සේගේ දසබල සහ ප්‍රඥාව වැඩීම වැනි වැදගත් කරුණු ඇතුළත් දීර්ඝ දේශනා සමූහයකි."
+      },
+      "link": "chapters/an10.3-Mahāvaggo.json"
+    },
+    {
+      "id": "an10.4",
+      "number": 4,
+      "title": {
+        "pali": "Upālivaggo",
+        "english": "With Upāli",
+        "sinhala": "උපාලි වර්ගය"
+      },
+      "description": {
+        "english": "Dialogues with Ven. Upāli regarding the Vinaya (discipline) and the ten reasons for establishing monastic rules.",
+        "sinhala": "විනය නීති පැනවීමට බලපෑ හේතු දහය ඇතුළුව විනය සම්බන්ධයෙන් උපාලි හිමියන් සමඟ කළ දේශනා."
+      },
+      "link": "chapters/an10.4-Upālivaggo.json"
+    },
+    {
+      "id": "an10.5",
+      "number": 5,
+      "title": {
+        "pali": "Akkosavaggo",
+        "english": "Insult",
+        "sinhala": "අක්කෝස වර්ගය"
+      },
+      "description": {
+        "english": "Explains the ten dangers of insulting noble ones and the ways to handle verbal abuse.",
+        "sinhala": "ආර්යයන් වහන්සේලාට අපහාස කිරීමේ දස වැදෑරුම් විපාක සහ වාචික අපහාස හමුවේ ක්‍රියා කළ යුතු ආකාරය."
+      },
+      "link": "chapters/an10.5-Akkosavaggo.json"
+    },
+    {
+      "id": "an10.6",
+      "number": 6,
+      "title": {
+        "pali": "Sacittavaggo",
+        "english": "One's Own Mind",
+        "sinhala": "සචිත්ත වර්ගය"
+      },
+      "description": {
+        "english": "Practical guidance on monitoring one's own mental states and the ten criteria for self-examination.",
+        "sinhala": "තම මනස නිරීක්ෂණය කරන ආකාරය සහ ස්වයං විමර්ශනය සඳහා යොදාගත හැකි නිර්ණායක දහයක් මෙහි දැක්වේ."
+      },
+      "link": "chapters/an10.6-Sacittavaggo.json"
+    },
+    {
+      "id": "an10.7",
+      "number": 7,
+      "title": {
+        "pali": "Yamakavaggo",
+        "english": "Pairs",
+        "sinhala": "යමක වර්ගය"
+      },
+      "description": {
+        "english": "Suttas structured in contrasting pairs to clarify the difference between wholesome and unwholesome paths.",
+        "sinhala": "කුසල හා අකුසල මාර්ගයන්හි වෙනස පැහැදිලි කිරීම සඳහා යුගල වශයෙන් සකස් කළ දේශනා."
+      },
+      "link": "chapters/an10.7-Yamakavaggo.json"
+    },
+    {
+      "id": "an10.8",
+      "number": 8,
+      "title": {
+        "pali": "Ākaṅkhavaggo",
+        "english": "Wishes",
+        "sinhala": "ආකංඛ වර්ගය"
+      },
+      "description": {
+        "english": "Details how a practitioner can fulfill ten specific spiritual wishes through diligent practice.",
+        "sinhala": "උත්සාහවන්තව පිළිවෙත් පිරීමෙන් ආධ්‍යාත්මික ප්‍රාර්ථනා දහයක් ඉටු කරගන්නා ආකාරය."
+      },
+      "link": "chapters/an10.8-Ākaṅkhavaggo.json"
+    },
+    {
+      "id": "an10.9",
+      "number": 9,
+      "title": {
+        "pali": "Theravaggo",
+        "english": "Senior Monks",
+        "sinhala": "ථේර වර්ගය"
+      },
+      "description": {
+        "english": "Outlines the ten qualities that make a monk a true 'Elder' (Thera) in the community.",
+        "sinhala": "භික්ෂුවක් සංඝ සමාජය තුළ සැබෑ 'ස්ථවිර' නමක බවට පත් කරන ගුණාංග දහයක් මෙහි දක්වා ඇත."
+      },
+      "link": "chapters/an10.9-Theravaggo.json"
+    },
+    {
+      "id": "an10.10",
+      "number": 10,
+      "title": {
+        "pali": "Upālivaggo (II)",
+        "english": "Discipline (Part 2)",
+        "sinhala": "උපාලි වර්ගය (දෙවන කොටස)"
+      },
+      "description": {
+        "english": "Further technical discussions on monastic legal procedures and communal harmony.",
+        "sinhala": "සංඝයාගේ විනය කර්ම සහ සාමූහික සමගිය පිළිබඳ තවදුරටත් කරන විමසීම්."
+      },
+      "link": "chapters/an10.10-Upālivaggo.json"
+    },
+    {
+      "id": "an10.11",
+      "number": 11,
+      "title": {
+        "pali": "Samaṇasaññāvaggo",
+        "english": "Perceptions of an Ascetic",
+        "sinhala": "සමණසඤ්ඤා වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the ten perceptions a monk should cultivate to remain steadfast in the holy life.",
+        "sinhala": "ශ්‍රමණ ජීවිතය සාර්ථක කර ගැනීම සඳහා භික්ෂුවක් විසින් දියුණු කළ යුතු දස සංඥාවන්."
+      },
+      "link": "chapters/an10.11-Samaṇasaññāvaggo.json"
+    },
+    {
+      "id": "an10.12",
+      "number": 12,
+      "title": {
+        "pali": "Paccorohaṇivaggo",
+        "english": "Coming Down",
+        "sinhala": "පච්චෝරෝහණී වර්ගය"
+      },
+      "description": {
+        "english": "A symbolic 'descent' ceremony based on the ten wholesome paths of action.",
+        "sinhala": "දස කුසල කර්මපථයන් පදනම් කරගනිමින් කෙරෙන ආගමික වතාවත් මාලාවක් මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an10.12-Paccorohaṇivaggo.json"
+    },
+    {
+      "id": "an10.13",
+      "number": 13,
+      "title": {
+        "pali": "Parisuddhavaggo",
+        "english": "Purity",
+        "sinhala": "පරිසුද්ධ වර්ගය"
+      },
+      "description": {
+        "english": "Deals with the ten-fold purity of right view, intention, speech, and the remaining path factors.",
+        "sinhala": "සම්මා දිට්ඨිය ඇතුළු ආර්ය අෂ්ටාංගික මාර්ගයේ අංගයන්හි පාරිශුද්ධත්වය දස වැදෑරුම්ව දක්වයි."
+      },
+      "link": "chapters/an10.13-Parisuddhavaggo.json"
+    },
+    {
+      "id": "an10.14",
+      "number": 14,
+      "title": {
+        "pali": "Sādhuvaggo",
+        "english": "The Good",
+        "sinhala": "සාධු වර්ගය"
+      },
+      "description": {
+        "english": "Contrasts good and bad qualities using a ten-fold framework for clarity.",
+        "sinhala": "යහපත් (සාධු) සහ අයහපත් (අසාධු) ගුණාංග දහයක් බැගින් ගෙන කරන විග්‍රහයකි."
+      },
+      "link": "chapters/an10.14-Sādhuvaggo.json"
+    },
+    {
+      "id": "an10.15",
+      "number": 15,
+      "title": {
+        "pali": "Ariyavaggo",
+        "english": "The Noble",
+        "sinhala": "අරිය වර්ගය"
+      },
+      "description": {
+        "english": "Describes the ten noble abodes and qualities that belong to a noble person (Ariya).",
+        "sinhala": "ආර්යයන් වහන්සේලා සතු උතුම් ගුණාංග සහ ආර්ය විහාර දහයක් මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an10.15-Ariyavaggo.json"
+    },
+    {
+      "id": "an10.16",
+      "number": 16,
+      "title": {
+        "pali": "Puggalavaggo",
+        "english": "Types of Persons",
+        "sinhala": "පුද්ගල වර්ගය"
+      },
+      "description": {
+        "english": "A classification of people based on their adherence to ten wholesome or unwholesome actions.",
+        "sinhala": "දස කුසල හෝ අකුසල කර්මපථයන් මත පදනම්ව පුද්ගලයන් වර්ගීකරණය කිරීම."
+      },
+      "link": "chapters/an10.16-Puggalavaggo.json"
+    },
+    {
+      "id": "an10.17",
+      "number": 17,
+      "title": {
+        "pali": "Sādhuvaggo (II)",
+        "english": "The Good (Part 2)",
+        "sinhala": "සාධු වර්ගය (දෙවන කොටස)"
+      },
+      "description": {
+        "english": "Further elaborations on the nature of what is beneficial and what is harmful.",
+        "sinhala": "හිතකර සහ අහිතකර කරුණු පිළිබඳ තවදුරටත් කරන පැහැදිලි කිරීම්."
+      },
+      "link": "chapters/an10.17-Sādhuvaggo.json"
+    },
+    {
+      "id": "an10.18",
+      "number": 18,
+      "title": {
+        "pali": "Ariyamaggavaggo",
+        "english": "The Noble Path",
+        "sinhala": "අරියමග්ග වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the ten-fold noble path, adding right knowledge and right liberation to the traditional eight factors.",
+        "sinhala": "සම්මා ඤාණ සහ සම්මා විමුක්ති ඇතුළුව දස වැදෑරුම් ආර්ය මාර්ගය ගැන මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an10.18-Ariyamaggavaggo.json"
+    },
+    {
+      "id": "an10.19",
+      "number": 19,
+      "title": {
+        "pali": "Aparapuggalavaggo",
+        "english": "More Persons",
+        "sinhala": "අපර පුද්ගල වර්ගය"
+      },
+      "description": {
+        "english": "Additional categories of people based on their spiritual development and ethical standards.",
+        "sinhala": "පුද්ගලයන්ගේ ආධ්‍යාත්මික දියුණුව සහ සදාචාරාත්මක මට්ටම් අනුව තවත් පුද්ගල වර්ගීකරණයන්."
+      },
+      "link": "chapters/an10.19-Aparapuggalavaggo.json"
+    },
+    {
+      "id": "an10.20",
+      "number": 20,
+      "title": {
+        "pali": "Karajakāyavaggo",
+        "english": "The Physical Body",
+        "sinhala": "කරජකාය වර්ගය"
+      },
+      "description": {
+        "english": "Teachings on the nature of the body and the development of the four divine abodes (Brahmavihara).",
+        "sinhala": "ශරීරයේ ස්වභාවය සහ සතර බ්‍රහ්ම විහරණයන් දියුණු කරන ආකාරය පිළිබඳ දේශනා."
+      },
+      "link": "chapters/an10.20-Karajakāyavaggo.json"
+    },
+    {
+      "id": "an10.21",
+      "number": 21,
+      "title": {
+        "pali": "Sāmaññavaggo",
+        "english": "Common Qualities",
+        "sinhala": "සාමඤ්ඤ වර්ගය"
+      },
+      "description": {
+        "english": "Discusses common spiritual themes organized into groups of ten.",
+        "sinhala": "දහය බැගින් වූ කාණ්ඩ ලෙස සකස් කළ පොදු ආධ්‍යාත්මික කරුණු."
+      },
+      "link": "chapters/an10.21-Sāmaññavaggo.json"
+    },
+    {
+      "id": "an10.22",
+      "number": 22,
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "Repetitive series on abandoning lust and other hindrances through ten different perspectives.",
+        "sinhala": "ආකාර දහයකින් රාගය ඇතුළු නීවරණ ධර්මයන් ප්‍රහීණ කිරීම ගැන දැක්වෙන කෙටි දේශනා මාලාව."
+      },
+      "link": "chapters/an10.22-Rāgapeyyālaṃ.json"
+    }
+  ]
+}

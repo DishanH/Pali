@@ -1,0 +1,250 @@
+{
+  "id": "tikanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "The Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "tikanipata",
+    "number": 3,
+    "name": {
+      "pali": "Tikanipātapāḷi",
+      "english": "The Book of the Threes",
+      "sinhala": "තික නිපාතය"
+    }
+  },
+  "title": {
+    "pali": "Tikanipātapāḷi",
+    "english": "The Book of the Threes",
+    "sinhala": "තික නිපාතය"
+  },
+  "footer": {
+    "pali": "Tikanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Threes is concluded.",
+    "sinhala": "තික නිපාතය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The third division of the Anguttara Nikaya, containing discourses organized into groups of three. It highlights the three root causes of unwholesome actions and the three characteristics of existence.",
+    "sinhala": "අංගුත්තර නිකායේ තුන්වන කොටස වන මෙහි කරුණු තුන බැගින් වූ දේශනා අන්තර්ගත වේ. අකුසල මූලයන් තුන සහ ත්‍රිලක්ෂණය වැනි මූලික බුදුදහමේ ඉගැන්වීම් මෙහි විස්තර කෙරේ."
+  },
+  "totalChapters": 14,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "an3.1",
+      "number": 1,
+      "title": {
+        "pali": "Bālavaggo",
+        "english": "The Fool",
+        "sinhala": "බාල වර්ගය"
+      },
+      "description": {
+        "english": "Discusses the three characteristics that define a fool and the consequences of unwise actions.",
+        "sinhala": "බාලයෙකු හඳුනාගත හැකි ලක්ෂණ තුන සහ අඥාන ක්‍රියාවල විපාක මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an3.1-Bālavaggo.json"
+    },
+    {
+      "id": "an3.2",
+      "number": 2,
+      "title": {
+        "pali": "Rathakāravaggo",
+        "english": "The Chariot Maker",
+        "sinhala": "රථකාර වර්ගය"
+      },
+      "description": {
+        "english": "Contains similes involving craftsmanship and the steady effort required for spiritual progress.",
+        "sinhala": "ශිල්පීය දක්ෂතාවයන් උපමා කරගනිමින් ආධ්‍යාත්මික දියුණුවට අවශ්‍ය උත්සාහය ගැන මෙහි පැහැදිලි කරයි."
+      },
+      "link": "chapters/an3.2-Rathakāravaggo.json"
+    },
+    {
+      "id": "an3.3",
+      "number": 3,
+      "title": {
+        "pali": "Puggalavaggo",
+        "english": "Persons",
+        "sinhala": "පුද්ගල වර්ගය"
+      },
+      "description": {
+        "english": "Classifies various types of individuals into groups of three based on their conduct and wisdom.",
+        "sinhala": "ප්‍රඥාව සහ හැසිරීම පදනම් කරගෙන විවිධ පුද්ගලයන් වර්ග තුනකට බෙදා මෙහි විග්‍රහ කෙරේ."
+      },
+      "link": "chapters/an3.3-Puggalavaggo.json"
+    },
+    {
+      "id": "an3.4",
+      "number": 4,
+      "title": {
+        "pali": "Devadūtavaggo",
+        "english": "Divine Messengers",
+        "sinhala": "දේවදූත වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the three messengers—old age, sickness, and death—that urge beings toward the Dhamma.",
+        "sinhala": "ජරාව, ව්‍යාධිය සහ මරණය යන දේවදූතයන් තිදෙනා මගින් මිනිසාට ලැබෙන පණිවිඩය මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an3.4-Devadūtavaggo.json"
+    },
+    {
+      "id": "an3.5",
+      "number": 5,
+      "title": {
+        "pali": "Cūḷavaggo",
+        "english": "The Small Chapter",
+        "sinhala": "චූළ වර්ගය"
+      },
+      "description": {
+        "english": "A collection of shorter discourses covering a variety of three-fold topics.",
+        "sinhala": "විවිධ මාතෘකා යටතේ කරුණු තුන බැගින් සාකච්ඡා කෙරෙන කෙටි දේශනා එකතුවකි."
+      },
+      "link": "chapters/an3.5-Cūḷavaggo.json"
+    },
+    {
+      "id": "an3.6",
+      "number": 6,
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "Brahmins",
+        "sinhala": "බ්‍රාහ්මණ වර්ගය"
+      },
+      "description": {
+        "english": "Discourses related to the views and practices of Brahmins compared with the Buddha's path.",
+        "sinhala": "බ්‍රාහ්මණයන්ගේ ඇදහිලි සහ බුදුමගෙහි ඇති වෙනස පෙන්වා දෙන දේශනා මෙහි ඇතුළත් වේ."
+      },
+      "link": "chapters/an3.6-Brāhmaṇavaggo.json"
+    },
+    {
+      "id": "an3.7",
+      "number": 7,
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "The Great Chapter",
+        "sinhala": "මහා වර්ගය"
+      },
+      "description": {
+        "english": "Includes the pivotal Kalama Sutta on free inquiry and the three kinds of pride.",
+        "sinhala": "විමර්ශනයට අවස්ථාව දෙන කාලාම සූත්‍රය සහ මද තුනක් (ආඩම්බරය) පිළිබඳ දේශනා මෙහි අඩංගු වේ."
+      },
+      "link": "chapters/an3.7-Mahāvaggo.json"
+    },
+    {
+      "id": "an3.8",
+      "number": 8,
+      "title": {
+        "pali": "Ānandavaggo",
+        "english": "With Ananda",
+        "sinhala": "ආනන්ද වර්ගය"
+      },
+      "description": {
+        "english": "Dialogues between the Buddha and Ven. Ananda on subtle aspects of the Dhamma.",
+        "sinhala": "බුදුරජාණන් වහන්සේ සහ ආනන්ද හිමියන් අතර ඇති වූ ගැඹුරු ධර්ම සාකච්ඡා මෙහි දැක්වේ."
+      },
+      "link": "chapters/an3.8-Ānandavaggo.json"
+    },
+    {
+      "id": "an3.9",
+      "number": 9,
+      "title": {
+        "pali": "Samaṇavaggo",
+        "english": "Ascetics",
+        "sinhala": "සමණ වර්ගය"
+      },
+      "description": {
+        "english": "Discusses the three-fold training (virtue, concentration, and wisdom) essential for a true seeker.",
+        "sinhala": "ත්‍රිවිධ ශික්ෂාව (සීල, සමාධි, ප්‍රඥා) සහ ශ්‍රමණයෙකුගේ ප්‍රතිපදාව මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an3.9-Samaṇavaggo.json"
+    },
+    {
+      "id": "an3.10",
+      "number": 10,
+      "title": {
+        "pali": "Sambodhavaggo",
+        "english": "Awakening",
+        "sinhala": "සම්බෝධ වර්ගය"
+      },
+      "description": {
+        "english": "Explains the conditions for awakening and the overcoming of the three fetters.",
+        "sinhala": "අවබෝධය ලබා ගැනීමට අවශ්‍ය කරුණු සහ සංයෝජන තුනක් ප්‍රහීණ කිරීම ගැන මෙහි දැක්වේ."
+      },
+      "link": "chapters/an3.10-Sambodhavaggo.json"
+    },
+    {
+      "id": "an3.11",
+      "number": 11,
+      "title": {
+        "pali": "Maṅgalavaggo",
+        "english": "Blessings",
+        "sinhala": "මංගල වර්ගය"
+      },
+      "description": {
+        "english": "Highlights three-fold actions that lead to prosperity and spiritual blessings.",
+        "sinhala": "අභිවෘද්ධියට සහ මංගල කරුණු වලට හේතු වන ත්‍රිවිධ ක්‍රියාවන් මෙහි විග්‍රහ කෙරේ."
+      },
+      "link": "chapters/an3.11-Maṅgalavaggo.json"
+    },
+    {
+      "id": "an3.12",
+      "number": 12,
+      "title": {
+        "pali": "Acelakavaggo",
+        "english": "Naked Ascetics",
+        "sinhala": "අචේලක වර්ගය"
+      },
+      "description": {
+        "english": "Addresses practices of other ascetic groups and the correct way to handle praise and blame.",
+        "sinhala": "අන්‍ය ආගමික වත්පිළිවෙත් සහ නින්දා-ප්‍රශංසා හමුවේ ක්‍රියා කළ යුතු ආකාරය මෙහි දැක්වේ."
+      },
+      "link": "chapters/an3.12-Acelakavaggo.json"
+    },
+    {
+      "id": "an3.13",
+      "number": 13,
+      "title": {
+        "pali": "Kammapathapeyyālaṃ",
+        "english": "Course of Action",
+        "sinhala": "කම්මපථ පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "A series of texts on the three types of bodily, verbal, and mental actions.",
+        "sinhala": "ත්‍රිවිධ කාය, වාග් සහ මනෝ කර්මයන් පිළිබඳ විස්තර කෙරෙන කෙටි දේශනා මාලාවකි."
+      },
+      "link": "chapters/an3.13-Kammapathapeyyālaṃ.json"
+    },
+    {
+      "id": "an3.14",
+      "number": 14,
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "Repeated texts detailing the abandonment of greed, hatred, and delusion.",
+        "sinhala": "රාග, ද්වේෂ, මෝහයන් දුරු කිරීමේ වැදගත්කම අවධාරණය කරන කෙටි දේශනා පෙළ."
+      },
+      "link": "chapters/an3.14-Rāgapeyyālaṃ.json"
+    }
+  ]
+}

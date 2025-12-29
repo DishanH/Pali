@@ -1,0 +1,82 @@
+{
+  "id": "ekadasakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "The Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "ekadasakanipata",
+    "number": 11,
+    "name": {
+      "pali": "Ekādasakanipātapāḷi",
+      "english": "The Book of the Elevens",
+      "sinhala": "ඒකාදසක නිපාතය"
+    }
+  },
+  "title": {
+    "pali": "Ekādasakanipātapāḷi",
+    "english": "The Book of the Elevens",
+    "sinhala": "ඒකාදසක නිපාතය"
+  },
+  "footer": {
+    "pali": "Ekādasakanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Elevens is concluded.",
+    "sinhala": "ඒකාදසක නිපාතය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The final division of the Anguttara Nikaya, centering on sets of eleven, most notably the eleven advantages of cultivating loving-kindness (Metta) and various types of concentration.",
+    "sinhala": "අංගුත්තර නිකායේ අවසාන කොටස වන මෙහි, මෙත්තා භාවනාවේ ආනිසංස එකොළහ සහ විවිධ සමාධි ක්‍රම ඇතුළු කරුණු එකොළහ බැගින් වූ දේශනා අන්තර්ගත වේ."
+  },
+  "totalChapters": 2,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "an11.1",
+      "number": 1,
+      "title": {
+        "pali": "Anussativaggo",
+        "english": "Recollections",
+        "sinhala": "අනුස්සති වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the eleven topics of recollection and the eleven benefits that arise from practicing loving-kindness (Metta).",
+        "sinhala": "අනුස්සති එකොළහක් සහ මෛත්‍රී භාවනාව වැඩීමෙන් ලැබෙන ආනිසංස එකොළහ පිළිබඳ දේශනා මෙහි ඇතුළත් වේ."
+      },
+      "link": "chapters/an11.1-Anussativaggo.json"
+    },
+    {
+      "id": "an11.2",
+      "number": 2,
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "The concluding repetitive series detailing eleven ways to fully understand and abandon lust and other mental defilements.",
+        "sinhala": "රාගය ඇතුළු කෙලෙස් ධර්මයන් මැනවින් අවබෝධ කරගෙන ප්‍රහීණ කිරීම සඳහා වූ කරුණු එකොළහ බැගින් දැක්වෙන අවසාන කෙටි දේශනා මාලාව."
+      },
+      "link": "chapters/an11.2-Rāgapeyyālaṃ.json"
+    }
+  ]
+}

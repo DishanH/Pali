@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "created_date": "2025-12-29",
+    "purpose": "Reference mapping for book translation files",
+    "instructions": {
+      "workflow": [
+        "1. Translate the JSON files in the book_translations_for_manual_work folder",
+        "2. Use apply_book_translations.py to copy translations back to original files",
+        "3. Verify with extract_missing_translations.py"
+      ],
+      "translation_fields": [
+        "Fill in all 'english' and 'sinhala' fields",
+        "Translate 'description' and 'summary' fields if present",
+        "Keep 'pali' fields unchanged"
+      ]
+    }
+  },
+  "file_mappings": [
+    {
+      "original_path": "Dīghanikāyo\\Mahāvaggapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Dīghanikāyo\\Mahāvaggapāḷi_book.json",
+      "collection": "Dīghanikāyo",
+      "book": "Mahāvaggapāḷi"
+    },
+    {
+      "original_path": "Dīghanikāyo\\Pāthikavaggapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Dīghanikāyo\\Pāthikavaggapāḷi_book.json",
+      "collection": "Dīghanikāyo",
+      "book": "Pāthikavaggapāḷi"
+    },
+    {
+      "original_path": "Dīghanikāyo\\Sīlakkhandhavaggapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Dīghanikāyo\\Sīlakkhandhavaggapāḷi_book.json",
+      "collection": "Dīghanikāyo",
+      "book": "Sīlakkhandhavaggapāḷi"
+    },
+    {
+      "original_path": "Majjhimanikāye\\Majjhimapaṇṇāsapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Majjhimanikāye\\Majjhimapaṇṇāsapāḷi_book.json",
+      "collection": "Majjhimanikāye",
+      "book": "Majjhimapaṇṇāsapāḷi"
+    },
+    {
+      "original_path": "Majjhimanikāye\\Mūlapaṇṇāsapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Majjhimanikāye\\Mūlapaṇṇāsapāḷi_book.json",
+      "collection": "Majjhimanikāye",
+      "book": "Mūlapaṇṇāsapāḷi"
+    },
+    {
+      "original_path": "Majjhimanikāye\\Uparipaṇṇāsapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Majjhimanikāye\\Uparipaṇṇāsapāḷi_book.json",
+      "collection": "Majjhimanikāye",
+      "book": "Uparipaṇṇāsapāḷi"
+    },
+    {
+      "original_path": "Saṃyuttanikāyo\\Khandhavaggo\\book.json",
+      "output_path": "book_translations_for_manual_work\\Saṃyuttanikāyo\\Khandhavaggo_book.json",
+      "collection": "Saṃyuttanikāyo",
+      "book": "Khandhavaggo"
+    },
+    {
+      "original_path": "Saṃyuttanikāyo\\Mahāvaggo\\book.json",
+      "output_path": "book_translations_for_manual_work\\Saṃyuttanikāyo\\Mahāvaggo_book.json",
+      "collection": "Saṃyuttanikāyo",
+      "book": "Mahāvaggo"
+    },
+    {
+      "original_path": "Saṃyuttanikāyo\\Nidānavaggo\\book.json",
+      "output_path": "book_translations_for_manual_work\\Saṃyuttanikāyo\\Nidānavaggo_book.json",
+      "collection": "Saṃyuttanikāyo",
+      "book": "Nidānavaggo"
+    },
+    {
+      "original_path": "Saṃyuttanikāyo\\Sagāthāvaggo\\book.json",
+      "output_path": "book_translations_for_manual_work\\Saṃyuttanikāyo\\Sagāthāvaggo_book.json",
+      "collection": "Saṃyuttanikāyo",
+      "book": "Sagāthāvaggo"
+    },
+    {
+      "original_path": "Saṃyuttanikāyo\\Saḷāyatanavaggo\\book.json",
+      "output_path": "book_translations_for_manual_work\\Saṃyuttanikāyo\\Saḷāyatanavaggo_book.json",
+      "collection": "Saṃyuttanikāyo",
+      "book": "Saḷāyatanavaggo"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Aṭṭhakanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Aṭṭhakanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Aṭṭhakanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Catukkanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Catukkanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Catukkanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Chakkanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Chakkanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Chakkanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Dasakanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Dasakanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Dasakanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Dukanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Dukanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Dukanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Ekakanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Ekakanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Ekakanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Ekādasakanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Ekādasakanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Ekādasakanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Navakanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Navakanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Navakanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Pañcakanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Pañcakanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Pañcakanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Sattakanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Sattakanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Sattakanipātapāḷi"
+    },
+    {
+      "original_path": "Aṅguttaranikāyo\\Tikanipātapāḷi\\book.json",
+      "output_path": "book_translations_for_manual_work\\Aṅguttaranikāyo\\Tikanipātapāḷi_book.json",
+      "collection": "Aṅguttaranikāyo",
+      "book": "Tikanipātapāḷi"
+    }
+  ],
+  "statistics": {
+    "total_files": 22,
+    "collections": 4
+  }
+}

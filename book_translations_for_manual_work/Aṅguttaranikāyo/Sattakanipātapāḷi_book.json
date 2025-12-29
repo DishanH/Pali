@@ -1,0 +1,194 @@
+{
+  "id": "sattakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "The Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "sattakanipata",
+    "number": 7,
+    "name": {
+      "pali": "Sattakanipātapāḷi",
+      "english": "The Book of the Sevens",
+      "sinhala": "සත්තක නිපාතය"
+    }
+  },
+  "title": {
+    "pali": "Sattakanipātapāḷi",
+    "english": "The Book of the Sevens",
+    "sinhala": "සත්තක නිපාතය"
+  },
+  "footer": {
+    "pali": "Sattakanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Sevens is concluded.",
+    "sinhala": "සත්තක නිපාතය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The seventh division of the Anguttara Nikaya, featuring suttas grouped by sevens. It includes profound teachings on the seven types of wealth, the seven latent tendencies (anusaya), and the conditions for non-decline.",
+    "sinhala": "අංගුත්තර නිකායේ හත්වන කොටස වන මෙහි කරුණු හත බැගින් වූ දේශනා අන්තර්ගත වේ. සප්ත ආර්ය ධන, සප්ත අනුසය සහ පිරිහීමට පත් නොවීමේ කරුණු (අපරිහානිය ධර්ම) වැනි විෂයයන් මෙහි විග්‍රහ කෙරේ."
+  },
+  "totalChapters": 10,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "an7.1",
+      "number": 1,
+      "title": {
+        "pali": "Dhanavaggo",
+        "english": "Wealth",
+        "sinhala": "ධන වර්ගය"
+      },
+      "description": {
+        "english": "Explains the seven types of noble wealth: faith, virtue, shame, fear of wrongdoing, learning, generosity, and wisdom.",
+        "sinhala": "ශ්‍රද්ධාව, සීලය, හිරිය, ඔත්තප්පය, බහුශ්‍රැත බව, ත්‍යාගය සහ ප්‍රඥාව යන සප්ත ආර්ය ධනය පිළිබඳව මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an7.1-Dhanavaggo.json"
+    },
+    {
+      "id": "an7.2",
+      "number": 2,
+      "title": {
+        "pali": "Anusayavaggo",
+        "english": "Latent Tendencies",
+        "sinhala": "අනුසය වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the seven latent tendencies that lie dormant in the mind and lead to continued suffering.",
+        "sinhala": "සිතේ යටපත්ව තිබෙන කෙලෙස් හෙවත් සප්ත අනුසය ධර්මයන් පිළිබඳව මෙහි විග්‍රහ කෙරේ."
+      },
+      "link": "chapters/an7.2-Anusayavaggo.json"
+    },
+    {
+      "id": "an7.3",
+      "number": 3,
+      "title": {
+        "pali": "Devatāvaggo",
+        "english": "Deities",
+        "sinhala": "දේවතා වර්ගය"
+      },
+      "description": {
+        "english": "Teachings given regarding interactions with deities or qualities that lead to heavenly rebirth.",
+        "sinhala": "දෙවිවරුන් හා සම්බන්ධ හෝ දිව්‍ය ලෝකවල උප්පත්තිය ලැබීමට හේතු වන කරුණු මෙහි අන්තර්ගත වේ."
+      },
+      "link": "chapters/an7.3-Devatāvaggo.json"
+    },
+    {
+      "id": "an7.4",
+      "number": 4,
+      "title": {
+        "pali": "Mahāyaññavaggo",
+        "english": "The Great Sacrifice",
+        "sinhala": "මහා යඤ්ඤ වර්ගය"
+      },
+      "description": {
+        "english": "Contrasts traditional ritual sacrifices with the noble 'sacrifice' of the spiritual path and generosity.",
+        "sinhala": "සාම්ප්‍රදායික යාග හෝම සහ ආර්ය විනයෙහි දැක්වෙන උතුම් පරිත්‍යාගය අතර වෙනස මෙහි දක්වා ඇත."
+      },
+      "link": "chapters/an7.4-Mahāyaññavaggo.json"
+    },
+    {
+      "id": "an7.5",
+      "number": 5,
+      "title": {
+        "pali": "Abyākatavaggo",
+        "english": "Undeclared",
+        "sinhala": "අබ්‍යාකත වර්ගය"
+      },
+      "description": {
+        "english": "Discusses questions left unanswered by the Buddha and the seven reasons for performing wholesome actions.",
+        "sinhala": "බුදුරජාණන් වහන්සේ විසින් පිළිතුරු නොදුන් ප්‍රශ්න සහ කුසල් කිරීමට බලපාන හේතු හතක් ගැන මෙහි දැක්වේ."
+      },
+      "link": "chapters/an7.5-Abyākatavaggo.json"
+    },
+    {
+      "id": "an7.6",
+      "number": 6,
+      "title": {
+        "pali": "Mahāvaggo",
+        "english": "The Great Chapter",
+        "sinhala": "මහා වර්ගය"
+      },
+      "description": {
+        "english": "Features the seven conditions for the welfare of nations and the Sangha, ensuring they do not decline.",
+        "sinhala": "සමාජයක් හෝ සංඝයා පිරිහීමට පත් නොවී දියුණුවට පත්වන අපරිහානිය ධර්ම හතක් පිළිබඳ ප්‍රකට දේශනා."
+      },
+      "link": "chapters/an7.6-Mahāvaggo.json"
+    },
+    {
+      "id": "an7.7",
+      "number": 7,
+      "title": {
+        "pali": "Vinayavaggo",
+        "english": "Discipline",
+        "sinhala": "විනය වර්ගය"
+      },
+      "description": {
+        "english": "Covers seven methods for settling legal processes and disputes within the monastic community.",
+        "sinhala": "සංඝයා අතර ඇති වන ආරවුල් විසඳීම සඳහා වූ අධිකරණ සමථ හතක් පිළිබඳ විස්තර."
+      },
+      "link": "chapters/an7.7-Vinayavaggo.json"
+    },
+    {
+      "id": "an7.8",
+      "number": 8,
+      "title": {
+        "pali": "Samaṇavaggo",
+        "english": "The Ascetic",
+        "sinhala": "සමණ වර්ගය"
+      },
+      "description": {
+        "english": "Qualities that define a true ascetic and lead to the seven factors of enlightenment.",
+        "sinhala": "සැබෑ ශ්‍රමණයෙකු සතු විය යුතු ගුණාංග සහ සප්ත බොජ්ඣංග ධර්මයන් වැඩීම මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an7.8-Samaṇavaggo.json"
+    },
+    {
+      "id": "an7.9",
+      "number": 9,
+      "title": {
+        "pali": "Āhuneyyavaggo",
+        "english": "Worthy of Gifts",
+        "sinhala": "ආහුනෙය්‍ය වර්ගය"
+      },
+      "description": {
+        "english": "Describes the seven types of noble persons who are worthy of gifts, hospitality, and offerings.",
+        "sinhala": "ආහුනෙය්‍ය, පාහුනෙය්‍ය ආදී ගුණවලින් යුත් උතුම් පුද්ගලයන් හත්දෙනෙකු පිළිබඳ විස්තර."
+      },
+      "link": "chapters/an7.9-Āhuneyyavaggo.json"
+    },
+    {
+      "id": "an7.10",
+      "number": 10,
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "A series of abbreviated texts detailing how to abandon lust and other defilements using groups of seven.",
+        "sinhala": "හත බැගින් වූ ක්‍රමවේද හරහා රාගය ඇතුළු කෙලෙස් ප්‍රහීණ කිරීම පිළිබඳ කෙටි දේශනා පෙළ."
+      },
+      "link": "chapters/an7.10-Rāgapeyyālaṃ.json"
+    }
+  ]
+}

@@ -15,11 +15,11 @@
       "unique_terms": 6
     }
   },
-  "translations": {
-    "Tikaṇḍakīvaggo pañcamo. Tassuddānaṃ – Datvā avajānāti ārabhati ca, sārandada tikaṇḍa nirayena ca; Mitto asappurisasappurisena, samayavimuttaṃ apare dveti. Tatiyapaṇṇāsakaṃ samattaṃ.": {
+  "translations": [
+    {
       "pali": "Tikaṇḍakīvaggo pañcamo. Tassuddānaṃ – Datvā avajānāti ārabhati ca, sārandada tikaṇḍa nirayena ca; Mitto asappurisasappurisena, samayavimuttaṃ apare dveti. Tatiyapaṇṇāsakaṃ samattaṃ.",
-      "english": "The Tikaṇḍakī Chapter, the fifth. Its summary: Having given, one despises and strives; with the giver of essence, Tikaṇḍakī, and with hell; Friend, with the bad person and good person, temporarily liberated and two others. The third fifty is complete.",
-      "sinhala": "තිකණ්ඩකී වග්ගය, පස්වැන්න. එහි සාරාංශය: දීමෙන් පසු කෙනෙක් හෙළා දකින අතර උත්සාහ කරයි; සාරදායකයා සමඟ, තිකණ්ඩකී සහ නිරය සමඟ; මිතුරා, නරක පුද්ගලයා සහ හොඳ පුද්ගලයා සමඟ, තාවකාලිකව මුක්ත වූ සහ තවත් දෙදෙනෙක්. තුන්වන පනහ සම්පූර්ණයි.",
+      "english": "The fifth chapter on Tikaṇḍakī. The summary of it: Having Given, One Despises, One Commences; Sārandada, Tikaṇḍakī, and with Hell; Friend, the Unworthy Person and the Worthy Person, One Liberated by Time, and two others. The third fifty is complete.",
+      "sinhala": "පස්වන තිකණ්ඩකී වර්ගයයි. එහි උද්දානය නම්: දත්වා, අවජානාති, ආරභති, සාරන්දද, තිකණ්ඩ, නිරය, මිත්ත, අසප්පුරිස, සප්පුරිස, සමයවිමුත්ත සහ තවත් සූත්‍ර දෙකකි. තෙවන පණ්ණාසකය සමාප්තයි.",
       "contexts": [
         "Chapter Footer: Pañcakanipātapāḷi/an5.15-Tikaṇḍakīvaggo.json"
       ],
@@ -29,11 +29,10 @@
         "sinhala": true
       }
     },
-    "Rāgapeyyālaṃ niṭṭhitaṃ. Tassuddānaṃ – Abhiññāya pariññāya parikkhayāya, Pahānāya khayāya vayena ca; Virāganirodhā cāgañca, Paṭinissaggo ime dasāti. Pañcakanipāto niṭṭhito. Tatridaṃ vagguddānaṃ – Sekhabalaṃ balañceva, pañcaṅgikañca sumanaṃ; Muṇḍanīvaraṇañca saññañca, yodhājīvañca aṭṭhamaṃ; Theraṃ kakudhaphāsuñca, andhakavindadvādasaṃ; Gilānarājatikaṇḍaṃ, saddhammāghātupāsakaṃ; Araññabrāhmaṇañceva, kimilakkosakaṃ tathā; Dīghācārāvāsikañca, duccaritūpasampadanti.": {
-      "pali": "Rāgapeyyālaṃ niṭṭhitaṃ. Tassuddānaṃ – Abhiññāya pariññāya parikkhayāya, Pahānāya khayāya vayena ca; Virāganirodhā cāgañca, Paṭinissaggo ime dasāti. Pañcakanipāto niṭṭhito. Tatridaṃ vagguddānaṃ – Sekhabalaṃ balañceva, pañcaṅgikañca sumanaṃ; Muṇḍanīvaraṇañca saññañca, yodhājīvañca aṭṭhamaṃ; Theraṃ kakudhaphāsuñca, andhakavindadvādasaṃ; Gilānarājatikaṇḍaṃ, saddhammāghātupāsakaṃ; Araññabrāhmaṇañceva, kimilakkosakaṃ tathā; Dīghācārāvāsikañca, duccaritūpasampadanti.": {
+    {
       "pali": "Rāgapeyyālaṃ niṭṭhitaṃ. Tassuddānaṃ – Abhiññāya pariññāya parikkhayāya, Pahānāya khayāya vayena ca; Virāganirodhā cāgañca, Paṭinissaggo ime dasāti. Pañcakanipāto niṭṭhito. Tatridaṃ vagguddānaṃ – Sekhabalaṃ balañceva, pañcaṅgikañca sumanaṃ; Muṇḍanīvaraṇañca saññañca, yodhājīvañca aṭṭhamaṃ; Theraṃ kakudhaphāsuñca, andhakavindadvādasaṃ; Gilānarājatikaṇḍaṃ, saddhammāghātupāsakaṃ; Araññabrāhmaṇañceva, kimilakkosakaṃ tathā; Dīghācārāvāsikañca, duccaritūpasampadanti.",
-      "english": "The Lust Repetition Series is completed. Its summary: By direct knowledge, full understanding, complete destruction, abandoning, destruction, and decay; by dispassion, cessation, and relinquishment, these ten. The Book of Fives is completed. Here is the chapter summary: The trainee's powers and strength, the five-factored and Sumanā; Shaving, hindrances, perception, and the warrior's livelihood as the eighth; The elder, Kakudha, Phāsu, and Andhakavinda as the twelfth; The sick, king, Tikaṇḍakī, true Dhamma, destroyer, and lay follower; Forest-dweller and brahmin, and likewise Kimilā and Kosaka; Long-practiced, resident, and misconduct and full ordination.",
-      "sinhala": "රාග පෙය්‍යාල ශ්‍රේණිය සම්පූර්ණයි. එහි සාරාංශය: ප්‍රත්‍යක්ෂ ඥානයෙන්, සම්පූර්ණ අවබෝධයෙන්, සම්පූර්ණ විනාශයෙන්, ප්‍රහාණයෙන්, ක්ෂයෙන් සහ වයෙන්; විරාගයෙන්, නිරෝධයෙන් සහ ප්‍රතිනිස්සග්ගයෙන්, මේ දහය. පඤ්චක නිපාතය සම්පූර්ණයි. මෙහි වග්ග සාරාංශය: සේඛ බලය සහ බලය, පඤ්චාංගික සහ සුමනා; මුණ්ඩනය, නීවරණ, සංඥා සහ යෝධාජීව අටවැන්න ලෙස; ථේරයා, කකුධ, ඵාසු සහ අන්ධකවින්ද දොළොස්වැන්න ලෙස; රෝගී, රජු, තිකණ්ඩකී, සද්ධර්ම, ඝාතක සහ උපාසක; අරණ්‍ය වාසී සහ බ්‍රාහ්මණයා, සහ එසේම කිමිලා සහ කෝසක; දීර්ඝ ආචාර, වාසික සහ දුෂ්චරිත සහ උපසම්පදා.",
+      "english": "The Abbreviated Series on Lust is finished. The summary of it: Direct knowledge, full understanding, complete exhaustion, abandoning, destruction, and passing away; fading of lust, cessation, giving up, and relinquishment—these ten. The Book of the Fives is finished. This is the summary of its chapters: Trainee's Powers, Powers, Fivefold, Sumanā; Muṇḍa, Hindrances, Perception, the Warrior as eighth; Elders, Kakudha, Comfort, and Andhakavinda as twelfth; Sick, King, Tikaṇḍakī, True Dhamma, Resentment, Lay Follower; Forest, Brahmin, Kimila, and Insulter; Long Wandering, Resident Monk, Misconduct, and Ordination.",
+      "sinhala": "රාග පෙය්‍යාලය නිමයි. එහි උද්දානය නම්: අභිඤ්ඤා, පරිඤ්ඤා, පිරික්ඛය, පහාන, ඛය, වය, විරාග, නිරෝධ, චාග සහ පටිනිස්සග්ග යන දසයයි. පංචක නිපාතය නිමයි. එහි වර්ග උද්දානය නම්: සේඛබල, බල, පංචංගික, සුමනා, මුණ්ඩ, නීවරණ, සඤ්ඤා, යෝධාජීව, ථේර, කකුධ, ඵාසු, අන්ධකවින්ද, ගිලාන, රාජ, තිකණ්ඩ, සද්ධම්ම, ආඝාත, උපාසක, අරඤ්ඤ, බ්‍රාහ්මණ, කිමිල, අක්කෝසක, දීඝචාරික, ආවාසික, දුච්චරිත සහ උපසම්පදා වර්ගයි.",
       "contexts": [
         "Chapter Footer: Pañcakanipātapāḷi/an5.29-Rāgapeyyālaṃ.json"
       ],
@@ -43,10 +42,10 @@
         "sinhala": true
       }
     },
-    "Sumanavaggo catuttho. Tassuddānaṃ – Sumanā cundī uggaho, sīho dānānisaṃsako; Kālabhojanasaddhā ca, puttasālehi te dasāti.": {
+    {
       "pali": "Sumanavaggo catuttho. Tassuddānaṃ – Sumanā cundī uggaho, sīho dānānisaṃsako; Kālabhojanasaddhā ca, puttasālehi te dasāti.",
-      "english": "The Sumanā Chapter, the fourth. Its summary: Sumanā, Cundī, Uggaha, the lion, and the benefits of giving; proper time for eating and faith, with sons and Sāla trees, these ten.",
-      "sinhala": "සුමනා වග්ගය, සිව්වැන්න. එහි සාරාංශය: සුමනා, චුන්දී, උග්ගහ, සිංහයා සහ දානයේ ප්‍රතිලාභ; කාලීන ආහාර සහ ශ්‍රද්ධාව, පුත්‍රයන් සහ සාල ගස් සමඟ, මේ දහය.",
+      "english": "The fourth chapter on Sumanā. The summary of it: Sumanā, Cundī, Uggaha, Sīha, the Benefits of Giving; Timely Eating, Faith, and the Son's Sal Forest—these ten.",
+      "sinhala": "සිව්වන සුමනා වර්ගයයි. එහි උද්දානය නම්: සුමනා, චුන්දී, උග්ගහ, සීහ, දානානිසංස, කාලභෝජන, සද්ධා සහ පුත්තසාල යන සූත්‍ර දහයයි.",
       "contexts": [
         "Chapter Footer: Pañcakanipātapāḷi/an5.4-Sumanavaggo.json"
       ],
@@ -56,10 +55,10 @@
         "sinhala": true
       }
     },
-    "Loṇakapallavaggo [loṇaphalavaggo (sī. syā. kaṃ. pī.)] pañcamo. Tassuddānaṃ – Accāyikaṃ pavivekaṃ, sarado parisā tayo; Ājānīyā potthako ca, loṇaṃ dhovati nimittānīti. Dutiyo paṇṇāsako samatto.": {
+    {
       "pali": "Loṇakapallavaggo [loṇaphalavaggo (sī. syā. kaṃ. pī.)] pañcamo. Tassuddānaṃ – Accāyikaṃ pavivekaṃ, sarado parisā tayo; Ājānīyā potthako ca, loṇaṃ dhovati nimittānīti. Dutiyo paṇṇāsako samatto.",
-      "english": "The Salt Crystal Leaves Chapter, the fifth. Its summary: Urgent, seclusion, autumn, assembly, three; thoroughbred horses and a book, salt washes away the signs. The second fifty is complete.",
-      "sinhala": "ලෝණකපල්ලව වග්ගය, පස්වැන්න. එහි සාරාංශය: හදිසි, විවේකය, සරත්, සභාව, තුන; ආජානීය අශ්වයන් සහ පොතක්, ලුණු නිමිති සෝදා දමයි. දෙවන පනහ සම්පූර්ණයි.",
+      "english": "The fifth chapter on the Salt Crystal. The summary of it: Urgent, Seclusion, Autumn, three on Assemblies; Thoroughbreds, the Book, Salt, Washing, and Signs. The second fifty is complete.",
+      "sinhala": "පස්වන ලෝණකපල්ල වර්ගයයි. එහි උද්දානය නම්: අච්චායික, පවිවේක, සරද, පරිසා තුනක්, ආජානීය, පොත්ථක, ලෝණ, ධෝවති සහ නිමිත්ත සූත්‍රයි. දෙවන පණ්ණාසකය සමාප්තයි.",
       "contexts": [
         "Chapter Footer: Tikanipātapāḷi/an3.10-Loṇakapallavaggo.json"
       ],
@@ -69,10 +68,10 @@
         "sinhala": true
       }
     },
-    "Puggalavaggo tatiyo. Tassuddānaṃ – Samiddha [kāyasakkhi (sī.), saviṭṭha (syā. kaṃ.), seṭṭha (ka.)] -gilāna-saṅkhārā, bahukārā vajirena ca; Sevi-jiguccha-gūthabhāṇī, andho ca avakujjatāti.": {
+    {
       "pali": "Puggalavaggo tatiyo. Tassuddānaṃ – Samiddha [kāyasakkhi (sī.), saviṭṭha (syā. kaṃ.), seṭṭha (ka.)] -gilāna-saṅkhārā, bahukārā vajirena ca; Sevi-jiguccha-gūthabhāṇī, andho ca avakujjatāti.",
-      "english": "The Persons Chapter, the third. Its summary: Samiddha, sick, formations, very helpful with diamond; associating, disgusting, dung-speaker, blind and overturned.",
-      "sinhala": "පුග්ගල වග්ගය, තුන්වැන්න. එහි සාරාංශය: සමිද්ධ, රෝගී, සංස්කාර, වජිරයෙන් ඉතා උපකාරී; ඇසුරු කිරීම, පිළිකුල්, ගූත කථිකයා, අන්ධ සහ පෙරළුණු.",
+      "english": "The third chapter on Persons. The summary of it: Samiddha, the Sick, Choices, Very Helpful, and with the Diamond; To be Associated, Loathsome, One who talks Dung, the Blind, and Face Down.",
+      "sinhala": "තෙවන පුද්ගල වර්ගයයි. එහි උද්දානය නම්: සමිද්ධ, ගිලාන, සංඛාර, බහුකාර, වජිර, සේවී, ජිගුච්ඡ, ගූථභාණී, අන්ධ සහ අවකුජ්ජ සූත්‍රයි.",
       "contexts": [
         "Chapter Footer: Tikanipātapāḷi/an3.3-Puggalavaggo.json"
       ],
@@ -82,10 +81,10 @@
         "sinhala": true
       }
     },
-    "Brāhmaṇavaggo paṭhamo. Tassuddānaṃ – Dve brāhmaṇā caññataro, paribbājakena nibbutaṃ; Palokavaccho tikaṇṇo, soṇi saṅgāravena cāti.": {
+    {
       "pali": "Brāhmaṇavaggo paṭhamo. Tassuddānaṃ – Dve brāhmaṇā caññataro, paribbājakena nibbutaṃ; Palokavaccho tikaṇṇo, soṇi saṅgāravena cāti.",
-      "english": "The Brahmins Chapter, the first. Its summary: Two brahmins and another, with the wanderer, extinguished; Palokavaccha the sharp, Soṇi and with Saṅgārava.",
-      "sinhala": "බ්‍රාහ්මණ වග්ගය, පළමුවැන්න. එහි සාරාංශය: බ්‍රාහ්මණයන් දෙදෙනෙක් සහ තවත් කෙනෙක්, පරිබ්‍රාජකයා සමඟ, නිවී ගිය; තියුණු පලෝකවච්ඡ, සෝණි සහ සංගාරව සමඟ.",
+      "english": "The first chapter on Brahmins. The summary of it: Two Brahmins, Another, with the Wanderer, Extinguished; Destruction, Vaccha, Tikaṇṇa, Soṇi, and with Saṅgārava.",
+      "sinhala": "පළමු බ්‍රාහ්මණ වර්ගයයි. එහි උද්දානය නම්: බ්‍රාහ්මණ සූත්‍ර දෙකක්, අඤ්ඤතර, පරිබ්බාජක, නිබ්බුත, පලෝක, වච්ඡ, තිකණ්ණ, සෝණි සහ සංගාරව සූත්‍රයි.",
       "contexts": [
         "Chapter Footer: Tikanipātapāḷi/an3.6-Brāhmaṇavaggo.json"
       ],
@@ -95,5 +94,5 @@
         "sinhala": true
       }
     }
-  }
+  ]
 }

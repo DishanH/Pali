@@ -1,0 +1,194 @@
+{
+  "id": "nidanavagga",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "samyuttanikaya",
+    "name": {
+      "pali": "Saṃyutta Nikāya",
+      "english": "The Linked Discourses",
+      "sinhala": "සංයුත්ත නිකාය"
+    }
+  },
+  "vagga": {
+    "id": "nidanavagga",
+    "number": 2,
+    "name": {
+      "pali": "Nidānavaggo",
+      "english": "The Book of Causation",
+      "sinhala": "නිදාන වර්ගය"
+    }
+  },
+  "title": {
+    "pali": "Nidānavaggo",
+    "english": "The Book of Causation",
+    "sinhala": "නිදාන වර්ගය"
+  },
+  "footer": {
+    "pali": "Nidānavaggo dutiyo. Tassuddānaṃ – Nidānābhisamayadhātu, anamataggena kassapaṃ; Sakkārarāhulalakkhaṇo, opamma-bhikkhunā vaggo. Dutiyo tena pavuccatīti. Nidānavaggasaṃyuttapāḷi niṭṭhitā.",
+    "english": "The second is the Nidāna Section. Its summary: Causation, Breakthrough, Elements, the Unthinkable Beginning, Kassapa, Gains and Honor, Rahula, Lakkhana, Similes, and Bhikkhus. The Linked Discourses of the Nidāna Section is finished.",
+    "sinhala": "දෙවන නිදාන වර්ගයයි. එහි උද්දානය: නිදාන, අභිසමය, ධාතු, අනමතග්ග, කස්සප, ලාභසක්කාර, රාහුල, ලක්ඛණ, ඕපම්ම සහ භික්ඛු යන සංයුක්ත දහය මෙහි ඇතුළත් වේ. නිදාන වර්ග සංයුක්තපාළිය නිමවා ලදි."
+  },
+  "description": {
+    "english": "The second book of the Samyutta Nikaya. It deals primarily with the principle of conditionality and Dependent Origination. It also covers topics such as the various elements (dhatu), the beginningless nature of Samsara, and instructions to specific monks like Rahula and Kassapa.",
+    "sinhala": "සංයුත්ත නිකායේ දෙවන වෙළුමයි. මෙහි ප්‍රධාන වශයෙන් පටිච්චසමුප්පාදය හෙවත් හේතුඵල දහම විග්‍රහ කෙරේ. මීට අමතරව ධාතු විභාගය, සංසාරයේ නොපෙනෙන ආරම්භය, සහ රාහුල හා කස්සප වැනි තෙරවරුන් උදෙසා කළ දේශනා මෙහි අන්තර්ගත වේ."
+  },
+  "totalChapters": 10,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "sn.12",
+      "number": 1,
+      "title": {
+        "pali": "Nidānasaṃyuttaṃ",
+        "english": "Linked Discourses on Causation",
+        "sinhala": "නිදාන සංයුක්තය"
+      },
+      "description": {
+        "english": "The definitive collection on Dependent Origination, detailing the twelve links from ignorance to suffering.",
+        "sinhala": "අවිද්‍යාවේ සිට ජරා මරණ දක්වා වූ පටිච්චසමුප්පාද අංග දොළස පිළිබඳව කෙරෙන මූලික දේශනා එකතුවයි."
+      },
+      "link": "chapters/sn.2.1-Nidānasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.13",
+      "number": 2,
+      "title": {
+        "pali": "Abhisamayasaṃyuttaṃ",
+        "english": "Linked Discourses on Breakthrough",
+        "sinhala": "අභිසමය සංයුක්තය"
+      },
+      "description": {
+        "english": "Short discourses using similes to show the immense benefit of attaining the 'Dhamma-eye'.",
+        "sinhala": "ධර්මාවබෝධය ලැබීමෙන් ලබාගන්නා අතිමහත් ඵලය විවිධ උපමා ඇසුරින් පැහැදිලි කරන කෙටි දේශනා මාලාවකි."
+      },
+      "link": "chapters/sn.2.2-Abhisamayasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.14",
+      "number": 3,
+      "title": {
+        "pali": "Dhātusaṃyuttaṃ",
+        "english": "Linked Discourses on Elements",
+        "sinhala": "ධාතු සංයුක්තය"
+      },
+      "description": {
+        "english": "An analysis of the world in terms of its constituent elements (earth, water, fire, air, etc.).",
+        "sinhala": "ලෝකය පඨවි, ආපෝ, තේජෝ, වායෝ වැනි විවිධ ධාතුන්ගෙන් සැකසී ඇති ආකාරය පිළිබඳ විශ්ලේෂණයකි."
+      },
+      "link": "chapters/sn.2.3-Dhātusaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.15",
+      "number": 4,
+      "title": {
+        "pali": "Anamataggasaṃyuttaṃ",
+        "english": "Linked Discourses on the Unthinkable Beginning",
+        "sinhala": "අනමතග්ග සංයුක්තය"
+      },
+      "description": {
+        "english": "Powerful discourses on the vastness of Samsara and the impossibility of finding its starting point.",
+        "sinhala": "සංසාරයේ දීර්ඝ බව සහ එහි ආරම්භයක් පෙනෙන්නට නොමැති බව පසක් කරවන දේශනා එකතුවකි."
+      },
+      "link": "chapters/sn.2.4-Anamataggasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.16",
+      "number": 5,
+      "title": {
+        "pali": "Kassapasaṃyuttaṃ",
+        "english": "Linked Discourses with Kassapa",
+        "sinhala": "කස්සප සංයුක්තය"
+      },
+      "description": {
+        "english": "Conversations with Ven. Mahakassapa, emphasizing ascetic practices and the decline of the Dhamma.",
+        "sinhala": "මහා කාශ්‍යප රහතන් වහන්සේ සමඟ කළ සාකච්ඡා සහ ධුතාංග ප්‍රතිපදාවන් පිළිබඳ දේශනා මෙහි ඇතුළත් වේ."
+      },
+      "link": "chapters/sn.2.5-Kassapasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.17",
+      "number": 6,
+      "title": {
+        "pali": "Lābhasakkārasaṃyuttaṃ",
+        "english": "Linked Discourses on Gains and Honor",
+        "sinhala": "ලාභසක්කාර සංයුක්තය"
+      },
+      "description": {
+        "english": "Warnings about the dangers of attachment to material gains, fame, and hospitality.",
+        "sinhala": "ලාභ සත්කාර සහ කීර්තිය කෙරෙහි ඇති කරගන්නා බැඳීම්වල පවතින භයානකකම පිළිබඳ කෙරෙන අවවාදයන්ය."
+      },
+      "link": "chapters/sn.2.6-Lābhasakkārasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.18",
+      "number": 7,
+      "title": {
+        "pali": "Rāhulasaṃyuttaṃ",
+        "english": "Linked Discourses with Rāhula",
+        "sinhala": "රාහුල සංයුක්තය"
+      },
+      "description": {
+        "english": "The Buddha's instructions to his son, Ven. Rahula, concerning the nature of internal and external phenomena.",
+        "sinhala": "බුදුරජාණන් වහන්සේ රාහුල හිමියන්ට ආධ්‍යාත්මික සහ බාහිර ආයතන පිළිබඳව කරන ලද උපදේශයන් මෙහි අන්තර්ගත වේ."
+      },
+      "link": "chapters/sn.2.7-Rāhulasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.19",
+      "number": 8,
+      "title": {
+        "pali": "Lakkhaṇasaṃyuttaṃ",
+        "english": "Linked Discourses with Lakkhaṇa",
+        "sinhala": "ලක්ඛණ සංයුක්තය"
+      },
+      "description": {
+        "english": "Accounts of various beings suffering in the 'ghost' realm, witnessed by Ven. Moggallana.",
+        "sinhala": "මුගලන් මහ රහතන් වහන්සේට දක්නට ලැබුණු, ප්‍රේත ලෝකවල දුක් විඳින සත්ත්වයන් පිළිබඳ විස්තර මෙහි දැක්වේ."
+      },
+      "link": "chapters/sn.2.8-Lakkhaṇasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.20",
+      "number": 9,
+      "title": {
+        "pali": "Opammasaṃyuttaṃ",
+        "english": "Linked Discourses on Similes",
+        "sinhala": "ඕපම්ම සංයුක්තය"
+      },
+      "description": {
+        "english": "Instructions delivered through memorable analogies, such as the simile of the peg and the she-monkey.",
+        "sinhala": "විවිධ උපමා ඇසුරින් දහම් කරුණු පැහැදිලි කෙරෙන දේශනා මාලාවකි."
+      },
+      "link": "chapters/sn.2.9-Opammasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.21",
+      "number": 10,
+      "title": {
+        "pali": "Bhikkhusaṃyuttaṃ",
+        "english": "Linked Discourses with Bhikkhus",
+        "sinhala": "භික්ඛු සංයුක්තය"
+      },
+      "description": {
+        "english": "Conversations and instructions given to various individual monks regarding their practice.",
+        "sinhala": "විවිධ භික්ෂූන් වහන්සේලාගේ පෞද්ගලික විමසීම් සහ ඔවුන් උදෙසා කළ අනුශාසනා මෙහි අඩංගු වේ."
+      },
+      "link": "chapters/sn.2.10-Bhikkhusaṃyuttaṃ.json"
+    }
+  ]
+}

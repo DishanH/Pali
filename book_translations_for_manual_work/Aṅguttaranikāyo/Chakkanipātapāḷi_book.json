@@ -1,0 +1,110 @@
+{
+  "id": "chakkanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "The Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "chakkanipata",
+    "number": 6,
+    "name": {
+      "pali": "Chakkanipātapāḷi",
+      "english": "The Book of the Sixes",
+      "sinhala": "ඡක්ක නිපාතය"
+    }
+  },
+  "title": {
+    "pali": "Chakkanipātapāḷi",
+    "english": "The Book of the Sixes",
+    "sinhala": "ඡක්ක නිපාතය"
+  },
+  "footer": {
+    "pali": "Chakkanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Sixes is concluded.",
+    "sinhala": "ඡක්ක නිපාතය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The sixth division of the Anguttara Nikaya, containing suttas organized around groups of six items, such as the six qualities of a monk worthy of offerings and the six supreme objects of mindfulness.",
+    "sinhala": "අංගුත්තර නිකායේ හයවන කොටස වන මෙහි, පූජාවට සුදුසු භික්ෂුවකගේ ගුණාංග හය සහ සය වැදෑරුම් අනුස්සති වැනි කරුණු හය බැගින් වූ දේශනා අන්තර්ගත වේ."
+  },
+  "totalChapters": 4,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "an6.1",
+      "number": 1,
+      "title": {
+        "pali": "Āhuneyyavaggo",
+        "english": "Worthy of Offerings",
+        "sinhala": "ආහුනෙය්‍ය වර්ගය"
+      },
+      "description": {
+        "english": "Describes the six qualities that make a monk worthy of offerings, hospitality, and respect, making them an unsurpassed field of merit.",
+        "sinhala": "ආහුනෙය්‍ය, පාහුනෙය්‍ය සහ ලෝකයාගේ ගරුබුහුමනට සුදුසු උතුම් පින්කෙතක් බවට පත්වන භික්ෂුවකගේ ගුණාංග හය මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an6.1-Āhuneyyavaggo.json"
+    },
+    {
+      "id": "an6.2",
+      "number": 2,
+      "title": {
+        "pali": "Sāraṇīyavaggo",
+        "english": "Warm-heartedness",
+        "sinhala": "සාරණීය වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the six principles of cordiality and communal harmony that lead to mutual respect and unity within the Sangha.",
+        "sinhala": "සංඝයා අතර සමගිය, ගෞරවය සහ අන්‍යෝන්‍ය ලැදියාව ඇති කරන 'සාරණීය ධර්ම' හය පිළිබඳව මෙහි අවධාරණය කෙරේ."
+      },
+      "link": "chapters/an6.2-Sāraṇīyavaggo.json"
+    },
+    {
+      "id": "an6.3",
+      "number": 3,
+      "title": {
+        "pali": "Dhammikavaggo",
+        "english": "Dhammika",
+        "sinhala": "ධම්මික වර්ගය"
+      },
+      "description": {
+        "english": "Named after the layman Dhammika, this chapter includes diverse teachings on overcoming spiritual obstacles and the benefits of practicing the Dhamma.",
+        "sinhala": "ධම්මික උපාසකයාගේ පුවත මූලික කරගනිමින්, ආධ්‍යාත්මික බාධක ජයගන්නා ආකාරය සහ ධර්මයේ හැසිරීමේ ආනිසංස පිළිබඳ විවිධ දේශනා ඇතුළත් වේ."
+      },
+      "link": "chapters/an6.3-Dhammikavaggo.json"
+    },
+    {
+      "id": "an6.4",
+      "number": 4,
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "An abbreviated series detailing the six-fold approach to abandoning lust, hatred, and delusion through mental cultivation and insight.",
+        "sinhala": "භාවනාව සහ ප්‍රඥාව මගින් රාගය, ද්වේෂය හා මෝහය දුරු කිරීම සඳහා අවශ්‍ය වන කරුණු හය බැගින් වූ දේශනා පෙළකි."
+      },
+      "link": "chapters/an6.4-Rāgapeyyālaṃ.json"
+    }
+  ]
+}

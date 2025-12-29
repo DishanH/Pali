@@ -1,0 +1,320 @@
+{
+  "id": "dukanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "The Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "dukanipata",
+    "number": 2,
+    "name": {
+      "pali": "Dukanipātapāḷi",
+      "english": "The Book of the Twos",
+      "sinhala": "දුක නිපාතය"
+    }
+  },
+  "title": {
+    "pali": "Dukanipātapāḷi",
+    "english": "The Book of the Twos",
+    "sinhala": "දුක නිපාතය"
+  },
+  "footer": {
+    "pali": "Dukanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Twos is concluded.",
+    "sinhala": "දුක නිපාතය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The second division of the Anguttara Nikaya, containing suttas organized into pairs of qualities, principles, or types of people.",
+    "sinhala": "අංගුත්තර නිකායේ දෙවන කොටස වන මෙහි ගුණාංග, කරුණු හෝ පුද්ගලයන් දෙදෙනා බැගින් වූ දේශනා ඇතුළත් වේ."
+  },
+  "totalChapters": 19,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "an2.1",
+      "number": 1,
+      "title": {
+        "pali": "Kammakaraṇavaggo",
+        "english": "Punishments",
+        "sinhala": "කම්මකරණ වර්ගය"
+      },
+      "description": {
+        "english": "Discusses two types of faults and the resulting consequences, emphasizing the fear of doing wrong.",
+        "sinhala": "වැරදි දෙවර්ගයක් සහ ඒවායේ විපාක පිළිබඳව ද, අකුසලයට ඇති බිය ගැන ද මෙහි සාකච්ඡා වේ."
+      },
+      "link": "chapters/an2.1-Kammakaraṇavaggo.json"
+    },
+    {
+      "id": "an2.2",
+      "number": 2,
+      "title": {
+        "pali": "Adhikaraṇavaggo",
+        "english": "Disputes",
+        "sinhala": "අධිකරණ වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the resolution of disputes and the two qualities that lead to internal peace.",
+        "sinhala": "විවාද සංසිඳුවීම සහ ආධ්‍යාත්මික සාමය ඇති කරන කරුණු දෙකක් ගැන මෙහි අවධාරණය කෙරේ."
+      },
+      "link": "chapters/an2.2-Adhikaraṇavaggo.json"
+    },
+    {
+      "id": "an2.3",
+      "number": 3,
+      "title": {
+        "pali": "Bālavaggo",
+        "english": "Fools",
+        "sinhala": "බාල වර්ගය"
+      },
+      "description": {
+        "english": "Contrasts the behavior of a fool with that of a wise person through various pairs.",
+        "sinhala": "විවිධ කරුණු ඔස්සේ බාලයාගේ (අඥාන පුද්ගලයාගේ) සහ පණ්ඩිතයාගේ ස්වභාවය මෙහි සසඳා දක්වයි."
+      },
+      "link": "chapters/an2.3-Bālavaggo.json"
+    },
+    {
+      "id": "an2.4",
+      "number": 4,
+      "title": {
+        "pali": "Samacittavaggo",
+        "english": "Equanimity",
+        "sinhala": "සමචිත්ත වර්ගය"
+      },
+      "description": {
+        "english": "Discourses on maintaining a balanced mind and the duty of gratitude toward parents.",
+        "sinhala": "සිතේ මධ්‍යස්ථ බව පවත්වා ගැනීම සහ මවුපියන්ට කෘතගුණ දැක්වීමේ වැදගත්කම මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an2.4-Samacittavaggo.json"
+    },
+    {
+      "id": "an2.5",
+      "number": 5,
+      "title": {
+        "pali": "Parisavaggo",
+        "english": "Assemblies",
+        "sinhala": "පරිසා වර්ගය"
+      },
+      "description": {
+        "english": "Distinguishes between shallow and deep assemblies, and those that are divided versus united.",
+        "sinhala": "නොගැඹුරු හා ගැඹුරු පිරිස් මෙන්ම සමගි පිරිස් හා අසමගි පිරිස් අතර වෙනස මෙහි දක්වයි."
+      },
+      "link": "chapters/an2.5-Parisavaggo.json"
+    },
+    {
+      "id": "an2.6",
+      "number": 6,
+      "title": {
+        "pali": "Puggalavaggo",
+        "english": "Persons",
+        "sinhala": "පුද්ගල වර්ගය"
+      },
+      "description": {
+        "english": "Describes pairs of individuals, such as those who are hard to repay and those whose appearance is rare.",
+        "sinhala": "ණය ගෙවා නිම කළ නොහැකි පුද්ගලයන් වැනි විවිධ පුද්ගල යුගලයන් ගැන මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an2.6-Puggalavaggo.json"
+    },
+    {
+      "id": "an2.7",
+      "number": 7,
+      "title": {
+        "pali": "Sukhavaggo",
+        "english": "Happiness",
+        "sinhala": "සුඛ වර්ගය"
+      },
+      "description": {
+        "english": "A classification of different types of happiness, comparing worldly pleasure with the bliss of renunciation.",
+        "sinhala": "ලෞකික සැපය හා නෙක්ඛම්ම සැපය (ගිහිගෙයින් නික්මීමේ සැපය) වැනි විවිධ සැප වර්ග මෙහි සසඳයි."
+      },
+      "link": "chapters/an2.7-Sukhavaggo.json"
+    },
+    {
+      "id": "an2.8",
+      "number": 8,
+      "title": {
+        "pali": "Sanimittavaggo",
+        "english": "With Causes",
+        "sinhala": "සනිමිත්ත වර්ගය"
+      },
+      "description": {
+        "english": "Explains that unwholesome states arise due to specific causes and lack of mindfulness.",
+        "sinhala": "අකුසල ධර්මයන් හටගන්නේ නිසි හේතු සහ අයෝනිසෝ මනසිකාරය නිසා බව මෙහි පැහැදිලි කරයි."
+      },
+      "link": "chapters/an2.8-Sanimittavaggo.json"
+    },
+    {
+      "id": "an2.9",
+      "number": 9,
+      "title": {
+        "pali": "Dhammavaggo",
+        "english": "Teachings",
+        "sinhala": "ධම්ම වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the qualities of the Dhamma and the two things that lead to its longevity.",
+        "sinhala": "ශාසනය හා ධර්මය වැඩි කාලයක් පවතින්නට හේතු වන කරුණු දෙකක් ගැන මෙහි අවධාරණය කෙරේ."
+      },
+      "link": "chapters/an2.9-Dhammavaggo.json"
+    },
+    {
+      "id": "an2.10",
+      "number": 10,
+      "title": {
+        "pali": "Bālavaggo (II)",
+        "english": "Fools (Part 2)",
+        "sinhala": "බාල වර්ගය (දෙවන කොටස)"
+      },
+      "description": {
+        "english": "Additional suttas regarding the mistakes fools make and how wisdom prevents them.",
+        "sinhala": "අඥානයන් අතින් සිදුවන වැරදි සහ ප්‍රඥාවන්තයා ඒවායින් වැළකී සිටින ආකාරය ගැන තවත් දේශනා."
+      },
+      "link": "chapters/an2.10-Bālavaggo.json"
+    },
+    {
+      "id": "an2.11",
+      "number": 11,
+      "title": {
+        "pali": "Āsāduppajahavaggo",
+        "english": "Difficult Desires",
+        "sinhala": "ආසාදුප්පජහ වර්ගය"
+      },
+      "description": {
+        "english": "Deals with desires that are hard to abandon, specifically the craving for gain and for life.",
+        "sinhala": "අත්හැරීමට අපහසු ආශාවන් දෙකක් වන ලාභය සඳහා ඇති ආශාව හා ජීවිතය පිළිබඳ ආශාව ගැන මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an2.11-Āsāduppajahavaggo.json"
+    },
+    {
+      "id": "an2.12",
+      "number": 12,
+      "title": {
+        "pali": "Āyācanavaggo",
+        "english": "Aspirations",
+        "sinhala": "ආයාචන වර්ගය"
+      },
+      "description": {
+        "english": "The aspirations for monks, nuns, and laypeople to model themselves after great disciples like Sariputta and Moggallana.",
+        "sinhala": "සැරියුත් මුගලන් වැනි අග්‍රශ්‍රාවකයන් අනුව යමින් තම ජීවිතය හැඩගස්වා ගැනීමට ඇති කරගත යුතු ප්‍රාර්ථනා."
+      },
+      "link": "chapters/an2.12-Āyācanavaggo.json"
+    },
+    {
+      "id": "an2.13",
+      "number": 13,
+      "title": {
+        "pali": "Dānavaggo",
+        "english": "Giving",
+        "sinhala": "දාන වර්ගය"
+      },
+      "description": {
+        "english": "Distinguishes between material giving and the higher gift of sharing the Dhamma.",
+        "sinhala": "ආමිස දානය සහ එයට වඩා උතුම් වූ ධර්ම දානය අතර වෙනස මෙහි පැහැදිලි කරයි."
+      },
+      "link": "chapters/an2.13-Dānavaggo.json"
+    },
+    {
+      "id": "an2.14",
+      "number": 14,
+      "title": {
+        "pali": "Santhāravaggo",
+        "english": "Hospitality",
+        "sinhala": "සන්ථාර වර්ගය"
+      },
+      "description": {
+        "english": "Discusses two types of hospitality: material welcome and spiritual guidance.",
+        "sinhala": "භෞතික වශයෙන් පිළිගැනීම සහ ආධ්‍යාත්මික මඟ පෙන්වීම යන සන්ථාර (සංග්‍රහ) දෙවර්ගය ගැන මෙහි දැක්වේ."
+      },
+      "link": "chapters/an2.14-Santhāravaggo.json"
+    },
+    {
+      "id": "an2.15",
+      "number": 15,
+      "title": {
+        "pali": "Samāpattivaggo",
+        "english": "Attainments",
+        "sinhala": "සමාපත්ති වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the meditative attainments and the two paths to achieve them.",
+        "sinhala": "සමාපත්තිවලට එළඹීම සහ ඒවා ලබා ගැනීමට ඇති ක්‍රමවේදයන් මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an2.15-Samāpattivaggo.json"
+    },
+    {
+      "id": "an2.16",
+      "number": 16,
+      "title": {
+        "pali": "Kodhapeyyālaṃ",
+        "english": "Series on Anger",
+        "sinhala": "කෝධ පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "A repetitive series regarding the abandonment of anger and ill-will.",
+        "sinhala": "කෝපය සහ වෛරය දුරු කිරීම පිළිබඳ කෙටි දේශනා මාලාවකි."
+      },
+      "link": "chapters/an2.16-Kodhapeyyālaṃ.json"
+    },
+    {
+      "id": "an2.17",
+      "number": 17,
+      "title": {
+        "pali": "Akusalapeyyālaṃ",
+        "english": "Series on the Unwholesome",
+        "sinhala": "අකුසල පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "A series on identifying and letting go of various unwholesome qualities in pairs.",
+        "sinhala": "යුගල වශයෙන් ගත් විවිධ අකුසල ධර්ම හඳුනාගෙන ඒවා අත්හැරීම පිළිබඳ දේශනා පෙළ."
+      },
+      "link": "chapters/an2.17-Akusalapeyyālaṃ.json"
+    },
+    {
+      "id": "an2.18",
+      "number": 18,
+      "title": {
+        "pali": "Vinayapeyyālaṃ",
+        "english": "Series on Discipline",
+        "sinhala": "විනය පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "Brief teachings on the essential rules of discipline for the Sangha.",
+        "sinhala": "භික්ෂු සංඝයාගේ විනයට අදාළ මූලික කරුණු පිළිබඳ කෙටි පැහැදිලි කිරීම්."
+      },
+      "link": "chapters/an2.18-Vinayapeyyālaṃ.json"
+    },
+    {
+      "id": "an2.19",
+      "number": 19,
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "The final section focused on the systematic removal of lust and attachment.",
+        "sinhala": "රාගය සහ බැඳීම් ක්‍රමානුකූලව ප්‍රහීණ කිරීම පිළිබඳ අවසාන දේශනා පෙළ."
+      },
+      "link": "chapters/an2.19-Rāgapeyyālaṃ.json"
+    }
+  ]
+}

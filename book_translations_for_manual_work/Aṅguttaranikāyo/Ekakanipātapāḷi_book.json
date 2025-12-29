@@ -1,0 +1,194 @@
+{
+  "id": "ekakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "The Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "ekakanipata",
+    "number": 1,
+    "name": {
+      "pali": "Ekakanipātapāḷi",
+      "english": "The Book of the Ones",
+      "sinhala": "ඒකක නිපාතය"
+    }
+  },
+  "title": {
+    "pali": "Ekakanipātapāḷi",
+    "english": "The Book of the Ones",
+    "sinhala": "ඒකක නිපාතය"
+  },
+  "footer": {
+    "pali": "Ekakanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Ones is concluded.",
+    "sinhala": "ඒකක නිපාතය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The first division of the Anguttara Nikaya, containing suttas focused on single items, such as the single most powerful sense objects, the single most important mental quality, or the unique impact of the Buddha.",
+    "sinhala": "අංගුත්තර නිකායේ පළමු කොටස වන මෙහි, මනසට බලපාන ප්‍රධානතම රූපය හෝ අරමුණ මෙන්ම, එකම පුද්ගලයා (බුදුරජාණන් වහන්සේ) වැනි තනි කරුණු පදනම් කරගත් දේශනා අන්තර්ගත වේ."
+  },
+  "totalChapters": 10,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "an1.1",
+      "number": 1,
+      "title": {
+        "pali": "Rūpādivaggo",
+        "english": "Sights and Others",
+        "sinhala": "රූපාලෝක වර්ගය"
+      },
+      "description": {
+        "english": "Discusses the five types of sense objects (sights, sounds, smells, tastes, touches) and how they can singularly captivate the mind.",
+        "sinhala": "රූප, ශබ්ද, ගන්ධ, රස සහ ස්පර්ශ යන අරමුණු පහ මගින් සිත බැඳගන්නා ආකාරය පිළිබඳව මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an1.1-Rūpādivaggo.json"
+    },
+    {
+      "id": "an1.2",
+      "number": 2,
+      "title": {
+        "pali": "Nīvaraṇappahānavaggo",
+        "english": "Abandoning the Hindrances",
+        "sinhala": "නීවරණප්පහාන වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the single factors that lead to the arising or the abandoning of the five mental hindrances.",
+        "sinhala": "පංච නීවරණ හටගැනීමට හෝ ඒවා ප්‍රහීණ කිරීමට බලපාන ප්‍රධාන හේතු සාධක මෙහි සාකච්ඡා වේ."
+      },
+      "link": "chapters/an1.2-Nīvaraṇappahānavaggo.json"
+    },
+    {
+      "id": "an1.3",
+      "number": 3,
+      "title": {
+        "pali": "Akammaniyavaggo",
+        "english": "Unwieldy",
+        "sinhala": "අකම්මනිය වර්ගය"
+      },
+      "description": {
+        "english": "Describes how an undeveloped mind is unwieldy and useless, while a developed mind is truly serviceable.",
+        "sinhala": "නොදැමුණු සිතේ අකර්මණ්‍ය බව සහ දියුණු කළ සිතක ඇති ප්‍රයෝජනවත් බව මෙහි විස්තර කරයි."
+      },
+      "link": "chapters/an1.3-Akammaniyavaggo.json"
+    },
+    {
+      "id": "an1.4",
+      "number": 4,
+      "title": {
+        "pali": "Adantavaggo",
+        "english": "Untamed",
+        "sinhala": "අදන්ත වර්ගය"
+      },
+      "description": {
+        "english": "Emphasizes that there is nothing so harmful as an untamed mind, and nothing so beneficial as a tamed one.",
+        "sinhala": "හික්මවා නොගත් සිත තරම් හානිකර දෙයක් හෝ හික්මවූ සිත තරම් වැඩදායී දෙයක් තවත් නොමැති බව මෙහි අවධාරණය කෙරේ."
+      },
+      "link": "chapters/an1.4-Adantavaggo.json"
+    },
+    {
+      "id": "an1.5",
+      "number": 5,
+      "title": {
+        "pali": "Paṇihitaacchavaggo",
+        "english": "Directed and Clear",
+        "sinhala": "පණිහිතඅච්ඡ වර්ගය"
+      },
+      "description": {
+        "english": "Uses the simile of clear water to describe the clarity of a well-directed mind.",
+        "sinhala": "මැනවින් පිහිටුවා ගත් සිතක ඇති පැහැදිලි බව, නිසල පිරිසිදු දිය පොකුණක උපමාවෙන් මෙහි දක්වා ඇත."
+      },
+      "link": "chapters/an1.5-Paṇihitaacchavaggo.json"
+    },
+    {
+      "id": "an1.6",
+      "number": 6,
+      "title": {
+        "pali": "Accharāsaṅghātavaggo",
+        "english": "A Finger Snap",
+        "sinhala": "අච්ඡරාසංඝාත වර්ගය"
+      },
+      "description": {
+        "english": "The merit of practicing loving-kindness or mindfulness for even the briefest moment—a finger snap.",
+        "sinhala": "ඇඟිල්ලක් ගසන පමණ කෙටි කාලයක් හෝ මෙත්තා භාවනාව වැඩීමේ ඇති උතුම් අනුසස් මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an1.6-Accharāsaṅghātavaggo.json"
+    },
+    {
+      "id": "an1.7",
+      "number": 7,
+      "title": {
+        "pali": "Vīriyārambhādivaggo",
+        "english": "Arousal of Energy",
+        "sinhala": "වීරියාරම්භාදි වර්ගය"
+      },
+      "description": {
+        "english": "Highlights the singular importance of energy and diligence in the spiritual path.",
+        "sinhala": "ආධ්‍යාත්මික ගමනේදී වීර්යය සහ අප්‍රමාදය සතු සුවිශේෂී වැදගත්කම මෙහි පෙන්වා දෙයි."
+      },
+      "link": "chapters/an1.7-Vīriyārambhādivaggo.json"
+    },
+    {
+      "id": "an1.8",
+      "number": 8,
+      "title": {
+        "pali": "Kalyāṇamittādivaggo",
+        "english": "Good Friendship",
+        "sinhala": "කල්‍යාණමිත්තාදි වර්ගය"
+      },
+      "description": {
+        "english": "Discusses how noble friendship is the most helpful external factor for attaining enlightenment.",
+        "sinhala": "නිවන් මග සාර්ථක කර ගැනීමට උපකාරී වන ප්‍රධානතම බාහිර සාධකය වන කල්‍යාණ මිත්‍ර සේවනය ගැන මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an1.8-Kalyāṇamittādivaggo.json"
+    },
+    {
+      "id": "an1.9",
+      "number": 9,
+      "title": {
+        "pali": "Pamādādivaggo",
+        "english": "Negligence",
+        "sinhala": "පමාදාදි වර්ගය"
+      },
+      "description": {
+        "english": "Outlines the immense danger of negligence and the great benefits of heedfulness.",
+        "sinhala": "ප්‍රමාදයේ ඇති බියකරු බව සහ අප්‍රමාදී වීමේ ඇති මහා ආනිසංස මෙහි දක්වා ඇත."
+      },
+      "link": "chapters/an1.9-Pamādādivaggo.json"
+    },
+    {
+      "id": "an1.10",
+      "number": 10,
+      "title": {
+        "pali": "Dutiyapamādādivaggo",
+        "english": "Negligence (Part 2)",
+        "sinhala": "දුතියපමාදාදි වර්ගය"
+      },
+      "description": {
+        "english": "Further suttas emphasizing the role of diligence and clear comprehension.",
+        "sinhala": "අප්‍රමාදය සහ නිවැරදි අවබෝධයෙහි ඇති වැදගත්කම තවදුරටත් පැහැදිලි කරන දේශනා පෙළකි."
+      },
+      "link": "chapters/an1.10-Dutiyapamādādivaggo.json"
+    }
+  ]
+}

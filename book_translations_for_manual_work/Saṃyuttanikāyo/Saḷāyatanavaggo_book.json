@@ -1,0 +1,194 @@
+{
+  "id": "salayatanavagga",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "samyuttanikaya",
+    "name": {
+      "pali": "Saṃyutta Nikāya",
+      "english": "The Linked Discourses",
+      "sinhala": "සංයුත්ත නිකාය"
+    }
+  },
+  "vagga": {
+    "id": "salayatanavagga",
+    "number": 4,
+    "name": {
+      "pali": "Saḷāyatanavaggo",
+      "english": "The Section on the Six Sense Bases",
+      "sinhala": "සළායතන වර්ගය"
+    }
+  },
+  "title": {
+    "pali": "Saḷāyatanavaggo",
+    "english": "The Book of the Six Sense Bases",
+    "sinhala": "සළායතන වර්ගය"
+  },
+  "footer": {
+    "pali": "Saḷāyatanavaggo catuttho. Tassuddānaṃ – Saḷāyatanavedanā, mātugāmo jambukhādako; Sāmaṇḍako moggallāno, citto gāmaṇi saṅkhataṃ; Abyākatanti dasadhāti. Saḷāyatanavaggasaṃyuttapāḷi niṭṭhitā.",
+    "english": "The fourth is the Saḷāyatana Section. Its summary: The Six Sense Bases and Feeling; Women, Jambukhādaka, and Sāmaṇḍaka; Moggallāna, Citta, and Chiefs; The Unconditioned and the Undeclared—these are the ten. The Linked Discourses of the Saḷāyatana Section is finished.",
+    "sinhala": "හතරවන සළායතන වර්ගයයි. එහි උද්දානය: සළායතන, වේදනා, මාතුගාම, ජම්බුඛාදක, සාමණ්ඩක, මොග්ගල්ලාන, චිත්ත, ගාමණි, අසංඛත සහ අබ්‍යාකත යන සංයුක්ත දහය මෙහි ඇතුළත් වේ. සළායතන වර්ග සංයුක්තපාළිය නිමවා ලදි."
+  },
+  "description": {
+    "english": "The fourth book of the Samyutta Nikaya. It focuses on the internal and external sense bases and the cessation of craving that arises through them. It also includes important discourses on feeling (vedana) and dialogues with prominent lay followers like Citta the Householder.",
+    "sinhala": "සංයුත්ත නිකායේ සිව්වන වෙළුමයි. ඇස, කන, නාසය ආදී ආධ්‍යාත්මික සහ බාහිර ආයතන පිළිබඳවත්, ඒවා මුල්කරගෙන උපදින තණ්හාව නිරුද්ධ කරන ආකාරය පිළිබඳවත් මෙහි විස්තර වේ. වේදනා සහ චිත්ත ගෘහපති වැනි ප්‍රමුඛ උපාසකවරුන් සමඟ කළ සාකච්ඡා ද මෙහි ඇතුළත් වේ."
+  },
+  "totalChapters": 10,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "sn.35",
+      "number": 1,
+      "title": {
+        "pali": "Saḷāyatanasaṃyuttaṃ",
+        "english": "Linked Discourses on the Six Sense Bases",
+        "sinhala": "සළායතන සංයුක්තය"
+      },
+      "description": {
+        "english": "The extensive collection regarding the six internal and external sense media.",
+        "sinhala": "බාහිර සහ ආධ්‍යාත්මික ආයතන හය පිළිබඳව කෙරෙන දීර්ඝ විග්‍රහයකි."
+      },
+      "link": "chapters/sn.4.1-Saḷāyatanasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.36",
+      "number": 2,
+      "title": {
+        "pali": "Vedanāsaṃyuttaṃ",
+        "english": "Linked Discourses on Feeling",
+        "sinhala": "වේදනා සංයුක්තය"
+      },
+      "description": {
+        "english": "Discourses on the three types of feeling: pleasant, painful, and neutral.",
+        "sinhala": "සැප, දුක් සහ උපේක්ෂා යන ත්‍රිවිධ වේදනාවන් පිළිබඳව කෙරෙන දේශනා මෙහි අඩංගු වේ."
+      },
+      "link": "chapters/sn.4.2-Vedanāsaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.37",
+      "number": 3,
+      "title": {
+        "pali": "Mātugāmasaṃyuttaṃ",
+        "english": "Linked Discourses on Women",
+        "sinhala": "මාතුගාම සංයුක්තය"
+      },
+      "description": {
+        "english": "On the destiny and spiritual life of women.",
+        "sinhala": "මාතුගාමයාගේ ස්වභාවය සහ ඔවුන්ගේ පරලොව ගති පිළිබඳව කෙරෙන විග්‍රහයකි."
+      },
+      "link": "chapters/sn.4.3-Mātugāmasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.38",
+      "number": 4,
+      "title": {
+        "pali": "Jambukhādakasaṃyuttaṃ",
+        "english": "Linked Discourses with Jambukhādaka",
+        "sinhala": "ජම්බුඛාදක සංයුක්තය"
+      },
+      "description": {
+        "english": "Questions by the wanderer Jambukhadaka to Ven. Sariputta regarding Nibbana.",
+        "sinhala": "ජම්බුඛාදක පිරිවැජියා විසින් නිවන පිළිබඳව සාරිපුත්ත හිමියන්ගෙන් විමසන ලද ප්‍රශ්න."
+      },
+      "link": "chapters/sn.4.4-Jambukhādakasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.39",
+      "number": 5,
+      "title": {
+        "pali": "Sāmaṇḍakasaṃyuttaṃ",
+        "english": "Linked Discourses with Sāmaṇḍaka",
+        "sinhala": "සාමණ්ඩක සංයුක්තය"
+      },
+      "description": {
+        "english": "Similar dialogues on the goal of the spiritual life.",
+        "sinhala": "සාමණ්ඩක පිරිවැජියා සමඟ නිවන සහ දුක පිළිබඳ කළ සාකච්ඡා."
+      },
+      "link": "chapters/sn.4.5-Sāmaṇḍakasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.40",
+      "number": 6,
+      "title": {
+        "pali": "Moggallānasaṃyuttaṃ",
+        "english": "Linked Discourses with Moggallāna",
+        "sinhala": "මොග්ගල්ලාන සංයුක්තය"
+      },
+      "description": {
+        "english": "Ven. Moggallana's experiences with the various levels of meditative absorption.",
+        "sinhala": "මුගලන් මහ රහතන් වහන්සේ විවිධ ඣාන සමාපත්තිවලට සම වැදීම පිළිබඳව කළ විස්තර."
+      },
+      "link": "chapters/sn.4.6-Moggallānasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.41",
+      "number": 7,
+      "title": {
+        "pali": "Cittasaṃyuttaṃ",
+        "english": "Linked Discourses with Citta",
+        "sinhala": "චිත්ත සංයුක්තය"
+      },
+      "description": {
+        "english": "Dialogues of the wise lay disciple Citta regarding deep points of Dhamma.",
+        "sinhala": "ප්‍රඥාවන්ත උපාසකයෙකු වූ චිත්ත ගෘහපතිතුමා විසින් දහම් කරුණු විග්‍රහ කළ ආකාරය."
+      },
+      "link": "chapters/sn.4.7-Cittasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.42",
+      "number": 8,
+      "title": {
+        "pali": "Gāmaṇisaṃyuttaṃ",
+        "english": "Linked Discourses with Headmen",
+        "sinhala": "ගාමණි සංයුක්තය"
+      },
+      "description": {
+        "english": "Teachings given to various village headmen on ethics and karma.",
+        "sinhala": "විවිධ ගාමණිවරුන්ට (ගම් ප්‍රධානීන්ට) කර්මය සහ සදාචාරය පිළිබඳව දුන් උපදෙස්."
+      },
+      "link": "chapters/sn.4.8-Gāmaṇisaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.43",
+      "number": 9,
+      "title": {
+        "pali": "Asaṅkhatasaṃyuttaṃ",
+        "english": "Linked Discourses on the Unconditioned",
+        "sinhala": "අසංඛත සංයුක්තය"
+      },
+      "description": {
+        "english": "The many names and attributes of Nibbana, the unconditioned state.",
+        "sinhala": "අසංඛත වූ නිවන හැඳින්වීමට භාවිතා කරන විවිධ නාමයන් සහ එහි ලක්ෂණ."
+      },
+      "link": "chapters/sn.4.9-Asaṅkhatasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.44",
+      "number": 10,
+      "title": {
+        "pali": "Abyākatasaṃyuttaṃ",
+        "english": "Linked Discourses on the Undeclared",
+        "sinhala": "අබ්‍යාකත සංයුක්තය"
+      },
+      "description": {
+        "english": "On the philosophical questions the Buddha left unanswered.",
+        "sinhala": "බුදුරජාණන් වහන්සේ විසින් පිළිතුරු නොදී පසෙක තැබූ නිශ්ඵල දාර්ශනික ප්‍රශ්න පිළිබඳව කෙරෙන විග්‍රහයකි."
+      },
+      "link": "chapters/sn.4.10-Abyākatasaṃyuttaṃ.json"
+    }
+  ]
+}

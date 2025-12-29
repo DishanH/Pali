@@ -1,0 +1,124 @@
+{
+  "id": "majjhimapannasa",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "majjhimanikaya",
+    "name": {
+      "pali": "Majjhima Nikāya",
+      "english": "The Middle Length Discourses",
+      "sinhala": "මජ්ඣිම නිකාය"
+    }
+  },
+  "pannasa": {
+    "id": "majjhimapannasa",
+    "number": 2,
+    "name": {
+      "pali": "Majjhimapaṇṇāsapāḷi",
+      "english": "The Middle Fifty",
+      "sinhala": "මජ්ඣිම පණ්ණාසකය"
+    }
+  },
+  "title": {
+    "pali": "Majjhimapaṇṇāsapāḷi",
+    "english": "The Middle Fifty",
+    "sinhala": "මජ්ඣිම පණ්ණාසකය"
+  },
+  "footer": {
+    "pali": "Majjhimapaṇṇāsakaṃ samattaṃ.",
+    "english": "The Middle Fifty is complete.",
+    "sinhala": "මජ්ඣිම පණ්ණාසකය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The second division of the Majjhima Nikaya, comprising suttas 51 to 100. It is divided into five chapters (Vaggas) containing discourses given to householders, monastics, kings, and seekers from other traditions.",
+    "sinhala": "මජ්ඣිම නිකායේ දෙවන කොටසයි. මෙයට 51 සිට 100 දක්වා වූ සූත්‍ර ඇතුළත් වේ. මෙහි ගෘහපතියන්, භික්ෂූන්, රජවරුන් සහ පිරිවැජියන් උදෙසා දේශනා කරන ලද සූත්‍ර වර්ග 5ක් අන්තර්ගත වේ."
+  },
+  "totalChapters": 5,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "mn.2.1",
+      "number": 1,
+      "title": {
+        "pali": "Gahapativaggo",
+        "english": "The Chapter on Householders",
+        "sinhala": "ගහපති වර්ගය"
+      },
+      "description": {
+        "english": "Discourses primarily addressed to or concerning lay followers and their practical spiritual lives.",
+        "sinhala": "ගෘහපතියන් මුල් කරගෙන ඔවුන්ගේ ආධ්‍යාත්මික ජීවිතයට උපකාරී වන දේශනා මෙහි අඩංගු වේ."
+      },
+      "link": "chapters/mn.2.1-Gahapativaggo.json"
+    },
+    {
+      "id": "mn.2.2",
+      "number": 2,
+      "title": {
+        "pali": "Bhikkhuvaggo",
+        "english": "The Chapter on Bhikkhus",
+        "sinhala": "භික්ඛු වර්ගය"
+      },
+      "description": {
+        "english": "Technical and deep instructions specifically for the monastic community regarding conduct and meditation.",
+        "sinhala": "භික්ෂූන් වහන්සේලාගේ විනය සහ භාවනා ක්‍රම පිළිබඳව කෙරෙන ගැඹුරු දේශනා මෙහි ඇතුළත් වේ."
+      },
+      "link": "chapters/mn.2.2-Bhikkhuvaggo.json"
+    },
+    {
+      "id": "mn.2.3",
+      "number": 3,
+      "title": {
+        "pali": "Paribbājakavaggo",
+        "english": "The Chapter on Wanderers",
+        "sinhala": "පරිබ්බජක වර්ගය"
+      },
+      "description": {
+        "english": "Conversations with ascetics from other traditions, highlighting the uniqueness of the Buddha's path to liberation.",
+        "sinhala": "අන්‍ය ආගමික පිරිවැජියන් සමඟ කළ සාකච්ඡා සහ බුදුමගෙහි ඇති සුවිශේෂී බව පෙන්වා දෙන දේශනා මෙහි දැක්වේ."
+      },
+      "link": "chapters/mn.2.3-Paribbājakavaggo.json"
+    },
+    {
+      "id": "mn.2.4",
+      "number": 4,
+      "title": {
+        "pali": "Rājavaggo",
+        "english": "The Chapter on Kings",
+        "sinhala": "රාජ වර්ගය"
+      },
+      "description": {
+        "english": "Features famous encounters with rulers, including the conversion of the bandit Aṅgulimāla and talks with King Pasenadi.",
+        "sinhala": "අංගුලිමාල දමනය සහ පසේනදී කොසොල් රජු වැනි පාලකයන් සමඟ කළ ප්‍රසිද්ධ දේශනා මෙහි අඩංගු වේ."
+      },
+      "link": "chapters/mn.2.4-Rājavaggo.json"
+    },
+    {
+      "id": "mn.2.5",
+      "number": 5,
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "The Chapter on Brahmins",
+        "sinhala": "බ්‍රාහ්මණ වර්ගය"
+      },
+      "description": {
+        "english": "Discourses addressing the claims of the Brahmin caste and the Buddha's definition of true spiritual purity.",
+        "sinhala": "බ්‍රාහ්මණයන්ගේ මතවාද සහ සැබෑ පිරිසිදුකම (බ්‍රාහ්මණත්වය) යනු කුමක්දැයි විග්‍රහ කරන දේශනා මෙහි ඇතුළත් වේ."
+      },
+      "link": "chapters/mn.2.5-Brāhmaṇavaggo.json"
+    }
+  ]
+}

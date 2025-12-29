@@ -1,0 +1,194 @@
+{
+  "id": "mahavagga",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "dighanikaya",
+    "name": {
+      "pali": "Dīgha Nikāya",
+      "english": "The Long Discourses",
+      "sinhala": "දීඝ නිකාය"
+    }
+  },
+  "vagga": {
+    "id": "mahavagga",
+    "number": 2,
+    "name": {
+      "pali": "Mahāvaggapāḷi",
+      "english": "The Great Section",
+      "sinhala": "මහා වර්ගය"
+    }
+  },
+  "title": {
+    "pali": "Mahāvaggapāḷi",
+    "english": "The Great Section",
+    "sinhala": "මහා වර්ගය"
+  },
+  "footer": {
+    "pali": "Mahāvaggo niṭṭhito. Tassuddānaṃ – Mahāpadāna nidānaṃ, nibbānañca sudassanaṃ; Janavasabha govindaṃ, samayaṃ sakkapañhakaṃ; Mahāsatipaṭṭhānañca, pāyāsi dasamaṃ bhave.",
+    "english": "The Great Section is finished. Its summary: The Great Discourse on Lineage, on Causes, and the Great Parinibbana; Sudassana, Janavasabha, Govinda, the Assembly, and Sakka's Questions; and the Great Discourse on Mindfulness, with Payasi as the tenth.",
+    "sinhala": "මහා වර්ගය මෙයින් නිමවේ. එහි උද්දානය: මහාපදාන, මහානිදාන, මහාපරිනිබ්බාන සූත්‍රද; මහාසුදස්සන, ජනවසභ, මහාගෝවින්ද, මහාසමය, සක්කපඤ්හ සූත්‍රද; මහාසතිපට්ඨාන සහ දසවන පායාසි සූත්‍රයද මෙහි ඇතුළත් වේ."
+  },
+  "description": {
+    "english": "The second division of the Digha Nikaya. It contains ten of the most important and lengthy discourses in the Pali Canon, covering the lives of past Buddhas, the doctrine of Dependent Origination, and the Buddha's final journey.",
+    "sinhala": "දීඝ නිකායේ දෙවන කොටසයි. මෙහි බුදුදහමේ අතිශය වැදගත් සූත්‍ර දේශනා දහයක් අඩංගු වන අතර, අතීත බුදුවරුන්ගේ තොරතුරු, පටිච්චසමුප්පාද ධර්මය සහ බුදුරජාණන් වහන්සේගේ පිරිනිවන් පෑම පිළිබඳ ඓතිහාසික විස්තර මෙහි ඇතුළත් වේ."
+  },
+  "totalChapters": 10,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "dn.14",
+      "number": 1,
+      "title": {
+        "pali": "Mahāpadānasuttaṃ",
+        "english": "The Great Discourse on Lineage",
+        "sinhala": "මහාපදාන සූත්‍රය"
+      },
+      "description": {
+        "english": "The story of the Buddha Vipassi and the six Buddhas of the past, explaining the nature of a Buddha's life.",
+        "sinhala": "විපස්සී බුදුරජාණන් වහන්සේ ඇතුළු අතීත බුදුවරුන් සත්නමකගේ තොරතුරු සහ බුද්ධත්වයේ ස්වභාවය මෙහි විස්තර වේ."
+      },
+      "link": "chapters/dn.2.1-Mahāpadānasuttaṃ.json"
+    },
+    {
+      "id": "dn.15",
+      "number": 2,
+      "title": {
+        "pali": "Mahānidānasuttaṃ",
+        "english": "The Great Discourse on Causation",
+        "sinhala": "මහානිදාන සූත්‍රය"
+      },
+      "description": {
+        "english": "The Buddha's most detailed explanation of Dependent Origination (Paticcasamuppada) and the nature of the self.",
+        "sinhala": "පටිච්චසමුප්පාද ධර්මය සහ ආත්මය පිළිබඳ සංකල්පය ගැඹුරින් විග්‍රහ කරන ප්‍රධාන දේශනාවකි."
+      },
+      "link": "chapters/dn.2.2-Mahānidānasuttaṃ.json"
+    },
+    {
+      "id": "dn.16",
+      "number": 3,
+      "title": {
+        "pali": "Mahāparinibbānasuttaṃ",
+        "english": "The Great Discourse on the Buddha's Last Days",
+        "sinhala": "මහාපරිනිබ්බාන සූත්‍රය"
+      },
+      "description": {
+        "english": "A detailed historical narrative of the final months of the Buddha's life, his passing away, and the distribution of his relics.",
+        "sinhala": "බුදුරජාණන් වහන්සේගේ අවසන් මාස කිහිපය, පිරිනිවන් පෑම සහ ධාතූන් වහන්සේලා බෙදා දීම පිළිබඳව කෙරෙන සවිස්තරාත්මක ඓතිහාසික විස්තරයකි."
+      },
+      "link": "chapters/dn.2.3-Mahāparinibbānasuttaṃ.json"
+    },
+    {
+      "id": "dn.17",
+      "number": 4,
+      "title": {
+        "pali": "Mahāsudassanasuttaṃ",
+        "english": "The Great Splendor",
+        "sinhala": "මහාසුදස්සන සූත්‍රය"
+      },
+      "description": {
+        "english": "The story of the Great King of Glory, a previous life of the Buddha, illustrating the impermanence of worldly power and wealth.",
+        "sinhala": "බුදුරජාණන් වහන්සේගේ පෙර ආත්මයක් වූ මහාසුදස්සන සක්විති රජුගේ කතාව ඇසුරින් ලෞකික සම්පත්වල අනිත්‍යතාවය මෙහි පෙන්වා දෙයි."
+      },
+      "link": "chapters/dn.2.4-Mahāsudassanasuttaṃ.json"
+    },
+    {
+      "id": "dn.18",
+      "number": 5,
+      "title": {
+        "pali": "Janavasabhasuttaṃ",
+        "english": "Concerning Janavasabha",
+        "sinhala": "ජනවසභ සූත්‍රය"
+      },
+      "description": {
+        "english": "A report by the spirit Janavasabha about the rebirth of the Buddha's followers and the assemblies in the heavenly realms.",
+        "sinhala": "බුදුරජාණන් වහන්සේගේ ශ්‍රාවකයන් පරලොව උපත ලැබීම සහ දෙව්ලොව සභාවන් පිළිබඳව ජනවසභ දිව්‍යපුත්‍රයා කළ විස්තරයකි."
+      },
+      "link": "chapters/dn.2.5-Janavasabhasuttaṃ.json"
+    },
+    {
+      "id": "dn.19",
+      "number": 6,
+      "title": {
+        "pali": "Mahāgovindasuttaṃ",
+        "english": "The Great Steward",
+        "sinhala": "මහාගෝවින්ද සූත්‍රය"
+      },
+      "description": {
+        "english": "The story of the Brahmin Govinda and his quest to see Brahma, demonstrating the path to union with the divine.",
+        "sinhala": "මහාගෝවින්ද බ්‍රාහ්මණයා බ්‍රහ්මයා දැකීමට ගත් උත්සාහය සහ බුදුරජාණන් වහන්සේ පෙන්වා දෙන උතුම් මග පිළිබඳ දේශනාවකි."
+      },
+      "link": "chapters/dn.2.6-Mahāgovindasuttaṃ.json"
+    },
+    {
+      "id": "dn.20",
+      "number": 7,
+      "title": {
+        "pali": "Mahāsamayasuttaṃ",
+        "english": "The Great Assembly",
+        "sinhala": "මහාසමය සූත්‍රය"
+      },
+      "description": {
+        "english": "A listing of the vast multitude of deities and spirits who gathered to see the Buddha and the Sangha.",
+        "sinhala": "බුදුරජාණන් වහන්සේ සහ මහා සංඝරත්නය දැකීමට පැමිණි දේව සමූහයා පිළිබඳව කෙරෙන දේශනාවකි."
+      },
+      "link": "chapters/dn.2.7-Mahāsamayasuttaṃ.json"
+    },
+    {
+      "id": "dn.21",
+      "number": 8,
+      "title": {
+        "pali": "Sakkapañhasuttaṃ",
+        "english": "Sakka’s Questions",
+        "sinhala": "සක්කපඤ්හ සූත්‍රය"
+      },
+      "description": {
+        "english": "The King of the Gods, Sakka, visits the Buddha and asks questions on ethics, psychology, and the path to liberation.",
+        "sinhala": "සක් දෙවිඳුන් බුදුරජාණන් වහන්සේ හමුවී අසන ලද සදාචාරාත්මක සහ ආධ්‍යාත්මික ප්‍රශ්නෝත්තර දේශනාවකි."
+      },
+      "link": "chapters/dn.2.8-Sakkapañhasuttaṃ.json"
+    },
+    {
+      "id": "dn.22",
+      "number": 9,
+      "title": {
+        "pali": "Mahāsatipaṭṭhānasuttaṃ",
+        "english": "The Great Discourse on Mindfulness",
+        "sinhala": "මහාසතිපට්ඨාන සූත්‍රය"
+      },
+      "description": {
+        "english": "The most comprehensive guide to mindfulness meditation, covering the body, feelings, mind, and mental qualities.",
+        "sinhala": "කායානුපස්සනා, වේදනානුපස්සනා, චිත්තානුපස්සනා සහ ධම්මානුපස්සනා යන සතර සතිපට්ඨානය පිළිබඳව කෙරෙන අතිශය වැදගත් භාවනා දේශනාවකි."
+      },
+      "link": "chapters/dn.2.9-Mahāsatipaṭṭhānasuttaṃ.json"
+    },
+    {
+      "id": "dn.23",
+      "number": 10,
+      "title": {
+        "pali": "Pāyāsisuttaṃ",
+        "english": "With Pāyāsi",
+        "sinhala": "පායාසි සූත්‍රය"
+      },
+      "description": {
+        "english": "A debate between Ven. Kumara Kassapa and the skeptic Prince Payasi on the existence of the afterlife and karma.",
+        "sinhala": "කුමාර කස්සප හිමියන් සහ පායාසි රජු අතර පරලොව සහ කර්මය පිළිබඳව ඇති වූ විවාදාත්මක දේශනාවකි."
+      },
+      "link": "chapters/dn.2.10-Pāyāsisuttaṃ.json"
+    }
+  ]
+}

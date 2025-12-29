@@ -1,0 +1,208 @@
+{
+  "id": "sagathavagga",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "samyuttanikaya",
+    "name": {
+      "pali": "Saṃyutta Nikāya",
+      "english": "The Linked Discourses",
+      "sinhala": "සංයුත්ත නිකාය"
+    }
+  },
+  "vagga": {
+    "id": "sagathavagga",
+    "number": 1,
+    "name": {
+      "pali": "Sagāthāvaggo",
+      "english": "The Section with Verses",
+      "sinhala": "සගාථා වර්ගය"
+    }
+  },
+  "title": {
+    "pali": "Sagāthāvaggo",
+    "english": "The Section with Verses",
+    "sinhala": "සගාථා වර්ගය"
+  },
+  "footer": {
+    "pali": "Sagāthāvaggo paṭhamo. Tassuddānaṃ – Devatā devaputto ca, rājā māro ca bhikkhunī; Brahmā brāhmaṇa vaṅgīso, vanayakkhena vāsavoti. Sagāthāvaggasaṃyuttapāḷi niṭṭhitā.",
+    "english": "The first is the Sagāthā Section. Its summary: Devata and Devaputta; King (Kosala), Mara, and Bhikkhuni; Brahma, Brahmana, and Vangisa; Forest, Yakkha, and Vasava (Sakka). The Linked Discourses of the Sagāthā Section is finished.",
+    "sinhala": "පළමු සගාථා වර්ගයයි. එහි උද්දානය: දේවතා, දේවපුත්ත, කෝසල (රජ), මාර, භික්ඛුණී, බ්‍රහ්ම, බ්‍රාහ්මණ, වංගීස, වන, යක්ඛ සහ සක්ක යන සංයුක්ත එකොළස මෙහි ඇතුළත් වේ. සගාථා වර්ග සංයුක්තපාළිය නිමවා ලදි."
+  },
+  "description": {
+    "english": "The first book of the Samyutta Nikaya, containing 11 sections of verses. It features dialogues where the Buddha answers challenging questions from gods, kings, and tempters, emphasizing virtue, wisdom, and the path to peace.",
+    "sinhala": "සංයුත්ත නිකායේ පළමු වෙළුමයි. මෙහි සංයුක්ත 11ක් අන්තර්ගත වේ. දෙවියන්, රජවරුන් සහ මාරයා වැනි විවිධ පාර්ශවයන් විසින් නගන ලද ප්‍රශ්න වලට බුදුරජාණන් වහන්සේ ගාථා මගින් ලබා දුන් පිළිතුරු මෙහි ප්‍රධාන වශයෙන් ඇතුළත් වේ."
+  },
+  "totalChapters": 11,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "sn.1",
+      "number": 1,
+      "title": {
+        "pali": "Devatāsaṃyuttaṃ",
+        "english": "Linked Discourses with Deities",
+        "sinhala": "දේවතා සංයුක්තය"
+      },
+      "description": {
+        "english": "Discourses with unidentified deities who visit the Buddha at night to ask short, riddling questions.",
+        "sinhala": "රාත්‍රී කාලයේ බුදුරජාණන් වහන්සේ හමුවීමට පැමිණි විවිධ දේවතාවන් ඇසූ කෙටි ප්‍රශ්න සහ ඒවාට දුන් පිළිතුරු."
+      },
+      "link": "chapters/sn.1.1-Devatāsaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.2",
+      "number": 2,
+      "title": {
+        "pali": "Devaputtasaṃyuttaṃ",
+        "english": "Linked Discourses with Sons of Gods",
+        "sinhala": "දේවපුත්ත සංයුක්තය"
+      },
+      "description": {
+        "english": "Similar to the Devata Samyutta, but featuring named celestial beings (Devaputtas).",
+        "sinhala": "නමින් සඳහන් කර ඇති විවිධ දේවපුත්‍රයන් සමඟ කළ සාකච්ඡා මෙහි ඇතුළත් වේ."
+      },
+      "link": "chapters/sn.1.2-Devaputtasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.3",
+      "number": 3,
+      "title": {
+        "pali": "Kosalasaṃyuttaṃ",
+        "english": "Linked Discourses with the Kosalan",
+        "sinhala": "කෝසල සංයුක්තය"
+      },
+      "description": {
+        "english": "Dialogues between the Buddha and King Pasenadi of Kosala regarding kingship and spiritual life.",
+        "sinhala": "පසේනදී කෝසල රජතුමා සහ බුදුරජාණන් වහන්සේ අතර ඇති වූ දහම් සංවාද."
+      },
+      "link": "chapters/sn.1.3-Kosalasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.4",
+      "number": 4,
+      "title": {
+        "pali": "Mārasaṃyuttaṃ",
+        "english": "Linked Discourses with Māra",
+        "sinhala": "මාර සංයුක්තය"
+      },
+      "description": {
+        "english": "Encounters where the Buddha exposes and defeats the attempts of Mara to distract or discourage him and his disciples.",
+        "sinhala": "බුදුරජාණන් වහන්සේ හෝ ශ්‍රාවකයන් වහන්සේලා මුළා කිරීමට උත්සාහ කළ මාරයා පරාජය කළ අවස්ථාවන්."
+      },
+      "link": "chapters/sn.1.4-Mārasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.5",
+      "number": 5,
+      "title": {
+        "pali": "Bhikkhunīsaṃyuttaṃ",
+        "english": "Linked Discourses with Nuns",
+        "sinhala": "භික්ඛුණී සංයුක්තය"
+      },
+      "description": {
+        "english": "Verses by various enlightened nuns who outwit Mara and proclaim their realization.",
+        "sinhala": "මාරයාගේ තර්ක බිඳලමින් විමුක්තිය ප්‍රකාශ කළ රහත් මෙහෙණින් වහන්සේලාගේ උදාන ගාථා."
+      },
+      "link": "chapters/sn.1.5-Bhikkhunīsaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.6",
+      "number": 6,
+      "title": {
+        "pali": "Brahmasaṃyuttaṃ",
+        "english": "Linked Discourses with Brahmās",
+        "sinhala": "බ්‍රහ්ම සංයුක්තය"
+      },
+      "description": {
+        "english": "Discourses involving high divinity beings (Brahmās), including the famous request by Sahampati for the Buddha to teach.",
+        "sinhala": "සහම්පතී බ්‍රහ්මයා දහම් දෙසීමට ආරාධනා කිරීම ඇතුළු බ්‍රහ්ම ලෝකවාසීන් සමඟ කළ දේශනා."
+      },
+      "link": "chapters/sn.1.6-Brahmasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.7",
+      "number": 7,
+      "title": {
+        "pali": "Brāhmaṇasaṃyuttaṃ",
+        "english": "Linked Discourses with Brahmins",
+        "sinhala": "බ්‍රාහ්මණ සංයුක්තය"
+      },
+      "description": {
+        "english": "Dialogues with Brahmins who often approach the Buddha with doubt or hostility and leave as followers.",
+        "sinhala": "විවිධ මතවාද දැරූ බ්‍රාහ්මණයන් බුදුරජාණන් වහන්සේ හමුවී දහම් අසා පැහැදුණු අවස්ථාවන්."
+      },
+      "link": "chapters/sn.1.7-Brāhmaṇasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.8",
+      "number": 8,
+      "title": {
+        "pali": "Vaṅgīsasaṃyuttaṃ",
+        "english": "Linked Discourses with Vaṅgīsa",
+        "sinhala": "වංගීස සංයුක්තය"
+      },
+      "description": {
+        "english": "The inspired verses of Ven. Vangisa, the foremost poet among the Buddha's disciples.",
+        "sinhala": "කාව්‍යකරණයෙහි දක්ෂ වංගීස රහතන් වහන්සේ විසින් දේශිත ගාථා රත්නයන්."
+      },
+      "link": "chapters/sn.1.8-Vaṅgīsasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.9",
+      "number": 9,
+      "title": {
+        "pali": "Vanasaṃyuttaṃ",
+        "english": "Linked Discourses in the Forest",
+        "sinhala": "වන සංයුක්තය"
+      },
+      "description": {
+        "english": "Discourses with forest deities who encourage or admonish monks living in solitude.",
+        "sinhala": "වනගතව වසන භික්ෂූන් වහන්සේලාට වන දේවතාවන් විසින් දෙන ලද අවවාද සහ අනුශාසනා."
+      },
+      "link": "chapters/sn.1.9-Vanasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.10",
+      "number": 10,
+      "title": {
+        "pali": "Yakkhasaṃyuttaṃ",
+        "english": "Linked Discourses with Spirits (Yakkhas)",
+        "sinhala": "යක්ඛ සංයුක්තය"
+      },
+      "description": {
+        "english": "Encounters with powerful non-human spirits (Yakkhas), illustrating the civilizing power of the Dhamma.",
+        "sinhala": "ආලවක වැනි ප්‍රබල යක්ෂයන් බුදුරජාණන් වහන්සේගේ ධර්මය හමුවේ දමනය වූ ආකාරය."
+      },
+      "link": "chapters/sn.1.10-Yakkhasaṃyuttaṃ.json"
+    },
+    {
+      "id": "sn.11",
+      "number": 11,
+      "title": {
+        "pali": "Sakkasaṃyuttaṃ",
+        "english": "Linked Discourses with Sakka",
+        "sinhala": "සක්ක සංයුක්තය"
+      },
+      "description": {
+        "english": "Discourses featuring Sakka, the lord of the gods, often highlighting the virtue of patience and non-anger.",
+        "sinhala": "සක් දෙවිඳුන් සහ බුදුරජාණන් වහන්සේ අතර ඇති වූ සංවාද (විශේෂයෙන් ඉවසීම පිළිබඳව)."
+      },
+      "link": "chapters/sn.1.11-Sakkasaṃyuttaṃ.json"
+    }
+  ]
+}

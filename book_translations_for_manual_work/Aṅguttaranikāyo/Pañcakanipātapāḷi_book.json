@@ -1,0 +1,460 @@
+{
+  "id": "pancakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "The Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "The Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "pancakanipata",
+    "number": 5,
+    "name": {
+      "pali": "Pañcakanipātapāḷi",
+      "english": "The Book of the Fives",
+      "sinhala": "පංචක නිපාතය"
+    }
+  },
+  "title": {
+    "pali": "Pañcakanipātapāḷi",
+    "english": "The Book of the Fives",
+    "sinhala": "පංචක නිපාතය"
+  },
+  "footer": {
+    "pali": "Pañcakanipātapāḷi niṭṭhitā.",
+    "english": "The Book of the Fives is concluded.",
+    "sinhala": "පංචක නිපාතය මෙයින් අවසන් වේ."
+  },
+  "description": {
+    "english": "The fifth division of the Anguttara Nikaya, containing suttas organized into groups of five. It covers essential topics like the five strengths, the five hindrances, and the five subjects for frequent recollection.",
+    "sinhala": "අංගුත්තර නිකායේ පස්වන කොටස වන මෙහි කරුණු පහ බැගින් වූ දේශනා ඇතුළත් වේ. පංච බල, පංච නීවරණ සහ නිතර මෙනෙහි කළ යුතු කරුණු පහ ආදී ගැඹුරු දහම් කරුණු මෙහි විග්‍රහ කෙරේ."
+  },
+  "totalChapters": 29,
+  "language": {
+    "source": "pali",
+    "translations": [
+      "english",
+      "sinhala"
+    ]
+  },
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
+  "chapters": [
+    {
+      "id": "an5.1",
+      "number": 1,
+      "title": {
+        "pali": "Sekhabalavaggo",
+        "english": "Powers of a Trainee",
+        "sinhala": "සේඛබල වර්ගය"
+      },
+      "description": {
+        "english": "Details the five powers of one in training: faith, shame, fear of wrongdoing, energy, and wisdom.",
+        "sinhala": "හික්මෙන ශ්‍රාවකයා සතු විය යුතු ශ්‍රද්ධාව, හිරිය, ඔත්තප්පය, වීරිය සහ ප්‍රඥාව යන බල පහ ගැන මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an5.1-Sekhabalavaggo.json"
+    },
+    {
+      "id": "an5.2",
+      "number": 2,
+      "title": {
+        "pali": "Balavaggo",
+        "english": "Powers",
+        "sinhala": "බල වර්ගය"
+      },
+      "description": {
+        "english": "Further exploration of the five powers and how they are developed to overcome mental defilements.",
+        "sinhala": "පංච බලයන් තවදුරටත් විස්තර කරන අතර කෙලෙස් දුරු කිරීමට ඒවා උපකාරී වන ආකාරය මෙහි දැක්වේ."
+      },
+      "link": "chapters/an5.2-Balavaggo.json"
+    },
+    {
+      "id": "an5.3",
+      "number": 3,
+      "title": {
+        "pali": "Pañcaṅgikavaggo",
+        "english": "Five Factors",
+        "sinhala": "පංචංගික වර්ගය"
+      },
+      "description": {
+        "english": "Discusses the five-factored noble right concentration and its benefits.",
+        "sinhala": "අංග පහකින් යුත් ආර්ය සම්‍යක් සමාධිය සහ එහි ආනිසංස පිළිබඳව මෙහි සාකච්ඡා කෙරේ."
+      },
+      "link": "chapters/an5.3-Pañcaṅgikavaggo.json"
+    },
+    {
+      "id": "an5.4",
+      "number": 4,
+      "title": {
+        "pali": "Sumanavaggo",
+        "english": "With Sumana",
+        "sinhala": "සුමනා වර්ගය"
+      },
+      "description": {
+        "english": "Includes the discourse to Princess Sumana on the results of giving and the benefits of being virtuous.",
+        "sinhala": "සුමනා රාජකුමාරියට දේශනා කළ දානයේ විපාක සහ සීලයේ අනුසස් ඇතුළත් දේශනා මෙහි අඩංගු වේ."
+      },
+      "link": "chapters/an5.4-Sumanavaggo.json"
+    },
+    {
+      "id": "an5.5",
+      "number": 5,
+      "title": {
+        "pali": "Muṇḍarājavaggo",
+        "english": "King Munda",
+        "sinhala": "මුණ්ඩරාජ වර්ගය"
+      },
+      "description": {
+        "english": "Features the famous suttas on the five subjects that should be frequently recollected by everyone.",
+        "sinhala": "සියලු දෙනා විසින් නිතර මෙනෙහි කළ යුතු කරුණු පහ (ජරා, ව්‍යාධි, මරණ ආදිය) පිළිබඳ ප්‍රකට දේශනා මෙහි ඇතුළත් වේ."
+      },
+      "link": "chapters/an5.5-Muṇḍarājavaggo.json"
+    },
+    {
+      "id": "an5.6",
+      "number": 6,
+      "title": {
+        "pali": "Nīvaraṇavaggo",
+        "english": "Hindrances",
+        "sinhala": "නීවරණ වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the five mental hindrances that obstruct clarity and progress in meditation.",
+        "sinhala": "ප්‍රඥාව වසා සිටින පංච නීවරණ ධර්මයන් සහ ඒවා දුරු කිරීමේ වැදගත්කම මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an5.6-Nīvaraṇavaggo.json"
+    },
+    {
+      "id": "an5.7",
+      "number": 7,
+      "title": {
+        "pali": "Saññāvaggo",
+        "english": "Perceptions",
+        "sinhala": "සඤ්ඤා වර්ගය"
+      },
+      "description": {
+        "english": "Describes five perceptions that, when developed, lead to the realization of the deathless.",
+        "sinhala": "නිවන් අවබෝධය පිණිස උපකාරී වන සංඥා පහක් වැඩීම ගැන මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an5.7-Saññāvaggo.json"
+    },
+    {
+      "id": "an5.8",
+      "number": 8,
+      "title": {
+        "pali": "Yodhājīvavaggo",
+        "english": "Warriors",
+        "sinhala": "යෝධාජීව වර්ගය"
+      },
+      "description": {
+        "english": "Uses the simile of a warrior to illustrate the qualities needed by a monk to overcome mental battles.",
+        "sinhala": "කෙලෙස් යුද්ධය ජය ගැනීම සඳහා භික්ෂුවක් සතු විය යුතු ගුණාංග රණශූරයෙකුගේ උපමාවෙන් මෙහි දක්වා ඇත."
+      },
+      "link": "chapters/an5.8-Yodhājīvavaggo.json"
+    },
+    {
+      "id": "an5.9",
+      "number": 9,
+      "title": {
+        "pali": "Theravaggo",
+        "english": "Senior Monks",
+        "sinhala": "ථේර වර්ගය"
+      },
+      "description": {
+        "english": "Qualities that make a senior monk inspiring, helpful to the community, and established in the Dhamma.",
+        "sinhala": "වැඩිහිටි භික්ෂුවක් (ථේර නමක) සතු විය යුතු උදාර ගුණාංග මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an5.9-Theravaggo.json"
+    },
+    {
+      "id": "an5.10",
+      "number": 10,
+      "title": {
+        "pali": "Kakudhavaggo",
+        "english": "Kakudha",
+        "sinhala": "කකුධ වර්ගය"
+      },
+      "description": {
+        "english": "Named after the young deva Kakudha; discusses topics like the five types of spiritual success.",
+        "sinhala": "කකුධ දිව්‍යපුත්‍රයා නිමිති කරගෙන දේශනා කළ කරුණු සහ සාර්ථකත්වය සඳහා වූ කරුණු පහක් මෙහි අඩංගු වේ."
+      },
+      "link": "chapters/an5.10-Kakudhavaggo.json"
+    },
+    {
+      "id": "an5.11",
+      "number": 11,
+      "title": {
+        "pali": "Phāsuvihāravaggo",
+        "english": "Living Comfortably",
+        "sinhala": "ඵාසුවිහාර වර්ගය"
+      },
+      "description": {
+        "english": "Five things that lead to a comfortable and peaceful life for a monk in the community.",
+        "sinhala": "ශාසනය තුළ භික්ෂුවකට පහසුවෙන් වාසය කිරීමට උපකාරී වන කරුණු පහක් ගැන මෙහි දැක්වේ."
+      },
+      "link": "chapters/an5.11-Phāsuvihāravaggo.json"
+    },
+    {
+      "id": "an5.12",
+      "number": 12,
+      "title": {
+        "pali": "Andhakavindavaggo",
+        "english": "At Andhakavinda",
+        "sinhala": "අන්ධකවින්ද වර්ගය"
+      },
+      "description": {
+        "english": "Teachings given while the Buddha was staying at Andhakavinda, covering the development of a trainee.",
+        "sinhala": "අන්ධකවින්දයේදී දේශනා කරන ලද, හික්මෙන ශ්‍රාවකයාගේ දියුණුවට අදාළ කරුණු මෙහි ඇතුළත් වේ."
+      },
+      "link": "chapters/an5.12-Andhakavindavaggo.json"
+    },
+    {
+      "id": "an5.13",
+      "number": 13,
+      "title": {
+        "pali": "Gilānavaggo",
+        "english": "The Sick",
+        "sinhala": "ගිලාන වර්ගය"
+      },
+      "description": {
+        "english": "Discusses caring for the sick and the qualities of a patient who is easy to look after.",
+        "sinhala": "ගිලනුන්ට උපස්ථාන කිරීම සහ උපස්ථාන කරන්නන් සතු විය යුතු ගුණාංග මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an5.13-Gilānavaggo.json"
+    },
+    {
+      "id": "an5.14",
+      "number": 14,
+      "title": {
+        "pali": "Rājavaggo",
+        "english": "Kings",
+        "sinhala": "රාජ වර්ගය"
+      },
+      "description": {
+        "english": "Similes involving kings and their attributes, applied to the spiritual progress of a monk.",
+        "sinhala": "රජවරුන්ගේ ලක්ෂණ උපමා කරගනිමින් භික්ෂුවකගේ ආධ්‍යාත්මික දියුණුව ගැන මෙහි පැහැදිලි කරයි."
+      },
+      "link": "chapters/an5.14-Rājavaggo.json"
+    },
+    {
+      "id": "an5.15",
+      "number": 15,
+      "title": {
+        "pali": "Tikaṇḍakīvaggo",
+        "english": "At Tikandaki",
+        "sinhala": "තිකණ්ඩකී වර්ගය"
+      },
+      "description": {
+        "english": "Suttas delivered at Tikandaki regarding the five ways of looking at agreeable and disagreeable things.",
+        "sinhala": "මනාප සහ අමනාප අරමුණු දෙස බැලිය යුතු ආකාර පහක් පිළිබඳව තිකණ්ඩකීයේදී කළ දේශනා."
+      },
+      "link": "chapters/an5.15-Tikaṇḍakīvaggo.json"
+    },
+    {
+      "id": "an5.16",
+      "number": 16,
+      "title": {
+        "pali": "Saddhammavaggo",
+        "english": "True Dhamma",
+        "sinhala": "සද්ධම්ම වර්ගය"
+      },
+      "description": {
+        "english": "Focuses on the longevity of the True Dhamma and the factors that lead to its decline or stability.",
+        "sinhala": "සද්ධර්මය බොහෝ කල් පැවතීමට හෝ පිරිහීමට බලපාන කරුණු පහ බැගින් මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an5.16-Saddhammavaggo.json"
+    },
+    {
+      "id": "an5.17",
+      "number": 17,
+      "title": {
+        "pali": "Āghātavaggo",
+        "english": "Resentment",
+        "sinhala": "ආඝාත වර්ගය"
+      },
+      "description": {
+        "english": "Five ways of removing resentment and anger when they arise toward others.",
+        "sinhala": "යමෙකු කෙරෙහි අමනාපයක් හෝ තරහක් ඇති වූ විට එය දුරු කරගත හැකි ක්‍රම පහක් මෙහි දැක්වේ."
+      },
+      "link": "chapters/an5.17-Āghātavaggo.json"
+    },
+    {
+      "id": "an5.18",
+      "number": 18,
+      "title": {
+        "pali": "Upāsakavaggo",
+        "english": "Lay Followers",
+        "sinhala": "උපාසක වර්ගය"
+      },
+      "description": {
+        "english": "The virtues of a lay follower and the five trades that should be avoided.",
+        "sinhala": "ගිහි උපාසකයෙකු සතු විය යුතු ගුණාංග සහ නොකළ යුතු වෙළඳාම් පහ ගැන මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an5.18-Upāsakavaggo.json"
+    },
+    {
+      "id": "an5.19",
+      "number": 19,
+      "title": {
+        "pali": "Araññavaggo",
+        "english": "Forest Dwelling",
+        "sinhala": "අරඤ්ඤ වර්ගය"
+      },
+      "description": {
+        "english": "Discusses five types of forest dwellers and the proper motivation for living in solitude.",
+        "sinhala": "ආරණ්‍යවාසී භික්ෂූන් පස්දෙනෙකු සහ හුදකලාව වාසය කිරීමේ නිවැරදි අරමුණ මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an5.19-Araññavaggo.json"
+    },
+    {
+      "id": "an5.20",
+      "number": 20,
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "Brahmins",
+        "sinhala": "බ්‍රාහ්මණ වර්ගය"
+      },
+      "description": {
+        "english": "Conversations with Brahmins regarding ancient rites versus the noble discipline of the Buddha.",
+        "sinhala": "බ්‍රාහ්මණයන් සමඟ කළ සාකච්ඡා සහ පැරණි චාරිත්‍රවලට වඩා ආර්ය විනයෙහි ඇති වෙනස මෙහි දැක්වේ."
+      },
+      "link": "chapters/an5.20-Brāhmaṇavaggo.json"
+    },
+    {
+      "id": "an5.21",
+      "number": 21,
+      "title": {
+        "pali": "Kimilavaggo",
+        "english": "At Kimila",
+        "sinhala": "කිමිල වර්ගය"
+      },
+      "description": {
+        "english": "Suttas delivered at Kimila, focusing on what leads to the stability of the Dhamma.",
+        "sinhala": "කිමිල නුවරදී කළ දේශනා වන අතර ශාසනයේ ස්ථාවර භාවයට හේතු වන කරුණු මෙහි අඩංගු වේ."
+      },
+      "link": "chapters/an5.21-Kimilavaggo.json"
+    },
+    {
+      "id": "an5.22",
+      "number": 22,
+      "title": {
+        "pali": "Akkosakavaggo",
+        "english": "The Abuser",
+        "sinhala": "අක්කෝසක වර්ගය"
+      },
+      "description": {
+        "english": "The disadvantages of insulting others and the benefits of patience.",
+        "sinhala": "අනුන්ට ආක්‍රෝෂ පරිභව කිරීමේ ආදීනව සහ ඉවසීමේ ආනිසංස මෙහි විස්තර වේ."
+      },
+      "link": "chapters/an5.22-Akkosakavaggo.json"
+    },
+    {
+      "id": "an5.23",
+      "number": 23,
+      "title": {
+        "pali": "Dīghacārikavaggo",
+        "english": "Long Wandering",
+        "sinhala": "දීඝචාරික වර්ගය"
+      },
+      "description": {
+        "english": "The pros and cons of long wandering versus staying in one place for meditation.",
+        "sinhala": "චාරිකාවේ හැසිරීම සහ එක් තැනක වාසය කරමින් භාවනා කිරීමේ වාසි අවාසි මෙහි සසඳයි."
+      },
+      "link": "chapters/an5.23-Dīghacārikavaggo.json"
+    },
+    {
+      "id": "an5.24",
+      "number": 24,
+      "title": {
+        "pali": "Āvāsikavaggo",
+        "english": "Resident Monks",
+        "sinhala": "ආවාසික වර්ගය"
+      },
+      "description": {
+        "english": "The qualities and duties of a monk residing in a monastery to be beneficial to the lay community.",
+        "sinhala": "ආරාමයක ස්ථිරව වාසය කරන භික්ෂුවක් සතු විය යුතු ගුණාංග සහ වගකීම් මෙහි දැක්වේ."
+      },
+      "link": "chapters/an5.24-Āvāsikavaggo.json"
+    },
+    {
+      "id": "an5.25",
+      "number": 25,
+      "title": {
+        "pali": "Duccaritavaggo",
+        "english": "Misconduct",
+        "sinhala": "දුච්චරිත වර්ගය"
+      },
+      "description": {
+        "english": "Lists the five types of misconduct and the benefits of avoiding them through virtue.",
+        "sinhala": "දුසිරිතෙහි ආදීනව සහ සීලය ආරක්ෂා කිරීමේ ආනිසංස මෙහි විස්තර කෙරේ."
+      },
+      "link": "chapters/an5.25-Duccaritavaggo.json"
+    },
+    {
+      "id": "an5.26",
+      "number": 26,
+      "title": {
+        "pali": "Upasampadāvaggo",
+        "english": "Ordination",
+        "sinhala": "උපසම්පදා වර්ගය"
+      },
+      "description": {
+        "english": "Criteria and qualities relevant to the higher ordination and the teacher-student relationship.",
+        "sinhala": "උපසම්පදාව සහ ගුරු-ගෝල සබඳතාවයට අදාළ සුදුසුකම් හා ගුණාංග මෙහි සාකච්ඡා වේ."
+      },
+      "link": "chapters/an5.26-Upasampadāvaggo.json"
+    },
+    {
+      "id": "an5.27",
+      "number": 27,
+      "title": {
+        "pali": "Sammutipeyyālaṃ",
+        "english": "Series on Consent",
+        "sinhala": "සම්මුති පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "Abbreviated series on formal acts of the Sangha and legal consent.",
+        "sinhala": "සංඝ කර්ම සහ විනයානුකූල සම්මුතීන් පිළිබඳ කෙටි දේශනා මාලාවකි."
+      },
+      "link": "chapters/an5.27-Sammutipeyyālaṃ.json"
+    },
+    {
+      "id": "an5.28",
+      "number": 28,
+      "title": {
+        "pali": "Sikkhāpadapeyyālaṃ",
+        "english": "Series on Training Rules",
+        "sinhala": "සික්ඛාපද පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "A series focusing on the importance of observing the five precepts.",
+        "sinhala": "පංච සීලය ආරක්ෂා කිරීමේ වැදගත්කම අවධාරණය කරන දේශනා පෙළ."
+      },
+      "link": "chapters/an5.28-Sikkhāpadapeyyālaṃ.json"
+    },
+    {
+      "id": "an5.29",
+      "number": 29,
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
+      },
+      "description": {
+        "english": "The final repetitive series on overcoming lust and other mental fetters using the framework of five.",
+        "sinhala": "පංචක ක්‍රමවේදය ඔස්සේ රාගය ඇතුළු කෙලෙස් දුරු කිරීම පිළිබඳ අවසාන කෙටි දේශනා පෙළ."
+      },
+      "link": "chapters/an5.29-Rāgapeyyālaṃ.json"
+    }
+  ]
+}
