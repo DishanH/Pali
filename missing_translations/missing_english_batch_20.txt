@@ -1,84 +1,36 @@
 # Missing English Translations - Prioritized Batch
-# Total: 1603 items
+# Total: 8 items
 # Batch size: 20 (Google free daily limit)
 
- 1. Dutiyavaggo
-    Contexts: Vagga Title: sn.5.8/Section 909 (+10 more)
+ 1. Chappāṇakopamasuttaṃ
+    Contexts: Section Title: sn.4.1/Section 247
     Translation: _______________
 
- 2. Bhikkhusuttaṃ
-    Contexts: Section Title: sn.5.2/Section 186 (+9 more)
+ 2. Devadūtasuttaṃ
+    Contexts: Section Title: an3.4/Section 36
     Translation: _______________
 
- 3. Dutiyasamaṇabrāhmaṇasuttaṃ
-    Contexts: Section Title: sn.5.12/Section 1076 (+9 more)
+ 3. Dhītusuttaṃ
+    Contexts: Section Title: sn.2.4/Section 142
     Translation: _______________
 
- 4. Paṭhamavaggo
-    Contexts: Vagga Title: sn.2.4/Section 124 (+9 more)
+ 4. Dukkhapañhāsuttaṃ
+    Contexts: Section Title: sn.4.4/Section 327
     Translation: _______________
 
- 5. Oghavaggo
-    Contexts: Vagga Title: sn.5.2/Section 302 (+8 more)
+ 5. Dutiyavaḍḍhisuttaṃ
+    Contexts: Section Title: an5.7/Section 64
     Translation: _______________
 
- 6. Gaṅgāpeyyālavaggo
-    Contexts: Vagga Title: sn.5.2/Section 258 (+7 more)
+ 6. Ekadhītusuttaṃ
+    Contexts: Section Title: sn.2.6/Section 173
     Translation: _______________
 
- 7. Oghādisuttadasakaṃ
-    Contexts: Section Title: sn.5.4/Section 587 (+5 more)
+ 7. Kalyāṇamittasuttaṃ
+    Contexts: Section Title: sn.1.3/Section 129
     Translation: _______________
 
- 8. Paṭhamasamaṇabrāhmaṇasuttaṃ
-    Contexts: Section Title: sn.5.12/Section 1075 (+5 more)
-    Translation: _______________
-
- 9. Lokasuttaṃ
-    Contexts: Section Title: sn.5.12/Section 1098 (+4 more)
-    Translation: _______________
-
-10. Mittasuttaṃ
-    Contexts: Section Title: sn.5.12/Section 1096 (+4 more)
-    Translation: _______________
-
-11. Samaṇabrāhmaṇasuttaṃ
-    Contexts: Section Title: sn.2.1/Section 13 (+4 more)
-    Translation: _______________
-
-12. Saṃyojanasuttaṃ
-    Contexts: Section Title: sn.5.4/Section 531 (+4 more)
-    Translation: _______________
-
-13. Suddhikasuttaṃ
-    Contexts: Section Title: sn.5.4/Section 471 (+4 more)
-    Translation: _______________
-
-14. Āsavakkhayasuttaṃ
-    Contexts: Section Title: sn.5.12/Section 1095 (+4 more)
-    Translation: _______________
-
-15. Arahantasuttaṃ
-    Contexts: Section Title: sn.5.12/Section 1094 (+3 more)
-    Translation: _______________
-
-16. Ariyasuttaṃ
-    Contexts: Section Title: sn.5.2/Section 200 (+3 more)
-    Translation: _______________
-
-17. Esanāvaggo
-    Contexts: Vagga Title: sn.5.2/Section 292 (+3 more)
-    Translation: _______________
-
-18. Kulasuttaṃ
-    Contexts: Section Title: sn.2.9/Section 225 (+3 more)
-    Translation: _______________
-
-19. Moggallānasuttaṃ
-    Contexts: Section Title: sn.5.7/Section 826 (+3 more)
-    Translation: _______________
-
-20. Pahānasuttaṃ
-    Contexts: Section Title: sn.5.2/Section 255 (+3 more)
+ 8. Paṭhamasūriyūpamasuttaṃ
+    Contexts: Section Title: sn.5.2/Section 193
     Translation: _______________
 

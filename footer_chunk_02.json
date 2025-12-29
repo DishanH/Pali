@@ -1,0 +1,548 @@
+[
+  {
+    "pali": "Dīghacārikavaggo tatiyo. Tassuddānaṃ – Dve dīghacārikā vuttā, atinivāsamaccharī; Dve ca kulūpakā bhogā, bhattaṃ sappāpare duveti.",
+    "english": "The third chapter on Long Wandering. The summary of it: Two on Long Wandering are mentioned, Staying Too Long, and Stinginess; two on Visiting Families, Wealth, Food, and two others on the Suitable.",
+    "sinhala": "දීඝචාරික වග නම් වූ තෙවන වර්ගයයි. එහි උද්දානය නම්: දීඝචාරික සූත්‍ර දෙකක්, අතිනිවාස, මච්ඡරී, කුලූපක සූත්‍ර දෙකක්, භෝග, භත්ත සහ සප්පාය සූත්‍ර දෙකකි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.23-Dīghacārikavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Āvāsikavaggo catuttho. Tassuddānaṃ – Āvāsiko piyo ca sobhano, Bahūpakāro anukampako ca; Tayo avaṇṇārahā ceva, Macchariyā duvepi cāti [yathābhataṃ cāpi avaṇṇagedhā, catukkamacchera pañcamena cāti (sī. syā.) yathābhataṃ avaṇṇañca, catuko macchariyena cāti (ka.)].",
+    "english": "The fourth chapter on Resident Monks. The summary of it: A Resident Monk, Loveable, and Beautiful, Very Helpful and Compassionate; three on those Deserving Dispraise, and two on Stinginess. [Also: Carried Away, Dispraise and Greed, four on Stinginess with a fifth.]",
+    "sinhala": "සිව්වන ආවාසික වර්ගයයි. එහි උද්දානය නම්: ආවාසික, පිය, සෝභන, බහූපකාර, අනුකම්පක, අවණ්ණාරහ සූත්‍ර තුනක් සහ මච්ඡරිය සූත්‍ර දෙකකි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.24-Āvāsikavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Duccaritavaggo pañcamo. Tassuddānaṃ – Duccaritaṃ kāyaduccaritaṃ, vacīduccaritaṃ manoduccaritaṃ; Catūhi pare dve sivathikā, puggalappasādena cāti. Pañcamapaṇṇāsakaṃ samattaṃ.",
+    "english": "The fifth chapter on Misconduct. The summary of it: Misconduct, Bodily Misconduct, Verbal Misconduct, Mental Misconduct; with four others, two on Charnel Grounds, and Confidence in a Person. The fifth fifty is complete.",
+    "sinhala": "පස්වන දුච්චරිත වර්ගයයි. එහි උද්දානය නම්: දුච්චරිත, කායදුච්චරිත, වචීදුච්චරිත, මනෝදුච්චරිත, තවත් සූත්‍ර හතරක්, සීවථිකා සූත්‍ර දෙකක් සහ පුද්ගලප්පසාද සූත්‍රයයි. පස්වන පණ්ණාසකය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.25-Duccaritavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Upasampadāvaggo chaṭṭho.",
+    "english": "The sixth chapter on Ordination.",
+    "sinhala": "සයවන උපසම්පදා වර්ගයයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.26-Upasampadāvaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Sammutipeyyālaṃ niṭṭhitaṃ.",
+    "english": "The Abbreviated Series on Consents is finished.",
+    "sinhala": "සම්මුති පෙය්‍යාලය නිමයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.27-Sammutipeyyālaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Sikkhāpadapeyyālaṃ niṭṭhitaṃ.",
+    "english": "The Abbreviated Series on the Training Rules is finished.",
+    "sinhala": "සික්ඛාපද පෙය්‍යාලය නිමයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.28-Sikkhāpadapeyyālaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Rāgapeyyālaṃ niṭṭhitaṃ. Tassuddānaṃ – Abhiññāya pariññāya parikkhayāya, Pahānāya khayāya vayena ca; Virāganirodhā cāgañca, Paṭinissaggo ime dasāti. Pañcakanipāto niṭṭhito. Tatridaṃ vagguddānaṃ – Sekhabalaṃ balañceva, pañcaṅgikañca sumanaṃ; Muṇḍanīvaraṇañca saññañca, yodhājීvañca aṭṭhamaṃ; Theraṃ kakudhaphāsuñca, andhakavindadvādasaṃ; Gilānarājatikaṇḍaṃ, saddhammāghātupāsakaṃ; Araññabrāhmaṇañceva, kimilakkosakaṃ tathā; Dīghācārāvāsikañca, duccaritūpasampadanti.",
+    "english": "The Abbreviated Series on Lust is finished. The summary of it: Direct knowledge, full understanding, complete exhaustion, abandoning, destruction, and passing away; fading of lust, cessation, giving up, and relinquishment—these ten. The Book of the Fives is finished. This is the summary of its chapters: Trainee's Powers, Powers, Fivefold, Sumanā; Muṇḍa, Hindrances, Perception, the Warrior as the eighth; Elders, Kakudha, Comfort, and Andhakavinda as the twelfth; Sick, King, Tikaṇḍakī, True Dhamma, Resentment, Lay Follower; Forest, Brahmin, Kimila, and Insulter; Long Wandering, Resident Monk, Misconduct, and Ordination.",
+    "sinhala": "රාග පෙය්‍යාලය නිමයි. එහි උද්දානය නම්: අභිඤ්ඤා, පරිඤ්ඤා, පිරික්ඛය, පහාන, ඛය, වය, විරාග, නිරෝධ, චාග සහ පටිනිස්සග්ග යන දසයයි. පංචක නිපාතය නිමයි. එහි වර්ග උද්දානය නම්: සේඛබල, බල, පංචංගික, සුමනා, මුණ්ඩ, නීවරණ, සඤ්ඤා, යෝධාජීව, ථේර, කකුධ, ඵාසු, අන්ධකවින්ද, ගිලාන, රාජ, තිකණ්ඩ, සද්ධම්ම, ආඝාත, උපාසක, අරඤ්ඤ, බ්‍රාහ්මණ, කිමිල, අක්කෝසක, දීඝචාරික, ආවාසික, දුච්චරිත සහ උපසම්පදා වර්ගයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.29-Rāgapeyyālaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Pañcaṅgikavaggo tatiyo. Tassuddānaṃ – Dve agāravupakkilesā, dussīlānuggahitena ca; Vimuttisamādhipañcaṅgikā, caṅkamaṃ nāgitena cāti.",
+    "english": "The third chapter on the Fivefold. The summary of it: Two on Lack of Respect, Defilements, Lack of Virtue, and Helped; Liberation, Concentration, Fivefold, Walking Meditation, and with Nāgita.",
+    "sinhala": "තෙවන පංචංගික වර්ගයයි. එහි උද්දානය නම්: අගාරව සූත්‍ර දෙකක්, උපක්කිලේස, දුස්සීල, අනුග්ගහීත, විමුත්ති, සමාධි, පංචංගික, චංකම සහ නාගිත සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.3-Pañcaṅgikavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Sumanavaggo catuttho. Tassuddānaṃ – Sumanā cundī uggaho, sīho dānānisaṃsako; Kālaphojanasaddhā ca, puttasālehi te dasāti.",
+    "english": "The fourth chapter on Sumanā. The summary of it: Sumanā, Cundī, Uggaha, Sīha, the Benefits of Giving; Timely Eating, Faith, and the Son's Sal Forest—these ten.",
+    "sinhala": "සිව්වන සුමනා වර්ගයයි. එහි උද්දානය නම්: සුමනා, චුන්දී, උග්ගහ, සීහ, දානානිසංස, කාලභෝජන, සද්ධා සහ පුත්තසාල යන සූත්‍ර දහයයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.4-Sumanavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Muṇḍarājavaggo pañcamo. Tassuddānaṃ – Ādiyo sappuriso iṭṭhā, manāpadāyībhisandaṃ; Sampadā ca dhanaṃ ṭhānaṃ, kosalo nāradena cāti. Paṭhamapaṇṇāsakaṃ samattaṃ.",
+    "english": "The fifth chapter on King Muṇḍa. The summary of it: Income, the Worthy Person, Likable, Giving What is Agreeable, Overflow; Accomplishment, Wealth, Situations, and the Kosalan with Nārada. The first fifty is complete.",
+    "sinhala": "පස්වන මුණ්ඩරාජ වර්ගයයි. එහි උද්දානය නම්: ආදිය, සප්පුරිස, ඉට්ඨ, මනාපදායී, අභිසන්ද, සම්පදා, ධන, ඨාන, කෝසල සහ නාරද සූත්‍රයි. පළමු පණ්ණාසකය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.5-Muṇḍarājavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Nīvaraṇavaggo paṭhamo. Tassuddānaṃ – Āvaraṇaṃ rāsi aṅgāni, samayaṃ mātuputtikā; Upajjhā ṭhānā licchavi, kumārā aparā duveti.",
+    "english": "The first chapter on Hindrances. The summary of it: Obstruction, Heap, Factors, Occasion, Mother and Son; Preceptor, Situations, Licchavi, Princes, and two others.",
+    "sinhala": "පළමු නීවරණ වර්ගයයි. එහි උද්දානය නම්: ආවරණ, රාසි, අංග, සමය, මාතුපුත්තිකා, උපජ්ඣා, ඨාන, ලිච්ඡවි, කුමාර සහ තවත් සූත්‍ර දෙකකි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.6-Nīvaraṇavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Saññāvaggo dutiyo. Tassuddānaṃ – Dve ca saññā dve vaḍḍhī ca, sākacchena ca sājīvaṃ; Iddhipādā ca dve vuttā, nibbidā cāsavakkhayāti.",
+    "english": "The second chapter on Perception. The summary of it: Two on Perception, two on Growth, Discussion, and Living With; two on the Bases of Psychic Power are mentioned, Weariness, and the Exhaustion of Defilements.",
+    "sinhala": "දෙවන සඤ්ඤා වර්ගයයි. එහි උද්දානය නම්: සඤ්ඤා දෙකක්, වඩ්ඪි දෙකක්, සාකච්ඡා, සාජීව, ඉද්ධිපාද දෙකක්, නිබ්බිදා සහ ආසවක්ඛය සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.7-Saññāvaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Yodhājīvavaggo tatiyo. Tassuddānaṃ – Dve cetovimuttiphalā, dve ca dhammavihārino; Yodhājīvā ca dve vuttā, cattāro ca anāgatāti.",
+    "english": "The third chapter on the Warrior. The summary of it: Two on the Fruit of Heart's Liberation, two on those Dwelling in Dhamma; two on Warriors are mentioned, and four on the Future.",
+    "sinhala": "තෙවන යෝධාජීව වර්ගයයි. එහි උද්දානය නම්: චේතෝවිමුත්තිඵල සූත්‍ර දෙකක්, ධම්මවිහාරී සූත්‍ර දෙකක්, යෝධාජීව සූත්‍ර දෙකක් සහ අනාගත සූත්‍ර හතරකි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.8-Yodhājīvavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Theravaggo catuttho. Tassuddānaṃ – Rajanīyo vītarāgo, kuhakāssaddhaakkhamā; Paṭisambhidā ca sīlena, thero sekhā pare duveti.",
+    "english": "The fourth chapter on Elders. The summary of it: Lustful, One Free from Lust, Fraudulent, Faithless, Impatient; Analytical Knowledge, Virtue, the Elder, and two other Trainees.",
+    "sinhala": "සිව්වන ථේර වර්ගයයි. එහි උද්දානය නම්: රජනීය, වීතරාග, කුහක, අස්සද්ධ, අක්ඛම, පටිසම්භිදා, සීල, ථේර සහ සේඛ සූත්‍ර දෙකකි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.9-Theravaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Dhanavaggo paṭhamo. Tassuddānaṃ – Dve piyāni balaṃ dhanaṃ, saṃkhittañceva vitthataṃ; Uggaṃ saṃyojanañceva, pahānaṃ macchariyena cāti.",
+    "english": "The first chapter on Wealth. The summary of it: Two on the Loveable, Power, Wealth, Brief, and In Detail; Ugga, Fetter, Abandoning, and with Stinginess.",
+    "sinhala": "පළමු ධන වර්ගයයි. එහි උද්දානය නම්: පිය සූත්‍ර දෙකක්, බල, ධන, සංඛිත්ත, විත්ථත, උග්ග, සංයෝජන, පහාන සහ මච්ඡරිය සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.1-Dhanavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Āhuneyyavaggo dasamo.",
+    "english": "The tenth chapter on Worthy of Offerings.",
+    "sinhala": "දහවන ආහුනෙය්‍ය වර්ගයයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.10-Āhuneyyavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Rāgapeyyālaṃ niṭṭhitaṃ.",
+    "english": "The Abbreviated Series on Lust is finished.",
+    "sinhala": "රාග පෙය්‍යාලය නිමයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.11-Rāgapeyyālaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Anusayavaggo dutiyo. Tassuddānaṃ – Duve anusayā kulaṃ, puggalaṃ udakūpamaṃ; Aniccaṃ dukkhaṃ anattā ca, nibbānaṃ niddasavatthu cāti.",
+    "english": "The second chapter on Underlying Tendencies. The summary of it: Two on Underlying Tendencies, Family, Person, Simile of Water; Impermanence, Suffering, Non-self, Nibbāna, and Grounds for Criticism.",
+    "sinhala": "දෙවන අනුසය වර්ගයයි. එහි උද්දානය නම්: අනුසය සූත්‍ර දෙකක්, කුල, පුද්ගල, උදකූපම, අනිච්ඡ, දුක්ඛ, අනත්ත, නිබ්බාන සහ නිද්දසවත්ථු සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.2-Anusayavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Vajjisattakavaggo [vajjivaggo (syā.)] tatiyo. Tassuddānaṃ – Sāranda -vassakāro ca, tisattakāni bhikkhukā; Bodhisaññā dve ca hāni, vipatti ca parābhavoti.",
+    "english": "The third chapter on the Seven Vajjian Conditions. The summary of it: Sāranda, Vassakāra, and three sets of seven for the Monks; Awareness of Awakening, two on Decline, Failure, and Ruin.",
+    "sinhala": "තෙවන වජ්ජිසත්තක වර්ගයයි. එහි උද්දානය නම්: සාරන්ද, වස්සකාර, භික්ෂු සප්තක තුනක්, බෝධිසඤ්ඤා, හානි දෙකක්, විපත්ති සහ පරාභව සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.3-Vajjisattakavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Devatāvaggo catuttho. Tassuddānaṃ – Appamādo hirī ceva, dve suvacā duve mittā; Dve paṭisambhidā dve vasā, duve niddasavatthunāti.",
+    "english": "The fourth chapter on Deities. The summary of it: Heedfulness and Shame, two on Easy to Admonish, two on Friends; two on Analytical Knowledge, two on Mastery, and two on Grounds for Criticism.",
+    "sinhala": "සිව්වන දේවතා වර්ගයයි. එහි උද්දානය නම්: අප්පමාද, හිරි, සුවච සූත්‍ර දෙකක්, මිත්ත සූත්‍ර දෙකක්, පටිසම්භිදා දෙකක්, වස සූත්‍ර දෙකක් සහ නිද්දසවත්ථු සූත්‍ර දෙකකි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.4-Devatāvaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Mahāyaññavaggo pañcamo. Tassuddānaṃ – Ṭhiti ca parikkhāraṃ dve, aggī saññā ca dve parā; Methunā saṃyogo dānaṃ, nandamātena te dasāti. Paṭhamapaṇṇāsakaṃ samattaṃ.",
+    "english": "The fifth chapter on the Great Sacrifice. The summary of it: Stability and two on Requisites, Fire, and two others on Perception; Sexual Intercourse, Fetter, Giving, and with Nanda's Mother—these ten. The first fifty is complete.",
+    "sinhala": "පස්වන මහායඤ්ඤ වර්ගයයි. එහි උද්දානය නම්: ඨිති, පරික්ඛාර දෙකක්, අග්ගි, සඤ්ඤා දෙකක්, මෙථුන, සංයෝග, දාන සහ නන්දමාතා සූත්‍රයි. පළමු පණ්ණාසකය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.5-Mahāyaññavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Abyākatavaggo chaṭṭho. Tassuddānaṃ – Abyākato purisagati, tissa sīha arakkhiyaṃ; Kimilaṃ satta pacalā, mettā bhariyā kodhekādasāti.",
+    "english": "The sixth chapter on the Undeclared. The summary of it: Undeclared, Destinations of Persons, Tissa, Sīha, Unguarded; Kimila, seven on Nodding, Loving-kindness, Wives, and Anger—these are eleven.",
+    "sinhala": "සයවන අබ්‍යාකත වර්ගයයි. එහි උද්දානය නම්: අබ්‍යාකත, පුරිසගති, තිස්ස, සීහ, අරක්ඛිය, කිමිල, සත්ත පචලා, මෙත්තා, භරියා සහ කෝධ යන සූත්‍ර එකොළසයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.6-Abyākatavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Mahāvaggo sattamo. Tassuddānaṃ – Hirīsūriyaṃ upamā, dhammaññū pārichattakaṃ; Sakkaccaṃ bhāvanā aggi, sunettaarakena cāti.",
+    "english": "The seventh Great Chapter. The summary of it: Shame, Simile of the Sun, One who knows the Dhamma, the Coral Tree; Respect, Development, Fire, Sunetta, and with Araka.",
+    "sinhala": "සත්වන මහා වර්ගයයි. එහි උද්දානය නම්: හිරි, සූරියූපම, ධම්මඤ්ඤූ, පාරිඡත්තක, සක්කච්ඡ, භාවනා, අග්ගි, සුනෙත්ත සහ අරක සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.7-Mahāvaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Vinayavaggo aṭṭhamo. Tassuddānaṃ – Caturo vinayadharā, caturo ceva sobhanā; Sāsanaṃ adhikaraṇa-samathenaṭṭhame dasāti.",
+    "english": "The eighth chapter on the Discipline. The summary of it: Four on the Bearer of Discipline, and four on the Beautiful; the Teaching, and Settling of Issues—the eighth makes ten.",
+    "sinhala": "අටවන විනය වර්ගයයි. එහි උද්දානය නම්: විනයධර හතරක්, සෝභන හතරක්, සාසන සහ අධිකරණසමථ සූත්‍රයයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.8-Vinayavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Samaṇavaggo navamo. Tassuddānaṃ – Bhikkhuṃ samaṇo brāhmaṇo, sottiyo ceva nhātako; Vedagū ariyo arahā, asaddhammā ca saddhammāti.",
+    "english": "The ninth chapter on Ascetics. The summary of it: Monk, Ascetic, Brahmin, Scholar, One who has Bathed; Master of Knowledge, Noble One, Arahant, Wrong Dhamma, and the True Dhamma.",
+    "sinhala": "නවවන සමණ වර්ගයයි. එහි උද්දානය නම්: භික්ඛු, සමණ, බ්‍රාහ්මණ, සෝත්තිය, න්හාතක, වේදගූ, අරිය, අරහ, අසද්ධම්ම සහ සද්ධම්ම සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Sattakanipātapāḷi/an7.9-Samaṇavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Bālavaggo paṭhamo. Tassuddānaṃ – Bhayaṃ lakkhaṇacintī ca, accayañca ayoniso; Akusalañca sāvajjaṃ, sabyābajjhakhataṃ malanti.",
+    "english": "The first chapter on the Fool. The summary of it: Fear, Mark, Thinking, Transgression, Unwise Attention; Unwholesome, Blameworthy, Afflicted, Damaged, and Stain.",
+    "sinhala": "පළමු බාල වර්ගයයි. එහි උද්දානය නම්: භය, ලක්ඛණ, චින්තී, අච්චය, අයෝනිසෝ, අකුසල, සාවජ්ජ, සබ්‍යාබජ්ඣ, ඛත සහ මල සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.1-Bālavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Loṇakapallavaggo [loṇaphalavaggo (sī. syā. kaṃ. pī.)] pañcamo. Tassuddānaṃ – Accāyikaṃ pavivekaṃ, sarado parisā tayo; Ājānීyā potthako ca, loṇaṃ dhovati nimittānīti. Dutiyo paṇṇāsako samatto.",
+    "english": "The fifth chapter on the Salt Crystal. The summary of it: Urgent, Seclusion, Autumn, three on Assemblies; Thoroughbreds, the Book, Salt, Washing, and Signs. The second fifty is complete.",
+    "sinhala": "පස්වන ලෝණකපල්ල වර්ගයයි. එහි උද්දානය නම්: අච්චායික, පවිවේක, සරද, පරිසා තුනක්, ආජානීය, පොත්ථක, ලෝණ, ධෝවති සහ නිමිත්ත සූත්‍රයි. දෙවන පණ්ණාසකය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.10-Loṇakapallavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Sambodhavaggo paṭhamo. Tassuddānaṃ – Pubbeva duve assādā, samaṇo ruṇṇapañcamaṃ; Atitti dve ca vuttāni, nidānāni apare duveti.",
+    "english": "The first chapter on Awakening. The summary of it: Before, two on Gratification, Ascetic, Weeping as the fifth; two on Insatiability, and two others on Causes.",
+    "sinhala": "පළමු සම්බෝධ වර්ගයයි. එහි උද්දානය නම්: පුබ්බේ, අස්සාද දෙකක්, සමණ, රුණ්ණ, අතිත්ති දෙකක් සහ නිදාන සූත්‍ර දෙකකි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.11-Sambodhavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Kusināravaggo terasamo. Tassuddānaṃ – Kusinārabhaṇḍanā ceva, gotamabharaṇḍuhatthako; Kaṭuviyaṃ dve anuruddhā, paṭicchannaṃ lekhena te dasāti.",
+    "english": "The thirteenth chapter on Kusināra. The summary of it: Kusināra, Quarrel, Gotama, Bharaṇḍu, the Hand; Foul, two on Anuruddha, Concealed, and with a Letter—these ten.",
+    "sinhala": "දහතුන්වන කුසිනාර වර්ගයයි. එහි උද්දානය නම්: කුසිනාර, භණ්ඩන, ගෝතම, භරණ්ඩු, හත්ථක, කටුවිය, අනුරුද්ධ දෙකක්, පටිච්ඡන්න සහ ලේඛ යන සූත්‍ර දහයයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.13-Kusināravaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Yodhājīvavaggo cuddasamo. Tassuddānaṃ – Yodho parisamittañca, uppādā kesakambalo; Sampadā vuddhi tayo, assā tayo moranivāpinoti.",
+    "english": "The fourteenth chapter on the Warrior. The summary of it: Warrior, Assembly, Friend, Arising, the Hair Blanket; Accomplishment, three on Growth, three on Horses, and the Peacock's Feeding Place.",
+    "sinhala": "දහහතරවන යෝධාජීව වර්ගයයි. එහි උද්දානය නම්: යෝධ, පරිසා, මිත්ත, උප්පාද, කේසකම්බල, සම්පදා, වුද්ධි තුනක්, අස්ස තුනක් සහ මෝරනිවාපී සූත්‍රයයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.14-Yodhājīvavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Maṅgalavaggo pañcamo. Tassuddānaṃ – Akusalañca sāvajjaṃ, visamāsucinā saha; Caturo khatā vandanā, pubbaṇhena ca te dasāti.",
+    "english": "The fifth chapter on Auspiciousness. The summary of it: Unwholesome, Blameworthy, Uneven, Impure; four on Damaged, Salutation, and with the Morning—these ten.",
+    "sinhala": "පස්වන මංගල වර්ගයයි. එහි උද්දානය නම්: අකුසල, සාවජ්ජ, විසම, අසුචි, ඛත හතරක්, වන්දනා සහ පුබ්බණ්හ යන සූත්‍ර දහයයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.15-Maṅgalavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Acelakavaggo chaṭṭho. Tassuddānaṃ – Satipaṭṭhānaṃ sammappadhānaṃ, iddhipādindriyena ca; Balaṃ bojjhaṅgo maggo ca, paṭipadāya yojayeti.",
+    "english": "The sixth chapter on the Naked Ascetics. The summary of it: Mindfulness Meditation, Right Striving, Psychic Power, Faculty; Power, Awakening Factor, and the Path; connect them with the Practice.",
+    "sinhala": "සයවන අචේලක වර්ගයයි. එහි උද්දානය නම්: සතිපට්ඨාන, සම්මප්පධාන, ඉද්ධිපාද, ඉන්ද්‍රිය, බල, බොජ්ඣංග, මග්ග සහ පටිපදා යන සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.16-Acelakavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Kammapathapeyyālaṃ niṭṭhitaṃ. Tassuddānaṃ – Pāṇaṃ adinnamicchā ca, musāvādī ca pisuṇā; Pharusā samphappalāpo ca, abhijjhā byāpādadiṭṭhi ca; Kammapathesu peyyālaṃ, tikakena niyojayeti.",
+    "english": "The Abbreviated Series on the Paths of Action is finished. The summary of it: Killing, Stealing, Misconduct, Lying, Slander; Harsh Speech, Idle Chatter, Covetousness, Ill Will, and Wrong View; join the Series on Paths of Action with the group of threes.",
+    "sinhala": "කම්මපථ පෙය්‍යාලය නිමයි. එහි උද්දානය නම්: පාණ, අදින්න, ඉච්ඡා, මුසාවාදී, පිසුණා, ඵරුසා, සම්ඵප්පලාප, අභිජ්ඣා, බ්‍යාපාද සහ දිට්ඨි යන සූත්‍ර කම්මපථ පෙය්‍යාලයේ තික ක්‍රමයට යොදන්න.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.17-Kammapathapeyyālaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Rāgapeyyālaṃ niṭṭhitaṃ. Tassuddānaṃ – [imā uddānagāthāyo sī. syā. kaṃ. pī. potthakesu na dissanti] Rāgaṃ dosañca mohañca, kodhūpanāhapañcamaṃ; Makkhapaḷāsaissā ca, maccharimāyāsāṭheyyā. Thambhasārambhamānañca, atimānamadassa ca; Pamādā sattarasa vuttā, rāgapeyyālanissitā. Ete opammayuttena, āpādena abhiññāya; Pariññāya parikkhayā, pahānakkhayabbayena; Virāganirodhacāgaṃ, paṭinissagge ime dasa. Suññato animitto ca, appaṇihito ca tayo; Samādhimūlakā peyyālesupi vavatthitā cāti.",
+    "english": "The Abbreviated Series on Lust is finished. The summary of it: [These summary verses are not seen in the Ceylonese, Thai, Cambodian, and PTS books] Lust, Hatred, Delusion, Anger, and Resentment as the fifth; Contempt, Domineering, Envy, Stinginess, Deceit, and Fraud; Obstinacy, Impetuosity, Conceit, Arrogance, Intoxication; and Heedlessness—these seventeen are mentioned in the Abbreviated Series on Lust. These, combined with similes and means, for direct knowledge, full understanding, complete exhaustion, abandoning, destruction, and passing away; fading of lust, cessation, giving up, and relinquishment—these ten. Emptiness, Signless, and Undirected—these three; established also in the Abbreviated Series rooted in Concentration.",
+    "sinhala": "රාග පෙය්‍යාලය නිමයි. එහි උද්දානය නම්: රාග, දෝස, මෝහ, කෝධ, උපනාහ, මක්ඛ, පලාස, ඉස්සා, මච්ඡරිය, මායා, සාඨෙය්‍ය, ථම්භ, සාරම්භ, මාන, අතිමාන, මද සහ පමාද යන සූත්‍ර දාහතක් රාග පෙය්‍යාලයෙහි දැක්වේ. මේවා අභිඤ්ඤා, පරිඤ්ඤා, පිරික්ඛය, පහාන, ඛය, වය, විරාග, නිරෝධ, චාග සහ පටිනිස්සග්ග යන දසය සමඟ යොදන්න. සුඤ්ඤත, අනිමිත්ත සහ අප්පණිහිත යන තුන සමාධි මූලක පෙය්‍යාලයෙහිද දැක්වේ.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.18-Rāgapeyyālaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Paṭhamabhāṇavāro niṭṭhito. Tassuddānaṃ – Ñāto [ñātako (syā. kaṃ.)] sāraṇīyo bhikkhu, cakkavattī sacetano; Apaṇṇakattā devo ca, duve pāpaṇikena cāti.",
+    "english": "The first recitation session is finished. The summary of it: Known, Memorable, Monk, Wheel-turning Monarch, Conscious; Infallible, God, and two on the Shopkeeper.",
+    "sinhala": "පළමු භාණවාරය නිමයි. එහි උද්දානය නම්: ඤාත, සාරණීය, භික්ඛු, චක්කවත්ති, සචේතන, අපණ්ණකත්ත, දේව සහ පාපණික සූත්‍ර දෙකකි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.2-Rathakāravaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Puggalavaggo tatiyo. Tassuddānaṃ – Samiddha [kāyasakkhi (sī.), saviṭṭha (syā. kaṃ.), seṭṭha (ka.)] -gilāna-saṅkhārā, bahukārā vajirena ca; Sevi-jiguccha-gūthabhāṇី, andho ca avakujjatāti.",
+    "english": "The third chapter on Persons. The summary of it: Samiddha, the Sick, Choices, Very Helpful, and with the Diamond; To be Associated, Loathsome, One who talks Dung, the Blind, and Face Down.",
+    "sinhala": "තෙවන පුද්ගල වර්ගයයි. එහි උද්දානය නම්: සමිද්ධ, ගිලාන, සංඛාර, බහුකාර, වජිර, සේවී, ජිගුච්ඡ, ගූථභාණී, අන්ධ සහ අවකුජ්ජ සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.3-Puggalavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Devadūtavaggo catuttho. Tassuddānaṃ – Brahma ānanda sāriputto, nidānaṃ hatthakena ca; Dūtā duve ca rājāno, sukhumālādhipateyyena cāti.",
+    "english": "The fourth chapter on Divine Messengers. The summary of it: Brahma, Ānanda, Sāriputta, Cause, and with Hatthaka; two on Messengers, Kings, Delicacy, and Sovereignty.",
+    "sinhala": "සිව්වන දේවදූත වර්ගයයි. එහි උද්දානය නම්: බ්‍රහ්ම, ආනන්ද, සාරිපුත්ත, නිදාන, හත්ථක, දූත දෙකක්, රාජා, සුඛුමාල සහ අධිපතෙය්‍ය සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.4-Devadūtavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Cūḷavaggo pañcamo. Tassuddānaṃ – Sammukhī ṭhānatthavasaṃ, pavatti paṇḍita sīlavaṃ; Saṅkhataṃ pabbatātappaṃ, mahācorenekādasāti [mahācorena te dasāti (ka.)]. Paṭhamo paṇṇāsako samatto.",
+    "english": "The fifth Minor Chapter. The summary of it: Face to Face, Situations, and Mastery, Arising, Wise, Virtuous; Conditioned, Mountain, Ardor, and the Great Robber—making eleven. The first fifty is complete.",
+    "sinhala": "පස්වන චූළ වර්ගයයි. එහි උද්දානය නම්: සම්මුඛී, ඨාන, අත්ථවස, පවත්ති, පණ්ඩිත, සීලවන්ත, සංඛත, පබ්බත, ආතප්ප සහ මහාචෝර යන සූත්‍ර එකොළසයි. පළමු පණ්ණාසකය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.5-Cūḷavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Brāhmaṇavaggo paṭhamo. Tassuddānaṃ – Dve brāhmaණā caññataro, paribbājakena nibbutaṃ; Palokavaccho tikaṇṇo, soṇi saṅgāravena cāti.",
+    "english": "The first chapter on Brahmins. The summary of it: Two Brahmins, Another, with the Wanderer, Extinguished; Destruction, Vaccha, Tikaṇṇa, Soṇi, and with Saṅgārava.",
+    "sinhala": "පළමු බ්‍රාහ්මණ වර්ගයයි. එහි උද්දානය නම්: බ්‍රාහ්මණ සූත්‍ර දෙකක්, අඤ්ඤතර, පරිබ්බාජක, නිබ්බුත, පලෝක, වච්ඡ, තිකණ්ණ, සෝණි සහ සංගාරව සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.6-Brāhmaṇavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Mahāvaggo sattamo. Tassuddānaṃ – Titthabhayañca venāgo, sarabho kesamuttiyā; Sāḷho cāpi kathāvatthu, titthiyamūluposathoti.",
+    "english": "The seventh Great Chapter. The summary of it: Destinations, Fear, and Venāga, Sarabha, at Kesamutti; Sāḷha, also Points of Controversy, with the Sectarians, and the Root of the Sabbath.",
+    "sinhala": "සත්වන මහා වර්ගයයි. එහි උද්දානය නම්: තිත්ථ, භය, වේනාග, සරභ, කේසමුත්ති, සාළ්හ, කථාවත්ථු, තිත්ථිය සහ මූලූපෝසථ සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.7-Mahāvaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Ānandavaggo tatiyo. Tassuddānaṃ – Channo ājīvako sakko, nigaṇṭho ca nivesako; Duve bhavā sīlabbataṃ, gandhajātañca cūḷanīti.",
+    "english": "The third chapter on Ānanda. The summary of it: Channa, the Ājīvaka, Sakka, Nigaṇṭha, and the Settler; two on Existence, Virtue and Vow, Types of Fragrance, and Cūḷanī.",
+    "sinhala": "තෙවන ආනන්ද වර්ගයයි. එහි උද්දානය නම්: ඡන්න, ආජීවක, සක්ක, නිගණ්ඨ, නිවේසක, භව දෙකක්, සීලබ්බත, ගන්ධජාත සහ චූළනී සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.8-Ānandavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Samaṇavaggo navamo. Tassuddānaṃ – Samaṇo gadrabho khettaṃ, vajjiputto ca sekkhakaṃ; Tayo ca sikkhanā vuttā, dve sikkhā saṅkavāya cāti.",
+    "english": "The ninth chapter on Ascetics. The summary of it: Ascetic, Donkey, Field, Vajjian Son, and the Trainee; three on Training are mentioned, two on Training, and with the Heap.",
+    "sinhala": "නවවන සමණ වර්ගයයි. එහි උද්දානය නම්: සමණ, ගද්‍රභ, ඛෙත්ත, වජ්ජිපුත්ත, සෙක්ඛක, සික්ඛනා තුනක්, සික්ඛා දෙකක් සහ සංකවාය සූත්‍රයයි.",
+    "contexts": [
+      "Chapter Footer: Tikanipātapāḷi/an3.9-Samaṇavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  }
+]

@@ -4,8 +4,8 @@
 - **Books scanned**: 22
 - **Chapters scanned**: 291
 - **Sections scanned**: 6576
-- **Missing English translations**: 1603
-- **Missing Sinhala translations**: 1603
+- **Missing English translations**: 0
+- **Missing Sinhala translations**: 0
 
 ## Translation Strategy
 Given Google Translate's free quota of 20 requests per day:
@@ -22,6 +22,12 @@ Given Google Translate's free quota of 20 requests per day:
 - `missing_sinhala_batch_20.txt`: Daily batch of 20 Sinhala terms for Google Translate
 - `missing_sinhala_translations.csv`: CSV file for manual Sinhala translation editing
 - `missing_sinhala_translations.json`: JSON file with Sinhala translation data
+- `optimized_english_batches.json`: Generated file
+- `optimized_english_batch_01.txt`: Generated file
+- `optimized_english_batch_02.txt`: Generated file
+- `optimized_english_batch_03.txt`: Generated file
+- `optimized_english_batch_04.txt`: Generated file
+- `optimized_english_batch_05.txt`: Generated file
 - `translation_summary.md`: This summary report
 
 ## Usage Instructions

@@ -1,0 +1,652 @@
+[
+  {
+    "pali": "Sotāpattisaṃyuttaṃ ekādasamaṃ.",
+    "english": "The Linked Discourses on Stream-entry, the eleventh.",
+    "sinhala": "සෝතාපත්ති සංයුක්තය එකොළොස්වන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.11-Sotāpattisaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Saccasaṃyuttaṃ dvādasamaṃ.",
+    "english": "The Linked Discourses on the Truths, the twelfth.",
+    "sinhala": "සච්ච සංයුක්තය දොළොස්වන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.12-Saccasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Bojjhaṅgasaṃyuttaṃ dutiyaṃ.",
+    "english": "The Linked Discourses on the Awakening Factors, the second.",
+    "sinhala": "බොජ්ඣංග සංයුක්තය දෙවන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.2-Bojjhaṅgasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Satipaṭṭhānasaṃyuttaṃ tatiyaṃ.",
+    "english": "The Linked Discourses on Mindfulness Meditation, the third.",
+    "sinhala": "සතිපට්ඨාන සංයුක්තය තෙවන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.3-Satipaṭṭhānasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Indriyasaṃyuttaṃ catutthaṃ.",
+    "english": "The Linked Discourses on the Faculties, the fourth.",
+    "sinhala": "ඉන්ද්‍රිය සංයුක්තය සිව්වන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.4-Indriyasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Sammappadhānasaṃyuttaṃ pañcamaṃ.",
+    "english": "The Linked Discourses on the Right Strivings, the fifth.",
+    "sinhala": "සම්මප්පධාන සංයුක්තය පස්වන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.5-Sammappadhānasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Balasaṃyuttaṃ chaṭṭhaṃ.",
+    "english": "The Linked Discourses on the Powers, the sixth.",
+    "sinhala": "බල සංයුක්තය සයවන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.6-Balasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Iddhipādasaṃyuttaṃ sattamaṃ.",
+    "english": "The Linked Discourses on the Bases of Psychic Power, the seventh.",
+    "sinhala": "ඉද්ධිපාද සංයුක්තය සත්වන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.7-Iddhipādasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Anuruddhasaṃyuttaṃ aṭṭhamaṃ.",
+    "english": "The Linked Discourses with Anuruddha, the eighth.",
+    "sinhala": "අනුරුද්ධ සංයුක්තය අටවන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.8-Anuruddhasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Jhānasaṃyuttaṃ navamaṃ.",
+    "english": "The Linked Discourses on the Absorptions, the ninth.",
+    "sinhala": "ජ්ඣාන සංයුක්තය නවවන කොටසයි.",
+    "contexts": [
+      "Chapter Footer: Mahāvaggo/sn.5.9-Jhānasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Nidānasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses on Causation is complete.",
+    "sinhala": "නිදාන සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.1-Nidānasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Bhikkhusaṃyuttaṃ samattaṃ. Tassuddānaṃ – Kolito upatisso ca, ghaṭo cāpi pavuccati; Navo sujāto bhaddi ca, visākho nando tisso ca; Theranāmo ca kappino, sahāyena ca dvādasāti.",
+    "english": "The Linked Discourses on Monks is complete. The summary of it: Kolita and Upatissa, and Ghaṭa; New, Sujāta, Bhaddi, Visākha, Nanda, and Tissa; the one named Thera, and Kappina; with Sahāyaka they are twelve.",
+    "sinhala": "භික්ඛු සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: කෝලිත සහ උපතිස්ස, ඝට, නව, සුජාත, භද්දි, විසාඛ, නන්ද, තිස්ස, ථේර, කප්පින සහ සහායක යන සූත්‍ර දොළසයි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.10-Bhikkhusaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Abhisamayasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Nakhasikhā pokkharaṇī, sambhejjaudake ca dve; Dve pathavī dve samuddā, tayo ca pabbatūpamāti.",
+    "english": "The Linked Discourses on Breakthrough is complete. The summary of it: Fingernail, Lotus Pond, and two on Confluence; two on the Earth, two on the Oceans, and three with the Simile of the Mountain.",
+    "sinhala": "අභිසමය සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: නඛසිඛා, පොක්ඛරණී, සම්භෙජ්ජ උදක දෙකක්, පඨවි දෙකක්, සමුද්ද දෙකක් සහ පබ්බතූපම තුනක් වශයෙනි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.2-Abhisamayasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Dhātusaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses on Elements is complete.",
+    "sinhala": "ධාතු සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.3-Dhātusaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Anamataggasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses on the Unthinkable Beginning is complete.",
+    "sinhala": "අනමතග්ග සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.4-Anamataggasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Kassapasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Santuṭṭhañca anottappī, candūpamaṃ kulūpakaṃ; Jiṇṇaṃ tayo ca ovādā, jhānābhiññā upassayaṃ; Cīvaraṃ paraṃmaraṇaṃ, saddhammappatirūpakanti.",
+    "english": "The Linked Discourses with Kassapa is complete. The summary of it: Contentment and Lack of Shame, Simile of the Moon, Visiting Families; The Old Monk, three on Admonition, Absorptions and Higher Knowledge, The Nunnery; Robes, Beyond Death, and the Counterfeit of the True Dhamma.",
+    "sinhala": "කස්සප සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: සන්තුට්ඨ, අනොත්තප්පී, චන්දූපම, කුලූපක, ජිණ්ණ, ඕවාද තුනක්, ජ්ඣානාභිඤ්ඤා, උපස්සය, චීවර, පරම්මරණ සහ සද්ධම්මප්පතිරූපක සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.5-Kassapasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Lābhasakkārasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses on Gains and Honor is complete.",
+    "sinhala": "ලාභසක්කාර සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.6-Lābhasakkārasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Rāhulasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses with Rāhula is complete.",
+    "sinhala": "රාහුල සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.7-Rāhulasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Lakkhaṇasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses with Lakkhaṇa is complete.",
+    "sinhala": "ලක්ඛණ සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.8-Lakkhaṇasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Opammasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Kūṭaṃ nakhasikhaṃ kulaṃ, okkhā satti dhanuggaho; Āṇi kaliṅgaro nāgo, biḷāro dve siṅgālakāti.",
+    "english": "The Linked Discourses on Similes is complete. The summary of it: The Peak, Fingernail, Family, Serving Dish, Spear, Archer; Peg, Log, Elephant, Cat, and two on the Jackal.",
+    "sinhala": "ඕපම්ම සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: කූට, නඛසිඛ, කුල, ඔක්ඛා, සත්ති, ධනුග්ගහ, ආණි, කලිංගර, නාග, බිළාර සහ සිංගාලක සූත්‍ර දෙකකි.",
+    "contexts": [
+      "Chapter Footer: Nidānavaggo/sn.2.9-Opammasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Devatāsaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses with Devas is complete.",
+    "sinhala": "දේවතා සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.1-Devatāsaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Yakkhasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Indako sakka sūci ca, maṇibhaddo ca sānu ca; Piyaṅkara punabbasu sudatto ca, dve sukkā cīraāḷavīti dvādasa.",
+    "english": "The Linked Discourses with Yakkhas is complete. The summary of it: Indaka, Sakka, Sūci, Maṇibhadda, Sānu, Piyaṅkara, Punabbasu, Sudatta, two on Sukkā, Cīra, and Āḷavaka—these are twelve.",
+    "sinhala": "යක්ඛ සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: ඉන්දක, සක්ක, සූචි, මණිභද්ද, සානු, පියංකර, පුනබ්බසු, සුදත්ත, සුක්කා සූත්‍ර දෙකක්, චීර සහ ආළවක යන සූත්‍ර දොළසයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.10-Yakkhasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Sakkasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses with Sakka is complete.",
+    "sinhala": "සක්ක සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.11-Sakkasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Devaputtasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses with Sons of Devas is complete.",
+    "sinhala": "දේවපුත්ත සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.2-Devaputtasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Kosalasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses with the Kosalan is complete.",
+    "sinhala": "කෝසල සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.3-Kosalasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Mārasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses with Māra is complete.",
+    "sinhala": "මාර සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.4-Mārasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Bhikkhunīsaṃyuttaṃ samattaṃ. Tassuddānaṃ – Āḷavikā ca somā ca, gotamī vijayā saha; Uppalavaṇṇā ca cālā, upacālā sīsupacālā ca; Selā vajirāya te dasāti.",
+    "english": "The Linked Discourses with Nuns is complete. The summary of it: Āḷavikā, Somā, Gotamī, Vijayā, Uppalavaṇṇā, Cālā, Upacālā, Sīsupacālā, Selā, and Vajirā—these are ten.",
+    "sinhala": "භික්ඛුනී සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: ආළවිකා, සෝමා, ගෝතමී, විජයා, උප්පලවණ්ණා, චාලා, උපචාලා, සීසූපචාලා, සේලා සහ වජිරා යන සූත්‍ර දහයයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.5-Bhikkhunīsaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Brahmasaṃyuttaṃ samattaṃ. [ito paraṃ marammapotthakesu evampi dissati –§brahmāyācanaṃ agāravañca, brahmadevo bako ca brahmā.§aññataro ca brahmākokālikañca, tissakañca turū ca.§brahmā kokālikabhikkhu, sanaṅkumārena devadattaṃ.§andhakavindaṃ aruṇavati, parinibbānena pannarasāti.]",
+    "english": "The Linked Discourses with Brahmās is complete. [Following this, in Burmese editions, it also appears thus: Brahmā's Request and Lack of Respect, Brahmadeva, and Baka Brahmā; Another Brahmā, Kokālika, Tissaka, and Turū; Brahmā, Kokālika the Monk, Sanaṅkumāra with Devadatta; Andhakavinda, Aruṇavatī, and the Final Extinguishment—these are fifteen.]",
+    "sinhala": "බ්‍රහ්ම සංයුක්තය සමාප්තයි. [මීට අමතරව බුරුම පිටපත්හි මෙසේද දැක්වේ: බ්‍රහ්මායාචන, අගාරව, බ්‍රහ්මදේව, බක බ්‍රහ්ම, අඤ්ඤතර බ්‍රහ්ම, කෝකාලික, තිස්සක, තුරූ, බ්‍රහ්ම, කෝකාලික භික්ඛු, සනංකුමාර සහ දේවදත්ත, අන්ධකවින්ද, අරුණවතී සහ පරිනිබ්බාන යන සූත්‍ර පහළොවයි.]",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.6-Brahmasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Upāsakavaggo dutiyo. Tassuddānaṃ – Kasi udayo devahito, aññataramahāsālaṃ; Mānathaddhaṃ paccanīkaṃ, navakammikakaṭṭhahāraṃ; Mātuposakaṃ bhikkhako, saṅgāravo ca khomadussena dvādasāti. Brāhmaṇasaṃyuttaṃ samattaṃ.",
+    "english": "The Chapter on Lay Followers is the second. The summary of it: Kasi, Udaya, Devahita, A Certain Great Hall; Mānathaddha, Paccanīka, The Builder, The Wood-gatherer; The Supporter of Mother, The Beggar, Saṅgārava, and with Khomadussa they are twelve. The Linked Discourses with Brahmins is complete.",
+    "sinhala": "දෙවන උපාසක වර්ගයයි. එහි උද්දානය නම්: කසි, උදය, දේවහිත, අඤ්ඤතර මහාසාල, මානත්ථද්ධ, පච්චනීක, නවකම්මික, කට්ඨහාරක, මාතුපෝසක, භික්ඛක, සංගාරව සහ ඛෝමදුස්ස යන සූත්‍ර දොළසයි. බ්‍රාහ්මණ සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.7-Brāhmaṇasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Vaṅgīsasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Nikkhantaṃ arati ceva, pesalā atimaññanā; Ānandena subhāsitā, sāriputtapavāraṇā; Parosahassaṃ koṇḍañño, moggallānena gaggarā; Vaṅgīsena dvādasāti.",
+    "english": "The Linked Discourses with Vaṅgīsa is complete. The summary of it: Gone Out, Aversion, Gentle, Conceit; with Ānanda, Well Spoken, Sāriputta's Invitation; More than a Thousand, Koṇḍañña, with Moggallāna, Gaggarā; with Vaṅgīsa they are twelve.",
+    "sinhala": "වංගීස සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: නික්ඛන්ත, අරති, පේසලා, අතිමඤ්ඤනා, ආනන්ද, සුභාසිත, සාරිපුත්ත පවාරණා, පරෝසහස්ස, කොණ්ඩඤ්ඤ, මොග්ගල්ලාන, ගග්ගරා සහ වංගීස යන සූත්‍ර දොළසයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.8-Vaṅgīsasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Vanasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Vivekaṃ upaṭṭhānañca, kassapagottena sambahulā; Ānando anuruddho ca, nāgadattañca kulagharaṇī. Vajjiputto ca vesālī, sajjhāyena ayoniso; Majjhanhikālamhi pākatindriya, padumapupphena cuddasa bhaveti.",
+    "english": "The Linked Discourses on Forests is complete. The summary of it: Seclusion, Attending, Kassapagotta, Many; Ānanda, Anuruddha, Nāgadatta, and The Mistress of the House; The Vajjian Son, Vesālī, Recitation, Unwise; At Noon, With Senses Uncontrolled, and with the Lotus Flower they are fourteen.",
+    "sinhala": "වන සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: විවේක, උපට්ඨාන, කස්සපගොත්ත, සම්බහුල, ආනන්ද, අනුරුද්ධ, නාගදත්ත, කුලඝරණී, වජ්ජිපුත්ත, වේසාලී, සජ්ඣාය, අයෝනිසෝ, මජ්ඣන්හිකාල, පාකතින්ද්‍රිය සහ පදුමපුප්ඵ යන සූත්‍ර දහහතරයි.",
+    "contexts": [
+      "Chapter Footer: Sagāthāvaggo/sn.1.9-Vanasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Saḷāyatanasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses on the Six Sense Bases is complete.",
+    "sinhala": "සළායතන සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.1-Saḷāyatanasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Abyākatasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Khemātherī anurādho, sāriputtoti koṭṭhiko; Moggallāno ca vaccho ca, kutūhalasālānando; Sabhiyo ekādasamanti;",
+    "english": "The Linked Discourses on the Undeclared is complete. The summary of it: Khemā Theri, Anurādha, Sāriputta and Koṭṭhika; Moggallāna, Vaccha, The Hall of Curiosity, and Ānanda; Sabhiya is the eleventh.",
+    "sinhala": "අබ්‍යාකත සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: ඛේමා ථේරි, අනුරාධ, සාරිපුත්ත, කොට්ඨික, මොග්ගල්ලාන, වච්ඡ, කුතූහලසාලා, ආනන්ද සහ සභිය යන සූත්‍ර එකොළසයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.10-Abyākatasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Vedanāsaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses on Feeling is complete.",
+    "sinhala": "වේදනා සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.2-Vedanāsaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Mātugāmasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses on Women is complete.",
+    "sinhala": "මාතුගාම සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.3-Mātugāmasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Jambukhādakasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Nibbānaṃ arahattañca, dhammavādī kimatthiyaṃ; Assāso paramassāso, vedanā āsavāvijjā; Taṇhā oghā upādānaṃ, bhavo dukkhañca sakkāyo. Imasmiṃ dhammavinaye dukkaranti.",
+    "english": "The Linked Discourses with Jambukhādaka is complete. The summary of it: Nibbāna, Arahantship, Proclaimer of Dhamma, For what purpose; Solace, Supreme Solace, Feeling, Defilements, Ignorance; Craving, Floods, Grasping, Existence, Suffering, and Identity; and What is difficult in this Dhamma and Discipline.",
+    "sinhala": "ජම්බුඛාදක සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: නිබ්බාන, අරහත්ත, ධම්මවාදී, කිමත්ථිය, අස්සාස, පරමස්සාස, වේදනා, ආසව, අවිජ්ජා, තණ්හා, ඕඝ, උපාදාන, භව, දුක්ඛ, සක්කාය සහ දුක්කර යන සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.4-Jambukhādakasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Sāmaṇḍakasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses with Sāmaṇḍaka is complete.",
+    "sinhala": "සාමණ්ඩක සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.5-Sāmaṇḍakasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Moggallānasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Savitakkāvitakkañca, sukhena ca upekkhako; Ākāsañceva viññāṇaṃ, ākiñcaṃ nevasaññinā; Animitto ca sakko ca, candanekādasena cāti.",
+    "english": "The Linked Discourses with Moggallāna is complete. The summary of it: With Thought, Without Thought, With Happiness, With Equanimity; Space, Consciousness, Nothingness, Neither-Perception; Signless, Sakka, and with Candana they are eleven.",
+    "sinhala": "මොග්ගල්ලාන සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: සවිතක්ක, අවිතක්ක, සුඛ, උපෙක්ඛක, ආකාස, විඤ්ඤාණ, ආකිඤ්චඤ්ඤ, නේවසඤ්ඤා, අනිමිත්ත, සක්ක සහ චන්දන යන සූත්‍ර එකොළසයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.6-Moggallānasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Cittasaṃyuttaṃ samattaṃ. Tassuddānaṃ – Saṃyojanaṃ dve isidattā, mahako kāmabhūpi ca; Godatto ca nigaṇṭho ca, acelena gilānadassananti.",
+    "english": "The Linked Discourses with Citta is complete. The summary of it: Fetter, two with Isidatta, Mahaka, and also Kāmabhū; Godatta, Nigaṇṭha, with the Naked Ascetic, and Seeing the Sick.",
+    "sinhala": "චිත්ත සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: සංයෝජන, ඉසිදත්ත දෙකක්, මහක, කාමභූ, ගෝදත්ත, නිගණ්ඨ, අචේල සහ ගිලානදස්සන සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.7-Cittasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Gāmaṇisaṃyuttaṃ samattaṃ. Tassuddānaṃ – Caṇḍo puṭo yodhājīvo, hatthasso asibandhako; Desanā saṅkhakulaṃ maṇicūḷaṃ, bhadrarāsiyapāṭalīti.",
+    "english": "The Linked Discourses with Headmen is complete. The summary of it: Caṇḍa, Puṭa, The Warrior, The Elephant Trainer, The Horse Trainer, Asibandhaka; Teaching, Conch-blower, Family, Maṇicūḷa, Bhadraka, Rāsiya, and Pāṭalī.",
+    "sinhala": "ගාමණි සංයුක්තය සමාප්තයි. එහි උද්දානය නම්: චණ්ඩ, පූට, යෝධාජීව, හත්ථාරෝහ, අස්සාරෝහ, අසිබන්ධකපුත්ත, දේසනා, සංඛධම, කුල, මණිචූළක, භද්‍රක, රාසිය සහ පාටලි සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.8-Gāmaṇisaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Asaṅkhatasaṃyuttaṃ samattaṃ.",
+    "english": "The Linked Discourses on the Unconditioned is complete.",
+    "sinhala": "අසංඛත සංයුක්තය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Saḷāyatanavaggo/sn.4.9-Asaṅkhatasaṃyuttaṃ.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Tikaṇḍakīvaggo pañcamo. Tassuddānaṃ – Datvā avajānāti ārabhati ca, sārandada tikaṇḍ nirayena ca; Mitto asappurisasappurisena, samayavimuttaṃ apare dveti. Tatiyapaṇṇāsakaṃ samattaṃ.",
+    "english": "The Chapter at Tikaṇḍakī is the fifth. The summary of it: Giving, Despising, and Commencing; Sārandada, Tikaṇḍakī, and with Hell; Friend, Unworthy Man, Worthy Man, Freed by Occasion, and two others. The Third Fifty is complete.",
+    "sinhala": "පස්වන තිකණ්ඩකී වර්ගයයි. එහි උද්දානය නම්: දත්වා, අවජානාති, ආරභති, සාරන්දද, තිකණ්ඩකී, නිරය, මිත්ත, අසප්පුරිස, සප්පුරිස, සමයවිමුත්ත සහ තවත් සූත්‍ර දෙකකි. තෙවන පණ්ණාසකය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.15-Tikaṇḍakīvaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Saddhammavaggo paṭhamo. Tassuddānaṃ – Tayo sammattaniyāmā, tayo saddhammasammosā; Dukkathā ceva sārajjaṃ, udāyidubbinodayāti.",
+    "english": "The Chapter on the True Dhamma is the first. The summary of it: Three on the Order of Rightness, three on the Disappearance of the True Dhamma; Difficult to Talk To, Timidity, Udāyī, and Hard to Dispel.",
+    "sinhala": "පළමු සද්ධම්ම වර්ගයයි. එහි උද්දානය නම්: සම්මත්තනියාම තුනක්, සද්ධම්මසම්මෝස තුනක්, දුක්කථා, සාරජ්ජ, උදායී සහ දුබ්බිනෝදය යන සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.16-Saddhammavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Āghātavaggo dutiyo. Tassuddānaṃ – Dve āghātavinayā, sākacchā sājīvato pañhaṃ; Pucchā nirodho codanā, sīlaṃ nisanti bhaddajīti.",
+    "english": "The Chapter on Resentment is the second. The summary of it: Two on Removing Resentment, Discussion, Living with, Question; Inquiry, Cessation, Accusation, Virtue, and Bhaddaji.",
+    "sinhala": "දෙවන ආඝාත වර්ගයයි. එහි උද්දානය නම්: ආඝාතවිනය දෙකක්, සාකච්ඡා, සාජීව, පඤ්හ, පුච්ඡා, නිරෝධ, චෝදනා, සීල සහ භද්දජි යන සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.17-Āghātavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Upāsakavaggo tatiyo. Tassuddānaṃ – Sārajjaṃ visārado nirayaṃ, veraṃ caṇḍālapañcamaṃ; Pīti vaṇijjā rājāno, gihī ceva gavesināti.",
+    "english": "The Chapter on Lay Followers is the third. The summary of it: Timidity, Confident, Hell, Enmity, with Outcaste as the fifth; Joy, Business, Kings, the Householder, and the Seeker.",
+    "sinhala": "තෙවන උපාසක වර්ගයයි. එහි උද්දානය නම්: සාරජ්ජ, විසාරද, නිරය, වේර, චණ්ඩාල, පීති, වණිජ්ජා, රාජා, ගිහී සහ ගවේසී යන සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.18-Upāsakavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Araññavaggo catuttho. Tassuddānaṃ – Araññaṃ cīvaraṃ rukkha, susānaṃ abbhokāsikaṃ; Nesajjaṃ santhataṃ ekāsanikaṃ, khalupacchāpiṇḍikena cāti.",
+    "english": "The Chapter on Forests is the fourth. The summary of it: Forest, Robe, Tree, Cemetery, Open Air; Sitting, Mat, Eating at one sitting, and refusing later food.",
+    "sinhala": "සිව්වන අරඤ්ඤ වර්ගයයි. එහි උද්දානය නම්: අරඤ්ඤ, චීවර, රුක්ඛමූල, සුසාන, අබ්භෝකාසික, නේසජ්ජික, සන්ථත, ඒකාසනික සහ ඛලුපච්ඡාභත්තිකාදී සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.19-Araññavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Balavaggo dutiyo. Tassuddānaṃ – Ananussutakūṭañca, saṃkhittaṃ vitthatena ca; Daṭṭhabbañca puna kūṭaṃ, cattāropi hitena cāti.",
+    "english": "The Chapter on Powers is the second. The summary of it: Not Heard, The Peak, Brief, and In Detail; To be Seen, again The Peak, and four on Benefit.",
+    "sinhala": "දෙවන බල වර්ගයයි. එහි උද්දානය නම්: අනනුස්සුත, කූට, සංඛිත්ත, විත්ථත, දට්ඨබ්බ, නැවත කූට සහ හිත සූත්‍ර හතරකි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.2-Balavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Brāhmaṇavaggo pañcamo. Tassuddānaṃ – Soṇo doṇo saṅgāravo, kāraṇapālī ca piṅgiyānī; Supinā ca vassā vācā, kulaṃ nissāraṇīyena cāti. Catutthaṃpaṇṇāsakaṃ samatto.",
+    "english": "The Chapter on Brahmins is the fifth. The summary of it: Soṇa, Doṇa, Saṅgārava, Kāraṇapālī, and Piṅgiyānī; Dreams, Rains, Speech, Family, and with Deliverance. The Fourth Fifty is complete.",
+    "sinhala": "පස්වන බ්‍රාහ්මණ වර්ගයයි. එහි උද්දානය නම්: සෝණ, දෝණ, සංගාරව, කාරණපාලී, පිංගියානී, සුපින, වස්ස, වාචා, කුල සහ නිස්සාරණීය සූත්‍රයි. සිව්වන පණ්ණාසකය සමාප්තයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.20-Brāhmaṇavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Kimilavaggo paṭhamo. Tassuddānaṃ – Kimilo dhammassavanaṃ, ājānīyo balaṃ khilaṃ; Vinibandhaṃ yāgu kaṭṭhaṃ, gītaṃ muṭṭhassatinā cāti.",
+    "english": "The Chapter at Kimilā is the first. The summary of it: Kimila, Hearing the Dhamma, The Thoroughbred, Power, Barrenness; Bondage, Congee, Firewood, Song, and with Unmindfulness.",
+    "sinhala": "පළමු කිමිල වර්ගයයි. එහි උද්දානය නම්: කිමිල, ධම්මස්සවන, ආජානීය, බල, ඛිල, විනිබන්ධ, යාගු, කට්ඨ, ගීත සහ මුට්ඨස්සති සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.21-Kimilavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  },
+  {
+    "pali": "Akkosakavaggo dutiyo. Tassuddānaṃ – Akkosabhaṇḍanasīlaṃ, bahubhāṇī dve akhantiyo; Apāsādikā dve vuttā, aggismiṃ madhurena cāti.",
+    "english": "The Chapter on Insults is the second. The summary of it: Insult, Quarrel, Virtue, Talkative, two on Lack of Patience; two on Unpleasantness, Fire, and with Sweetness.",
+    "sinhala": "දෙවන අක්කෝසක වර්ගයයි. එහි උද්දානය නම්: අක්කෝස, භණ්ඩන, සීල, බහුභාණී, අඛන්ති දෙකක්, අපාසාදික දෙකක්, අග්ගි සහ මධුර සූත්‍රයි.",
+    "contexts": [
+      "Chapter Footer: Pañcakanipātapāḷi/an5.22-Akkosakavaggo.json"
+    ],
+    "usage_count": 1,
+    "originally_needed": {
+      "english": true,
+      "sinhala": true
+    }
+  }
+]
