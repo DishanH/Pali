@@ -48,7 +48,7 @@
   "lastUpdated": "2025-11-18",
   "chapters": [
     {
-      "id": "dn1",
+      "id": "dn.1.1",
       "number": 1,
       "title": {
         "pali": "Brahmajālasuttaṃ",
@@ -59,10 +59,10 @@
         "english": "The Buddha's comprehensive analysis of sixty-two philosophical views, showing how they are all caught in the net of wrong views.",
         "sinhala": "බුදුරජාණන් වහන්සේ විසින් දාර්ශනික මතවාද හැට දෙකක් පිළිබඳ සවිස්තරාත්මක විශ්ලේෂණයක් කරමින් ඒවා සියල්ල වැරදි මතවල දැලෙහි හසු වී ඇති ආකාරය පෙන්වයි."
       },
-      "link": "chapters/dn1-Brahmajālasuttaṃ.json"
+      "link": "chapters/dn.1.1-Brahmajālasuttaṃ.json"
     },
     {
-      "id": "dn2",
+      "id": "dn.1.2",
       "number": 2,
       "title": {
         "pali": "Sāmaññaphalasuttaṃ",
@@ -73,10 +73,10 @@
         "english": "King Ajātasattu asks about the visible benefits of the spiritual life, and the Buddha describes the progressive stages of practice.",
         "sinhala": "අජාතසත්තු රජු ආධ්‍යාත්මික ජීවිතයේ දෘශ්‍ය ප්‍රතිලාභ ගැන විමසන අතර බුදුරජාණන් වහන්සේ භාවනාවේ ප්‍රගතිශීලී අවධීන් විස්තර කරයි."
       },
-      "link": "chapters/dn2-Sāmaññaphalasuttaṃ.json"
+      "link": "chapters/dn.1.2-Sāmaññaphalasuttaṃ.json"
     },
     {
-      "id": "dn3",
+      "id": "dn.1.3",
       "number": 3,
       "title": {
         "pali": "Ambaṭṭhasuttaṃ",
@@ -87,10 +87,10 @@
         "english": "The Buddha teaches the young brahmin Ambaṭṭha about true nobility and the marks of a great man.",
         "sinhala": "බුදුරජාණන් වහන්සේ තරුණ බ්‍රාහ්මණයා වන අම්බට්ඨට සැබෑ උතුම් බව සහ මහා පුරුෂයාගේ ලක්ෂණ ගැන ඉගැන්වයි."
       },
-      "link": "chapters/dn3-Ambaṭṭhasuttaṃ.json"
+      "link": "chapters/dn.1.3-Ambaṭṭhasuttaṃ.json"
     },
     {
-      "id": "dn4",
+      "id": "dn.1.4",
       "number": 4,
       "title": {
         "pali": "Soṇadaṇḍasuttaṃ",
@@ -101,10 +101,10 @@
         "english": "The Buddha discusses with the brahmin Soṇadaṇḍa what constitutes a true brahmin.",
         "sinhala": "බුදුරජාණන් වහන්සේ සෝණදණ්ඩ බ්‍රාහ්මණයා සමඟ සැබෑ බ්‍රාහ්මණයෙකු යනු කුමක්ද යන්න සාකච්ඡා කරයි."
       },
-      "link": "chapters/dn4-Soṇadaṇḍasuttaṃ.json"
+      "link": "chapters/dn.1.4-Soṇadaṇḍasuttaṃ.json"
     },
     {
-      "id": "dn5",
+      "id": "dn.1.5",
       "number": 5,
       "title": {
         "pali": "Kūṭadantasuttaṃ",
@@ -115,10 +115,10 @@
         "english": "The Buddha teaches the brahmin Kūṭadanta about the proper way to perform a sacrifice.",
         "sinhala": "බුදුරජාණන් වහන්සේ කූටදන්ත බ්‍රාහ්මණයාට යාගයක් සිදු කිරීමේ නිසි ක්‍රමය ගැන ඉගැන්වයි."
       },
-      "link": "chapters/dn5-Kūṭadantasuttaṃ.json"
+      "link": "chapters/dn.1.5-Kūṭadantasuttaṃ.json"
     },
     {
-      "id": "dn6",
+      "id": "dn.1.6",
       "number": 6,
       "title": {
         "pali": "Mahālisuttaṃ",
@@ -129,10 +129,10 @@
         "english": "The Buddha discusses with Mahāli about divine sight and hearing, and the nature of the soul.",
         "sinhala": "බුදුරජාණන් වහන්සේ මහාලි සමඟ දිව්‍ය දර්ශනය සහ ශ්‍රවණය සහ ආත්මයේ ස්වභාවය ගැන සාකච්ඡා කරයි."
       },
-      "link": "chapters/dn6-Mahālisuttaṃ.json"
+      "link": "chapters/dn.1.6-Mahālisuttaṃ.json"
     },
     {
-      "id": "dn7",
+      "id": "dn.1.7",
       "number": 7,
       "title": {
         "pali": "Jāliyasuttaṃ",
@@ -143,10 +143,10 @@
         "english": "The Buddha teaches about the relationship between the body and the soul to the ascetic Jāliya.",
         "sinhala": "බුදුරජාණන් වහන්සේ ජාලිය තපසා වෙත ශරීරය සහ ආත්මය අතර සම්බන්ධතාවය ගැන ඉගැන්වයි."
       },
-      "link": "chapters/dn7-Jāliyasuttaṃ.json"
+      "link": "chapters/dn.1.7-Jāliyasuttaṃ.json"
     },
     {
-      "id": "dn8",
+      "id": "dn.1.8",
       "number": 8,
       "title": {
         "pali": "Mahāsīhanādasuttaṃ",
@@ -157,10 +157,10 @@
         "english": "The Buddha proclaims his unique qualities and the distinctive features of his teaching.",
         "sinhala": "බුදුරජාණන් වහන්සේ තමන්ගේ අද්විතීය ගුණාංග සහ තම ඉගැන්වීමේ සුවිශේෂී ලක්ෂණ ප්‍රකාශ කරයි."
       },
-      "link": "chapters/dn8-Mahāsīhanādasuttaṃ.json"
+      "link": "chapters/dn.1.8-Mahāsīhanādasuttaṃ.json"
     },
     {
-      "id": "dn9",
+      "id": "dn.1.9",
       "number": 9,
       "title": {
         "pali": "Poṭṭhapādasuttaṃ",
@@ -171,10 +171,10 @@
         "english": "The Buddha discusses with the wanderer Poṭṭhapāda about the nature of perception and consciousness.",
         "sinhala": "බුදුරජාණන් වහන්සේ පොට්ඨපාද පරිබ්‍රාජක සමඟ සංඥාව සහ විඤ්ඤාණයේ ස්වභාවය ගැන සාකච්ඡා කරයි."
       },
-      "link": "chapters/dn9-Poṭṭhapādasuttaṃ.json"
+      "link": "chapters/dn.1.9-Poṭṭhapādasuttaṃ.json"
     },
     {
-      "id": "dn10",
+      "id": "dn.1.10",
       "number": 10,
       "title": {
         "pali": "Subhasuttaṃ",
@@ -185,10 +185,10 @@
         "english": "Venerable Ānanda teaches the young brahmin Subha about the Buddha's teachings on conduct, concentration, and wisdom.",
         "sinhala": "ආනන්ද මහ ස්ථවිරයන් වහන්සේ තරුණ බ්‍රාහ්මණයා වන සුභට ශීලය, සමාධිය සහ ප්‍රඥාව පිළිබඳ බුදුරජාණන් වහන්සේගේ ඉගැන්වීම් ගැන ඉගැන්වයි."
       },
-      "link": "chapters/dn10-Subhasuttaṃ.json"
+      "link": "chapters/dn.1.10-Subhasuttaṃ.json"
     },
     {
-      "id": "dn11",
+      "id": "dn.1.11",
       "number": 11,
       "title": {
         "pali": "Kevaṭṭasuttaṃ",
@@ -199,10 +199,10 @@
         "english": "The Buddha teaches Kevaṭṭa about the proper use of psychic powers and the nature of consciousness.",
         "sinhala": "බුදුරජාණන් වහන්සේ කේවට්ටට මනෝ බලයන්හි නිසි භාවිතය සහ විඤ්ඤාණයේ ස්වභාවය ගැන ඉගැන්වයි."
       },
-      "link": "chapters/dn11-Kevaṭṭasuttaṃ.json"
+      "link": "chapters/dn.1.11-Kevaṭṭasuttaṃ.json"
     },
     {
-      "id": "dn12",
+      "id": "dn.1.12",
       "number": 12,
       "title": {
         "pali": "Lohiccasuttaṃ",
@@ -213,10 +213,10 @@
         "english": "The Buddha refutes the brahmin Lohicca's wrong view that teachers should not share their knowledge.",
         "sinhala": "බුදුරජාණන් වහන්සේ ගුරුවරුන් තම දැනුම බෙදා නොගත යුතු යන ලොහිච්ච බ්‍රාහ්මණයාගේ වැරදි මතය ප්‍රතික්ෂේප කරයි."
       },
-      "link": "chapters/dn12-Lohiccasuttaṃ.json"
+      "link": "chapters/dn.1.12-Lohiccasuttaṃ.json"
     },
     {
-      "id": "dn13",
+      "id": "dn.1.13",
       "number": 13,
       "title": {
         "pali": "Tevijjasuttaṃ",
@@ -227,7 +227,7 @@
         "english": "The Buddha teaches two young brahmins about the path to union with Brahmā and the true meaning of the threefold knowledge.",
         "sinhala": "බුදුරජාණන් වහන්සේ තරුණ බ්‍රාහ්මණයන් දෙදෙනෙකුට බ්‍රහ්මයා සමඟ එක්වීමේ මාර්ගය සහ ත්‍රිවිද්‍යාවේ සැබෑ අර්ථය ගැන ඉගැන්වයි."
       },
-      "link": "chapters/dn13-Tevijjasuttaṃ.json"
+      "link": "chapters/dn.1.13-Tevijjasuttaṃ.json"
     }
   ]
 }

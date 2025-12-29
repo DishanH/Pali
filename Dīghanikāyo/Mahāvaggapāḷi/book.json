@@ -36,10 +36,10 @@
     "sinhala": "මහා වග්ගය නිමි වේ. එහි සාරාංශය - මහාපදාන, මහානිදාන, මහාපරිනිර්වාණ සහ මහාසුදස්සන; ජනවසභ, මහාගෝවින්ද, මහාසමය සහ සක්කපඤ්හ; මහාසතිපට්ඨාන සහ දහවැන්න ලෙස පායාසි. මහා වග්ගය නිමි වේ."
   },
   "description": {
-    "english": "The second collection of the Long Discourses (Dīgha Nikāya), containing three major suttas including the famous Mahāparinibbāna Sutta describing the Buddha's final days.",
-    "sinhala": "දීඝ නිකායේ දෙවන එකතුව වන මෙය බුදුරජාණන් වහන්සේගේ අවසාන දින විස්තර කරන සුප්‍රසිද්ධ මහාපරිනිර්වාණ සූත්‍රය ඇතුළු ප්‍රධාන සූත්‍ර තුනක් අඩංගු වේ."
+    "english": "The second collection of the Long Discourses (Dīgha Nikāya), containing ten major suttas including the famous Mahāparinibbāna Sutta describing the Buddha's final days.",
+    "sinhala": "දීඝ නිකායේ දෙවන එකතුව වන මෙය බුදුරජාණන් වහන්සේගේ අවසාන දින විස්තර කරන සුප්‍රසිද්ධ මහාපරිනිර්වාණ සූත්‍රය ඇතුළු ප්‍රධාන සූත්‍ර දහයක් අඩංගු වේ."
   },
-  "totalChapters": 3,
+  "totalChapters": 10,
   "language": {
     "source": "pali",
     "translations": ["english", "sinhala"]
@@ -48,7 +48,7 @@
   "lastUpdated": "2025-11-10",
   "chapters": [
     {
-      "id": "dn14",
+      "id": "dn.2.1",
       "number": 14,
       "title": {
         "pali": "Mahāpadānasuttaṃ",
@@ -59,10 +59,10 @@
         "english": "The Buddha recounts the story of Vipassī Buddha and the six Buddhas who preceded him.",
         "sinhala": "බුදුරජාණන් වහන්සේ විපස්සී බුදුරජාණන් වහන්සේගේ කතාව සහ ඔහුට පෙර සිටි බුදුවරුන් හය දෙනාගේ කතාව විස්තර කරයි."
       },
-      "link": "chapters/dn14-Mahāpadānasuttaṃ.json"
+      "link": "chapters/dn.2.1-Mahāpadānasuttaṃ.json"
     },
     {
-      "id": "dn15",
+      "id": "dn.2.2",
       "number": 15,
       "title": {
         "pali": "Mahānidānasuttaṃ",
@@ -73,10 +73,10 @@
         "english": "A detailed exposition of dependent origination (paṭiccasamuppāda) and related profound teachings.",
         "sinhala": "ප්‍රතීත්‍යසමුත්පාදය සහ ඒ හා සම්බන්ධ ගැඹුරු ඉගැන්වීම් පිළිබඳ විස්තරාත්මක විස්තරයකි."
       },
-      "link": "chapters/dn15-Mahānidānasuttaṃ.json"
+      "link": "chapters/dn.2.2-Mahānidānasuttaṃ.json"
     },
     {
-      "id": "dn16",
+      "id": "dn.2.3",
       "number": 16,
       "title": {
         "pali": "Mahāparinibbānasuttaṃ",
@@ -87,7 +87,105 @@
         "english": "The Buddha's final journey, his last teachings, and his passing into parinibbāna. One of the most important suttas in the Pāli Canon.",
         "sinhala": "බුදුරජාණන් වහන්සේගේ අවසාන ගමන, අවසාන ඉගැන්වීම් සහ පරිනිර්වාණයට පැමිණීම. පාළි කෘතියේ වඩාත් වැදගත් සූත්‍රවලින් එකකි."
       },
-      "link": "chapters/dn16-Mahāparinibbānasuttaṃ.json"
+      "link": "chapters/dn.2.3-Mahāparinibbānasuttaṃ.json"
+    },
+    {
+      "id": "dn.2.4",
+      "number": 17,
+      "title": {
+        "pali": "Mahāsudassanasuttaṃ",
+        "english": "The Great Sudassana",
+        "sinhala": "මහාසුදස්සන සූත්‍රය"
+      },
+      "description": {
+        "english": "The Buddha tells the story of King Mahāsudassana, a previous incarnation of himself, and his magnificent palace and city.",
+        "sinhala": "බුදුරජාණන් වහන්සේ තමන්ගේ පෙර ජන්මයක් වූ මහාසුදස්සන රජුගේ කතාව සහ ඔහුගේ අලංකාර මාළිගාව සහ නගරය ගැන කියා සිටියි."
+      },
+      "link": "chapters/dn.2.4-Mahāsudassanasuttaṃ.json"
+    },
+    {
+      "id": "dn.2.5",
+      "number": 18,
+      "title": {
+        "pali": "Janavasabhasuttaṃ",
+        "english": "About Janavasabha",
+        "sinhala": "ජනවසභ සූත්‍රය"
+      },
+      "description": {
+        "english": "The spirit Janavasabha (formerly King Bimbisāra) reports to the Buddha about the destinies of deceased disciples.",
+        "sinhala": "ජනවසභ යක්ෂයා (කලින් බිම්බිසාර රජු) මියගිය ශිෂ්‍යයන්ගේ ගමන් ගැන බුදුරජාණන් වහන්සේට වාර්තා කරයි."
+      },
+      "link": "chapters/dn.2.5-Janavasabhasuttaṃ.json"
+    },
+    {
+      "id": "dn.2.6",
+      "number": 19,
+      "title": {
+        "pali": "Mahāgovindasuttaṃ",
+        "english": "The Great Steward",
+        "sinhala": "මහාගෝවින්ද සූත්‍රය"
+      },
+      "description": {
+        "english": "The story of the Great Steward Mahāgovinda, a previous incarnation of the Buddha, and his spiritual achievements.",
+        "sinhala": "බුදුරජාණන් වහන්සේගේ පෙර ජන්මයක් වූ මහාගෝවින්ද මහා භණ්ඩාගාරිකයාගේ කතාව සහ ඔහුගේ ආධ්‍යාත්මික ජයග්‍රහණ."
+      },
+      "link": "chapters/dn.2.6-Mahāgovindasuttaṃ.json"
+    },
+    {
+      "id": "dn.2.7",
+      "number": 20,
+      "title": {
+        "pali": "Mahāsamayasuttaṃ",
+        "english": "The Great Assembly",
+        "sinhala": "මහාසමය සූත්‍රය"
+      },
+      "description": {
+        "english": "A great assembly of devas and spirits comes to pay homage to the Buddha and his disciples.",
+        "sinhala": "දේවතාවන් සහ යක්ෂයන්ගේ මහා සභාවක් බුදුරජාණන් වහන්සේට සහ ඔහුගේ ශිෂ්‍යයන්ට ගෞරව දැක්වීමට පැමිණේ."
+      },
+      "link": "chapters/dn.2.7-Mahāsamayasuttaṃ.json"
+    },
+    {
+      "id": "dn.2.8",
+      "number": 21,
+      "title": {
+        "pali": "Sakkapañhasuttaṃ",
+        "english": "Sakka's Questions",
+        "sinhala": "සක්කපඤ්හ සූත්‍රය"
+      },
+      "description": {
+        "english": "Sakka, king of the gods, asks the Buddha questions about the spiritual path and receives profound teachings.",
+        "sinhala": "දේවරාජ සක්‍රයා බුදුරජාණන් වහන්සේගෙන් ආධ්‍යාත්මික මාර්ගය ගැන ප්‍රශ්න අසා ගැඹුරු ඉගැන්වීම් ලබා ගනී."
+      },
+      "link": "chapters/dn.2.8-Sakkapañhasuttaṃ.json"
+    },
+    {
+      "id": "dn.2.9",
+      "number": 22,
+      "title": {
+        "pali": "Mahāsatipaṭṭhānasuttaṃ",
+        "english": "The Great Discourse on the Foundations of Mindfulness",
+        "sinhala": "මහාසතිපට්ඨාන සූත්‍රය"
+      },
+      "description": {
+        "english": "The Buddha's comprehensive teaching on the four foundations of mindfulness, the direct path to liberation.",
+        "sinhala": "විමුක්තියේ සෘජු මාර්ගය වන සතිපට්ඨාන හතර පිළිබඳ බුදුරජාණන් වහන්සේගේ සවිස්තරාත්මක ඉගැන්වීම."
+      },
+      "link": "chapters/dn.2.9-Mahāsatipaṭṭhānasuttaṃ.json"
+    },
+    {
+      "id": "dn.2.10",
+      "number": 23,
+      "title": {
+        "pali": "Pāyāsisuttaṃ",
+        "english": "About Pāyāsi",
+        "sinhala": "පායාසි සූත්‍රය"
+      },
+      "description": {
+        "english": "Venerable Kumārakassapa debates with the materialist chief Pāyāsi about the existence of an afterlife.",
+        "sinhala": "කුමාරකස්සප මහ ස්ථවිරයන් වහන්සේ භෞතිකවාදී ප්‍රධානියා වන පායාසි සමඟ මරණින් මතු ජීවිතයක් පැවැත්ම ගැන විවාද කරයි."
+      },
+      "link": "chapters/dn.2.10-Pāyāsisuttaṃ.json"
     }
   ]
 }

@@ -1,0 +1,104 @@
+# Optimized English Translation Batch 4
+# Terms: 20
+# Priority breakdown: {'high_frequency': 0, 'grouped_terms': 20, 'ungrouped_terms': 0}
+
+ 1. Nandikkhayavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.1/Section 156
+    Translation: _______________
+
+ 2. Navapurāṇavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.1/Section 146
+    Translation: _______________
+
+ 3. Naḷavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.1.1/Section 1
+    Translation: _______________
+
+ 4. Nirodhavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 248
+    Translation: _______________
+
+ 5. Nālandavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.3/Section 377
+    Translation: _______________
+
+ 6. Nānattavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.2.3/Section 85
+    Translation: _______________
+
+ 7. Nānātitthiyavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.1.2/Section 102
+    Translation: _______________
+
+ 8. Nīvaraṇavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 212
+    Translation: _______________
+
+ 9. Pabbatavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 182
+    Translation: _______________
+
+10. Papātavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.12/Section 1111
+    Translation: _______________
+
+11. Pañcagatipeyyālavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.12/Section 1172
+    Translation: _______________
+
+12. Paṭhamapeyyālavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.3/Section 280
+    Translation: _______________
+
+13. Paṭhamaāmakadhaññapeyyālavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.12/Section 1131
+    Translation: _______________
+
+14. Punaappamādavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 324
+    Translation: _______________
+
+15. Punabalakaraṇīyavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 334
+    Translation: _______________
+
+16. Punaesanāvaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 346
+    Translation: _______________
+
+17. Punagaṅgāpeyyālavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 312
+    Translation: _______________
+
+18. Punaoghavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 357
+    Translation: _______________
+
+19. Pāsādakampanavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.7/Section 823
+    Translation: _______________
+
+20. Sabbaaniccavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.1/Section 1
+    Translation: _______________
+

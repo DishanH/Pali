@@ -1,0 +1,104 @@
+# Optimized English Translation Batch 2
+# Terms: 20
+# Priority breakdown: {'high_frequency': 0, 'grouped_terms': 20, 'ungrouped_terms': 0}
+
+ 1. Gilānavaggo
+    Usage: 2 times
+    Context: Vagga Title: sn.5.2/Section 192
+    Translation: _______________
+
+ 2. Jarāvaggo
+    Usage: 2 times
+    Context: Vagga Title: sn.5.4/Section 511
+    Translation: _______________
+
+ 3. Rahogatavaggo
+    Usage: 2 times
+    Context: Vagga Title: sn.5.8/Section 899
+    Translation: _______________
+
+ 4. Abhisamayavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.12/Section 1121
+    Translation: _______________
+
+ 5. Addhavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.1.1/Section 61
+    Translation: _______________
+
+ 6. Amatavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.3/Section 407
+    Translation: _______________
+
+ 7. Ambapālivaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.3/Section 367
+    Translation: _______________
+
+ 8. Ananussutavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.3/Section 397
+    Translation: _______________
+
+ 9. Aniccavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.1/Section 1
+    Translation: _______________
+
+10. Anāthapiṇḍikavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.1.2/Section 92
+    Translation: _______________
+
+11. Arahantavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.1.7/Section 187
+    Translation: _______________
+
+12. Avijjāvaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.1/Section 53
+    Translation: _______________
+
+13. Ayoguḷavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.7/Section 833
+    Translation: _______________
+
+14. Aṭṭhasatapariyāyavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.2/Section 269
+    Translation: _______________
+
+15. Balavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.3/Section 304
+    Translation: _______________
+
+16. Bodhipakkhiyavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.4/Section 531
+    Translation: _______________
+
+17. Buddhavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.2.1/Section 1
+    Translation: _______________
+
+18. Cakkavattivaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.2/Section 222
+    Translation: _______________
+
+19. Catutthaāmakadhaññapeyyālavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.5.12/Section 1161
+    Translation: _______________
+
+20. Channavaggo
+    Usage: 1 times
+    Context: Vagga Title: sn.4.1/Section 84
+    Translation: _______________
+

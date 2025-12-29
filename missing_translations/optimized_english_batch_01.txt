@@ -1,0 +1,104 @@
+# Optimized English Translation Batch 1
+# Terms: 20
+# Priority breakdown: {'high_frequency': 14, 'grouped_terms': 6, 'ungrouped_terms': 0}
+
+ 1. Dutiyavaggo
+    Usage: 11 times
+    Context: Vagga Title: sn.5.8/Section 909
+    Translation: _______________
+
+ 2. Paṭhamavaggo
+    Usage: 10 times
+    Context: Vagga Title: sn.2.4/Section 124
+    Translation: _______________
+
+ 3. Bhikkhusuttaṃ
+    Usage: 10 times
+    Context: Section Title: sn.5.2/Section 186
+    Translation: _______________
+
+ 4. Dutiyasamaṇabrāhmaṇasuttaṃ
+    Usage: 10 times
+    Context: Section Title: sn.5.12/Section 1076
+    Translation: _______________
+
+ 5. Oghavaggo
+    Usage: 9 times
+    Context: Vagga Title: sn.5.2/Section 302
+    Translation: _______________
+
+ 6. Gaṅgāpeyyālavaggo
+    Usage: 8 times
+    Context: Vagga Title: sn.5.2/Section 258
+    Translation: _______________
+
+ 7. Paṭhamasamaṇabrāhmaṇasuttaṃ
+    Usage: 6 times
+    Context: Section Title: sn.5.12/Section 1075
+    Translation: _______________
+
+ 8. Oghādisuttadasakaṃ
+    Usage: 6 times
+    Context: Section Title: sn.5.4/Section 587
+    Translation: _______________
+
+ 9. Lokasuttaṃ
+    Usage: 5 times
+    Context: Section Title: sn.5.12/Section 1098
+    Translation: _______________
+
+10. Mittasuttaṃ
+    Usage: 5 times
+    Context: Section Title: sn.5.12/Section 1096
+    Translation: _______________
+
+11. Samaṇabrāhmaṇasuttaṃ
+    Usage: 5 times
+    Context: Section Title: sn.2.1/Section 13
+    Translation: _______________
+
+12. Saṃyojanasuttaṃ
+    Usage: 5 times
+    Context: Section Title: sn.5.4/Section 531
+    Translation: _______________
+
+13. Suddhikasuttaṃ
+    Usage: 5 times
+    Context: Section Title: sn.5.4/Section 471
+    Translation: _______________
+
+14. Āsavakkhayasuttaṃ
+    Usage: 5 times
+    Context: Section Title: sn.5.12/Section 1095
+    Translation: _______________
+
+15. Esanāvaggo
+    Usage: 4 times
+    Context: Vagga Title: sn.5.2/Section 292
+    Translation: _______________
+
+16. Tatiyavaggo
+    Usage: 4 times
+    Context: Vagga Title: sn.2.6/Section 170
+    Translation: _______________
+
+17. Balakaraṇīyavaggo
+    Usage: 3 times
+    Context: Vagga Title: sn.5.2/Section 280
+    Translation: _______________
+
+18. Appamādavaggo
+    Usage: 2 times
+    Context: Vagga Title: sn.5.2/Section 270
+    Translation: _______________
+
+19. Catutthavaggo
+    Usage: 2 times
+    Context: Vagga Title: sn.2.3/Section 114
+    Translation: _______________
+
+20. Gahapativaggo
+    Usage: 2 times
+    Context: Vagga Title: sn.2.1/Section 41
+    Translation: _______________
+

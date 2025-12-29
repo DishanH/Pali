@@ -1,8 +1,9 @@
 -- Turso Database Schema for Pali Tipitaka
--- This schema supports the hierarchical structure: Nikaya > Book/Vagga > Chapter > Section
+-- Updated schema to support the new standardized book.json structure
+-- This schema supports the hierarchical structure: Basket > Collection > Book/Vagga/Nipata/Pannasa > Chapter > Section
 
--- Table: nikayas (Main collections)
-CREATE TABLE IF NOT EXISTS nikayas (
+-- Table: baskets (Pitaka level - Sutta, Vinaya, Abhidhamma)
+CREATE TABLE IF NOT EXISTS baskets (
     id TEXT PRIMARY KEY,
     name_pali TEXT NOT NULL,
     name_english TEXT,
@@ -10,11 +11,27 @@ CREATE TABLE IF NOT EXISTS nikayas (
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 
--- Table: books (Sub-collections/Vaggas within each Nikaya)
+-- Table: collections (Nikaya level - Digha, Majjhima, Samyutta, Anguttara)
+CREATE TABLE IF NOT EXISTS collections (
+    id TEXT PRIMARY KEY,
+    basket_id TEXT NOT NULL,
+    name_pali TEXT NOT NULL,
+    name_english TEXT,
+    name_sinhala TEXT,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (basket_id) REFERENCES baskets(id)
+);
+
+-- Table: books (Sub-collections/Vaggas/Nipatas/Pannasas within each Collection)
 CREATE TABLE IF NOT EXISTS books (
     id TEXT PRIMARY KEY,
-    nikaya_id TEXT NOT NULL,
-    name TEXT NOT NULL,
+    collection_id TEXT NOT NULL,
+    book_type TEXT NOT NULL, -- 'vagga', 'nipata', 'pannasa'
+    book_number INTEGER,
+    book_id_pali TEXT, -- The original id from JSON (e.g., 'mahavagga', 'ekakanipata')
+    name_pali TEXT NOT NULL,
+    name_english TEXT,
+    name_sinhala TEXT,
     title_pali TEXT NOT NULL,
     title_english TEXT,
     title_sinhala TEXT,
@@ -24,10 +41,12 @@ CREATE TABLE IF NOT EXISTS books (
     description_english TEXT,
     description_sinhala TEXT,
     total_chapters INTEGER,
+    language_source TEXT,
+    language_translations TEXT, -- JSON array as text
     version TEXT,
     last_updated TEXT,
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (nikaya_id) REFERENCES nikayas(id)
+    FOREIGN KEY (collection_id) REFERENCES collections(id)
 );
 
 -- Table: chapters (Individual chapters/samyuttas within books)
@@ -64,7 +83,9 @@ CREATE TABLE IF NOT EXISTS sections (
 );
 
 -- Indexes for better query performance
-CREATE INDEX IF NOT EXISTS idx_books_nikaya ON books(nikaya_id);
+CREATE INDEX IF NOT EXISTS idx_collections_basket ON collections(basket_id);
+CREATE INDEX IF NOT EXISTS idx_books_collection ON books(collection_id);
+CREATE INDEX IF NOT EXISTS idx_books_type ON books(book_type);
 CREATE INDEX IF NOT EXISTS idx_chapters_book ON chapters(book_id);
 CREATE INDEX IF NOT EXISTS idx_sections_chapter ON sections(chapter_id);
 CREATE INDEX IF NOT EXISTS idx_sections_number ON sections(chapter_id, section_number);
@@ -99,3 +120,14 @@ CREATE TRIGGER IF NOT EXISTS sections_au AFTER UPDATE ON sections BEGIN
         sinhala = new.sinhala
     WHERE rowid = new.id;
 END;
+
+-- Insert initial basket data
+INSERT OR IGNORE INTO baskets (id, name_pali, name_english, name_sinhala) VALUES 
+('sutta', 'Suttapiṭaka', 'Basket of Discourses', 'සූත්‍ර පිටකය');
+
+-- Insert initial collection data
+INSERT OR IGNORE INTO collections (id, basket_id, name_pali, name_english, name_sinhala) VALUES 
+('dighanikaya', 'sutta', 'Dīgha Nikāya', 'Long Discourses', 'දීඝ නිකාය'),
+('majjhimanikaya', 'sutta', 'Majjhima Nikāya', 'Middle Length Discourses', 'මජ්ඣිම නිකාය'),
+('samyuttanikaya', 'sutta', 'Saṃyutta Nikāya', 'Connected Discourses', 'සංයුත්ත නිකාය'),
+('anguttaranikaya', 'sutta', 'Aṅguttara Nikāya', 'Numerical Discourses', 'අංගුත්තර නිකාය');

@@ -1,0 +1,84 @@
+# Missing English Translations - Prioritized Batch
+# Total: 1603 items
+# Batch size: 20 (Google free daily limit)
+
+ 1. Dutiyavaggo
+    Contexts: Vagga Title: sn.5.8/Section 909 (+10 more)
+    Translation: _______________
+
+ 2. Bhikkhusuttaṃ
+    Contexts: Section Title: sn.5.2/Section 186 (+9 more)
+    Translation: _______________
+
+ 3. Dutiyasamaṇabrāhmaṇasuttaṃ
+    Contexts: Section Title: sn.5.12/Section 1076 (+9 more)
+    Translation: _______________
+
+ 4. Paṭhamavaggo
+    Contexts: Vagga Title: sn.2.4/Section 124 (+9 more)
+    Translation: _______________
+
+ 5. Oghavaggo
+    Contexts: Vagga Title: sn.5.2/Section 302 (+8 more)
+    Translation: _______________
+
+ 6. Gaṅgāpeyyālavaggo
+    Contexts: Vagga Title: sn.5.2/Section 258 (+7 more)
+    Translation: _______________
+
+ 7. Oghādisuttadasakaṃ
+    Contexts: Section Title: sn.5.4/Section 587 (+5 more)
+    Translation: _______________
+
+ 8. Paṭhamasamaṇabrāhmaṇasuttaṃ
+    Contexts: Section Title: sn.5.12/Section 1075 (+5 more)
+    Translation: _______________
+
+ 9. Lokasuttaṃ
+    Contexts: Section Title: sn.5.12/Section 1098 (+4 more)
+    Translation: _______________
+
+10. Mittasuttaṃ
+    Contexts: Section Title: sn.5.12/Section 1096 (+4 more)
+    Translation: _______________
+
+11. Samaṇabrāhmaṇasuttaṃ
+    Contexts: Section Title: sn.2.1/Section 13 (+4 more)
+    Translation: _______________
+
+12. Saṃyojanasuttaṃ
+    Contexts: Section Title: sn.5.4/Section 531 (+4 more)
+    Translation: _______________
+
+13. Suddhikasuttaṃ
+    Contexts: Section Title: sn.5.4/Section 471 (+4 more)
+    Translation: _______________
+
+14. Āsavakkhayasuttaṃ
+    Contexts: Section Title: sn.5.12/Section 1095 (+4 more)
+    Translation: _______________
+
+15. Arahantasuttaṃ
+    Contexts: Section Title: sn.5.12/Section 1094 (+3 more)
+    Translation: _______________
+
+16. Ariyasuttaṃ
+    Contexts: Section Title: sn.5.2/Section 200 (+3 more)
+    Translation: _______________
+
+17. Esanāvaggo
+    Contexts: Vagga Title: sn.5.2/Section 292 (+3 more)
+    Translation: _______________
+
+18. Kulasuttaṃ
+    Contexts: Section Title: sn.2.9/Section 225 (+3 more)
+    Translation: _______________
+
+19. Moggallānasuttaṃ
+    Contexts: Section Title: sn.5.7/Section 826 (+3 more)
+    Translation: _______________
+
+20. Pahānasuttaṃ
+    Contexts: Section Title: sn.5.2/Section 255 (+3 more)
+    Translation: _______________
+

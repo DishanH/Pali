@@ -49,7 +49,7 @@
   "lastUpdated": "2025-11-18",
   "chapters": [
     {
-      "id": "dn24",
+      "id": "dn.3.1",
       "number": 24,
       "title": {
         "pali": "Pāthikasuttaṃ",
@@ -60,10 +60,10 @@
         "english": "The Buddha refutes the claims of the naked ascetic Pāthika and discusses the origin of the world.",
         "sinhala": "බුදුරජාණන් වහන්සේ නිරුවත් තපසා වන පාථිකගේ ප්‍රකාශයන් ප්‍රතික්ෂේප කර ලෝකයේ ආරම්භය ගැන සාකච්ඡා කරයි."
       },
-      "link": "chapters/dn24-Pāthikasuttaṃ.json"
+      "link": "chapters/dn.3.1-Pāthikasuttaṃ.json"
     },
     {
-      "id": "dn25",
+      "id": "dn.3.2",
       "number": 25,
       "title": {
         "pali": "Udumbarikasuttaṃ",
@@ -74,10 +74,10 @@
         "english": "The Buddha discusses the highest kind of ascetic practice with wanderers at Udumbarikā's monastery.",
         "sinhala": "බුදුරජාණන් වහන්සේ උදුම්බරිකාගේ ආරාමයේ පරිබ්‍රාජකයන් සමඟ උසස්ම තපස් ක්‍රියාව ගැන සාකච්ඡා කරයි."
       },
-      "link": "chapters/dn25-Udumbarikasuttaṃ.json"
+      "link": "chapters/dn.3.2-Udumbarikasuttaṃ.json"
     },
     {
-      "id": "dn26",
+      "id": "dn.3.3",
       "number": 26,
       "title": {
         "pali": "Cakkavattisuttaṃ",
@@ -88,10 +88,10 @@
         "english": "The Buddha describes the rise and fall of civilizations and the coming of the future Buddha Metteyya.",
         "sinhala": "බුදුරජාණන් වහන්සේ ශිෂ්ටාචාරවල නැගීම සහ වැටීම සහ අනාගත බුදුවරයා වන මෛත්‍රී බුදුරජාණන් වහන්සේගේ පැමිණීම විස්තර කරයි."
       },
-      "link": "chapters/dn26-Cakkavattisuttaṃ.json"
+      "link": "chapters/dn.3.3-Cakkavattisuttaṃ.json"
     },
     {
-      "id": "dn27",
+      "id": "dn.3.4",
       "number": 27,
       "title": {
         "pali": "Aggaññasuttaṃ",
@@ -102,10 +102,10 @@
         "english": "The Buddha explains the origin of the world and the social order to two young brahmins.",
         "sinhala": "බුදුරජාණන් වහන්සේ තරුණ බ්‍රාහ්මණයන් දෙදෙනෙකුට ලෝකයේ ආරම්භය සහ සමාජ පිළිවෙල පැහැදිලි කරයි."
       },
-      "link": "chapters/dn27-Aggaññasuttaṃ.json"
+      "link": "chapters/dn.3.4-Aggaññasuttaṃ.json"
     },
     {
-      "id": "dn28",
+      "id": "dn.3.5",
       "number": 28,
       "title": {
         "pali": "Sampasādanīyasuttaṃ",
@@ -116,10 +116,10 @@
         "english": "Venerable Sāriputta expresses his confidence in the Buddha and his teaching.",
         "sinhala": "සාරිපුත්ත මහ ස්ථවිරයන් වහන්සේ බුදුරජාණන් වහන්සේ සහ ඔහුගේ ඉගැන්වීම කෙරෙහි තමන්ගේ විශ්වාසය ප්‍රකාශ කරයි."
       },
-      "link": "chapters/dn28-Sampasādanīyasuttaṃ.json"
+      "link": "chapters/dn.3.5-Sampasādanīyasuttaṃ.json"
     },
     {
-      "id": "dn29",
+      "id": "dn.3.6",
       "number": 29,
       "title": {
         "pali": "Pāsādikasuttaṃ",
@@ -130,10 +130,10 @@
         "english": "The Buddha contrasts his teaching with that of other teachers and explains how the Sangha should be guided after his passing.",
         "sinhala": "බුදුරජාණන් වහන්සේ තම ඉගැන්වීම අනෙකුත් ගුරුවරුන්ගේ ඉගැන්වීම් සමඟ සංසන්දනය කර තමන්ගේ පිරිනිවීමෙන් පසු සංඝයා මඟ පෙන්විය යුතු ආකාරය පැහැදිලි කරයි."
       },
-      "link": "chapters/dn29-Pāsādikasuttaṃ.json"
+      "link": "chapters/dn.3.6-Pāsādikasuttaṃ.json"
     },
     {
-      "id": "dn30",
+      "id": "dn.3.7",
       "number": 30,
       "title": {
         "pali": "Lakkhaṇasuttaṃ",
@@ -144,10 +144,10 @@
         "english": "The Buddha explains the thirty-two marks of a great man and the karmic causes that produce them.",
         "sinhala": "බුදුරජාණන් වහන්සේ මහා පුරුෂයාගේ ලක්ෂණ තිස් දෙක සහ ඒවා ඇති කරන කර්ම හේතු පැහැදිලි කරයි."
       },
-      "link": "chapters/dn30-Lakkhaṇasuttaṃ.json"
+      "link": "chapters/dn.3.7-Lakkhaṇasuttaṃ.json"
     },
     {
-      "id": "dn31",
+      "id": "dn.3.8",
       "number": 31,
       "title": {
         "pali": "Siṅgālasuttaṃ",
@@ -158,10 +158,10 @@
         "english": "The Buddha teaches the young householder Siṅgāla about the duties and responsibilities in six types of relationships.",
         "sinhala": "බුදුරජාණන් වහන්සේ තරුණ ගෘහස්ථයා වන සිංගාලට සම්බන්ධතා වර්ග හයක යුතුකම් සහ වගකීම් ගැන ඉගැන්වයි."
       },
-      "link": "chapters/dn31-Siṅgālasuttaṃ.json"
+      "link": "chapters/dn.3.8-Siṅgālasuttaṃ.json"
     },
     {
-      "id": "dn32",
+      "id": "dn.3.9",
       "number": 32,
       "title": {
         "pali": "Āṭānāṭiyasuttaṃ",
@@ -172,10 +172,10 @@
         "english": "The Four Great Kings offer a protective chant to safeguard the Buddha's disciples from non-human beings.",
         "sinhala": "මහා රජවරුන් හතර දෙනා බුදුරජාණන් වහන්සේගේ ශිෂ්‍යයන් මනුෂ්‍ය නොවන ජීවීන්ගෙන් ආරක්ෂා කිරීම සඳහා ආරක්ෂිත මන්ත්‍රයක් පිරිනමයි."
       },
-      "link": "chapters/dn32-Āṭānāṭiyasuttaṃ.json"
+      "link": "chapters/dn.3.9-Āṭānāṭiyasuttaṃ.json"
     },
     {
-      "id": "dn33",
+      "id": "dn.3.10",
       "number": 33,
       "title": {
         "pali": "Saṅgītisuttaṃ",
@@ -186,10 +186,10 @@
         "english": "Venerable Sāriputta presents a comprehensive numerical summary of the Buddha's teachings.",
         "sinhala": "සාරිපුත්ත මහ ස්ථවිරයන් වහන්සේ බුදුරජාණන් වහන්සේගේ ඉගැන්වීම්වල සවිස්තරාත්මක සංඛ්‍යාත්මක සාරාංශයක් ඉදිරිපත් කරයි."
       },
-      "link": "chapters/dn33-Saṅgītisuttaṃ.json"
+      "link": "chapters/dn.3.10-Saṅgītisuttaṃ.json"
     },
     {
-      "id": "dn34",
+      "id": "dn.3.11",
       "number": 34,
       "title": {
         "pali": "Dasuttarasuttaṃ",
@@ -200,7 +200,7 @@
         "english": "Venerable Sāriputta presents the teachings organized in sets of ten, from one to ten.",
         "sinhala": "සාරිපුත්ත මහ ස්ථවිරයන් වහන්සේ එකේ සිට දහය දක්වා දහයේ කට්ටලවල සංවිධානය කරන ලද ඉගැන්වීම් ඉදිරිපත් කරයි."
       },
-      "link": "chapters/dn34-Dasuttarasuttaṃ.json"
+      "link": "chapters/dn.3.11-Dasuttarasuttaṃ.json"
     }
   ]
 }
