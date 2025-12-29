@@ -1,121 +1,124 @@
 {
-  "id": "majjhimapannasa",
+  "id": "majjhimapannasapali",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
   "collection": {
-    "id": "majjhimanikaya",
+    "id": "majjhimanikaye",
     "name": {
       "pali": "Majjhima Nikāya",
-      "english": "Middle Length Discourses",
+      "english": "The Middle Length Discourses",
       "sinhala": "මජ්ඣිම නිකාය"
     }
   },
   "pannasa": {
-    "id": "majjhimapannasa",
+    "id": "majjhimapannasapali",
     "number": 2,
     "name": {
       "pali": "Majjhimapaṇṇāsapāḷi",
-      "english": "The Middle Division of Fifty Discourses",
-      "sinhala": "මජ්ඣිමපණ්ණාසපාළිය"
+      "english": "The Middle Fifty",
+      "sinhala": "මජ්ඣිම පණ්ණාසකය"
     }
   },
   "title": {
     "pali": "Majjhimapaṇṇāsapāḷi",
-    "english": "The Middle Division of Fifty Discourses",
-    "sinhala": "මජ්ඣිමපණ්ණාසපාළිය"
+    "english": "The Middle Fifty",
+    "sinhala": "මජ්ඣිම පණ්ණාසකය"
   },
   "footer": {
     "pali": "Majjhimapaṇṇāsakaṃ samattaṃ.",
-    "english": "The Middle Division of Fifty is completed.",
-    "sinhala": "මජ්ඣිමපණ්ණාසකය නිමි වේ."
+    "english": "The Middle Fifty is complete.",
+    "sinhala": "මජ්ඣිම පණ්ණාසකය මෙයින් අවසන් වේ."
   },
   "description": {
-    "english": "The second collection of the Middle Length Discourses (Majjhima Nikāya), containing fifty suttas on intermediate teachings and practices.",
-    "sinhala": "මජ්ඣිම නිකායේ දෙවන එකතුව වන මෙය අන්තර්මධ්‍යම ඉගැන්වීම් සහ භාවනා පිළිබඳ සූත්‍ර පනහක් අඩංගු වේ."
+    "english": "The second division of the Majjhima Nikaya, comprising suttas 51 to 100. It is divided into five chapters (Vaggas) containing discourses given to householders, monastics, kings, and seekers from other traditions.",
+    "sinhala": "මජ්ඣිම නිකායේ දෙවන කොටසයි. මෙයට 51 සිට 100 දක්වා වූ සූත්‍ර ඇතුළත් වේ. මෙහි ගෘහපතියන්, භික්ෂූන්, රජවරුන් සහ පිරිවැජියන් උදෙසා දේශනා කරන ලද සූත්‍ර වර්ග 5ක් අන්තර්ගත වේ."
   },
   "totalChapters": 5,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-24",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "mn.2.1",
       "number": 1,
       "title": {
         "pali": "Gahapativaggo",
-        "english": "The Householder Chapter",
-        "sinhala": "ගහපති වග්ගය"
+        "english": "The Chapter on Householders",
+        "sinhala": "ගහපති වර්ගය"
       },
       "description": {
-        "english": "Teachings specifically addressed to householders and lay practitioners on living the spiritual life in the world.",
-        "sinhala": "ලෝකයේ ආධ්‍යාත්මික ජීවිතය ගත කිරීම පිළිබඳ ගෘහස්ථයන්ට සහ ගිහි භාවනාකරුවන්ට විශේෂයෙන් ලබා දුන් ඉගැන්වීම්."
+        "english": "Discourses primarily addressed to or concerning lay followers and their practical spiritual lives.",
+        "sinhala": "ගෘහපතියන් මුල් කරගෙන ඔවුන්ගේ ආධ්‍යාත්මික ජීවිතයට උපකාරී වන දේශනා මෙහි අඩංගු වේ."
       },
-      "link": "chapters/mn.2.1-Gahapativaggo.json"
+      "link": "Majjhimanikāye/Majjhimapaṇṇāsapāḷi/chapters/mn.2.1-Gahapativaggo.json"
     },
     {
       "id": "mn.2.2",
       "number": 2,
       "title": {
         "pali": "Bhikkhuvaggo",
-        "english": "The Monk Chapter",
-        "sinhala": "භික්ඛු වග්ගය"
+        "english": "The Chapter on Bhikkhus",
+        "sinhala": "භික්ඛු වර්ගය"
       },
       "description": {
-        "english": "Teachings directed to monks on monastic life, discipline, and advanced spiritual practices.",
-        "sinhala": "භික්ෂු ජීවිතය, විනය සහ උසස් ආධ්‍යාත්මික භාවනා පිළිබඳ භික්ෂූන්ට ලබා දුන් ඉගැන්වීම්."
+        "english": "Technical and deep instructions specifically for the monastic community regarding conduct and meditation.",
+        "sinhala": "භික්ෂූන් වහන්සේලාගේ විනය සහ භාවනා ක්‍රම පිළිබඳව කෙරෙන ගැඹුරු දේශනා මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/mn.2.2-Bhikkhuvaggo.json"
+      "link": "Majjhimanikāye/Majjhimapaṇṇāsapāḷi/chapters/mn.2.2-Bhikkhuvaggo.json"
     },
     {
       "id": "mn.2.3",
       "number": 3,
       "title": {
         "pali": "Paribbājakavaggo",
-        "english": "The Wanderer Chapter",
-        "sinhala": "පරිබ්‍රාජක වග්ගය"
+        "english": "The Chapter on Wanderers",
+        "sinhala": "පරිබ්බජක වර්ගය"
       },
       "description": {
-        "english": "Dialogues with wandering ascetics and discussions on various philosophical and spiritual topics.",
-        "sinhala": "සංචාරක තපස්වීන් සමඟ සංවාද සහ විවිධ දාර්ශනික සහ ආධ්‍යාත්මික මාතෘකා පිළිබඳ සාකච්ඡා."
+        "english": "Conversations with ascetics from other traditions, highlighting the uniqueness of the Buddha's path to liberation.",
+        "sinhala": "අන්‍ය ආගමික පිරිවැජියන් සමඟ කළ සාකච්ඡා සහ බුදුමගෙහි ඇති සුවිශේෂී බව පෙන්වා දෙන දේශනා මෙහි දැක්වේ."
       },
-      "link": "chapters/mn.2.3-Paribbājakavaggo.json"
+      "link": "Majjhimanikāye/Majjhimapaṇṇāsapāḷi/chapters/mn.2.3-Paribbājakavaggo.json"
     },
     {
       "id": "mn.2.4",
       "number": 4,
       "title": {
         "pali": "Rājavaggo",
-        "english": "The King Chapter",
-        "sinhala": "රාජ වග්ගය"
+        "english": "The Chapter on Kings",
+        "sinhala": "රාජ වර්ගය"
       },
       "description": {
-        "english": "Teachings given to kings and rulers on righteous governance and the spiritual life of those in power.",
-        "sinhala": "රජවරුන්ට සහ පාලකයන්ට ධර්මිෂ්ඨ පාලනය සහ බලයේ සිටින අයගේ ආධ්‍යාත්මික ජීවිතය පිළිබඳ ලබා දුන් ඉගැන්වීම්."
+        "english": "Features famous encounters with rulers, including the conversion of the bandit Aṅgulimāla and talks with King Pasenadi.",
+        "sinhala": "අංගුලිමාල දමනය සහ පසේනදී කොසොල් රජු වැනි පාලකයන් සමඟ කළ ප්‍රසිද්ධ දේශනා මෙහි අඩංගු වේ."
       },
-      "link": "chapters/mn.2.4-Rājavaggo.json"
+      "link": "Majjhimanikāye/Majjhimapaṇṇāsapāḷi/chapters/mn.2.4-Rājavaggo.json"
     },
     {
       "id": "mn.2.5",
       "number": 5,
       "title": {
         "pali": "Brāhmaṇavaggo",
-        "english": "The Brahmin Chapter",
-        "sinhala": "බ්‍රාහ්මණ වග්ගය"
+        "english": "The Chapter on Brahmins",
+        "sinhala": "බ්‍රාහ්මණ වර්ගය"
       },
       "description": {
-        "english": "Teachings addressed to brahmins on true spiritual nobility and the nature of authentic religious practice.",
-        "sinhala": "සැබෑ ආධ්‍යාත්මික උතුම්කම සහ අව්‍යාජ ආගමික භාවනාවේ ස්වභාවය පිළිබඳ බ්‍රාහ්මණයන්ට ලබා දුන් ඉගැන්වීම්."
+        "english": "Discourses addressing the claims of the Brahmin caste and the Buddha's definition of true spiritual purity.",
+        "sinhala": "බ්‍රාහ්මණයන්ගේ මතවාද සහ සැබෑ පිරිසිදුකම (බ්‍රාහ්මණත්වය) යනු කුමක්දැයි විග්‍රහ කරන දේශනා මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/mn.2.5-Brāhmaṇavaggo.json"
+      "link": "Majjhimanikāye/Majjhimapaṇṇāsapāḷi/chapters/mn.2.5-Brāhmaṇavaggo.json"
     }
   ]
 }

@@ -1,121 +1,124 @@
 {
-  "id": "uparipannasa",
+  "id": "uparipannasapali",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
   "collection": {
-    "id": "majjhimanikaya",
+    "id": "majjhimanikaye",
     "name": {
       "pali": "Majjhima Nikāya",
-      "english": "Middle Length Discourses",
+      "english": "The Middle Length Discourses",
       "sinhala": "මජ්ඣිම නිකාය"
     }
   },
   "pannasa": {
-    "id": "uparipannasa",
+    "id": "uparipannasapali",
     "number": 3,
     "name": {
       "pali": "Uparipaṇṇāsapāḷi",
-      "english": "The Higher Division of Fifty Discourses",
-      "sinhala": "උපරිපණ්ණාසපාළිය"
+      "english": "The Final Fifty",
+      "sinhala": "උපරි පණ්ණාසකය"
     }
   },
   "title": {
     "pali": "Uparipaṇṇāsapāḷi",
-    "english": "The Higher Division of Fifty Discourses",
-    "sinhala": "උපරිපණ්ණාසපාළිය"
+    "english": "The Final Fifty",
+    "sinhala": "උපරි පණ්ණාසකය"
   },
   "footer": {
     "pali": "Uparipaṇṇāsakaṃ samattaṃ. Tīhi paṇṇāsakehi paṭimaṇḍito sakalo Majjhimanikāyo samatto.",
-    "english": "The Higher Division of Fifty is completed. Adorned with three divisions of fifty, the entire Majjhima Nikāya is complete.",
-    "sinhala": "උපරිපණ්ණාසකය නිමි වේ. පනහේ කොටස් තුනකින් අලංකාර කරන ලද සම්පූර්ණ මජ්ඣිම නිකාය නිමි වේ."
+    "english": "The Final Fifty is finished. Adorned with three sets of fifty, the entire Majjhima Nikaya is complete.",
+    "sinhala": "උපරි පණ්ණාසකය මෙයින් නිමවේ. පණ්ණාසක තුනකින් අලංකාරවත් වූ සම්පූර්ණ මජ්ඣිම නිකාය මෙයින් අවසන් වේ."
   },
   "description": {
-    "english": "The third and final collection of the Middle Length Discourses (Majjhima Nikāya), containing fifty advanced suttas on higher teachings and profound practices.",
-    "sinhala": "මජ්ඣිම නිකායේ තුන්වන සහ අවසාන එකතුව වන මෙය උසස් ඉගැන්වීම් සහ ගැඹුරු භාවනා පිළිබඳ උසස් සූත්‍ර පනහක් අඩංගු වේ."
+    "english": "The third and final division of the Majjhima Nikaya. It contains 52 discourses that offer technical refinements of the Dhamma, detailed classifications of mental states, and the Buddha's final instructions on internal peace and non-attachment.",
+    "sinhala": "මජ්ඣිම නිකායේ තෙවන සහ අවසාන කොටසයි. මෙහි සූත්‍ර 52ක් අන්තර්ගත වන අතර, ධර්මයේ සූක්ෂ්ම කරුණු, මානසික තත්ත්වයන් පිළිබඳ සවිස්තරාත්මක වර්ගීකරණයන් සහ ආධ්‍යාත්මික සාමය පිළිබඳ ගැඹුරු දේශනා මෙහි ඇතුළත් වේ."
   },
   "totalChapters": 5,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-24",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "mn.3.1",
       "number": 1,
       "title": {
         "pali": "Devadahavaggo",
-        "english": "The Devadaha Chapter",
-        "sinhala": "දේවදහ වග්ගය"
+        "english": "The Chapter at Devadaha",
+        "sinhala": "දේවදහ වර්ගය"
       },
       "description": {
-        "english": "Teachings given at Devadaha, including important discourses on meditation and spiritual development.",
-        "sinhala": "භාවනාව සහ ආධ්‍යාත්මික දියුණුව පිළිබඳ වැදගත් දේශනා ඇතුළුව දේවදහහිදී ලබා දුන් ඉගැන්වීම්."
+        "english": "Begins with a critique of Jain practices and includes discourses on how to resolve internal disputes and cultivate spiritual growth.",
+        "sinhala": "නිගණ්ඨයන්ගේ වත්පිළිවෙත් විවේචනය කරමින් ආරම්භ වන මෙහි, අභ්‍යන්තර ගැටලු විසඳාගන්නා ආකාරය සහ ආධ්‍යාත්මික දියුණුව පිළිබඳ දේශනා අඩංගු වේ."
       },
-      "link": "chapters/mn.3.1-Devadahavaggo.json"
+      "link": "Majjhimanikāye/Uparipaṇṇāsapāḷi/chapters/mn.3.1-Devadahavaggo.json"
     },
     {
       "id": "mn.3.2",
       "number": 2,
       "title": {
         "pali": "Anupadavaggo",
-        "english": "The Non-Clinging Chapter",
-        "sinhala": "අනුපාද වග්ගය"
+        "english": "The Chapter of One by One",
+        "sinhala": "අනුපද වර්ගය"
       },
       "description": {
-        "english": "Advanced teachings on non-clinging, detachment, and the highest levels of spiritual realization.",
-        "sinhala": "නොබැඳීම, විරාගය සහ ආධ්‍යාත්මික අවබෝධයේ උසස්ම මට්ටම් පිළිබඳ උසස් ඉගැන්වීම්."
+        "english": "Includes the Anupada Sutta, which describes Ven. Sariputta's methodical penetration of mental states during meditation.",
+        "sinhala": "සාරිපුත්ත මහ රහතන් වහන්සේ භාවනාවකදී චිත්තවේග සහ මානසික තත්ත්වයන් අනුපිළිවෙලින් විමර්ශනය කළ ආකාරය මෙහි විස්තර වේ."
       },
-      "link": "chapters/mn.3.2-Anupadavaggo.json"
+      "link": "Majjhimanikāye/Uparipaṇṇāsapāḷi/chapters/mn.3.2-Anupadavaggo.json"
     },
     {
       "id": "mn.3.3",
       "number": 3,
       "title": {
         "pali": "Suññatavaggo",
-        "english": "The Emptiness Chapter",
-        "sinhala": "සුඤ්ඤතා වග්ගය"
+        "english": "The Chapter on Emptiness",
+        "sinhala": "සුඤ්ඤත වර්ගය"
       },
       "description": {
-        "english": "Profound teachings on emptiness, voidness, and the ultimate nature of reality.",
-        "sinhala": "ශුන්‍යතාව, නිර්වාණය සහ යථාර්ථයේ අවසාන ස්වභාවය පිළිබඳ ගැඹුරු ඉගැන්වීම්."
+        "english": "Contains profound discourses on the practice and realization of emptiness, as well as the wonderful qualities of the Buddha.",
+        "sinhala": "ශුන්‍යතාවය ප්‍රගුණ කරන ආකාරය සහ එහි සාක්ෂාත් කර ගැනීම පිළිබඳව කෙරෙන ගැඹුරු දේශනා මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/mn.3.3-Suññatavaggo.json"
+      "link": "Majjhimanikāye/Uparipaṇṇāsapāḷi/chapters/mn.3.3-Suññatavaggo.json"
     },
     {
       "id": "mn.3.4",
       "number": 4,
       "title": {
         "pali": "Vibhaṅgavaggo",
-        "english": "The Analysis Chapter",
-        "sinhala": "විභංග වග්ගය"
+        "english": "The Chapter on Expositions",
+        "sinhala": "විභංග වර්ගය"
       },
       "description": {
-        "english": "Detailed analytical teachings breaking down complex spiritual concepts and practices.",
-        "sinhala": "සංකීර්ණ ආධ්‍යාත්මික සංකල්ප සහ භාවනා විග්‍රහ කරන විස්තරාත්මක විශ්ලේෂණාත්මක ඉගැන්වීම්."
+        "english": "A collection of suttas providing detailed analytical breakdowns of elements, truths, and the summary of the path.",
+        "sinhala": "ධාතු, සත්‍යයන් සහ මාර්ගය පිළිබඳව සවිස්තරාත්මක විශ්ලේෂණාත්මක විග්‍රහයන් ඇතුළත් සූත්‍ර සමූහයකි."
       },
-      "link": "chapters/mn.3.4-Vibhaṅgavaggo.json"
+      "link": "Majjhimanikāye/Uparipaṇṇāsapāḷi/chapters/mn.3.4-Vibhaṅgavaggo.json"
     },
     {
       "id": "mn.3.5",
       "number": 5,
       "title": {
         "pali": "Saḷāyatanavaggo",
-        "english": "The Six Sense Bases Chapter",
-        "sinhala": "සළායතන වග්ගය"
+        "english": "The Chapter on the Six Sense Bases",
+        "sinhala": "සළායතන වර්ගය"
       },
       "description": {
-        "english": "Advanced teachings on the six sense bases and their role in liberation from suffering.",
-        "sinhala": "හය ඉන්ද්‍රිය ආයතන සහ දුක්ඛයෙන් මුක්තිය සඳහා ඒවායේ භූමිකාව පිළිබඳ උසස් ඉගැන්වීම්."
+        "english": "The final chapter, focusing on the nature of the six senses and the way to liberation through understanding sensory experience.",
+        "sinhala": "සය වැදෑරුම් ආයතනවල ස්වභාවය සහ ඉන්ද්‍රිය අත්දැකීම් අවබෝධ කරගැනීමෙන් විමුක්තිය ලබාගන්නා ආකාරය මෙහි විස්තර වේ."
       },
-      "link": "chapters/mn.3.5-Saḷāyatanavaggo.json"
+      "link": "Majjhimanikāye/Uparipaṇṇāsapāḷi/chapters/mn.3.5-Saḷāyatanavaggo.json"
     }
   ]
 }

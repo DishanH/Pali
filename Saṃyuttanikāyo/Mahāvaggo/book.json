@@ -1,10 +1,10 @@
 {
-  "id": "mahavagga",
+  "id": "mahavaggo",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
@@ -12,208 +12,211 @@
     "id": "samyuttanikaya",
     "name": {
       "pali": "Saṃyutta Nikāya",
-      "english": "Connected Discourses",
+      "english": "The Linked Discourses",
       "sinhala": "සංයුත්ත නිකාය"
     }
   },
   "vagga": {
-    "id": "mahavagga",
+    "id": "mahavaggo",
     "number": 5,
     "name": {
       "pali": "Mahāvaggo",
-      "english": "The Great Division",
-      "sinhala": "මහාවග්ගය"
+      "english": "The Great Section",
+      "sinhala": "මහා වර්ගය"
     }
   },
   "title": {
     "pali": "Mahāvaggo",
-    "english": "The Great Division",
-    "sinhala": "මහාවග්ගය"
+    "english": "The Great Section",
+    "sinhala": "මහා වර්ගය"
   },
   "footer": {
     "pali": "Mahāvaggo pañcamo. Tassuddānaṃ – Maggabojjhaṅgaṃ satiyā, indriyaṃ sammappadhānaṃ; Baliddhipādānuruddhā, jhānānāpānasaṃyutaṃ; Sotāpatti saccañcāti, mahāvaggoti vuccatīti. Mahāvaggasaṃyuttapāḷi niṭṭhitā.",
-    "english": "The Great Division is fifth. Its summary: Magga, Bojjhaṅga, Sati, Indriya, and Sammappadhāna; Bala, Iddhipāda, Anuruddha, Jhāna, and Ānāpāna; Sotāpatti and Sacca - thus it is called the Great Division. The Connected Discourses of the Great Division is completed.",
-    "sinhala": "මහාවග්ගය පස්වැන්නයි. එහි සාරාංශය - මග්ග, බෝජ්ඣංග, සති, ඉන්ද්‍රිය සහ සම්මප්පධාන; බල, ඉද්ධිපාද, අනුරුද්ධ, ඣාන සහ ආනාපාන; සෝතාපත්ති සහ සච්ච - මේ අනුව එය මහාවග්ගය ලෙස හැඳින්වේ. මහාවග්ගයේ සංයුත්ත පාළිය නිමි වේ."
+    "english": "The fifth is the Great Section. Its summary: The Path, the Enlightenment Factors, Mindfulness, the Faculties, the Right Efforts, the Powers, the Bases of Power, Anuruddha, Absorption, Mindfulness of Breathing, Stream-entry, and the Truths—this is called the Great Section. The Linked Discourses of the Great Section is finished.",
+    "sinhala": "පස්වන මහා වර්ගයයි. එහි උද්දානය: මග්ග, බොජ්ඣංග, සති, ඉන්ද්‍රිය, සම්මප්පධාන, බල, ඉද්ධිපාද, අනුරුද්ධ, ඣාන, ආනාපාන, සෝතාපත්ති සහ සච්ච යන සංයුක්ත දොළස මෙහි අන්තර්ගත වේ. මහා වර්ග සංයුක්තපාළිය නිමවා ලදි."
   },
   "description": {
-    "english": "The fifth and final collection of the Connected Discourses (Saṃyutta Nikāya), containing the most important teachings on the path to liberation, including the Noble Eightfold Path, factors of enlightenment, and the Four Noble Truths.",
-    "sinhala": "සංයුත්ත නිකායේ පස්වන සහ අවසාන එකතුව වන මෙය ආර්‍ය අෂ්ටාංගික මාර්ගය, බෝධි පක්ෂ ධර්ම සහ ආර්‍ය සත්‍ය හතර ඇතුළු විමුක්ති මාර්ගයේ වඩාත් වැදගත් ඉගැන්වීම් අඩංගු වේ."
+    "english": "The fifth and final book of the Samyutta Nikaya. It is a comprehensive manual of Buddhist practice, organizing the discourses into groups based on the various sets of qualities leading to enlightenment (Bodhipakkhiyadhamma).",
+    "sinhala": "සංයුත්ත නිකායේ පස්වන සහ අවසාන වෙළුමයි. මෙය බෞද්ධ ප්‍රතිපත්තිය පිළිබඳ සවිස්තරාත්මක අත්පොතක් බඳුය. නිවන් මගට උපකාරී වන බෝධිපාක්ෂික ධර්මයන් මෙහි ක්‍රමානුකූලව වර්ගීකරණය කර ඇත."
   },
   "totalChapters": 12,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-24",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "sn.5.1",
       "number": 1,
       "title": {
         "pali": "Maggasaṃyuttaṃ",
-        "english": "Connected Discourses on the Path",
-        "sinhala": "මග්ග සංයුත්තය"
+        "english": "Linked Discourses on the Path",
+        "sinhala": "මග්ග සංයුක්තය"
       },
       "description": {
-        "english": "Comprehensive teachings on the Noble Eightfold Path, the supreme path to liberation from suffering and the attainment of Nibbāna.",
-        "sinhala": "දුක්ඛයෙන් විමුක්තිය සහ නිර්වාණ ජයග්‍රහණයට යන උසස් මාර්ගය වන ආර්‍ය අෂ්ටාංගික මාර්ගය පිළිබඳ සවිස්තරාත්මක ඉගැන්වීම්."
+        "english": "Explains the Noble Eightfold Path in detail as the middle way to liberation.",
+        "sinhala": "විමුක්තිය උදෙසා වූ මධ්‍යම ප්‍රතිපදාව හෙවත් ආර්ය අෂ්ටාංගික මාර්ගය පිළිබඳව මෙහි සවිස්තරව දැක්වේ."
       },
-      "link": "chapters/sn.5.1-Maggasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.1-Maggasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.2",
       "number": 2,
       "title": {
         "pali": "Bojjhaṅgasaṃyuttaṃ",
-        "english": "Connected Discourses on the Factors of Enlightenment",
-        "sinhala": "බෝජ්ඣංග සංයුත්තය"
+        "english": "Linked Discourses on the Enlightenment Factors",
+        "sinhala": "බොජ්ඣංග සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on the seven factors of enlightenment: mindfulness, investigation, energy, joy, tranquility, concentration, and equanimity.",
-        "sinhala": "බෝධි පක්ෂ ධර්ම හත: සිහිකල්පනාව, ධර්ම විචය, වීර්යය, ප්‍රීතිය, ප්‍රශ්‍රබ්ධිය, සමාධිය සහ උපේක්ෂාව පිළිබඳ ඉගැන්වීම්."
+        "english": "On the seven factors of enlightenment: mindfulness, investigation, energy, joy, tranquility, concentration, and equanimity.",
+        "sinhala": "සති, ධම්මවිචය, විරිය, පීති, පස්සද්ධි, සමාධි සහ උපේක්ඛා යන සප්ත බොජ්ඣංග ධර්මයන් පිළිබඳ දේශනා ඇතුළත් වේ."
       },
-      "link": "chapters/sn.5.2-Bojjhaṅgasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.2-Bojjhaṅgasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.3",
       "number": 3,
       "title": {
         "pali": "Satipaṭṭhānasaṃyuttaṃ",
-        "english": "Connected Discourses on the Foundations of Mindfulness",
-        "sinhala": "සතිපට්ඨාන සංයුත්තය"
+        "english": "Linked Discourses on the Foundations of Mindfulness",
+        "sinhala": "සතිපට්ඨාන සංයුක්තය"
       },
       "description": {
-        "english": "Detailed teachings on the four foundations of mindfulness: mindfulness of body, feelings, mind, and mental objects.",
-        "sinhala": "සතිපට්ඨාන හතර: කායානුපස්සනා, වේදනානුපස්සනා, චිත්තානුපස්සනා සහ ධම්මානුපස්සනා පිළිබඳ විස්තරාත්මක ඉගැන්වීම්."
+        "english": "Focuses on the four ways of establishing mindfulness: body, feelings, mind, and principles.",
+        "sinhala": "කාය, වේදනා, චිත්ත සහ ධම්ම යන සතර සතිපට්ඨානයන් වැඩීම පිළිබඳව කෙරෙන දේශනා මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/sn.5.3-Satipaṭṭhānasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.3-Satipaṭṭhānasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.4",
       "number": 4,
       "title": {
         "pali": "Indriyasaṃyuttaṃ",
-        "english": "Connected Discourses on the Spiritual Faculties",
-        "sinhala": "ඉන්ද්‍රිය සංයුත්තය"
+        "english": "Linked Discourses on the Faculties",
+        "sinhala": "ඉන්ද්‍රිය සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on the five spiritual faculties: faith, energy, mindfulness, concentration, and wisdom, and their development.",
-        "sinhala": "පඤ්ච ඉන්ද්‍රිය: ශ්‍රද්ධාව, වීර්යය, සිහිකල්පනාව, සමාධිය සහ ප්‍රඥාව සහ ඒවායේ දියුණුව පිළිබඳ ඉගැන්වීම්."
+        "english": "Discusses the five spiritual faculties: faith, energy, mindfulness, concentration, and wisdom.",
+        "sinhala": "සද්ධා, විරිය, සති, සමාධි සහ පඤ්ඤා යන පංච ඉන්ද්‍රියයන් පිළිබඳව කෙරෙන විග්‍රහයකි."
       },
-      "link": "chapters/sn.5.4-Indriyasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.4-Indriyasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.5",
       "number": 5,
       "title": {
         "pali": "Sammappadhānasaṃyuttaṃ",
-        "english": "Connected Discourses on the Right Efforts",
-        "sinhala": "සම්මප්පධාන සංයුත්තය"
+        "english": "Linked Discourses on the Right Efforts",
+        "sinhala": "සම්මප්පධාන සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on the four right efforts: preventing unwholesome states, abandoning existing unwholesome states, cultivating wholesome states, and maintaining existing wholesome states.",
-        "sinhala": "සම්මප්පධාන හතර: අකුසල ධර්ම නොඇති කිරීම, ඇති අකුසල ධර්ම පහ කිරීම, කුසල ධර්ම ඇති කිරීම සහ ඇති කුසල ධර්ම වර්ධනය කිරීම පිළිබඳ ඉගැන්වීම්."
+        "english": "On the four right efforts to abandon evil states and develop wholesome ones.",
+        "sinhala": "අකුසල් දුරු කිරීමට සහ කුසල් වර්ධනය කිරීමට අදාළ සතර සම්මප්පධාන වීර්යයන් පිළිබඳව මෙහි විස්තර වේ."
       },
-      "link": "chapters/sn.5.5-Sammappadhānasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.5-Sammappadhānasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.6",
       "number": 6,
       "title": {
         "pali": "Balasaṃyuttaṃ",
-        "english": "Connected Discourses on the Spiritual Powers",
-        "sinhala": "බල සංයුත්තය"
+        "english": "Linked Discourses on the Powers",
+        "sinhala": "බල සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on the five spiritual powers: faith, energy, mindfulness, concentration, and wisdom, and their strengthening.",
-        "sinhala": "පඤ්ච බල: ශ්‍රද්ධාව, වීර්යය, සිහිකල්පනාව, සමාධිය සහ ප්‍රඥාව සහ ඒවා ශක්තිමත් කිරීම පිළිබඳ ඉගැන්වීම්."
+        "english": "Detailed discourses on the five spiritual powers that support the path.",
+        "sinhala": "මාර්ගයට ශක්තියක් වන පංච බල ධර්මයන් පිළිබඳව කෙරෙන දේශනා මෙහි අඩංගු වේ."
       },
-      "link": "chapters/sn.5.6-Balasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.6-Balasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.7",
       "number": 7,
       "title": {
         "pali": "Iddhipādasaṃyuttaṃ",
-        "english": "Connected Discourses on the Bases of Psychic Power",
-        "sinhala": "ඉද්ධිපාද සංයුත්තය"
+        "english": "Linked Discourses on the Bases of Power",
+        "sinhala": "ඉද්ධිපාද සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on the four bases of psychic power: desire, energy, mind, and investigation, and their role in spiritual accomplishment.",
-        "sinhala": "ඉද්ධිපාද හතර: ඡන්දය, වීර්යය, චිත්තය සහ වීමංසාව සහ ආධ්‍යාත්මික ජයග්‍රහණයේ ඒවායේ භූමිකාව පිළිබඳ ඉගැන්වීම්."
+        "english": "On the four bases for spiritual success: desire, energy, mind, and investigation.",
+        "sinhala": "ඡන්ද, විරිය, චිත්ත සහ වීමංසා යන සතර ඉද්ධිපාදයන් පිළිබඳව මෙහි විස්තර කෙරේ."
       },
-      "link": "chapters/sn.5.7-Iddhipādasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.7-Iddhipādasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.8",
       "number": 8,
       "title": {
         "pali": "Anuruddhasaṃyuttaṃ",
-        "english": "Connected Discourses with Anuruddha",
-        "sinhala": "අනුරුද්ධ සංයුත්තය"
+        "english": "Linked Discourses with Anuruddha",
+        "sinhala": "අනුරුද්ධ සංයුක්තය"
       },
       "description": {
-        "english": "Teachings and dialogues involving Venerable Anuruddha, renowned for his divine eye and mastery of the four foundations of mindfulness.",
-        "sinhala": "දිව්‍ය ඇස සහ සතිපට්ඨාන හතරේ ප්‍රවීණත්වය සඳහා ප්‍රසිද්ධ අනුරුද්ධ මහ ස්ථවිරයන් වහන්සේ සම්බන්ධ ඉගැන්වීම් සහ සංවාද."
+        "english": "The teachings and realizations of Ven. Anuruddha, especially concerning the divine eye.",
+        "sinhala": "අනුරුද්ධ මහ රහතන් වහන්සේගේ දේශනා සහ උන්වහන්සේගේ දිව්‍ය චක්ෂුස පිළිබඳ තොරතුරු මෙහි අඩංගු වේ."
       },
-      "link": "chapters/sn.5.8-Anuruddhasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.8-Anuruddhasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.9",
       "number": 9,
       "title": {
         "pali": "Jhānasaṃyuttaṃ",
-        "english": "Connected Discourses on Jhāna",
-        "sinhala": "ඣාන සංයුත්තය"
+        "english": "Linked Discourses on Absorption",
+        "sinhala": "ඣාන සංයුක්තය"
       },
       "description": {
-        "english": "Advanced teachings on the jhānas (meditative absorptions), their development, characteristics, and role in the path to liberation.",
-        "sinhala": "ඣාන (භාවනාත්මක සමාධි), ඒවායේ දියුණුව, ලක්ෂණ සහ විමුක්ති මාර්ගයේ භූමිකාව පිළිබඳ උසස් ඉගැන්වීම්."
+        "english": "Focuses on the practice of the four jhanas (meditative absorptions).",
+        "sinhala": "සතර ඣානයන් ප්‍රගුණ කරන ආකාරය පිළිබඳ දේශනා සමූහයකි."
       },
-      "link": "chapters/sn.5.9-Jhānasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.9-Jhānasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.10",
       "number": 10,
       "title": {
         "pali": "Ānāpānasaṃyuttaṃ",
-        "english": "Connected Discourses on Mindfulness of Breathing",
-        "sinhala": "ආනාපාන සංයුත්තය"
+        "english": "Linked Discourses on Mindfulness of Breathing",
+        "sinhala": "ආනාපාන සංයුක්තය"
       },
       "description": {
-        "english": "Comprehensive teachings on mindfulness of breathing (ānāpānasati), one of the most important meditation practices leading to liberation.",
-        "sinhala": "විමුක්තියට මග පාදන වඩාත් වැදගත් භාවනා ක්‍රමවලින් එකක් වන ආනාපානසති (ශ්වසන සිහිකල්පනාව) පිළිබඳ සවිස්තරාත්මක ඉගැන්වීම්."
+        "english": "Instruction on the meditation technique of focusing on the breath.",
+        "sinhala": "ආනාපානසති භාවනාව සහ එහි ආනිශංස පිළිබඳව කෙරෙන ගැඹුරු දේශනා මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/sn.5.10-Ānāpānasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.10-Ānāpānasaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.11",
       "number": 11,
       "title": {
         "pali": "Sotāpattisaṃyuttaṃ",
-        "english": "Connected Discourses on Stream-Entry",
-        "sinhala": "සෝතාපත්ති සංයුත්තය"
+        "english": "Linked Discourses on Stream-entry",
+        "sinhala": "සෝතාපත්ති සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on stream-entry (sotāpatti), the first stage of enlightenment, and the factors that lead to this attainment.",
-        "sinhala": "ප්‍රබෝධයේ පළමු අවධිය වන සෝතාපත්ති (ධාරා ප්‍රවේශය) සහ මෙම ජයග්‍රහණයට මග පාදන සාධක පිළිබඳ ඉගැන්වීම්."
+        "english": "On the qualities of a stream-enterer and the path to achieving this first stage of enlightenment.",
+        "sinhala": "සෝවාන් පුද්ගලයාගේ ලක්ෂණ සහ එම තත්ත්වයට පත්වීම සඳහා සම්පූර්ණ කළ යුතු අංග පිළිබඳව මෙහි විස්තර වේ."
       },
-      "link": "chapters/sn.5.11-Sotāpattisaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.11-Sotāpattisaṃyuttaṃ.json"
     },
     {
       "id": "sn.5.12",
       "number": 12,
       "title": {
         "pali": "Saccasaṃyuttaṃ",
-        "english": "Connected Discourses on the Truths",
-        "sinhala": "සච්ච සංයුත්තය"
+        "english": "Linked Discourses on the Truths",
+        "sinhala": "සච්ච සංයුක්තය"
       },
       "description": {
-        "english": "The culminating teachings on the Four Noble Truths: suffering, the origin of suffering, the cessation of suffering, and the path to the cessation of suffering.",
-        "sinhala": "ආර්‍ය සත්‍ය හතර පිළිබඳ උච්චතම ඉගැන්වීම්: දුක්ඛය, දුක්ඛ සමුදාය, දුක්ඛ නිරෝධය සහ දුක්ඛ නිරෝධ ගාමිනී ප්‍රතිපදාව."
+        "english": "Focuses on the Four Noble Truths, including the famous Dhammacakkappavattana Sutta.",
+        "sinhala": "ධම්මචක්කප්පවත්තන සූත්‍රය ඇතුළුව චතුරාර්ය සත්‍යය පිළිබඳව කෙරෙන අතිශය වැදගත් දේශනා මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/sn.5.12-Saccasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Mahāvaggo/chapters/sn.5.12-Saccasaṃyuttaṃ.json"
     }
   ]
 }

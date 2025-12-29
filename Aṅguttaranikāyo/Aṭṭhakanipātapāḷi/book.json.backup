@@ -1,5 +1,5 @@
 {
-  "id": "atthakanipatapali",
+  "id": "atthakanipata",
   "basket": {
     "id": "sutta",
     "name": {
@@ -17,7 +17,7 @@
     }
   },
   "nipata": {
-    "id": "atthakanipatapali",
+    "id": "atthakanipata",
     "number": 8,
     "name": {
       "pali": "Aṭṭhakanipātapāḷi",
@@ -36,7 +36,7 @@
     "sinhala": "අෂ්ටක නිපාතය මෙයින් අවසන් වේ."
   },
   "description": {
-    "english": "The eighth major division of the Anguttara Nikaya, featuring suttas that are organized according to sets of eight items, themes, or qualities.",
+    "english": "The eighth major division of the Anguttara Nikaya, featuring suttas that are grouped according to sets of eight items, themes, or qualities.",
     "sinhala": "අංගුත්තර නිකායට අයත් අටවන කොටස වන මෙහි, කරුණු හෝ ගුණාංග අට බැගින් වූ දේශනා ඇතුළත් වේ."
   },
   "totalChapters": 11,
@@ -62,7 +62,7 @@
         "english": "Examines the eight specific benefits of practicing universal love and the cultivation of goodwill.",
         "sinhala": "මෛත්‍රී භාවනාව ප්‍රගුණ කිරීමෙන් ලැබෙන ආනිසංස අට සහ මෛත්‍රිය වර්ධනය කරන ආකාරය මෙහි විස්තර වේ."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.1-Mettāvaggo.json"
+      "link": "chapters/an8.1-Mettāvaggo.json"
     },
     {
       "id": "an8.2",
@@ -76,7 +76,7 @@
         "english": "A collection of significant discourses on wisdom, spiritual maturity, and the qualities of a great person.",
         "sinhala": "ප්‍රඥාව, ආධ්‍යාත්මික මෝරන්නා වූ ගුණාංග සහ මහා පුරුෂයෙකු සතු ලක්ෂණ පිළිබඳ වැදගත් දේශනා සමූහයකි."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.2-Mahāvaggo.json"
+      "link": "chapters/an8.2-Mahāvaggo.json"
     },
     {
       "id": "an8.3",
@@ -90,7 +90,7 @@
         "english": "Guidance for lay people, focusing on the virtues and practices that lead to success and peace in domestic life.",
         "sinhala": "ගිහි ජීවිතයේ සාර්ථකත්වය හා සාමය උදාකර දෙන ගුණධර්ම සහ පිළිවෙත් පිළිබඳව ගෘහස්ථයන්ට ලබා දුන් උපදෙස් ඇතුළත් වේ."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.3-Gahapativaggo.json"
+      "link": "chapters/an8.3-Gahapativaggo.json"
     },
     {
       "id": "an8.4",
@@ -104,7 +104,7 @@
         "english": "Delineates the eight motives for giving, the types of gifts, and how generosity leads to higher rebirths.",
         "sinhala": "දානයක් දීමට බලපාන හේතු අට, විවිධ දාන ක්‍රම සහ ත්‍යාගශීලී බව මගින් යහපත් උපතක් කරා යන මඟ මෙහි පැහැදිලි කෙරේ."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.4-Dānavaggo.json"
+      "link": "chapters/an8.4-Dānavaggo.json"
     },
     {
       "id": "an8.5",
@@ -118,7 +118,7 @@
         "english": "Detailed teachings on the eight-fold Uposatha precepts and the proper way to observe the holy days.",
         "sinhala": "අෂ්ටාංග උපෝසථ සීලය සහ පෝය දිනවල නිවැරදිව සිල් සමාදන් වන ආකාරය පිළිබඳ සවිස්තරාත්මක ඉගැන්වීම්."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.5-Uposathavaggo.json"
+      "link": "chapters/an8.5-Uposathavaggo.json"
     },
     {
       "id": "an8.6",
@@ -132,7 +132,7 @@
         "english": "Focuses on the request of Mahāpajāpatī Gotamī, the eight conditions for nuns, and the role of women in the Dhamma.",
         "sinhala": "මහාපජාපති ගෝතමියගේ ඉල්ලීම, භික්ෂුණීන් සඳහා වූ ගරුධර්ම අට සහ ශාසනය තුළ කාන්තාවන්ගේ භූමිකාව පිළිබඳ දේශනා."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.6-Gotamīvaggo.json"
+      "link": "chapters/an8.6-Gotamīvaggo.json"
     },
     {
       "id": "an8.7",
@@ -146,7 +146,7 @@
         "english": "Features the famous discourse on the eight causes of earthquakes and other natural and spiritual phenomena.",
         "sinhala": "භූමිකම්පා ඇතිවීමට බලපාන හේතු අට සහ තවත් ස්වභාවික හා ආධ්‍යාත්මික සංසිද්ධීන් පිළිබඳ දේශනා ඇතුළත් වේ."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.7-Bhūmicālavaggo.json"
+      "link": "chapters/an8.7-Bhūmicālavaggo.json"
     },
     {
       "id": "an8.8",
@@ -160,7 +160,7 @@
         "english": "Teachings organized in pairs, dealing with contrasting states of mind and spiritual progress.",
         "sinhala": "කුසල හා අකුසල මනෝභාවයන් මෙන්ම ආධ්‍යාත්මික ප්‍රගතිය යුගල වශයෙන් සංසන්දනය කරමින් කළ දේශනා මෙහි දැක්වේ."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.8-Yamakavaggo.json"
+      "link": "chapters/an8.8-Yamakavaggo.json"
     },
     {
       "id": "an8.9",
@@ -174,21 +174,21 @@
         "english": "Emphasizes the importance of mindfulness and clear comprehension in overcoming mental fetters.",
         "sinhala": "මානසික බැඳීම්වලින් මිදීම සඳහා සිහිය සහ සම්පජන්‍යය පවත්වා ගැනීමේ වැදගත්කම අවධාරණය කරයි."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.9-Sativaggo.json"
+      "link": "chapters/an8.9-Sativaggo.json"
     },
     {
       "id": "an8.10",
       "number": 10,
       "title": {
         "pali": "Sāmaññavaggo",
-        "english": "Similitudes",
+        "english": "Asceticism",
         "sinhala": "සාමඤ්ඤ වර්ගය"
       },
       "description": {
-        "english": "Contains various teachings using groups of eight to explain common spiritual qualities and monastic conduct.",
-        "sinhala": "පොදු ආධ්‍යාත්මික ගුණාංග සහ පැවිදි විනය පැහැදිලි කිරීම සඳහා අටේ කණ්ඩායම් භාවිත කරමින් කළ විවිධ දේශනා මෙහි ඇතුළත් වේ."
+        "english": "Discusses the qualities that define a true ascetic and the goals of the monastic life.",
+        "sinhala": "සැබෑ ශ්‍රමණයෙකුගේ ගුණාංග සහ පැවිදි ජීවිතයේ පරමාර්ථ පිළිබඳව සාකච්ඡා කෙරේ."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.10-Sāmaññavaggo.json"
+      "link": "chapters/an8.10-Sāmaññavaggo.json"
     },
     {
       "id": "an8.11",
@@ -202,7 +202,7 @@
         "english": "A concluding series of repetitive texts outlining the removal of lust, hatred, and delusion through the eight-fold path.",
         "sinhala": "රාග, ද්වේෂ හා මෝහය දුරු කිරීම සඳහා අනුගමනය කළ යුතු ක්‍රමවේදයන් කෙටි පෙළ පෙළගැස්මක් ලෙස ඉදිරිපත් කරයි."
       },
-      "link": "Aṅguttaranikāyo/Aṭṭhakanipātapāḷi/chapters/an8.11-Rāgapeyyālaṃ.json"
+      "link": "chapters/an8.11-Rāgapeyyālaṃ.json"
     }
   ]
 }

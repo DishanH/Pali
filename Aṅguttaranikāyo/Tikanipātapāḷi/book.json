@@ -1,10 +1,10 @@
 {
-  "id": "tikanipata",
+  "id": "tikanipatapali",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
@@ -12,124 +12,127 @@
     "id": "anguttaranikaya",
     "name": {
       "pali": "Aṅguttara Nikāya",
-      "english": "Numerical Discourses",
+      "english": "The Numerical Discourses",
       "sinhala": "අංගුත්තර නිකාය"
     }
   },
   "nipata": {
-    "id": "tikanipata",
+    "id": "tikanipatapali",
     "number": 3,
     "name": {
       "pali": "Tikanipātapāḷi",
-      "english": "The Chapter of the Threes",
-      "sinhala": "තිකනිපාත පාළිය"
+      "english": "The Book of the Threes",
+      "sinhala": "තික නිපාතය"
     }
   },
   "title": {
     "pali": "Tikanipātapāḷi",
-    "english": "The Chapter of the Threes",
-    "sinhala": "තිකනිපාත පාළිය"
+    "english": "The Book of the Threes",
+    "sinhala": "තික නිපාතය"
   },
   "footer": {
     "pali": "Tikanipātapāḷi niṭṭhitā.",
-    "english": "The Chapter of the Threes is completed.",
-    "sinhala": "තිකනිපාත පාළිය නිමි වේ."
+    "english": "The Book of the Threes is concluded.",
+    "sinhala": "තික නිපාතය මෙයින් අවසන් වේ."
   },
   "description": {
-    "english": "The third collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around groups of three factors.",
-    "sinhala": "අංගුත්තර නිකායේ තුන්වන එකතුව වන මෙය සාධක තුනේ කණ්ඩායම් වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+    "english": "The third division of the Anguttara Nikaya, containing discourses organized into groups of three. It highlights the three root causes of unwholesome actions and the three characteristics of existence.",
+    "sinhala": "අංගුත්තර නිකායේ තුන්වන කොටස වන මෙහි කරුණු තුන බැගින් වූ දේශනා අන්තර්ගත වේ. අකුසල මූලයන් තුන සහ ත්‍රිලක්ෂණය වැනි මූලික බුදුදහමේ ඉගැන්වීම් මෙහි විස්තර කෙරේ."
   },
   "totalChapters": 14,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-24",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "an3.1",
       "number": 1,
       "title": {
         "pali": "Bālavaggo",
-        "english": "The Chapter on Fools",
-        "sinhala": "බාල වග්ගය"
+        "english": "The Fool",
+        "sinhala": "බාල වර්ගය"
       },
       "description": {
-        "english": "Teachings distinguishing between fools and wise persons through their actions and understanding.",
-        "sinhala": "ක්‍රියා සහ අවබෝධය හරහා මෝඩයන් සහ ප්‍රඥාවන්තයන් අතර වෙනස හඳුනා ගැනීමේ ඉගැන්වීම්."
+        "english": "Discusses the three characteristics that define a fool and the consequences of unwise actions.",
+        "sinhala": "බාලයෙකු හඳුනාගත හැකි ලක්ෂණ තුන සහ අඥාන ක්‍රියාවල විපාක මෙහි විස්තර වේ."
       },
-      "link": "chapters/an3.1-Bālavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.1-Bālavaggo.json"
     },
     {
       "id": "an3.2",
       "number": 2,
       "title": {
         "pali": "Rathakāravaggo",
-        "english": "The Chapter on the Chariot Maker",
-        "sinhala": "රථකාර වග්ගය"
+        "english": "The Chariot Maker",
+        "sinhala": "රථකාර වර්ගය"
       },
       "description": {
-        "english": "Teachings using the simile of a skilled chariot maker to illustrate spiritual development.",
-        "sinhala": "ආධ්‍යාත්මික දියුණුව නිදර්ශනය කිරීම සඳහා දක්ෂ රථකරුවෙකුගේ උපමාව භාවිතා කරන ඉගැන්වීම්."
+        "english": "Contains similes involving craftsmanship and the steady effort required for spiritual progress.",
+        "sinhala": "ශිල්පීය දක්ෂතාවයන් උපමා කරගනිමින් ආධ්‍යාත්මික දියුණුවට අවශ්‍ය උත්සාහය ගැන මෙහි පැහැදිලි කරයි."
       },
-      "link": "chapters/an3.2-Rathakāravaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.2-Rathakāravaggo.json"
     },
     {
       "id": "an3.3",
       "number": 3,
       "title": {
         "pali": "Puggalavaggo",
-        "english": "The Chapter on Persons",
-        "sinhala": "පුග්ගල වග්ගය"
+        "english": "Persons",
+        "sinhala": "පුද්ගල වර්ගය"
       },
       "description": {
-        "english": "Classifications of different types of persons based on their spiritual qualities and attainments.",
-        "sinhala": "ආධ්‍යාත්මික ගුණාංග සහ ජයග්‍රහණ මත පදනම්ව විවිධ පුද්ගල වර්ගීකරණ."
+        "english": "Classifies various types of individuals into groups of three based on their conduct and wisdom.",
+        "sinhala": "ප්‍රඥාව සහ හැසිරීම පදනම් කරගෙන විවිධ පුද්ගලයන් වර්ග තුනකට බෙදා මෙහි විග්‍රහ කෙරේ."
       },
-      "link": "chapters/an3.3-Puggalavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.3-Puggalavaggo.json"
     },
     {
       "id": "an3.4",
       "number": 4,
       "title": {
         "pali": "Devadūtavaggo",
-        "english": "The Chapter on Divine Messengers",
-        "sinhala": "දේවදූත වග්ගය"
+        "english": "Divine Messengers",
+        "sinhala": "දේවදූත වර්ගය"
       },
       "description": {
-        "english": "Teachings on the three divine messengers: old age, sickness, and death.",
-        "sinhala": "දිව්‍ය දූතයන් තිදෙනා: වයස්ගත වීම, රෝගාතුර වීම සහ මරණය පිළිබඳ ඉගැන්වීම්."
+        "english": "Focuses on the three messengers—old age, sickness, and death—that urge beings toward the Dhamma.",
+        "sinhala": "ජරාව, ව්‍යාධිය සහ මරණය යන දේවදූතයන් තිදෙනා මගින් මිනිසාට ලැබෙන පණිවිඩය මෙහි විස්තර කෙරේ."
       },
-      "link": "chapters/an3.4-Devadūtavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.4-Devadūtavaggo.json"
     },
     {
       "id": "an3.5",
       "number": 5,
       "title": {
         "pali": "Cūḷavaggo",
-        "english": "The Lesser Chapter",
-        "sinhala": "චූළ වග්ගය"
+        "english": "The Small Chapter",
+        "sinhala": "චූළ වර්ගය"
       },
       "description": {
-        "english": "Various shorter teachings on different aspects of the spiritual path.",
-        "sinhala": "ආධ්‍යාත්මික මාර්ගයේ විවිධ අංශ පිළිබඳ විවිධ කෙටි ඉගැන්වීම්."
+        "english": "A collection of shorter discourses covering a variety of three-fold topics.",
+        "sinhala": "විවිධ මාතෘකා යටතේ කරුණු තුන බැගින් සාකච්ඡා කෙරෙන කෙටි දේශනා එකතුවකි."
       },
-      "link": "chapters/an3.5-Cūḷavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.5-Cūḷavaggo.json"
     },
     {
       "id": "an3.6",
       "number": 6,
       "title": {
         "pali": "Brāhmaṇavaggo",
-        "english": "The Chapter on Brahmins",
-        "sinhala": "බ්‍රාහ්මණ වග්ගය"
+        "english": "Brahmins",
+        "sinhala": "බ්‍රාහ්මණ වර්ගය"
       },
       "description": {
-        "english": "Teachings addressed to brahmins about true spiritual nobility and practice.",
-        "sinhala": "සැබෑ ආධ්‍යාත්මික උතුම්කම සහ භාවනාව පිළිබඳ බ්‍රාහ්මණයන්ට ලබා දුන් ඉගැන්වීම්."
+        "english": "Discourses related to the views and practices of Brahmins compared with the Buddha's path.",
+        "sinhala": "බ්‍රාහ්මණයන්ගේ ඇදහිලි සහ බුදුමගෙහි ඇති වෙනස පෙන්වා දෙන දේශනා මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/an3.6-Brāhmaṇavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.6-Brāhmaṇavaggo.json"
     },
     {
       "id": "an3.7",
@@ -137,111 +140,111 @@
       "title": {
         "pali": "Mahāvaggo",
         "english": "The Great Chapter",
-        "sinhala": "මහා වග්ගය"
+        "sinhala": "මහා වර්ගය"
       },
       "description": {
-        "english": "Important teachings on fundamental aspects of Buddhist doctrine and practice.",
-        "sinhala": "බෞද්ධ ධර්මයේ සහ භාවනාවේ මූලික අංශ පිළිබඳ වැදගත් ඉගැන්වීම්."
+        "english": "Includes the pivotal Kalama Sutta on free inquiry and the three kinds of pride.",
+        "sinhala": "විමර්ශනයට අවස්ථාව දෙන කාලාම සූත්‍රය සහ මද තුනක් (ආඩම්බරය) පිළිබඳ දේශනා මෙහි අඩංගු වේ."
       },
-      "link": "chapters/an3.7-Mahāvaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.7-Mahāvaggo.json"
     },
     {
       "id": "an3.8",
       "number": 8,
       "title": {
         "pali": "Ānandavaggo",
-        "english": "The Chapter on Ānanda",
-        "sinhala": "ආනන්ද වග්ගය"
+        "english": "With Ananda",
+        "sinhala": "ආනන්ද වර්ගය"
       },
       "description": {
-        "english": "Teachings involving Venerable Ānanda, the Buddha's chief attendant.",
-        "sinhala": "බුදුරජාණන් වහන්සේගේ ප්‍රධාන සේවකයා වන ආනන්ද මහ ස්ථවිරයන් වහන්සේ සම්බන්ධ ඉගැන්වීම්."
+        "english": "Dialogues between the Buddha and Ven. Ananda on subtle aspects of the Dhamma.",
+        "sinhala": "බුදුරජාණන් වහන්සේ සහ ආනන්ද හිමියන් අතර ඇති වූ ගැඹුරු ධර්ම සාකච්ඡා මෙහි දැක්වේ."
       },
-      "link": "chapters/an3.8-Ānandavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.8-Ānandavaggo.json"
     },
     {
       "id": "an3.9",
       "number": 9,
       "title": {
         "pali": "Samaṇavaggo",
-        "english": "The Chapter on Ascetics",
-        "sinhala": "සමණ වග්ගය"
+        "english": "Ascetics",
+        "sinhala": "සමණ වර්ගය"
       },
       "description": {
-        "english": "Teachings on the qualities and conduct of true ascetics and spiritual practitioners.",
-        "sinhala": "සැබෑ සමණවරුන්ගේ සහ ආධ්‍යාත්මික භාවනාකරුවන්ගේ ගුණාංග සහ හැසිරීම පිළිබඳ ඉගැන්වීම්."
+        "english": "Discusses the three-fold training (virtue, concentration, and wisdom) essential for a true seeker.",
+        "sinhala": "ත්‍රිවිධ ශික්ෂාව (සීල, සමාධි, ප්‍රඥා) සහ ශ්‍රමණයෙකුගේ ප්‍රතිපදාව මෙහි විස්තර කෙරේ."
       },
-      "link": "chapters/an3.9-Samaṇavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.9-Samaṇavaggo.json"
     },
     {
       "id": "an3.10",
       "number": 10,
       "title": {
-        "pali": "Sambodhavaggo",
-        "english": "The Chapter on Enlightenment",
-        "sinhala": "සම්බෝධ වග්ගය"
+        "pali": "Loṇakapallavaggo",
+        "english": "Salt Crystal",
+        "sinhala": "ලෝණකපල්ලව වර්ගය"
       },
       "description": {
-        "english": "Teachings on the factors leading to enlightenment and spiritual awakening.",
-        "sinhala": "බුද්ධත්වයට සහ ආධ්‍යාත්මික අවබෝධයට මග පාදන සාධක පිළිබඳ ඉගැන්වීම්."
+        "english": "Explains the conditions for awakening and the overcoming of the three fetters.",
+        "sinhala": "අවබෝධය ලබා ගැනීමට අවශ්‍ය කරුණු සහ සංයෝජන තුනක් ප්‍රහීණ කිරීම ගැන මෙහි දැක්වේ."
       },
-      "link": "chapters/an3.10-Sambodhavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.10-Loṇakapallavaggo.json"
     },
     {
-      "id": "an3.11",
+      "id": "an3.15",
       "number": 11,
       "title": {
         "pali": "Maṅgalavaggo",
-        "english": "The Chapter on Auspicious Things",
-        "sinhala": "මංගල වග්ගය"
+        "english": "Blessings",
+        "sinhala": "මංගල වර්ගය"
       },
       "description": {
-        "english": "Teachings on what constitutes true auspiciousness and good fortune in spiritual life.",
-        "sinhala": "ආධ්‍යාත්මික ජීවිතයේ සැබෑ මංගල්‍ය බව සහ සුභ වාසනාව යනු කුමක්ද යන්න පිළිබඳ ඉගැන්වීම්."
+        "english": "Highlights three-fold actions that lead to prosperity and spiritual blessings.",
+        "sinhala": "අභිවෘද්ධියට සහ මංගල කරුණු වලට හේතු වන ත්‍රිවිධ ක්‍රියාවන් මෙහි විග්‍රහ කෙරේ."
       },
-      "link": "chapters/an3.11-Maṅgalavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.15-Maṅgalavaggo.json"
     },
     {
-      "id": "an3.12",
+      "id": "an3.16",
       "number": 12,
       "title": {
         "pali": "Acelakavaggo",
-        "english": "The Chapter on Naked Ascetics",
-        "sinhala": "අචේලක වග්ගය"
+        "english": "Naked Ascetics",
+        "sinhala": "අචේලක වර්ගය"
       },
       "description": {
-        "english": "Teachings contrasting true spiritual practice with mere external austerities.",
-        "sinhala": "සැබෑ ආධ්‍යාත්මික භාවනාව හුදු බාහිර කඨින ක්‍රියා සමඟ සංසන්දනය කරන ඉගැන්වීම්."
+        "english": "Addresses practices of other ascetic groups and the correct way to handle praise and blame.",
+        "sinhala": "අන්‍ය ආගමික වත්පිළිවෙත් සහ නින්දා-ප්‍රශංසා හමුවේ ක්‍රියා කළ යුතු ආකාරය මෙහි දැක්වේ."
       },
-      "link": "chapters/an3.12-Acelakavaggo.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.16-Acelakavaggo.json"
     },
     {
-      "id": "an3.13",
+      "id": "an3.17",
       "number": 13,
       "title": {
         "pali": "Kammapathapeyyālaṃ",
-        "english": "The Repetition Series on Courses of Action",
-        "sinhala": "කම්මපථ පේය්‍යාලය"
+        "english": "Course of Action",
+        "sinhala": "කම්මපථ පෙය්‍යාලය"
       },
       "description": {
-        "english": "Systematic repetitions on the ten courses of wholesome and unwholesome action.",
-        "sinhala": "කුසල සහ අකුසල ක්‍රියා මාර්ග දහය පිළිබඳ ක්‍රමානුකූල පුනරාවර්තන."
+        "english": "A series of texts on the three types of bodily, verbal, and mental actions.",
+        "sinhala": "ත්‍රිවිධ කාය, වාග් සහ මනෝ කර්මයන් පිළිබඳ විස්තර කෙරෙන කෙටි දේශනා මාලාවකි."
       },
-      "link": "chapters/an3.13-Kammapathapeyyālaṃ.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.17-Kammapathapeyyālaṃ.json"
     },
     {
-      "id": "an3.14",
+      "id": "an3.18",
       "number": 14,
       "title": {
         "pali": "Rāgapeyyālaṃ",
-        "english": "The Repetition Series on Greed",
-        "sinhala": "රාග පේය්‍යාලය"
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
       },
       "description": {
-        "english": "Systematic repetitions on greed, hatred, and delusion and their opposites.",
-        "sinhala": "ලෝභය, ද්වේෂය සහ මෝහය සහ ඒවායේ ප්‍රතිවිරුද්ධ ගුණාංග පිළිබඳ ක්‍රමානුකූල පුනරාවර්තන."
+        "english": "Repeated texts detailing the abandonment of greed, hatred, and delusion.",
+        "sinhala": "රාග, ද්වේෂ, මෝහයන් දුරු කිරීමේ වැදගත්කම අවධාරණය කරන කෙටි දේශනා පෙළ."
       },
-      "link": "chapters/an3.14-Rāgapeyyālaṃ.json"
+      "link": "Aṅguttaranikāyo/Tikanipātapāḷi/chapters/an3.18-Rāgapeyyālaṃ.json"
     }
   ]
 }

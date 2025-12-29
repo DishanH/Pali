@@ -1,10 +1,10 @@
 {
-  "id": "silakkhandhavagga",
+  "id": "silakkhandhavaggapali",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
@@ -12,54 +12,57 @@
     "id": "dighanikaya",
     "name": {
       "pali": "Dīgha Nikāya",
-      "english": "Long Discourses",
+      "english": "The Long Discourses",
       "sinhala": "දීඝ නිකාය"
     }
   },
   "vagga": {
-    "id": "silakkhandhavagga",
+    "id": "silakkhandhavaggapali",
     "number": 1,
     "name": {
       "pali": "Sīlakkhandhavaggapāḷi",
-      "english": "The Division of the Moral Precepts",
-      "sinhala": "සීලක්ඛන්ධ වග්ග පාළිය"
+      "english": "The Section on Virtue",
+      "sinhala": "සීලක්ඛන්ධ වර්ගය"
     }
   },
   "title": {
     "pali": "Sīlakkhandhavaggapāḷi",
-    "english": "The Division of the Moral Precepts",
-    "sinhala": "සීලක්ඛන්ධ වග්ග පාළිය"
+    "english": "The Section on Virtue",
+    "sinhala": "සීලක්ඛන්ධ වර්ගය"
   },
   "footer": {
     "pali": "Sīlakkhandhavaggo niṭṭhito. Tassuddānaṃ – Brahmāsāmaññaambaṭṭha, Soṇakūṭamahālijālinī; Sīhapoṭṭhapādasubho kevaṭṭo, Lohiccatevijjā terasāti. Sīlakkhandhavaggapāḷi niṭṭhitā",
-    "english": "The Division of the Moral Precepts is completed. Its summary: Brahmajāla, Sāmaññaphala, Ambaṭṭha, Soṇadaṇḍa, Kūṭadanta, Mahāli, Jāliya, Mahāsīhanāda, Poṭṭhapāda, Subha, Kevaṭṭa, Lohicca, and Tevijja - thirteen in all. The Division of the Moral Precepts is finished.",
-    "sinhala": "සීලක්ඛන්ධ වග්ගය නිමි වේ. එහි සාරාංශය - බ්‍රහ්මජාල, සාමඤ්ඤඵල, අම්බට්ඨ, සෝණදණ්ඩ, කූටදන්ත, මහාලි, ජාලිය, මහාසීහනාද, පොට්ඨපාද, සුභ, කේවට්ට, ලොහිච්ච සහ තේවිජ්ජ යන දහතුනයි. සීලක්ඛන්ධ වග්ග පාළිය නිමි වේ."
+    "english": "The Section on Virtue is finished. Its summary: Brahmajāla, Sāmaññaphala, Ambaṭṭha, Soṇadaṇḍa, Kūṭadanta, Mahāli, Jāliya, Kassapa-Sīhanāda, Poṭṭhapāda, Subha, Kevaṭṭa, Lohicca, and Tevijja—these thirteen. The Section on Virtue is concluded.",
+    "sinhala": "සීලක්ඛන්ධ වර්ගය මෙයින් නිමවේ. එහි උද්දානය: බ්‍රහ්මජාල, සාමඤ්ඤඵල, අම්බට්ඨ, සෝණදණ්ඩ, කූටදන්ත, මහාලි, ජාලිය, මහාසීහනාද, පොට්ඨපාද, සුභ, කේවට්ට, ලෝහිච්ච සහ තේවිජ්ජ යන සූත්‍ර දහතුන මෙහි අන්තර්ගත වේ. සීලක්ඛන්ධ වර්ගය අවසන් වේ."
   },
   "description": {
-    "english": "The first collection of the Long Discourses (Dīgha Nikāya), containing thirteen suttas focused on moral conduct, meditation, and wisdom.",
-    "sinhala": "දීඝ නිකායේ පළමු එකතුව වන මෙය සදාචාරය, භාවනාව සහ ප්‍රඥාව කෙරෙහි අවධානය යොමු කරන සූත්‍ර දහතුනක් අඩංගු වේ."
+    "english": "The first division of the Digha Nikaya, focusing on the foundation of Buddhist ethics (Sila). It addresses various philosophical views, the benefits of the monk's life, and the Buddha's unique approach to social and religious issues of his time.",
+    "sinhala": "දීඝ නිකායේ පළමු කොටසයි. බෞද්ධ සදාචාරයේ පදනම වන සීලය පිළිබඳව මෙහි මූලිකව අවධානය යොමු කෙරේ. විවිධ දෘෂ්ටි, ශ්‍රමණ ජීවිතයේ ඵල සහ එකල පැවති සමාජ හා ආගමික ගැටලු පිළිබඳ බුදුරජාණන් වහන්සේගේ ස්ථාවරය මෙහි විස්තර වේ."
   },
   "totalChapters": 13,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-11-18",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "dn.1.1",
       "number": 1,
       "title": {
         "pali": "Brahmajālasuttaṃ",
-        "english": "The All-Embracing Net of Views",
+        "english": "The All-embracing Net of Views",
         "sinhala": "බ්‍රහ්මජාල සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha's comprehensive analysis of sixty-two philosophical views, showing how they are all caught in the net of wrong views.",
-        "sinhala": "බුදුරජාණන් වහන්සේ විසින් දාර්ශනික මතවාද හැට දෙකක් පිළිබඳ සවිස්තරාත්මක විශ්ලේෂණයක් කරමින් ඒවා සියල්ල වැරදි මතවල දැලෙහි හසු වී ඇති ආකාරය පෙන්වයි."
+        "english": "The Buddha details 62 types of philosophical views concerning the past and future, and how the Tathagata remains beyond them.",
+        "sinhala": "අතීතය සහ අනාගතය පිළිබඳව පවතින දෘෂ්ටි 62ක් සහ තථාගතයන් වහන්සේ එම දෘෂ්ටි ජාලයෙන් මිදී සිටින ආකාරය මෙහි විස්තර වේ."
       },
-      "link": "chapters/dn.1.1-Brahmajālasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.1-Brahmajālasuttaṃ.json"
     },
     {
       "id": "dn.1.2",
@@ -70,164 +73,164 @@
         "sinhala": "සාමඤ්ඤඵල සූත්‍රය"
       },
       "description": {
-        "english": "King Ajātasattu asks about the visible benefits of the spiritual life, and the Buddha describes the progressive stages of practice.",
-        "sinhala": "අජාතසත්තු රජු ආධ්‍යාත්මික ජීවිතයේ දෘශ්‍ය ප්‍රතිලාභ ගැන විමසන අතර බුදුරජාණන් වහන්සේ භාවනාවේ ප්‍රගතිශීලී අවධීන් විස්තර කරයි."
+        "english": "A famous dialogue with King Ajātasattu regarding the visible benefits of being a monk, from basic ethics to enlightenment.",
+        "sinhala": "අජාසත්ත රජු සහ බුදුරජාණන් වහන්සේ අතර ඇති වූ සංවාදයකි. ශ්‍රමණ ජීවිතයෙහි ඇති සීලයේ සිට රහත් බව දක්වා වූ සාන්දෘෂ්ටික ඵලයන් මෙහි විස්තර වේ."
       },
-      "link": "chapters/dn.1.2-Sāmaññaphalasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.2-Sāmaññaphalasuttaṃ.json"
     },
     {
       "id": "dn.1.3",
       "number": 3,
       "title": {
         "pali": "Ambaṭṭhasuttaṃ",
-        "english": "About Ambaṭṭha",
+        "english": "With Ambaṭṭha",
         "sinhala": "අම්බට්ඨ සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha teaches the young brahmin Ambaṭṭha about true nobility and the marks of a great man.",
-        "sinhala": "බුදුරජාණන් වහන්සේ තරුණ බ්‍රාහ්මණයා වන අම්බට්ඨට සැබෑ උතුම් බව සහ මහා පුරුෂයාගේ ලක්ෂණ ගැන ඉගැන්වයි."
+        "english": "A discourse on caste and lineage, where the Buddha challenges Brahmin pride and defines true nobility.",
+        "sinhala": "කුලය සහ පෙළපත පිළිබඳව බ්‍රාහ්මණයන් තුළ පැවති මානය බුදුරජාණන් වහන්සේ විසින් බිඳ දමා සැබෑ ශ්‍රේෂ්ඨත්වය කුමක්දැයි පෙන්වා දෙන දේශනාවකි."
       },
-      "link": "chapters/dn.1.3-Ambaṭṭhasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.3-Ambaṭṭhasuttaṃ.json"
     },
     {
       "id": "dn.1.4",
       "number": 4,
       "title": {
         "pali": "Soṇadaṇḍasuttaṃ",
-        "english": "About Soṇadaṇḍa",
+        "english": "With Soṇadaṇḍa",
         "sinhala": "සෝණදණ්ඩ සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha discusses with the brahmin Soṇadaṇḍa what constitutes a true brahmin.",
-        "sinhala": "බුදුරජාණන් වහන්සේ සෝණදණ්ඩ බ්‍රාහ්මණයා සමඟ සැබෑ බ්‍රාහ්මණයෙකු යනු කුමක්ද යන්න සාකච්ඡා කරයි."
+        "english": "The Buddha discusses with the Brahmin Sonadanda what truly makes one a Brahmin: wisdom and conduct.",
+        "sinhala": "සැබෑ බ්‍රාහ්මණයෙකු වීමට අවශ්‍ය වන්නේ උපත නොව ප්‍රඥාව සහ සීලය බව සෝණදණ්ඩ බ්‍රාහ්මණයාට පෙන්වා දෙන දේශනාවකි."
       },
-      "link": "chapters/dn.1.4-Soṇadaṇḍasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.4-Soṇadaṇḍasuttaṃ.json"
     },
     {
       "id": "dn.1.5",
       "number": 5,
       "title": {
         "pali": "Kūṭadantasuttaṃ",
-        "english": "About Kūṭadanta",
+        "english": "With Kūṭadanta",
         "sinhala": "කූටදන්ත සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha teaches the brahmin Kūṭadanta about the proper way to perform a sacrifice.",
-        "sinhala": "බුදුරජාණන් වහන්සේ කූටදන්ත බ්‍රාහ්මණයාට යාගයක් සිදු කිරීමේ නිසි ක්‍රමය ගැන ඉගැන්වයි."
+        "english": "The Buddha redefines the concept of 'sacrifice' to the Brahmin Kutadanta, favoring non-violence and mental training.",
+        "sinhala": "හිංසාවෙන් තොර යාගය සහ ආධ්‍යාත්මික පූජාව පිළිබඳව කූටදන්ත බ්‍රාහ්මණයාට කළ දේශනාවකි."
       },
-      "link": "chapters/dn.1.5-Kūṭadantasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.5-Kūṭadantasuttaṃ.json"
     },
     {
       "id": "dn.1.6",
       "number": 6,
       "title": {
         "pali": "Mahālisuttaṃ",
-        "english": "About Mahāli",
+        "english": "To Mahāli",
         "sinhala": "මහාලි සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha discusses with Mahāli about divine sight and hearing, and the nature of the soul.",
-        "sinhala": "බුදුරජාණන් වහන්සේ මහාලි සමඟ දිව්‍ය දර්ශනය සහ ශ්‍රවණය සහ ආත්මයේ ස්වභාවය ගැන සාකච්ඡා කරයි."
+        "english": "Addresses the nature of divine sights and sounds, and the higher goals of the spiritual path.",
+        "sinhala": "දිව්‍ය රූප දැකීම සහ ශබ්ද ඇසීම පිළිබඳව මහාලි ලිච්ඡවියා ඇසූ ප්‍රශ්න වලට පිළිතුරු දෙමින් උසස් ආධ්‍යාත්මික අරමුණු පෙන්වා දෙන දේශනාවකි."
       },
-      "link": "chapters/dn.1.6-Mahālisuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.6-Mahālisuttaṃ.json"
     },
     {
       "id": "dn.1.7",
       "number": 7,
       "title": {
         "pali": "Jāliyasuttaṃ",
-        "english": "About Jāliya",
+        "english": "To Jāliya",
         "sinhala": "ජාලිය සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha teaches about the relationship between the body and the soul to the ascetic Jāliya.",
-        "sinhala": "බුදුරජාණන් වහන්සේ ජාලිය තපසා වෙත ශරීරය සහ ආත්මය අතර සම්බන්ධතාවය ගැන ඉගැන්වයි."
+        "english": "A short discourse on whether the soul and the body are the same or different.",
+        "sinhala": "ජීවය හෙවත් ආත්මය සහ ශරීරය යනු දෙකක්ද නැතහොත් එකක්ද යන්න පිළිබඳව කෙරෙන විග්‍රහයකි."
       },
-      "link": "chapters/dn.1.7-Jāliyasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.7-Jāliyasuttaṃ.json"
     },
     {
       "id": "dn.1.8",
       "number": 8,
       "title": {
         "pali": "Mahāsīhanādasuttaṃ",
-        "english": "The Great Lion's Roar",
+        "english": "The Great Lion’s Roar",
         "sinhala": "මහාසීහනාද සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha proclaims his unique qualities and the distinctive features of his teaching.",
-        "sinhala": "බුදුරජාණන් වහන්සේ තමන්ගේ අද්විතීය ගුණාංග සහ තම ඉගැන්වීමේ සුවිශේෂී ලක්ෂණ ප්‍රකාශ කරයි."
+        "english": "The Buddha discusses the futility of extreme asceticism and the efficacy of the Eightfold Path with the ascetic Kassapa.",
+        "sinhala": "අන්තගාමී තපස් වත්පිළිවෙත් වල ඇති නිශ්ඵලභාවය සහ ආර්ය අෂ්ටාංගික මාර්ගයේ ඇති වැදගත්කම කාශ්‍යප නම් පිරිවැජියාට පෙන්වා දෙන දේශනාවකි."
       },
-      "link": "chapters/dn.1.8-Mahāsīhanādasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.8-Mahāsīhanādasuttaṃ.json"
     },
     {
       "id": "dn.1.9",
       "number": 9,
       "title": {
         "pali": "Poṭṭhapādasuttaṃ",
-        "english": "About Poṭṭhapāda",
+        "english": "With Poṭṭhapāda",
         "sinhala": "පොට්ඨපාද සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha discusses with the wanderer Poṭṭhapāda about the nature of perception and consciousness.",
-        "sinhala": "බුදුරජාණන් වහන්සේ පොට්ඨපාද පරිබ්‍රාජක සමඟ සංඥාව සහ විඤ්ඤාණයේ ස්වභාවය ගැන සාකච්ඡා කරයි."
+        "english": "A discussion on the cessation of consciousness and the nature of the self.",
+        "sinhala": "සංඥාවන් ඇතිවන ආකාරය, නිරුද්ධ වන ආකාරය සහ ආත්මය පිළිබඳ පැවති විවිධ මත පිළිබඳව කළ විග්‍රහයකි."
       },
-      "link": "chapters/dn.1.9-Poṭṭhapādasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.9-Poṭṭhapādasuttaṃ.json"
     },
     {
       "id": "dn.1.10",
       "number": 10,
       "title": {
         "pali": "Subhasuttaṃ",
-        "english": "About Subha",
+        "english": "To Subha",
         "sinhala": "සුභ සූත්‍රය"
       },
       "description": {
-        "english": "Venerable Ānanda teaches the young brahmin Subha about the Buddha's teachings on conduct, concentration, and wisdom.",
-        "sinhala": "ආනන්ද මහ ස්ථවිරයන් වහන්සේ තරුණ බ්‍රාහ්මණයා වන සුභට ශීලය, සමාධිය සහ ප්‍රඥාව පිළිබඳ බුදුරජාණන් වහන්සේගේ ඉගැන්වීම් ගැන ඉගැන්වයි."
+        "english": "Given by Ven. Ananda after the Buddha's passing, describing the three-fold training: virtue, concentration, and wisdom.",
+        "sinhala": "බුදුරජාණන් වහන්සේගේ පිරිනිවීමෙන් පසු ආනන්ද හිමියන් විසින් සුභ මානවකයාට ත්‍රිවිධ ශික්ෂාව (සීල, සමාධි, ප්‍රඥා) පිළිබඳව කළ දේශනාවකි."
       },
-      "link": "chapters/dn.1.10-Subhasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.10-Subhasuttaṃ.json"
     },
     {
       "id": "dn.1.11",
       "number": 11,
       "title": {
         "pali": "Kevaṭṭasuttaṃ",
-        "english": "About Kevaṭṭa",
+        "english": "To Kevaṭṭa",
         "sinhala": "කේවට්ට සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha teaches Kevaṭṭa about the proper use of psychic powers and the nature of consciousness.",
-        "sinhala": "බුදුරජාණන් වහන්සේ කේවට්ටට මනෝ බලයන්හි නිසි භාවිතය සහ විඤ්ඤාණයේ ස්වභාවය ගැන ඉගැන්වයි."
+        "english": "The Buddha explains why he does not encourage public displays of psychic powers, highlighting 'the miracle of instruction' instead.",
+        "sinhala": "ප්‍රාතිහාර්ය පෑමට වඩා 'අනුසාසනී ප්‍රාතිහාර්යය' (ධර්මය මගින් මිනිසුන් යහමගට ගැනීම) උතුම් බව කේවට්ටට පෙන්වා දෙන දේශනාවකි."
       },
-      "link": "chapters/dn.1.11-Kevaṭṭasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.11-Kevaṭṭasuttaṃ.json"
     },
     {
       "id": "dn.1.12",
       "number": 12,
       "title": {
         "pali": "Lohiccasuttaṃ",
-        "english": "About Lohicca",
-        "sinhala": "ලොහිච්ච සූත්‍රය"
+        "english": "With Lohicca",
+        "sinhala": "ලෝහිච්ච සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha refutes the brahmin Lohicca's wrong view that teachers should not share their knowledge.",
-        "sinhala": "බුදුරජාණන් වහන්සේ ගුරුවරුන් තම දැනුම බෙදා නොගත යුතු යන ලොහිච්ච බ්‍රාහ්මණයාගේ වැරදි මතය ප්‍රතික්ෂේප කරයි."
+        "english": "Discusses the ethics of teaching and what constitutes a blameworthy or blameless teacher.",
+        "sinhala": "ධර්මය ඉගැන්වීමේදී ගුරුවරයෙකු සතු විය යුතු සුදුසුකම් සහ නිවැරදි ඉගැන්වීම් ක්‍රමය පිළිබඳ දේශනාවකි."
       },
-      "link": "chapters/dn.1.12-Lohiccasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.12-Lohiccasuttaṃ.json"
     },
     {
       "id": "dn.1.13",
       "number": 13,
       "title": {
         "pali": "Tevijjasuttaṃ",
-        "english": "The Threefold Knowledge",
+        "english": "The Three-fold Knowledge",
         "sinhala": "තේවිජ්ජ සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha teaches two young brahmins about the path to union with Brahmā and the true meaning of the threefold knowledge.",
-        "sinhala": "බුදුරජාණන් වහන්සේ තරුණ බ්‍රාහ්මණයන් දෙදෙනෙකුට බ්‍රහ්මයා සමඟ එක්වීමේ මාර්ගය සහ ත්‍රිවිද්‍යාවේ සැබෑ අර්ථය ගැන ඉගැන්වයි."
+        "english": "The Buddha challenges the Brahmin's path to union with Brahma and offers the four divine abidings (Brahmaviharas) as the true path.",
+        "sinhala": "බ්‍රහ්මයා සමඟ එක්වීම පිළිබඳව බ්‍රාහ්මණයන් තුළ පැවති මතය විවේචනය කරමින් සතර බ්‍රහ්ම විහරණයන් වර්ධනය කිරීමේ වැදගත්කම පෙන්වා දෙන දේශනාවකි."
       },
-      "link": "chapters/dn.1.13-Tevijjasuttaṃ.json"
+      "link": "Dīghanikāyo/Sīlakkhandhavaggapāḷi/chapters/dn.1.13-Tevijjasuttaṃ.json"
     }
   ]
 }

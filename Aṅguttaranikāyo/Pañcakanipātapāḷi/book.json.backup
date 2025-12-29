@@ -1,0 +1,457 @@
+{
+  "id": "pancakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "pancakanipata",
+    "number": 5,
+    "name": {
+      "pali": "Pañcakanipātapāḷi",
+      "english": "The Book of Fives",
+      "sinhala": "පඤ්චක නිපාත පාලිය"
+    }
+  },
+  "title": {
+    "pali": "Pañcakanipātapāḷi",
+    "english": "The Book of Fives",
+    "sinhala": "පඤ්චක නිපාත පාලිය"
+  },
+  "footer": {
+    "pali": "Pañcakanipātapāḷi niṭṭhitā.",
+    "english": "The Book of Fives is completed.",
+    "sinhala": "පඤ්චක නිපාත පාලිය නිමි වේ."
+  },
+  "description": {
+    "english": "The fifth collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around groups of five factors.",
+    "sinhala": "අංගුත්තර නිකායේ පස්වන එකතුව වන මෙය සාධක පහේ කණ්ඩායම් වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+  },
+  "totalChapters": 29,
+  "language": {
+    "source": "pali",
+    "translations": ["english", "sinhala"]
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-24",
+  "chapters": [
+    {
+      "id": "an5.1",
+      "number": 1,
+      "title": {
+        "pali": "Sekhabalavaggo",
+        "english": "The Chapter on Powers of a Trainee",
+        "sinhala": "සේඛබල වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five powers that support a spiritual trainee in their development.",
+        "sinhala": "ආධ්‍යාත්මික පුහුණුකරුවෙකුගේ දියුණුවට සහාය වන බල පහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.1-Sekhabalavaggo.json"
+    },
+    {
+      "id": "an5.2",
+      "number": 2,
+      "title": {
+        "pali": "Balavaggo",
+        "english": "The Chapter on Powers",
+        "sinhala": "බල වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five spiritual powers: faith, energy, mindfulness, concentration, and wisdom.",
+        "sinhala": "ආධ්‍යාත්මික බල පහ: ශ්‍රද්ධාව, ශක්තිය, සිහිකල්පනාව, සමාධිය සහ ප්‍රඥාව පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.2-Balavaggo.json"
+    },
+    {
+      "id": "an5.3",
+      "number": 3,
+      "title": {
+        "pali": "Pañcaṅgikavaggo",
+        "english": "The Chapter on Five Factors",
+        "sinhala": "පඤ්චාංගික වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on various sets of five factors important for spiritual development.",
+        "sinhala": "ආධ්‍යාත්මික දියුණුව සඳහා වැදගත් සාධක පහේ විවිධ කට්ටල පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.3-Pañcaṅgikavaggo.json"
+    },
+    {
+      "id": "an5.4",
+      "number": 4,
+      "title": {
+        "pali": "Sumanavaggo",
+        "english": "The Chapter on Sumana",
+        "sinhala": "සුමන වග්ගය"
+      },
+      "description": {
+        "english": "Teachings involving Queen Sumana and related discourses on royal virtues and spiritual qualities.",
+        "sinhala": "සුමන රැජින සහ රාජකීය ගුණාංග සහ ආධ්‍යාත්මික ගුණාංග පිළිබඳ ඒ හා සම්බන්ධ දේශනා සම්බන්ධ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.4-Sumanavaggo.json"
+    },
+    {
+      "id": "an5.5",
+      "number": 5,
+      "title": {
+        "pali": "Muṇḍarājavaggo",
+        "english": "The Chapter on King Muṇḍa",
+        "sinhala": "මුණ්ඩරාජ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings involving King Muṇḍa and lessons on righteous governance and spiritual leadership.",
+        "sinhala": "මුණ්ඩ රජ සහ ධර්මිෂ්ඨ පාලනය සහ ආධ්‍යාත්මික නායකත්වය පිළිබඳ පාඩම් සම්බන්ධ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.5-Muṇḍarājavaggo.json"
+    },
+    {
+      "id": "an5.6",
+      "number": 6,
+      "title": {
+        "pali": "Nīvaraṇavaggo",
+        "english": "The Chapter on Hindrances",
+        "sinhala": "නීවරණ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five hindrances to meditation and how to overcome them.",
+        "sinhala": "භාවනාවට බාධක වන නීවරණ පහ සහ ඒවා ජය ගන්නා ආකාරය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.6-Nīvaraṇavaggo.json"
+    },
+    {
+      "id": "an5.7",
+      "number": 7,
+      "title": {
+        "pali": "Saññāvaggo",
+        "english": "The Chapter on Perceptions",
+        "sinhala": "සඤ්ඤා වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five types of perceptions that aid in spiritual development.",
+        "sinhala": "ආධ්‍යාත්මික දියුණුවට සහාය වන සංඥා වර්ග පහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.7-Saññāvaggo.json"
+    },
+    {
+      "id": "an5.8",
+      "number": 8,
+      "title": {
+        "pali": "Yodhājīvavaggo",
+        "english": "The Chapter on Warriors",
+        "sinhala": "යෝධාජීව වග්ගය"
+      },
+      "description": {
+        "english": "Teachings using the metaphor of warriors to illustrate spiritual qualities and practices.",
+        "sinhala": "ආධ්‍යාත්මික ගුණාංග සහ භාවනා නිදර්ශනය කිරීම සඳහා රණශූරයන්ගේ රූපකය භාවිතා කරන ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.8-Yodhājīvavaggo.json"
+    },
+    {
+      "id": "an5.9",
+      "number": 9,
+      "title": {
+        "pali": "Theravaggo",
+        "english": "The Chapter on Elders",
+        "sinhala": "ථේර වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the qualities and responsibilities of senior monks and spiritual elders.",
+        "sinhala": "ජ්‍යේෂ්ඨ භික්ෂූන්ගේ සහ ආධ්‍යාත්මික ගුරුවරුන්ගේ ගුණාංග සහ වගකීම් පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.9-Theravaggo.json"
+    },
+    {
+      "id": "an5.10",
+      "number": 10,
+      "title": {
+        "pali": "Kakudhavaggo",
+        "english": "The Chapter on Kakudha",
+        "sinhala": "කකුධ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings involving the deva Kakudha and related spiritual discussions.",
+        "sinhala": "කකුධ දේවයා සහ ඒ හා සම්බන්ධ ආධ්‍යාත්මික සාකච්ඡා සම්බන්ධ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.10-Kakudhavaggo.json"
+    },
+    {
+      "id": "an5.11",
+      "number": 11,
+      "title": {
+        "pali": "Phāsuvihāravaggo",
+        "english": "The Chapter on Comfortable Living",
+        "sinhala": "ඵාසුවිහාර වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five factors that lead to comfortable and peaceful living.",
+        "sinhala": "සුවපහසු සහ සාමකාමී ජීවිතයකට මග පාදන සාධක පහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.11-Phāsuvihāravaggo.json"
+    },
+    {
+      "id": "an5.12",
+      "number": 12,
+      "title": {
+        "pali": "Andhakavindavaggo",
+        "english": "The Chapter at Andhakavinda",
+        "sinhala": "අන්ධකවින්ද වග්ගය"
+      },
+      "description": {
+        "english": "Teachings given at Andhakavinda on various aspects of spiritual practice.",
+        "sinhala": "ආධ්‍යාත්මික භාවනාවේ විවිධ අංශ පිළිබඳ අන්ධකවින්දහිදී ලබා දුන් ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.12-Andhakavindavaggo.json"
+    },
+    {
+      "id": "an5.13",
+      "number": 13,
+      "title": {
+        "pali": "Gilānavaggo",
+        "english": "The Chapter on the Sick",
+        "sinhala": "ගිලාන වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on caring for the sick and the spiritual lessons learned from illness.",
+        "sinhala": "රෝගීන් රැකබලා ගැනීම සහ රෝගයෙන් ලැබෙන ආධ්‍යාත්මික පාඩම් පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.13-Gilānavaggo.json"
+    },
+    {
+      "id": "an5.14",
+      "number": 14,
+      "title": {
+        "pali": "Rājavaggo",
+        "english": "The Chapter on Kings",
+        "sinhala": "රාජ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five qualities of righteous kings and good governance.",
+        "sinhala": "ධර්මිෂ්ඨ රජවරුන්ගේ ගුණාංග පහ සහ හොඳ පාලනය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.14-Rājavaggo.json"
+    },
+    {
+      "id": "an5.15",
+      "number": 15,
+      "title": {
+        "pali": "Tikaṇḍakīvaggo",
+        "english": "The Chapter on Tikaṇḍakī",
+        "sinhala": "තිකණ්ඩකී වග්ගය"
+      },
+      "description": {
+        "english": "Teachings involving the wanderer Tikaṇḍakī and related philosophical discussions.",
+        "sinhala": "තිකණ්ඩකී පරිබ්‍රාජක සහ ඒ හා සම්බන්ධ දාර්ශනික සාකච්ඡා සම්බන්ධ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.15-Tikaṇḍakīvaggo.json"
+    },
+    {
+      "id": "an5.16",
+      "number": 16,
+      "title": {
+        "pali": "Saddhammavaggo",
+        "english": "The Chapter on True Dhamma",
+        "sinhala": "සද්ධම්ම වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five factors that lead to the preservation and flourishing of the true Dhamma.",
+        "sinhala": "සත්‍ය ධර්මයේ සංරක්ෂණයට සහ සමෘද්ධියට මග පාදන සාධක පහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.16-Saddhammavaggo.json"
+    },
+    {
+      "id": "an5.17",
+      "number": 17,
+      "title": {
+        "pali": "Āghātavaggo",
+        "english": "The Chapter on Hatred",
+        "sinhala": "ආඝාත වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five ways to remove hatred and cultivate loving-kindness.",
+        "sinhala": "වෛරය ඉවත් කර මෛත්‍රී භාවනා කිරීමේ ක්‍රම පහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.17-Āghātavaggo.json"
+    },
+    {
+      "id": "an5.18",
+      "number": 18,
+      "title": {
+        "pali": "Upāsakavaggo",
+        "english": "The Chapter on Lay Followers",
+        "sinhala": "උපාසක වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five qualities and practices of exemplary lay followers.",
+        "sinhala": "ආදර්ශමත් ගිහි ශිෂ්‍යයන්ගේ ගුණාංග සහ භාවනා පහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.18-Upāsakavaggo.json"
+    },
+    {
+      "id": "an5.19",
+      "number": 19,
+      "title": {
+        "pali": "Araññavaggo",
+        "english": "The Chapter on the Forest",
+        "sinhala": "අරඤ්ඤ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five benefits of forest dwelling and wilderness meditation.",
+        "sinhala": "වන වාසය සහ වනාන්තර භාවනාවේ ප්‍රතිලාභ පහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.19-Araññavaggo.json"
+    },
+    {
+      "id": "an5.20",
+      "number": 20,
+      "title": {
+        "pali": "Brāhmaṇavaggo",
+        "english": "The Chapter on Brahmins",
+        "sinhala": "බ්‍රාහ්මණ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five qualities that make a true brahmin in the spiritual sense.",
+        "sinhala": "ආධ්‍යාත්මික අර්ථයෙන් සැබෑ බ්‍රාහ්මණයෙකු බවට පත් කරන ගුණාංග පහ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.20-Brāhmaṇavaggo.json"
+    },
+    {
+      "id": "an5.21",
+      "number": 21,
+      "title": {
+        "pali": "Kimilavaggo",
+        "english": "The Chapter on Kimbila",
+        "sinhala": "කිමිල වග්ගය"
+      },
+      "description": {
+        "english": "Teachings involving Venerable Kimbila and related discourses on monastic life.",
+        "sinhala": "කිමිල මහ ස්ථවිරයන් වහන්සේ සහ භික්ෂු ජීවිතය පිළිබඳ ඒ හා සම්බන්ධ දේශනා සම්බන්ධ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.21-Kimilavaggo.json"
+    },
+    {
+      "id": "an5.22",
+      "number": 22,
+      "title": {
+        "pali": "Akkosakavaggo",
+        "english": "The Chapter on Abuse",
+        "sinhala": "අක්කෝසක වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on how to respond to abuse and maintain equanimity in difficult situations.",
+        "sinhala": "අපහාසයට ප්‍රතිචාර දැක්වීම සහ දුෂ්කර තත්වයන්හිදී සමතුලිතතාවය පවත්වා ගැනීම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.22-Akkosakavaggo.json"
+    },
+    {
+      "id": "an5.23",
+      "number": 23,
+      "title": {
+        "pali": "Dīghacārikavaggo",
+        "english": "The Chapter on Long Wandering",
+        "sinhala": "දීඝචාරික වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the benefits and challenges of long periods of wandering and pilgrimage.",
+        "sinhala": "දිගු කාලීන සංචාරය සහ වන්දනා ගමනේ ප්‍රතිලාභ සහ අභියෝග පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.23-Dīghacārikavaggo.json"
+    },
+    {
+      "id": "an5.24",
+      "number": 24,
+      "title": {
+        "pali": "Āvāsikavaggo",
+        "english": "The Chapter on Residents",
+        "sinhala": "ආවාසික වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the qualities and responsibilities of monks who reside in monasteries.",
+        "sinhala": "විහාරස්ථානවල වාසය කරන භික්ෂූන්ගේ ගුණාංග සහ වගකීම් පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.24-Āvāsikavaggo.json"
+    },
+    {
+      "id": "an5.25",
+      "number": 25,
+      "title": {
+        "pali": "Duccaritavaggo",
+        "english": "The Chapter on Misconduct",
+        "sinhala": "දුච්චරිත වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the five types of misconduct and how to avoid them.",
+        "sinhala": "දුරාචාර වර්ග පහ සහ ඒවා වළක්වා ගන්නා ආකාරය පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.25-Duccaritavaggo.json"
+    },
+    {
+      "id": "an5.26",
+      "number": 26,
+      "title": {
+        "pali": "Upasampadāvaggo",
+        "english": "The Chapter on Higher Ordination",
+        "sinhala": "උපසම්පදා වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the qualifications and procedures for higher ordination in the monastic community.",
+        "sinhala": "භික්ෂු සමාජයේ උසස් පැවිදි වීම සඳහා සුදුසුකම් සහ ක්‍රියාමාර්ග පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an5.26-Upasampadāvaggo.json"
+    },
+    {
+      "id": "an5.27",
+      "number": 27,
+      "title": {
+        "pali": "Sammutipeyyālaṃ",
+        "english": "The Repetition Series on Conventions",
+        "sinhala": "සම්මුති පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on monastic conventions and agreements in groups of five.",
+        "sinhala": "භික්ෂු සම්මුතිකරණ සහ එකඟතා පහේ කණ්ඩායම්වල ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an5.27-Sammutipeyyālaṃ.json"
+    },
+    {
+      "id": "an5.28",
+      "number": 28,
+      "title": {
+        "pali": "Sikkhāpadapeyyālaṃ",
+        "english": "The Repetition Series on Training Rules",
+        "sinhala": "සික්ඛාපද පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on the training rules and precepts in groups of five.",
+        "sinhala": "පුහුණු නීති සහ ප්‍රතිපත්ති පහේ කණ්ඩායම්වල ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an5.28-Sikkhāpadapeyyālaṃ.json"
+    },
+    {
+      "id": "an5.29",
+      "number": 29,
+      "title": {
+        "pali": "Rāgapeyyālaṃ",
+        "english": "The Repetition Series on Greed",
+        "sinhala": "රාග පේය්‍යාලය"
+      },
+      "description": {
+        "english": "Systematic repetitions on greed, hatred, delusion and their opposites in groups of five.",
+        "sinhala": "ලෝභය, ද්වේෂය, මෝහය සහ ඒවායේ ප්‍රතිවිරුද්ධ ගුණාංග පහේ කණ්ඩායම්වල ක්‍රමානුකූල පුනරාවර්තන."
+      },
+      "link": "chapters/an5.29-Rāgapeyyālaṃ.json"
+    }
+  ]
+}

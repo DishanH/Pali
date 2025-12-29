@@ -1,10 +1,10 @@
 {
-  "id": "pathikavagga",
+  "id": "pathikavaggapali",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
@@ -12,195 +12,197 @@
     "id": "dighanikaya",
     "name": {
       "pali": "Dīgha Nikāya",
-      "english": "Long Discourses",
+      "english": "The Long Discourses",
       "sinhala": "දීඝ නිකාය"
     }
   },
   "vagga": {
-    "id": "pathikavagga",
+    "id": "pathikavaggapali",
     "number": 3,
     "name": {
       "pali": "Pāthikavaggapāḷi",
-      "english": "The Pāthika Collection",
-      "sinhala": "පාථික වග්ග පාළිය"
+      "english": "The Pathika Section",
+      "sinhala": "පාථික වර්ගය"
     }
   },
   "title": {
     "pali": "Pāthikavaggapāḷi",
-    "english": "The Pāthika Collection",
-    "sinhala": "පාථික වග්ග පාළිය"
+    "english": "The Pathika Section",
+    "sinhala": "පාථික වර්ගය"
   },
   "footer": {
-    "pali": "Pāthikavaggo [pāṭikavaggo (sī. syā. pī.)] niṭṭhito. Tassuddānaṃ – Pāthiko ca [pāṭikañca (syā. kaṃ.)] udumbaraṃ [pāṭikodumbarīceva (sī. pī.)], cakkavatti aggaññakaṃ; Sampasādanapāsādaṃ [sampasādañca pāsādaṃ (sī. syā. kaṃ. pī.)], mahāpurisalakkhaṇaṃ. Siṅgālāṭānāṭiyakaṃ, saṅgīti ca dasuttaraṃ; Ekādasahi suttehi, pāthikavaggoti vuccati. Pāthikavaggapāḷi niṭṭhitā. Tīhi vaggehi paṭimaṇḍito sakalo Dīghanikāyo samatto.",
-    "english": "The Pāthika Collection is completed. Its summary: Pāthika, Udumbarika, Cakkavatti, Aggañña, Sampasādanīya, Pāsādika, and the Marks of a Great Man; Siṅgāla, Āṭānāṭiya, Saṅgīti, and Dasuttara - with these eleven suttas, it is called the Pāthika Collection. The Pāthika Collection is finished. Adorned with three collections, the entire Dīgha Nikāya is complete.",
-    "sinhala": "පාථික වග්ගය නිමි වේ. එහි සාරාංශය - පාථික, උදුම්බරික, චක්කවත්ති, අග්ගඤ්ඤ, සම්පසාදනීය, පාසාදික සහ මහා පුරුෂ ලක්ෂණ; සිංගාල, ආටානාටිය, සංගීති සහ දසුත්තර යන සූත්‍ර එකොළහ සමඟ එය පාථික වග්ගය ලෙස හැඳින්වේ. පාථික වග්ග පාළිය නිමි වේ. වග්ග තුනකින් අලංකාර කරන ලද සම්පූර්ණ දීඝ නිකාය නිමි වේ."
-  }
-,
+    "pali": "Pāthikavaggo niṭṭhito. Tassuddānaṃ – Pāthiko ca udumbaraṃ, cakkavatti aggaññakaṃ; Sampasādanapāsādaṃ, mahāpurisalakkhaṇaṃ. Siṅgālāṭānāṭiyakaṃ, saṅgīti ca dasuttaraṃ; Ekādasahi suttehi, pāthikavaggoti vuccati. Pāthikavaggapāḷi niṭṭhitā. Tīhi vaggehi paṭimaṇḍito sakalo Dīghanikāyo samatto.",
+    "english": "The Pathika Section is finished. Its summary: The Pathika, Udumbara, the Wheel-turning Monarch, and the Beginning of the World; The Serene Faith, The Delightful, and the Marks of a Great Man; Singala, Atanatiya, the Chanting Together, and Up to Ten; By these eleven discourses, it is called the Pathika Section. The Pathika Section is concluded. Decorated with three sections, the entire Digha Nikaya is complete.",
+    "sinhala": "පාථික වර්ගය මෙයින් නිමවේ. එහි උද්දානය: පාථික, උදුම්බරික, චක්කවත්තිසීහනාද, අග්ගඤ්ඤ, සම්පසාදනීය, පාසාදික, ලක්ඛණ, සිඟාලෝවාද, ආටානාටිය, සංගීති සහ දසෝත්තර යන සූත්‍ර එකොළොසකින් මෙම වර්ගය සමන්විත වේ. දීඝ නිකාය මෙයින් අවසන් වේ."
+  },
   "description": {
-    "english": "The third collection of the Long Discourses (Dīgha Nikāya), containing eleven suttas covering diverse topics including cosmology, ethics, and numerical teachings.",
-    "sinhala": "දීඝ නිකායේ තුන්වන එකතුව වන මෙය විශ්ව විද්‍යාව, ආචාර ධර්ම සහ සංඛ්‍යාත්මක ඉගැන්වීම් ඇතුළු විවිධ මාතෘකා ආවරණය කරන සූත්‍ර එකොළහක් අඩංගු වේ."
+    "english": "The final division of the Digha Nikaya, containing eleven discourses. It covers a wide range of topics including the evolution of the world, the duties of householders, and protective chants.",
+    "sinhala": "දීඝ නිකායේ අවසාන කොටසයි. මෙහි සූත්‍ර දේශනා 11ක් අඩංගු වන අතර, ලෝකයේ සම්භවය, ගිහි විනය සහ ආරක්ෂක පිරිත් දේශනා වැනි විවිධ විෂයයන් මෙහි විග්‍රහ කෙරේ."
   },
   "totalChapters": 11,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-11-18",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "dn.3.1",
-      "number": 24,
+      "number": 1,
       "title": {
         "pali": "Pāthikasuttaṃ",
-        "english": "About Pāthika",
+        "english": "About Pathikaputta",
         "sinhala": "පාථික සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha refutes the claims of the naked ascetic Pāthika and discusses the origin of the world.",
-        "sinhala": "බුදුරජාණන් වහන්සේ නිරුවත් තපසා වන පාථිකගේ ප්‍රකාශයන් ප්‍රතික්ෂේප කර ලෝකයේ ආරම්භය ගැන සාකච්ඡා කරයි."
+        "english": "A discourse concerning the naked ascetic Pathikaputta and the nature of miracles and supreme knowledge.",
+        "sinhala": "පාථිකපුත්ත නම් නිගණ්ඨයා සහ ප්‍රාතිහාර්යයන්ගේ ස්වභාවය පිළිබඳව කෙරෙන දේශනාවකි."
       },
-      "link": "chapters/dn.3.1-Pāthikasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.1-Pāthikasuttaṃ.json"
     },
     {
       "id": "dn.3.2",
-      "number": 25,
+      "number": 2,
       "title": {
         "pali": "Udumbarikasuttaṃ",
-        "english": "At Udumbarikā's Monastery",
+        "english": "The Discourse to Udumbarika",
         "sinhala": "උදුම්බරික සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha discusses the highest kind of ascetic practice with wanderers at Udumbarikā's monastery.",
-        "sinhala": "බුදුරජාණන් වහන්සේ උදුම්බරිකාගේ ආරාමයේ පරිබ්‍රාජකයන් සමඟ උසස්ම තපස් ක්‍රියාව ගැන සාකච්ඡා කරයි."
+        "english": "The Buddha discusses the correct practice of asceticism with the wanderer Nigrodha at the Udumbarika park.",
+        "sinhala": "උදුම්බරික පිරිවැජි අසපුවේදී නිග්‍රෝධ පිරිවැජියා සමඟ තපස් රැකීමේ නිවැරදි ක්‍රමය පිළිබඳව කළ සාකච්ඡාවකි."
       },
-      "link": "chapters/dn.3.2-Udumbarikasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.2-Udumbarikasuttaṃ.json"
     },
     {
       "id": "dn.3.3",
-      "number": 26,
+      "number": 3,
       "title": {
         "pali": "Cakkavattisuttaṃ",
-        "english": "The Wheel-Turning Monarch",
-        "sinhala": "චක්කවත්ති සූත්‍රය"
+        "english": "The Lion’s Roar on the Wheel-turning Monarch",
+        "sinhala": "චක්කවත්ති සීහනාද සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha describes the rise and fall of civilizations and the coming of the future Buddha Metteyya.",
-        "sinhala": "බුදුරජාණන් වහන්සේ ශිෂ්ටාචාරවල නැගීම සහ වැටීම සහ අනාගත බුදුවරයා වන මෛත්‍රී බුදුරජාණන් වහන්සේගේ පැමිණීම විස්තර කරයි."
+        "english": "A discourse on the rise and fall of kingdoms, the importance of righteousness, and the future Buddha Metteyya.",
+        "sinhala": "රාජ්‍යයන්ගේ නැගීම හා වැටීම, ධර්මිෂ්ඨ පාලනය සහ මතු බුදු වන මෛත්‍රී බුදුරජාණන් වහන්සේ පිළිබඳ දේශනාවකි."
       },
-      "link": "chapters/dn.3.3-Cakkavattisuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.3-Cakkavattisuttaṃ.json"
     },
     {
       "id": "dn.3.4",
-      "number": 27,
+      "number": 4,
       "title": {
         "pali": "Aggaññasuttaṃ",
-        "english": "On Knowledge of Beginnings",
+        "english": "The Discourse on the Beginning of Things",
         "sinhala": "අග්ගඤ්ඤ සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha explains the origin of the world and the social order to two young brahmins.",
-        "sinhala": "බුදුරජාණන් වහන්සේ තරුණ බ්‍රාහ්මණයන් දෙදෙනෙකුට ලෝකයේ ආරම්භය සහ සමාජ පිළිවෙල පැහැදිලි කරයි."
+        "english": "Explains the evolution of the world, society, and the caste system, asserting that conduct is superior to birth.",
+        "sinhala": "ලෝකයේ සම්භවය, සමාජ සම්මතයන් සහ කුල ක්‍රමයේ ඇති වූ ආකාරය පිළිබඳ බෞද්ධ මතය මෙහි විස්තර වේ."
       },
-      "link": "chapters/dn.3.4-Aggaññasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.4-Aggaññasuttaṃ.json"
     },
     {
       "id": "dn.3.5",
-      "number": 28,
+      "number": 5,
       "title": {
         "pali": "Sampasādanīyasuttaṃ",
-        "english": "Inspiring Confidence",
+        "english": "The Serene Faith",
         "sinhala": "සම්පසාදනීය සූත්‍රය"
       },
       "description": {
-        "english": "Venerable Sāriputta expresses his confidence in the Buddha and his teaching.",
-        "sinhala": "සාරිපුත්ත මහ ස්ථවිරයන් වහන්සේ බුදුරජාණන් වහන්සේ සහ ඔහුගේ ඉගැන්වීම කෙරෙහි තමන්ගේ විශ්වාසය ප්‍රකාශ කරයි."
+        "english": "Ven. Sariputta’s lion's roar expressing his supreme confidence and faith in the Buddha's enlightenment.",
+        "sinhala": "සාරිපුත්ත මහ රහතන් වහන්සේ බුදුරජාණන් වහන්සේගේ ගුණ කෙරෙහි ඇති අචල විශ්වාසය ප්‍රකාශ කළ දේශනාවකි."
       },
-      "link": "chapters/dn.3.5-Sampasādanīyasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.5-Sampasādanīyasuttaṃ.json"
     },
     {
       "id": "dn.3.6",
-      "number": 29,
+      "number": 6,
       "title": {
         "pali": "Pāsādikasuttaṃ",
         "english": "The Delightful Discourse",
         "sinhala": "පාසාදික සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha contrasts his teaching with that of other teachers and explains how the Sangha should be guided after his passing.",
-        "sinhala": "බුදුරජාණන් වහන්සේ තම ඉගැන්වීම අනෙකුත් ගුරුවරුන්ගේ ඉගැන්වීම් සමඟ සංසන්දනය කර තමන්ගේ පිරිනිවීමෙන් පසු සංඝයා මඟ පෙන්විය යුතු ආකාරය පැහැදිලි කරයි."
+        "english": "Instructions on the characteristics of a perfect teacher and the preservation of the teaching after the leader's passing.",
+        "sinhala": "ශාස්තෘවරයෙකුගේ පිරිපුන් බව සහ ශාස්තෘ පිරිනිවන් පෑමෙන් පසු ධර්මය ආරක්ෂා කරගත යුතු ආකාරය මෙහි දැක්වේ."
       },
-      "link": "chapters/dn.3.6-Pāsādikasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.6-Pāsādikasuttaṃ.json"
     },
     {
       "id": "dn.3.7",
-      "number": 30,
+      "number": 7,
       "title": {
         "pali": "Lakkhaṇasuttaṃ",
-        "english": "The Marks of a Great Man",
+        "english": "The Discourse on Marks",
         "sinhala": "ලක්ඛණ සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha explains the thirty-two marks of a great man and the karmic causes that produce them.",
-        "sinhala": "බුදුරජාණන් වහන්සේ මහා පුරුෂයාගේ ලක්ෂණ තිස් දෙක සහ ඒවා ඇති කරන කර්ම හේතු පැහැදිලි කරයි."
+        "english": "Explains the 32 physical marks of a Great Man and the specific past karmic actions that caused them.",
+        "sinhala": "මහා පුරුෂයෙකු සතු දෙතිස් මහා පුරුෂ ලක්ෂණ සහ ඒවා ලැබීමට හේතු වූ අතීත කුසල් කර්මයන් මෙහි විස්තර කෙරේ."
       },
-      "link": "chapters/dn.3.7-Lakkhaṇasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.7-Lakkhaṇasuttaṃ.json"
     },
     {
       "id": "dn.3.8",
-      "number": 31,
+      "number": 8,
       "title": {
         "pali": "Siṅgālasuttaṃ",
-        "english": "Advice to Siṅgāla",
-        "sinhala": "සිංගාල සූත්‍රය"
+        "english": "The Advice to Siṅgāla",
+        "sinhala": "සිඟාලෝවාද සූත්‍රය"
       },
       "description": {
-        "english": "The Buddha teaches the young householder Siṅgāla about the duties and responsibilities in six types of relationships.",
-        "sinhala": "බුදුරජාණන් වහන්සේ තරුණ ගෘහස්ථයා වන සිංගාලට සම්බන්ධතා වර්ග හයක යුතුකම් සහ වගකීම් ගැන ඉගැන්වයි."
+        "english": "The 'Layperson's Code of Discipline' covering ethics and social duties in six directions.",
+        "sinhala": "ගිහියන් විසින් ඉටුකළ යුතු යුතුකම් සහ වගකීම් සදිසා නමස්කාරය ඇසුරින් විස්තර කෙරෙන 'ගිහි විනය' දේශනාවයි."
       },
-      "link": "chapters/dn.3.8-Siṅgālasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.8-Siṅgālasuttaṃ.json"
     },
     {
       "id": "dn.3.9",
-      "number": 32,
+      "number": 9,
       "title": {
         "pali": "Āṭānāṭiyasuttaṃ",
-        "english": "The Āṭānāṭiya Protection",
+        "english": "The Atanatiya Protection",
         "sinhala": "ආටානාටිය සූත්‍රය"
       },
       "description": {
-        "english": "The Four Great Kings offer a protective chant to safeguard the Buddha's disciples from non-human beings.",
-        "sinhala": "මහා රජවරුන් හතර දෙනා බුදුරජාණන් වහන්සේගේ ශිෂ්‍යයන් මනුෂ්‍ය නොවන ජීවීන්ගෙන් ආරක්ෂා කිරීම සඳහා ආරක්ෂිත මන්ත්‍රයක් පිරිනමයි."
+        "english": "A protective chant provided by the Four Heavenly Kings to guard against harmful spirits.",
+        "sinhala": "අමනුෂ්‍ය බලපෑම් වලින් ආරක්ෂා වීම සඳහා සතර වරම් දෙවිවරුන් විසින් දේශනා කරන ලද ආරක්ෂක පිරිත් දේශනාවකි."
       },
-      "link": "chapters/dn.3.9-Āṭānāṭiyasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.9-Āṭānāṭiyasuttaṃ.json"
     },
     {
       "id": "dn.3.10",
-      "number": 33,
+      "number": 10,
       "title": {
         "pali": "Saṅgītisuttaṃ",
-        "english": "The Chanting Together",
+        "english": "Chanting Together",
         "sinhala": "සංගීති සූත්‍රය"
       },
       "description": {
-        "english": "Venerable Sāriputta presents a comprehensive numerical summary of the Buddha's teachings.",
-        "sinhala": "සාරිපුත්ත මහ ස්ථවිරයන් වහන්සේ බුදුරජාණන් වහන්සේගේ ඉගැන්වීම්වල සවිස්තරාත්මක සංඛ්‍යාත්මක සාරාංශයක් ඉදිරිපත් කරයි."
+        "english": "A comprehensive summary of the Dhamma organized numerically from ones to tens, compiled by Ven. Sariputta.",
+        "sinhala": "සාරිපුත්ත මහ රහතන් වහන්සේ විසින් කරුණු එකේ සිට දහය දක්වා අනුපිළිවෙලින් සංගායනා කරන ලද ධර්ම සංග්‍රහයකි."
       },
-      "link": "chapters/dn.3.10-Saṅgītisuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.10-Saṅgītisuttaṃ.json"
     },
     {
       "id": "dn.3.11",
-      "number": 34,
+      "number": 11,
       "title": {
         "pali": "Dasuttarasuttaṃ",
-        "english": "Expanding Decades",
-        "sinhala": "දසුත්තර සූත්‍රය"
+        "english": "Expanding Decads",
+        "sinhala": "දසෝත්තර සූත්‍රය"
       },
       "description": {
-        "english": "Venerable Sāriputta presents the teachings organized in sets of ten, from one to ten.",
-        "sinhala": "සාරිපුත්ත මහ ස්ථවිරයන් වහන්සේ එකේ සිට දහය දක්වා දහයේ කට්ටලවල සංවිධානය කරන ලද ඉගැන්වීම් ඉදිරිපත් කරයි."
+        "english": "A categorical teaching structured in ten sets of ten, detailing aspects of the path to liberation.",
+        "sinhala": "විමුක්තිය උදෙසා උපකාරී වන ධර්ම කරුණු දහය බැගින් වූ කාණ්ඩ දහයක් යටතේ විග්‍රහ කෙරෙන දේශනාවකි."
       },
-      "link": "chapters/dn.3.11-Dasuttarasuttaṃ.json"
+      "link": "Dīghanikāyo/Pāthikavaggapāḷi/chapters/dn.3.11-Dasuttarasuttaṃ.json"
     }
   ]
 }

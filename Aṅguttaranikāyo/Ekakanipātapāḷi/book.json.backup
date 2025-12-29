@@ -1,0 +1,191 @@
+{
+  "id": "ekakanipata",
+  "basket": {
+    "id": "sutta",
+    "name": {
+      "pali": "Suttapiṭaka",
+      "english": "Basket of Discourses",
+      "sinhala": "සූත්‍ර පිටකය"
+    }
+  },
+  "collection": {
+    "id": "anguttaranikaya",
+    "name": {
+      "pali": "Aṅguttara Nikāya",
+      "english": "Numerical Discourses",
+      "sinhala": "අංගුත්තර නිකාය"
+    }
+  },
+  "nipata": {
+    "id": "ekakanipata",
+    "number": 1,
+    "name": {
+      "pali": "Ekakanipātapāḷi",
+      "english": "The Chapter of the Ones",
+      "sinhala": "ඒකකනිපාත පාලිය"
+    }
+  },
+  "title": {
+    "pali": "Ekakanipātapāḷi",
+    "english": "The Chapter of the Ones",
+    "sinhala": "ඒකකනිපාත පාලිය"
+  },
+  "footer": {
+    "pali": "Ekakanipātapāḷi niṭṭhitā.",
+    "english": "The Chapter of the Ones is completed.",
+    "sinhala": "ඒකකනිපාත පාලිය නිමි වේ."
+  },
+  "description": {
+    "english": "The first collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around single factors.",
+    "sinhala": "අංගුත්තර නිකායේ පළමු එකතුව වන මෙය තනි සාධක වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+  },
+  "totalChapters": 10,
+  "language": {
+    "source": "pali",
+    "translations": ["english", "sinhala"]
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-24",
+  "chapters": [
+    {
+      "id": "an1.1",
+      "number": 1,
+      "title": {
+        "pali": "Rūpādivaggo",
+        "english": "The Chapter on Form and Others",
+        "sinhala": "රූපාදි වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on form, feeling, perception, formations, and consciousness as single factors.",
+        "sinhala": "රූප, වේදනා, සංඥා, සංස්කාර සහ විඤ්ඤාණ තනි සාධක ලෙස ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.1-Rūpādivaggo.json"
+    },
+    {
+      "id": "an1.2",
+      "number": 2,
+      "title": {
+        "pali": "Nīvaraṇappahānavaggo",
+        "english": "The Chapter on Abandoning Hindrances",
+        "sinhala": "නීවරණප්පහාන වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on abandoning the five hindrances to meditation.",
+        "sinhala": "භාවනාවට බාධක වන නීවරණ පහ අතහැරීම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.2-Nīvaraṇappahānavaggo.json"
+    },
+    {
+      "id": "an1.3",
+      "number": 3,
+      "title": {
+        "pali": "Akammaniyavaggo",
+        "english": "The Chapter on Unwieldiness",
+        "sinhala": "අකම්මනිය වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on mental unwieldiness and its opposite, mental pliability.",
+        "sinhala": "මානසික අකම්මනිය බව සහ එහි ප්‍රතිවිරුද්ධ මානසික නම්‍යතාව පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.3-Akammaniyavaggo.json"
+    },
+    {
+      "id": "an1.4",
+      "number": 4,
+      "title": {
+        "pali": "Adantavaggo",
+        "english": "The Chapter on the Untamed",
+        "sinhala": "අදන්ත වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the untamed mind and the importance of mental discipline.",
+        "sinhala": "නොදමන ලද මනස සහ මානසික විනයේ වැදගත්කම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.4-Adantavaggo.json"
+    },
+    {
+      "id": "an1.5",
+      "number": 5,
+      "title": {
+        "pali": "Paṇihitaacchavaggo",
+        "english": "The Chapter on Aspiration and Clarity",
+        "sinhala": "පණිහිතාච්ඡ වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on mental aspiration and clarity of understanding.",
+        "sinhala": "මානසික අභිලාෂය සහ අවබෝධයේ පැහැදිලිකම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.5-Paṇihitaacchavaggo.json"
+    },
+    {
+      "id": "an1.6",
+      "number": 6,
+      "title": {
+        "pali": "Accharāsaṅghātavaggo",
+        "english": "The Chapter on Finger-Snapping",
+        "sinhala": "අච්ඡරාසංඝාත වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the brief moment of loving-kindness and its great benefits.",
+        "sinhala": "මෛත්‍රී භාවනාවේ කෙටි මොහොතක් සහ එහි මහත් ප්‍රතිලාභ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.6-Accharāsaṅghātavaggo.json"
+    },
+    {
+      "id": "an1.7",
+      "number": 7,
+      "title": {
+        "pali": "Vīriyārambhādivaggo",
+        "english": "The Chapter on Arousing Energy and Others",
+        "sinhala": "වීර්යාරම්භාදි වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on arousing energy, effort, and other positive mental factors.",
+        "sinhala": "ශක්තිය, උත්සාහය සහ අනෙකුත් ධනාත්මක මානසික සාධක ඇති කිරීම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.7-Vīriyārambhādivaggo.json"
+    },
+    {
+      "id": "an1.8",
+      "number": 8,
+      "title": {
+        "pali": "Kalyāṇamittādivaggo",
+        "english": "The Chapter on Good Friends and Others",
+        "sinhala": "කල්‍යාණමිත්තාදි වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on the importance of good spiritual friends and companions.",
+        "sinhala": "හොඳ ආධ්‍යාත්මික මිතුරන් සහ සහචරයන්ගේ වැදගත්කම පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.8-Kalyāṇamittādivaggo.json"
+    },
+    {
+      "id": "an1.9",
+      "number": 9,
+      "title": {
+        "pali": "Pamādādivaggo",
+        "english": "The Chapter on Heedlessness and Others",
+        "sinhala": "පමාදාදි වග්ගය"
+      },
+      "description": {
+        "english": "Teachings on heedlessness and its dangers, and the benefits of mindfulness.",
+        "sinhala": "නොසැලකිලිමත්කම සහ එහි අන්තරායන් සහ සිහිකල්පනාවේ ප්‍රතිලාභ පිළිබඳ ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.9-Pamādādivaggo.json"
+    },
+    {
+      "id": "an1.10",
+      "number": 10,
+      "title": {
+        "pali": "Dutiyapamādādivaggo",
+        "english": "The Second Chapter on Heedlessness and Others",
+        "sinhala": "දුතියපමාදාදි වග්ගය"
+      },
+      "description": {
+        "english": "Further teachings on heedlessness, mindfulness, and related mental factors.",
+        "sinhala": "නොසැලකිලිමත්කම, සිහිකල්පනාව සහ ඒ හා සම්බන්ධ මානසික සාධක පිළිබඳ තවත් ඉගැන්වීම්."
+      },
+      "link": "chapters/an1.10-Dutiyapamādādivaggo.json"
+    }
+  ]
+}

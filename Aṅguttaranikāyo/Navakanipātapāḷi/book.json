@@ -1,10 +1,10 @@
 {
-  "id": "navakanipata",
+  "id": "navakanipatapali",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
@@ -12,82 +12,85 @@
     "id": "anguttaranikaya",
     "name": {
       "pali": "Aṅguttara Nikāya",
-      "english": "Numerical Discourses",
+      "english": "The Numerical Discourses",
       "sinhala": "අංගුත්තර නිකාය"
     }
   },
   "nipata": {
-    "id": "navakanipata",
+    "id": "navakanipatapali",
     "number": 9,
     "name": {
       "pali": "Navakanipātapāḷi",
-      "english": "The Book of Nines",
-      "sinhala": "නවකනිපාත පාලිය"
+      "english": "The Book of the Nines",
+      "sinhala": "නවක නිපාතය"
     }
   },
   "title": {
     "pali": "Navakanipātapāḷi",
-    "english": "The Book of Nines",
-    "sinhala": "නවකනිපාත පාලිය"
+    "english": "The Book of the Nines",
+    "sinhala": "නවක නිපාතය"
   },
   "footer": {
     "pali": "Navakanipātapāḷi niṭṭhitā.",
-    "english": "The Book of Nines is completed.",
-    "sinhala": "නවකනිපාත පාලිය නිමි වේ."
+    "english": "The Book of the Nines is concluded.",
+    "sinhala": "නවක නිපාතය මෙයින් අවසන් වේ."
   },
   "description": {
-    "english": "The ninth collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around groups of nine factors.",
-    "sinhala": "අංගුත්තර නිකායේ නවවන එකතුව වන මෙය සාධක නවයේ කණ්ඩායම් වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+    "english": "The ninth division of the Anguttara Nikaya, featuring suttas based on groups of nine, including the nine progressive meditative attainments and the nine abodes of sentient beings.",
+    "sinhala": "අංගුත්තර නිකායේ නවවන කොටස වන මෙහි, අනුපූර්ව විහාර සමාපත්ති නවය සහ සත්වාවාස නවය වැනි කරුණු නවය බැගින් වූ දේශනා අන්තර්ගත වේ."
   },
   "totalChapters": 10,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-24",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "an9.1",
       "number": 1,
       "title": {
         "pali": "Sambodhivaggo",
-        "english": "The Chapter on Enlightenment",
-        "sinhala": "සම්බෝධි වග්ගය"
+        "english": "Awakening",
+        "sinhala": "සම්බෝධි වර්ගය"
       },
       "description": {
-        "english": "Teachings on the nine factors that lead to perfect enlightenment and spiritual awakening.",
-        "sinhala": "සම්පූර්ණ බුද්ධත්වයට සහ ආධ්‍යාත්මික අවබෝධයට මග පාදන සාධක නව පිළිබඳ ඉගැන්වීම්."
+        "english": "Focuses on the nine factors that lead to awakening and the development of the spiritual path.",
+        "sinhala": "සම්බෝධිය (අවබෝධය) ලබා ගැනීම සඳහා උපකාරී වන කරුණු නවය සහ ආධ්‍යාත්මික මාවතේ දියුණුව මෙහි විස්තර වේ."
       },
-      "link": "chapters/an9.1-Sambodhivaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.1-Sambodhivaggo.json"
     },
     {
       "id": "an9.2",
       "number": 2,
       "title": {
         "pali": "Sīhanādavaggo",
-        "english": "The Chapter on the Lion's Roar",
-        "sinhala": "සීහනාද වග්ගය"
+        "english": "The Lion's Roar",
+        "sinhala": "සීහනාද වර්ගය"
       },
       "description": {
-        "english": "Powerful declarations of the Buddha's unique qualities and the nine aspects of his teaching.",
-        "sinhala": "බුදුරජාණන් වහන්සේගේ අද්විතීය ගුණාංග සහ ඔහුගේ ඉගැන්වීමේ අංශ නවයේ බලවත් ප්‍රකාශන."
+        "english": "Contains powerful declarations (Lion's Roars) regarding the realization of the Dhamma and the practice of the holy life.",
+        "sinhala": "ධර්මාවබෝධය සහ ශාසනික ප්‍රතිපදාව පිළිබඳව කරන ලද උදාර ප්‍රකාශ (සීහනාද) ඇතුළත් දේශනා සමූහයකි."
       },
-      "link": "chapters/an9.2-Sīhanādavaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.2-Sīhanādavaggo.json"
     },
     {
       "id": "an9.3",
       "number": 3,
       "title": {
         "pali": "Sattāvāsavaggo",
-        "english": "The Chapter on Abodes of Beings",
-        "sinhala": "සත්තාවාස වග්ගය"
+        "english": "Abodes of Beings",
+        "sinhala": "සත්තාවාස වර්ගය"
       },
       "description": {
-        "english": "Teachings on the nine abodes where beings can be reborn and their characteristics.",
-        "sinhala": "සත්වයන්ට පුනර්භවය ලැබිය හැකි වාසස්ථාන නව සහ ඒවායේ ලක්ෂණ පිළිබඳ ඉගැන්වීම්."
+        "english": "Identifies the nine different levels or realms where sentient beings dwell in the cycle of existence.",
+        "sinhala": "සංසාරය තුළ සත්වයන් වාසය කරන ස්ථාන හෙවත් තල නවයක් පිළිබඳව මෙහි විස්තර කෙරේ."
       },
-      "link": "chapters/an9.3-Sattāvāsavaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.3-Sattāvāsavaggo.json"
     },
     {
       "id": "an9.4",
@@ -95,97 +98,97 @@
       "title": {
         "pali": "Mahāvaggo",
         "english": "The Great Chapter",
-        "sinhala": "මහා වග්ගය"
+        "sinhala": "මහා වර්ගය"
       },
       "description": {
-        "english": "Comprehensive teachings on various sets of nine factors important for spiritual development.",
-        "sinhala": "ආධ්‍යාත්මික දියුණුව සඳහා වැදගත් සාධක නවයේ විවිධ කට්ටල පිළිබඳ සවිස්තරාත්මක ඉගැන්වීම්."
+        "english": "Large-scale discourses covering the nine-fold progressive cessation and the peak of spiritual attainment.",
+        "sinhala": "අනුපූර්ව නිරෝධයන් නවය සහ ආධ්‍යාත්මික දියුණුවේ උච්චතම අවස්ථාවන් විස්තර කරන දීර්ඝ දේශනා."
       },
-      "link": "chapters/an9.4-Mahāvaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.4-Mahāvaggo.json"
     },
     {
       "id": "an9.5",
       "number": 5,
       "title": {
         "pali": "Sāmaññavaggo",
-        "english": "The Chapter on the Ascetic Life",
-        "sinhala": "සාමඤ්ඤ වග්ගය"
+        "english": "Common Practices",
+        "sinhala": "සාමඤ්ඤ වර්ගය"
       },
       "description": {
-        "english": "Teachings on the nine qualities that define the true ascetic life and spiritual practice.",
-        "sinhala": "සැබෑ සමණ ජීවිතය සහ ආධ්‍යාත්මික භාවනාව නිර්වචනය කරන ගුණාංග නව පිළිබඳ ඉගැන්වීම්."
+        "english": "Discusses common elements of the monk's life and meditation organized into groups of nine.",
+        "sinhala": "ශ්‍රමණ ජීවිතය සහ භාවනාව සම්බන්ධ පොදු කරුණු නවය බැගින් ගෙන මෙහි විග්‍රහ කරයි."
       },
-      "link": "chapters/an9.5-Sāmaññavaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.5-Sāmaññavaggo.json"
     },
     {
       "id": "an9.6",
       "number": 6,
       "title": {
         "pali": "Khemavaggo",
-        "english": "The Chapter on Security",
-        "sinhala": "ඛේම වග්ගය"
+        "english": "Security",
+        "sinhala": "ඛේම වර්ගය"
       },
       "description": {
-        "english": "Teachings on the nine aspects of spiritual security and freedom from fear.",
-        "sinhala": "ආධ්‍යාත්මික ආරක්ෂාවේ සහ භීතිකාවෙන් නිදහස් වීමේ අංශ නව පිළිබඳ ඉගැන්වීම්."
+        "english": "Focuses on attaining spiritual security (Nirvana) and the removal of the nine-fold inner thorns.",
+        "sinhala": "ආධ්‍යාත්මික සැනසීම හෙවත් නිවන ලබා ගැනීම සහ අභ්‍යන්තර පීඩා (කණ්ඨක) නවයක් දුරු කිරීම ගැන මෙහි දැක්වේ."
       },
-      "link": "chapters/an9.6-Khemavaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.6-Khemavaggo.json"
     },
     {
       "id": "an9.7",
       "number": 7,
       "title": {
         "pali": "Satipaṭṭhānavaggo",
-        "english": "The Chapter on Foundations of Mindfulness",
-        "sinhala": "සතිපට්ඨාන වග්ගය"
+        "english": "Foundations of Mindfulness",
+        "sinhala": "සතිපට්ඨාන වර්ගය"
       },
       "description": {
-        "english": "Advanced teachings on the foundations of mindfulness and their nine aspects.",
-        "sinhala": "සිහිකල්පනාවේ පදනම් සහ ඒවායේ අංශ නව පිළිබඳ උසස් ඉගැන්වීම්."
+        "english": "Application of mindfulness in nine specific contexts to develop insight.",
+        "sinhala": "විදර්ශනා ප්‍රඥාව දියුණු කර ගැනීම සඳහා සතිපට්ඨානය නව ආකාරයකින් යොදා ගන්නා අයුරු."
       },
-      "link": "chapters/an9.7-Satipaṭṭhānavaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.7-Satipaṭṭhānavaggo.json"
     },
     {
       "id": "an9.8",
       "number": 8,
       "title": {
         "pali": "Sammappadhānavaggo",
-        "english": "The Chapter on Right Efforts",
-        "sinhala": "සම්මප්පධාන වග්ගය"
+        "english": "Right Efforts",
+        "sinhala": "සම්මප්පධාන වර්ගය"
       },
       "description": {
-        "english": "Teachings on the nine aspects of right effort in spiritual practice.",
-        "sinhala": "ආධ්‍යාත්මික භාවනාවේ සම්මා ප්‍රයත්නයේ අංශ නව පිළිබඳ ඉගැන්වීම්."
+        "english": "Explains the practice of the four right efforts within a nine-fold framework of development.",
+        "sinhala": "සතර සම්‍යක් ප්‍රධානයන් නව වැදෑරුම් සංවර්ධන රාමුවක් තුළ පුහුණු කරන ආකාරය."
       },
-      "link": "chapters/an9.8-Sammappadhānavaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.8-Sammappadhānavaggo.json"
     },
     {
       "id": "an9.9",
       "number": 9,
       "title": {
         "pali": "Iddhipādavaggo",
-        "english": "The Chapter on Bases of Psychic Power",
-        "sinhala": "ඉද්ධිපාද වග්ගය"
+        "english": "Bases of Power",
+        "sinhala": "ඉද්ධිපාද වර්ගය"
       },
       "description": {
-        "english": "Teachings on the nine aspects of the bases of psychic power and spiritual accomplishment.",
-        "sinhala": "මනෝ බලයේ පදනම් සහ ආධ්‍යාත්මික ජයග්‍රහණයේ අංශ නව පිළිබඳ ඉගැන්වීම්."
+        "english": "The development of the four bases of spiritual power categorized into nine types of practice.",
+        "sinhala": "සතර ඉද්ධිපාදයන් දියුණු කිරීමේ ක්‍රියාවලිය නව ආකාරයකින් මෙහි විස්තර වේ."
       },
-      "link": "chapters/an9.9-Iddhipādavaggo.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.9-Iddhipādavaggo.json"
     },
     {
       "id": "an9.10",
       "number": 10,
       "title": {
         "pali": "Rāgapeyyālaṃ",
-        "english": "The Repetition Series on Greed",
-        "sinhala": "රාග පේය්‍යාලය"
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
       },
       "description": {
-        "english": "Systematic repetitions on greed, hatred, delusion and their opposites in groups of nine.",
-        "sinhala": "ලෝභය, ද්වේෂය, මෝහය සහ ඒවායේ ප්‍රතිවිරුද්ධ ගුණාංග නවයේ කණ්ඩායම්වල ක්‍රමානුකූල පුනරාවර්තන."
+        "english": "A series of abbreviated texts on overcoming lust and other hindrances through nine methods.",
+        "sinhala": "රාගය ඇතුළු නීවරණ ධර්මයන් ප්‍රහීණ කිරීම සඳහා වූ නව වැදෑරුම් ක්‍රමවේද ඇතුළත් කෙටි දේශනා පෙළ."
       },
-      "link": "chapters/an9.10-Rāgapeyyālaṃ.json"
+      "link": "Aṅguttaranikāyo/Navakanipātapāḷi/chapters/an9.10-Rāgapeyyālaṃ.json"
     }
   ]
 }

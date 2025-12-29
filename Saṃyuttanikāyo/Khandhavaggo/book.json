@@ -1,10 +1,10 @@
 {
-  "id": "khandhavagga",
+  "id": "khandhavaggo",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
@@ -12,222 +12,225 @@
     "id": "samyuttanikaya",
     "name": {
       "pali": "Saṃyutta Nikāya",
-      "english": "Connected Discourses",
+      "english": "The Linked Discourses",
       "sinhala": "සංයුත්ත නිකාය"
     }
   },
   "vagga": {
-    "id": "khandhavagga",
+    "id": "khandhavaggo",
     "number": 3,
     "name": {
       "pali": "Khandhavaggo",
-      "english": "The Chapter on the Aggregates",
-      "sinhala": "ඛන්ධ වග්ගය"
+      "english": "The Section on the Aggregates",
+      "sinhala": "ඛන්ධ වර්ගය"
     }
   },
   "title": {
     "pali": "Khandhavaggo",
-    "english": "The Chapter on the Aggregates",
-    "sinhala": "ඛන්ධ වග්ගය"
+    "english": "The Book of the Aggregates",
+    "sinhala": "ඛන්ධ වර්ගය"
   },
   "footer": {
-    "pali": "Khandhavaggo tatiyo. Tassuddānaṃ – Khandha rādhasaṃyuttañca, diṭṭhiokkanta [okkanti (sabbattha)] uppādā; Kilesa sāriputtā ca, nāgā supaṇṇa gandhabbā; Valāha vacchajhānanti, khandhavaggamhi terasāti. Khandhavaggasaṃyuttapāḷi niṭṭhitā.",
-    "english": "The Chapter on the Aggregates is third. Its summary: Khandha, Rādha, Diṭṭhi, Okkanta, and Uppāda; Kilesa, Sāriputta, Nāga, Supaṇṇa, and Gandhabba; Valāha, Vaccha, and Jhāna - thirteen in the Chapter on the Aggregates. The Connected Discourses of the Chapter on the Aggregates is completed.",
-    "sinhala": "ඛන්ධ වග්ගය තුන්වැන්නයි. එහි සාරාංශය - ඛන්ධ, රාධ, දිට්ඨි, ඔක්කන්ත සහ උප්පාද; කිලේස, සාරිපුත්ත, නාග, සුපණ්ණ සහ ගන්ධබ්බ; වලාහ, වච්ඡ සහ ඣාන - ඛන්ධ වග්ගයේ දහතුනයි. ඛන්ධ වග්ගයේ සංයුත්ත පාළිය නිමි වේ."
+    "pali": "Khandhavaggo tatiyo. Tassuddānaṃ – Khandha rādhasaṃyuttañca, diṭṭhiokkanta uppādā; Kilesa sāriputtā ca, nāgā supaṇṇa gandhabbā; Valāha vacchajhānanti, khandhavaggamhi terasāti. Khandhavaggasaṃyuttapāḷi niṭṭhitā.",
+    "english": "The third is the Khandha Section. Its summary: The Aggregates and Radha; Views, Entering, and Arising; Defilements and Sariputta; Dragons, Phoenixes, and Fairies; Clouds, Vacchagotta, and Absorption—these are the thirteen in the Khandha Section. The Linked Discourses of the Khandha Section is finished.",
+    "sinhala": "තෙවන වූ ඛන්ධ වර්ගයයි. එහි උද්දානය: ඛන්ධ, රාධ, දිට්ඨි, ඔක්කන්ති, උප්පාද, කිලේස, සාරිපුත්ත, නාග, සුපණ්ණ, ගන්ධබ්බකාය, වලාහක, වච්ඡගොත්ත සහ ඣාන යන සංයුක්ත දහතුන මෙහි ඇතුළත් වේ. ඛන්ධ වර්ග සංයුක්තපාළිය නිමවා ලදි."
   },
   "description": {
-    "english": "The third collection of the Connected Discourses (Saṃyutta Nikāya), focusing on the five aggregates of clinging and related teachings on the nature of existence and non-self.",
-    "sinhala": "සංයුත්ත නිකායේ තුන්වන එකතුව වන මෙය උපාදාන ඛන්ධ පහ සහ පැවැත්මේ ස්වභාවය සහ අනාත්මය පිළිබඳ ඒ හා සම්බන්ධ ඉගැන්වීම් කෙරෙහි අවධානය යොමු කරයි."
+    "english": "The third book of the Samyutta Nikaya. It focuses extensively on the Five Aggregates (form, feeling, perception, choices, and consciousness), explaining their impermanent and selfless nature. It also includes sections on Sariputta's teachings and various celestial beings.",
+    "sinhala": "සංයුත්ත නිකායේ තෙවන වෙළුමයි. පංච උපාදානස්කන්ධයන්ගේ (රූප, වේදනා, සංඥා, සංඛාර, විඤ්ඤාණ) අනිත්‍යභාවය සහ අනාත්ම ස්වභාවය පිළිබඳව මෙහි දීර්ඝව විග්‍රහ කෙරේ. මීට අමතරව සාරිපුත්ත හිමියන්ගේ දේශනා සහ විවිධ දිව්‍යමය සත්ත්ව කොට්ඨාස පිළිබඳ තොරතුරු ද ඇතුළත් වේ."
   },
   "totalChapters": 13,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-24",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "sn.3.1",
       "number": 1,
       "title": {
         "pali": "Khandhasaṃyuttaṃ",
-        "english": "Connected Discourses on the Aggregates",
-        "sinhala": "ඛන්ධ සංයුත්තය"
+        "english": "Linked Discourses on the Aggregates",
+        "sinhala": "ඛන්ධ සංයුක්තය"
       },
       "description": {
-        "english": "Fundamental teachings on the five aggregates (form, feeling, perception, formations, consciousness) and their impermanent, suffering, and non-self nature.",
-        "sinhala": "පඤ්ච උපාදානක්ඛන්ධ (රූප, වේදනා, සංඥා, සංස්කාර, විඤ්ඤාණ) සහ ඒවායේ අනිත්‍ය, දුක්ඛ සහ අනාත්ම ස්වභාවය පිළිබඳ මූලික ඉගැන්වීම්."
+        "english": "The primary collection of discourses regarding the five aggregates of clinging.",
+        "sinhala": "පංච උපාදානස්කන්ධයන් පිළිබඳව කෙරෙන මූලික දේශනා එකතුවයි."
       },
-      "link": "chapters/sn.3.1-Khandhasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.1-Khandhasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.2",
       "number": 2,
       "title": {
         "pali": "Rādhasaṃyuttaṃ",
-        "english": "Connected Discourses with Rādha",
-        "sinhala": "රාධ සංයුත්තය"
+        "english": "Linked Discourses with Rādha",
+        "sinhala": "රාධ සංයුක්තය"
       },
       "description": {
-        "english": "Teachings given to Venerable Rādha on the aggregates, their arising and passing away, and the path to liberation.",
-        "sinhala": "ඛන්ධ, ඒවායේ ඇතිවීම සහ නැතිවීම සහ විමුක්ති මාර්ගය පිළිබඳ රාධ මහ ස්ථවිරයන් වහන්සේට ලබා දුන් ඉගැන්වීම්."
+        "english": "Questions asked by the elder Radha concerning the nature of a 'being' and liberation.",
+        "sinhala": "රාධ තෙරුන් විසින් 'සත්ත්වයා' සහ විමුක්තිය පිළිබඳව විමසන ලද ප්‍රශ්න සහ ඒවාට දුන් පිළිතුරු ඇතුළත් වේ."
       },
-      "link": "chapters/sn.3.2-Rādhasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.2-Rādhasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.3",
       "number": 3,
       "title": {
         "pali": "Diṭṭhisaṃyuttaṃ",
-        "english": "Connected Discourses on Views",
-        "sinhala": "දිට්ඨි සංයුත්තය"
+        "english": "Linked Discourses on Views",
+        "sinhala": "දිට්ඨි සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on wrong views and right understanding, particularly regarding the nature of self and the aggregates.",
-        "sinhala": "වැරදි මතවාද සහ සම්මා දිට්ඨිය, විශේෂයෙන් ආත්මයේ ස්වභාවය සහ ඛන්ධ පිළිබඳ ඉගැන්වීම්."
+        "english": "Explains how various wrong views arise based on the misunderstanding of the five aggregates.",
+        "sinhala": "පංචස්කන්ධය පිළිබඳ පවතින වැරදි වැටහීම් නිසා විවිධ දෘෂ්ටි ඇතිවන ආකාරය මෙහි විස්තර වේ."
       },
-      "link": "chapters/sn.3.3-Diṭṭhisaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.3-Diṭṭhisaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.4",
       "number": 4,
       "title": {
         "pali": "Okkantasaṃyuttaṃ",
-        "english": "Connected Discourses on Entering",
-        "sinhala": "ඔක්කන්ත සංයුත්තය"
+        "english": "Linked Discourses on Entering",
+        "sinhala": "ඔක්කන්ති සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on how consciousness enters and becomes established in the aggregates and the process of rebirth.",
-        "sinhala": "විඤ්ඤාණය ඛන්ධවල ප්‍රවේශ වී ස්ථාපිත වන ආකාරය සහ පුනර්භව ක්‍රියාවලිය පිළිබඳ ඉගැන්වීම්."
+        "english": "On entering the path of certainty in the Dhamma through faith or wisdom.",
+        "sinhala": "ශ්‍රද්ධානුසාරී හෝ ධම්මානුසාරී ලෙස නිවැරදි දහම් මාවතට අවතීර්ණ වීම පිළිබඳව කෙරෙන දේශනා මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/sn.3.4-Okkantasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.4-Okkantasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.5",
       "number": 5,
       "title": {
         "pali": "Uppādasaṃyuttaṃ",
-        "english": "Connected Discourses on Arising",
-        "sinhala": "උප්පාද සංයුත්තය"
+        "english": "Linked Discourses on Arising",
+        "sinhala": "උප්පාද සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on the arising and manifestation of phenomena, particularly the aggregates and their conditioned nature.",
-        "sinhala": "ධර්මවල, විශේෂයෙන් ඛන්ධවල සහ ඒවායේ ප්‍රත්‍යයපන්න ස්වභාවයේ ඇතිවීම සහ ප්‍රකාශනය පිළිබඳ ඉගැන්වීම්."
+        "english": "Shows that the arising of the aggregates is the arising of suffering.",
+        "sinhala": "ස්කන්ධයන්ගේ උපත යනු දුකේ උපත බව පෙන්වා දෙන දේශනා මාලාවකි."
       },
-      "link": "chapters/sn.3.5-Uppādasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.5-Uppādasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.6",
       "number": 6,
       "title": {
         "pali": "Kilesasaṃyuttaṃ",
-        "english": "Connected Discourses on Defilements",
-        "sinhala": "කිලේස සංයුත්තය"
+        "english": "Linked Discourses on Defilements",
+        "sinhala": "කිලේස සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on the mental defilements (kilesa) that bind beings to suffering and the methods for their elimination.",
-        "sinhala": "සත්වයන් දුක්ඛයට බන්ධනය කරන මානසික කිලේස සහ ඒවා ඉවත් කිරීමේ ක්‍රම පිළිබඳ ඉගැන්වීම්."
+        "english": "Focuses on the desire and lust rooted in the sense bases and aggregates.",
+        "sinhala": "ස්කන්ධ සහ ආයතන කෙරෙහි පවතින රාගය සහ කෙලෙස් පිළිබඳව මෙහි විග්‍රහ කෙරේ."
       },
-      "link": "chapters/sn.3.6-Kilesasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.6-Kilesasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.7",
       "number": 7,
       "title": {
         "pali": "Sāriputtasaṃyuttaṃ",
-        "english": "Connected Discourses with Sāriputta",
-        "sinhala": "සාරිපුත්ත සංයුත්තය"
+        "english": "Linked Discourses with Sāriputta",
+        "sinhala": "සාරිපුත්ත සංයුක්තය"
       },
       "description": {
-        "english": "Teachings and dialogues involving Venerable Sāriputta, the Buddha's chief disciple renowned for his wisdom.",
-        "sinhala": "ප්‍රඥාව සඳහා ප්‍රසිද්ධ බුදුරජාණන් වහන්සේගේ ප්‍රධාන ශිෂ්‍යයා වන සාරිපුත්ත මහ ස්ථවිරයන් වහන්සේ සම්බන්ධ ඉගැන්වීම් සහ සංවාද."
+        "english": "Dialogues involving Ven. Sariputta regarding the attainments of the mind.",
+        "sinhala": "සාරිපුත්ත මහ රහතන් වහන්සේ සහ අනෙකුත් ස්වාමීන් වහන්සේලා අතර සමාපත්ති පිළිබඳව ඇති වූ සංවාද මෙහි අඩංගු වේ."
       },
-      "link": "chapters/sn.3.7-Sāriputtasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.7-Sāriputtasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.8",
       "number": 8,
       "title": {
         "pali": "Nāgasaṃyuttaṃ",
-        "english": "Connected Discourses with Nāgas",
-        "sinhala": "නාග සංයුත්තය"
+        "english": "Linked Discourses on Dragons (Nāgas)",
+        "sinhala": "නාග සංයුක්තය"
       },
       "description": {
-        "english": "Teachings involving nāgas (serpent beings) and their spiritual development, showing how all beings can benefit from the Dhamma.",
-        "sinhala": "නාගයන් (සර්ප ජීවීන්) සහ ඔවුන්ගේ ආධ්‍යාත්මික දියුණුව සම්බන්ධ ඉගැන්වීම්, සියලු සත්වයන්ට ධර්මයෙන් ප්‍රතිලාභ ලබා ගත හැකි ආකාරය පෙන්වයි."
+        "english": "Concerning the various types of Nagas and the reasons for being reborn among them.",
+        "sinhala": "විවිධ නාග කොට්ඨාස සහ නාග ලෝකයේ උපත ලැබීමට හේතු වන කරුණු මෙහි විස්තර වේ."
       },
-      "link": "chapters/sn.3.8-Nāgasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.8-Nāgasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.9",
       "number": 9,
       "title": {
         "pali": "Supaṇṇasaṃyuttaṃ",
-        "english": "Connected Discourses with Supaṇṇas",
-        "sinhala": "සුපණ්ණ සංයුත්තය"
+        "english": "Linked Discourses on Harpies (Supaṇṇas)",
+        "sinhala": "සුපණ්ණ සංයුක්තය"
       },
       "description": {
-        "english": "Teachings involving supaṇṇas (mythical bird beings) and their relationship with the Dhamma and spiritual practice.",
-        "sinhala": "සුපණ්ණයන් (මිථ්‍යා පක්ෂි ජීවීන්) සහ ධර්මය සහ ආධ්‍යාත්මික භාවනාව සමඟ ඔවුන්ගේ සම්බන්ධතාවය සම්බන්ධ ඉගැන්වීම්."
+        "english": "Concerning the winged Supannas (Garudas).",
+        "sinhala": "සුපර්ණයන් හෙවත් ගුරුළන් පිළිබඳව කෙරෙන කෙටි විග්‍රහයකි."
       },
-      "link": "chapters/sn.3.9-Supaṇṇasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.9-Supaṇṇasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.10",
       "number": 10,
       "title": {
         "pali": "Gandhabbakāyasaṃyuttaṃ",
-        "english": "Connected Discourses with Gandhabba Bodies",
-        "sinhala": "ගන්ධබ්බකාය සංයුත්තය"
+        "english": "Linked Discourses on Gandhabbakas",
+        "sinhala": "ගන්ධබ්බකාය සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on gandhabba bodies (intermediate beings) and the process of rebirth and consciousness transfer.",
-        "sinhala": "ගන්ධබ්බ කායන් (අන්තර්වර්තී ජීවීන්) සහ පුනර්භව ක්‍රියාවලිය සහ විඤ්ඤාණ හුවමාරුව පිළිබඳ ඉගැන්වීම්."
+        "english": "On the deities that inhabit trees and plants.",
+        "sinhala": "ගන්ධබ්බ දිව්‍ය පුත්‍රයන් සහ ඔවුන් එවැනි උපත් ලැබීමට හේතු වූ කර්ම පිළිබඳ දේශනා ඇතුළත් වේ."
       },
-      "link": "chapters/sn.3.10-Gandhabbakāyasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.10-Gandhabbakāyasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.11",
       "number": 11,
       "title": {
         "pali": "Valāhakasaṃyuttaṃ",
-        "english": "Connected Discourses with Cloud Devas",
-        "sinhala": "වලාහක සංයුත්තය"
+        "english": "Linked Discourses on Cloud Spirits",
+        "sinhala": "වලාහක සංයුක්තය"
       },
       "description": {
-        "english": "Teachings involving cloud devas and celestial beings associated with weather phenomena and natural forces.",
-        "sinhala": "වලාකුළු දේවතාවන් සහ කාලගුණික සංසිද්ධි සහ ස්වභාවික බලවේග සමඟ සම්බන්ධ ආකාශීය ජීවීන් සම්බන්ධ ඉගැන්වීම්."
+        "english": "Regarding the spirits that control the weather and clouds.",
+        "sinhala": "වලාහක දිව්‍ය පුත්‍රයන් සහ කාලගුණික විපර්යාසයන් පිළිබඳව කෙරෙන දේශනා මෙහි අඩංගු වේ."
       },
-      "link": "chapters/sn.3.11-Valāhakasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.11-Valāhakasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.12",
       "number": 12,
       "title": {
         "pali": "Vacchagottasaṃyuttaṃ",
-        "english": "Connected Discourses with Vacchagotta",
-        "sinhala": "වච්ඡගෝත්ත සංයුත්තය"
+        "english": "Linked Discourses with Vacchagotta",
+        "sinhala": "වච්ඡගොත්ත සංයුක්තය"
       },
       "description": {
-        "english": "Dialogues with the wanderer Vacchagotta on various philosophical questions and the Buddha's approach to metaphysical issues.",
-        "sinhala": "විවිධ දාර්ශනික ප්‍රශ්න සහ පරභෞතික ගැටලු සම්බන්ධයෙන් බුදුරජාණන් වහන්සේගේ ප්‍රවේශය පිළිබඳ වච්ඡගෝත්ත පරිබ්‍රාජක සමඟ සංවාද."
+        "english": "The Buddha's answers to the wanderer Vacchagotta's questions on speculative views.",
+        "sinhala": "වච්ඡගොත්ත පිරිවැජියා විසින් විමසන ලද විවිධ දෘෂ්ටි පිළිබඳ ප්‍රශ්න වලට බුදුරජාණන් වහන්සේ දුන් පිළිතුරු මෙහි ඇතුළත් වේ."
       },
-      "link": "chapters/sn.3.12-Vacchagottasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.12-Vacchagottasaṃyuttaṃ.json"
     },
     {
       "id": "sn.3.13",
       "number": 13,
       "title": {
         "pali": "Jhānasaṃyuttaṃ",
-        "english": "Connected Discourses on Jhāna",
-        "sinhala": "ඣාන සංයුත්තය"
+        "english": "Linked Discourses on Absorption (Jhāna)",
+        "sinhala": "ඣාන සංයුක්තය"
       },
       "description": {
-        "english": "Teachings on the jhānas (meditative absorptions), their development, benefits, and role in the path to liberation.",
-        "sinhala": "ඣාන (භාවනාත්මක සමාධි), ඒවායේ දියුණුව, ප්‍රතිලාභ සහ විමුක්ති මාර්ගයේ භූමිකාව පිළිබඳ ඉගැන්වීම්."
+        "english": "On the different aspects and mastery of meditative absorption.",
+        "sinhala": "සමාධිය සහ ඣාන වැඩීමෙහි පවතින විවිධ කුසලතාවයන් පිළිබඳව කෙරෙන දේශනා මාලාවකි."
       },
-      "link": "chapters/sn.3.13-Jhānasaṃyuttaṃ.json"
+      "link": "Saṃyuttanikāyo/Khandhavaggo/chapters/sn.3.13-Jhānasaṃyuttaṃ.json"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "id": "catukkanipata",
+  "id": "catukkanipatapali",
   "basket": {
     "id": "sutta",
     "name": {
       "pali": "Suttapiṭaka",
-      "english": "Basket of Discourses",
+      "english": "The Basket of Discourses",
       "sinhala": "සූත්‍ර පිටකය"
     }
   },
@@ -12,404 +12,407 @@
     "id": "anguttaranikaya",
     "name": {
       "pali": "Aṅguttara Nikāya",
-      "english": "Numerical Discourses",
+      "english": "The Numerical Discourses",
       "sinhala": "අංගුත්තර නිකාය"
     }
   },
   "nipata": {
-    "id": "catukkanipata",
+    "id": "catukkanipatapali",
     "number": 4,
     "name": {
       "pali": "Catukkanipātapāḷi",
-      "english": "The Division of Fours",
-      "sinhala": "චතුක්කනිපාතපාලිය"
+      "english": "The Book of the Fours",
+      "sinhala": "චතුක්ක නිපාතය"
     }
   },
   "title": {
     "pali": "Catukkanipātapāḷi",
-    "english": "The Division of Fours",
-    "sinhala": "චතුක්කනිපාතපාලිය"
+    "english": "The Book of the Fours",
+    "sinhala": "චතුක්ක නිපාතය"
   },
   "footer": {
     "pali": "Catukkanipātapāḷi niṭṭhitā.",
-    "english": "The Division of Fours is completed.",
-    "sinhala": "චතුක්කනිපාතපාලිය නිමි වේ."
+    "english": "The Book of the Fours is concluded.",
+    "sinhala": "චතුක්ක නිපාතය මෙයින් අවසන් වේ."
   },
   "description": {
-    "english": "The fourth collection of the Numerical Discourses (Aṅguttara Nikāya), containing teachings organized around groups of four factors.",
-    "sinhala": "අංගුත්තර නිකායේ සිව්වන එකතුව වන මෙය සාධක හතරේ කණ්ඩායම් වටා සංවිධානය කරන ලද ඉගැන්වීම් අඩංගු වේ."
+    "english": "The fourth division of the Anguttara Nikaya, containing suttas organized into groups of four principles, qualities, or types of persons.",
+    "sinhala": "අංගුත්තර නිකායේ සිව්වන කොටස වන මෙහි කරුණු, ගුණාංග හෝ පුද්ගල වර්ග හතර බැගින් වූ දේශනා ඇතුළත් වේ."
   },
   "totalChapters": 26,
   "language": {
     "source": "pali",
-    "translations": ["english", "sinhala"]
+    "translations": [
+      "english",
+      "sinhala"
+    ]
   },
-  "version": "1.0.0",
-  "lastUpdated": "2025-12-24",
+  "version": "1.0.1",
+  "lastUpdated": "2025-12-29",
   "chapters": [
     {
       "id": "an4.1",
       "number": 1,
       "title": {
         "pali": "Bhaṇḍagāmavaggo",
-        "english": "The Chapter at Bhaṇḍagāma",
-        "sinhala": "භණ්ඩගාම වග්ගය"
+        "english": "Bhaṇḍagāma",
+        "sinhala": "භණ්ඩගාම වර්ගය"
       },
       "description": {
-        "english": "Teachings given at the village of Bhaṇḍagāma on various aspects of the spiritual path.",
-        "sinhala": "ආධ්‍යාත්මික මාර්ගයේ විවිධ අංශ පිළිබඳ භණ්ඩගාම ගම්මානයේදී ලබා දුන් ඉගැන්වීම්."
+        "english": "Contains teachings given at Bhaṇḍagāma regarding the four things that lead to realization and ending of suffering.",
+        "sinhala": "දුක කෙළවර කිරීම සහ අවබෝධය පිණිස උපකාරී වන කරුණු හතරක් පිළිබඳව භණ්ඩගාමයේදී කළ දේශනා ඇතුළත් වේ."
       },
-      "link": "chapters/an4.1-Bhaṇḍagāmavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.1-Bhaṇḍagāmavaggo.json"
     },
     {
       "id": "an4.2",
       "number": 2,
       "title": {
         "pali": "Caravaggo",
-        "english": "The Chapter on Wandering",
-        "sinhala": "චර වග්ගය"
+        "english": "Walking",
+        "sinhala": "චර වර්ගය"
       },
       "description": {
-        "english": "Teachings on the proper conduct and mindset for wandering monks and practitioners.",
-        "sinhala": "සංචාරක භික්ෂූන් සහ භාවනාකරුවන් සඳහා නිසි හැසිරීම සහ මානසිකත්වය පිළිබඳ ඉගැන්වීම්."
+        "english": "Discourses on mindfulness while walking, standing, sitting, or lying down, and the effort to overcome unwholesome states.",
+        "sinhala": "සක්මන් කරන විට, සිටගෙන සිටින විට, හිඳින විට හෝ සැතපෙන විට පවත්වා ගත යුතු සිහිය සහ අකුසල පලවා හැරීමට ගන්නා උත්සාහය ගැන මෙහි විස්තර වේ."
       },
-      "link": "chapters/an4.2-Caravaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.2-Caravaggo.json"
     },
     {
       "id": "an4.3",
       "number": 3,
       "title": {
         "pali": "Uruvelavaggo",
-        "english": "The Chapter at Uruvelā",
-        "sinhala": "උරුවේල වග්ගය"
+        "english": "Uruvelā",
+        "sinhala": "උරුවේල වර්ගය"
       },
       "description": {
-        "english": "Teachings given at Uruvelā, including important discourses on spiritual development.",
-        "sinhala": "ආධ්‍යාත්මික දියුණුව පිළිබඳ වැදගත් දේශනා ඇතුළුව උරුවේලාහිදී ලබා දුන් ඉගැන්වීම්."
+        "english": "Features events from Uruvelā, including the Buddha's reflections on the path to enlightenment and qualities of a teacher.",
+        "sinhala": "සම්බුද්ධත්වයට පත්වීමෙන් පසු උරුවේලාවේදී සිදු වූ සිදුවීම් සහ ශාස්තෘවරයෙකු සතු ගුණාංග පිළිබඳ දේශනා ඇතුළත් වේ."
       },
-      "link": "chapters/an4.3-Uruvelavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.3-Uruvelavaggo.json"
     },
     {
       "id": "an4.4",
       "number": 4,
       "title": {
         "pali": "Cakkavaggo",
-        "english": "The Chapter on Wheels",
-        "sinhala": "චක්ක වග්ගය"
+        "english": "The Wheel",
+        "sinhala": "චක්ක වර්ගය"
       },
       "description": {
-        "english": "Teachings using the metaphor of wheels to illustrate various spiritual principles.",
-        "sinhala": "විවිධ ආධ්‍යාත්මික මූලධර්ම නිදර්ශනය කිරීම සඳහා චක්‍රයේ රූපකය භාවිතා කරන ඉගැන්වීම්."
+        "english": "Discusses the four 'wheels' or blessings that lead to prosperity and spiritual success.",
+        "sinhala": "ලෞකික හා ආධ්‍යාත්මික දියුණුවට හේතු වන 'චක්‍ර' හතරක් හෙවත් ආශිර්වාද හතරක් පිළිබඳව මෙහි සාකච්ඡා කෙරේ."
       },
-      "link": "chapters/an4.4-Cakkavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.4-Cakkavaggo.json"
     },
     {
       "id": "an4.5",
       "number": 5,
       "title": {
         "pali": "Rohitassavaggo",
-        "english": "The Chapter on Rohitassa",
-        "sinhala": "රෝහිතස්ස වග්ගය"
+        "english": "Rohitassa",
+        "sinhala": "රෝහිතස්ස වර්ගය"
       },
       "description": {
-        "english": "Teachings involving the deva Rohitassa and related cosmic and spiritual themes.",
-        "sinhala": "රෝහිතස්ස දේවයා සහ ඒ හා සම්බන්ධ විශ්ව සහ ආධ්‍යාත්මික තේමා සම්බන්ධ ඉගැන්වීම්."
+        "english": "The famous dialogue with the deity Rohitassa about the end of the world and the four ways of developing immersion.",
+        "sinhala": "ලෝකයේ අවසානය පිළිබඳව රෝහිතස්ස දිව්‍යපුත්‍රයා සමඟ කළ සාකච්ඡාව සහ සමාධිය වැඩීමේ ක්‍රම හතරක් මෙහි දැක්වේ."
       },
-      "link": "chapters/an4.5-Rohitassavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.5-Rohitassavaggo.json"
     },
     {
       "id": "an4.6",
       "number": 6,
       "title": {
         "pali": "Puññābhisandavaggo",
-        "english": "The Chapter on Streams of Merit",
-        "sinhala": "පුඤ්ඤාභිසන්ද වග්ගය"
+        "english": "Streams of Merit",
+        "sinhala": "පුඤ්ඤාභිසන්ද වර්ගය"
       },
       "description": {
-        "english": "Teachings on the streams of merit that flow from wholesome actions and generosity.",
-        "sinhala": "කුසල ක්‍රියා සහ දානශීලිත්වයෙන් ගලා එන පුණ්‍ය ධාරා පිළිබඳ ඉගැන්වීම්."
+        "english": "Details the four streams of merit that flow into a person's life and the foundations of happiness.",
+        "sinhala": "පුද්ගලයෙකුගේ ජීවිතයට සතුට හා යහපත ගෙන දෙන පින් ගංගා හතරක් හෙවත් පිනෙහි ආනිසංස මෙහි විස්තර වේ."
       },
-      "link": "chapters/an4.6-Puññābhisandavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.6-Puññābhisandavaggo.json"
     },
     {
       "id": "an4.7",
       "number": 7,
       "title": {
         "pali": "Pattakammavaggo",
-        "english": "The Chapter on Proper Actions",
-        "sinhala": "පත්තකම්ම වග්ගය"
+        "english": "Fitting Deeds",
+        "sinhala": "පත්තකම්ම වර්ගය"
       },
       "description": {
-        "english": "Teachings on proper and improper actions and their consequences.",
-        "sinhala": "නිසි සහ නුසුදුසු ක්‍රියා සහ ඒවායේ ප්‍රතිඵල පිළිබඳ ඉගැන්වීම්."
+        "english": "Guidance on appropriate actions for householders and the four kinds of happiness they can achieve.",
+        "sinhala": "ගිහියන් විසින් කළ යුතු සුදුසු කටයුතු සහ ගිහියෙකුට ලැබිය හැකි සුවයන් හතරක් පිළිබඳව මෙහි උපදෙස් ඇතුළත් වේ."
       },
-      "link": "chapters/an4.7-Pattakammavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.7-Pattakammavaggo.json"
     },
     {
       "id": "an4.8",
       "number": 8,
       "title": {
         "pali": "Apaṇṇakavaggo",
-        "english": "The Chapter on the Certain",
-        "sinhala": "අපණ්ණක වග්ගය"
+        "english": "The Unmistakable",
+        "sinhala": "අපණ්ණක වර්ගය"
       },
       "description": {
-        "english": "Teachings on certainties in spiritual practice and doctrine.",
-        "sinhala": "ආධ්‍යාත්මික භාවනාවේ සහ ධර්මයේ නිශ්චිත කරුණු පිළිබඳ ඉගැන්වීම්."
+        "english": "Explains the practice that is sure and unmistakable for making progress on the path.",
+        "sinhala": "නිවැරදි මඟ පෙන්වන, කිසිසේත් වැරදිය නොහැකි වූ 'අපණ්ණක' ප්‍රතිපදාව පිළිබඳව මෙහි විස්තර කෙරේ."
       },
-      "link": "chapters/an4.8-Apaṇṇakavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.8-Apaṇṇakavaggo.json"
     },
     {
       "id": "an4.9",
       "number": 9,
       "title": {
         "pali": "Macalavaggo",
-        "english": "The Chapter on Macala",
-        "sinhala": "මචල වග්ගය"
+        "english": "Unyielding",
+        "sinhala": "මචල වර්ගය"
       },
       "description": {
-        "english": "Teachings involving the brahmin Macala and related spiritual discussions.",
-        "sinhala": "මචල බ්‍රාහ්මණයා සහ ඒ හා සම්බන්ධ ආධ්‍යාත්මික සාකච්ඡා සම්බන්ධ ඉගැන්වීම්."
+        "english": "Focuses on developing unyielding faith and the qualities of a person who is firm in the Dhamma.",
+        "sinhala": "සැලෙන සුලු නොවන නොසැලෙන ශ්‍රද්ධාව සහ ධර්මයෙහි ස්ථාවර වූ පුද්ගලයෙකුගේ ලක්ෂණ මෙහි අවධාරණය කෙරේ."
       },
-      "link": "chapters/an4.9-Macalavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.9-Macalavaggo.json"
     },
     {
       "id": "an4.10",
       "number": 10,
       "title": {
         "pali": "Asuravaggo",
-        "english": "The Chapter on Demons",
-        "sinhala": "අසුර වග්ගය"
+        "english": "Asuras",
+        "sinhala": "අසුර වර්ගය"
       },
       "description": {
-        "english": "Teachings using the example of demons to illustrate spiritual principles.",
-        "sinhala": "ආධ්‍යාත්මික මූලධර්ම නිදර්ශනය කිරීම සඳහා අසුරයන්ගේ උදාහරණය භාවිතා කරන ඉගැන්වීම්."
+        "english": "Uses the metaphor of Asuras and Gods to classify four types of persons based on their internal and external virtues.",
+        "sinhala": "අසුරයන් සහ දෙවියන් උපමාවට ගනිමින්, පුද්ගලයන්ගේ අභ්‍යන්තර හා බාහිර ගුණාංග මත පදනම් වූ පුද්ගල වර්ග හතරක් දක්වයි."
       },
-      "link": "chapters/an4.10-Asuravaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.10-Asuravaggo.json"
     },
     {
       "id": "an4.11",
       "number": 11,
       "title": {
         "pali": "Valāhakavaggo",
-        "english": "The Chapter on Rain Clouds",
-        "sinhala": "වලාහක වග්ගය"
+        "english": "Clouds",
+        "sinhala": "වලාහක වර්ගය"
       },
       "description": {
-        "english": "Teachings using the metaphor of rain clouds to illustrate different types of people.",
-        "sinhala": "විවිධ පුද්ගල වර්ග නිදර්ශනය කිරීම සඳහා වර්ෂා වලාකුල්වල රූපකය භාවිතා කරන ඉගැන්වීම්."
+        "english": "Metaphorical teachings comparing people to four types of clouds: those that thunder but do not rain, and so on.",
+        "sinhala": "ගොරවන නමුත් වැසි නොවසින වලාකුළු මෙන්, පුද්ගලයන්ගේ කතාව සහ ක්‍රියාව සංසන්දනය කරමින් කළ උපමා දේශනා ඇතුළත් වේ."
       },
-      "link": "chapters/an4.11-Valāhakavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.11-Valāhakavaggo.json"
     },
     {
       "id": "an4.12",
       "number": 12,
       "title": {
         "pali": "Kesivaggo",
-        "english": "The Chapter on Kesi",
-        "sinhala": "කේසි වග්ගය"
+        "english": "Kesi",
+        "sinhala": "කේසි වර්ගය"
       },
       "description": {
-        "english": "Teachings involving Kesi the horse trainer and lessons on spiritual training.",
-        "sinhala": "අශ්ව පුහුණුකරු කේසි සහ ආධ්‍යාත්මික පුහුණුව පිළිබඳ පාඩම් සම්බන්ධ ඉගැන්වීම්."
+        "english": "Includes the dialogue with Kesi the horse-trainer about training monks through gentle and firm methods.",
+        "sinhala": "අශ්ව දමනය කරන්නෙකු වූ කේසි සමඟ මෘදු හා තද ක්‍රම මගින් පුද්ගලයන් දමනය කිරීම ගැන කළ සාකච්ඡාව ඇතුළත් වේ."
       },
-      "link": "chapters/an4.12-Kesivaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.12-Kesivaggo.json"
     },
     {
       "id": "an4.13",
       "number": 13,
       "title": {
         "pali": "Bhayavaggo",
-        "english": "The Chapter on Fears",
-        "sinhala": "භය වග්ගය"
+        "english": "Perils",
+        "sinhala": "භය වර්ගය"
       },
       "description": {
-        "english": "Teachings on various fears and how to overcome them through spiritual practice.",
-        "sinhala": "විවිධ භීතිකා සහ ආධ්‍යාත්මික භාවනාව හරහා ඒවා ජය ගන්නා ආකාරය පිළිබඳ ඉගැන්වීම්."
+        "english": "Discusses four types of perils or dangers, such as the fear of self-reproach and the fear of punishment.",
+        "sinhala": "තමාටම දොස් පවරා ගැනීමට සිදුවීම සහ දඬුවමට ඇති බිය වැනි භය හතරක් පිළිබඳව මෙහි සාකච්ඡා කෙරේ."
       },
-      "link": "chapters/an4.13-Bhayavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.13-Bhayavaggo.json"
     },
     {
       "id": "an4.14",
       "number": 14,
       "title": {
         "pali": "Puggalavaggo",
-        "english": "The Chapter on Persons",
-        "sinhala": "පුග්ගල වග්ගය"
+        "english": "Persons",
+        "sinhala": "පුද්ගල වර්ගය"
       },
       "description": {
-        "english": "Classifications and descriptions of different types of persons based on their spiritual qualities.",
-        "sinhala": "ආධ්‍යාත්මික ගුණාංග මත පදනම්ව විවිධ පුද්ගල වර්ගීකරණ සහ විස්තර."
+        "english": "Analyzes four types of persons based on their behavior, such as those who live for their own benefit versus the benefit of others.",
+        "sinhala": "තම යහපතට හෝ අනුන්ගේ යහපතට කටයුතු කරන පුද්ගලයන්ගේ ස්වභාවය අනුව ඔවුන් වර්ග හතරකට බෙදා දක්වයි."
       },
-      "link": "chapters/an4.14-Puggalavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.14-Puggalavaggo.json"
     },
     {
       "id": "an4.15",
       "number": 15,
       "title": {
         "pali": "Ābhāvaggo",
-        "english": "The Chapter on Radiance",
-        "sinhala": "ආභා වග්ගය"
+        "english": "Radiance",
+        "sinhala": "ආභා වර්ගය"
       },
       "description": {
-        "english": "Teachings on spiritual radiance and luminosity of mind.",
-        "sinhala": "ආධ්‍යාත්මික ආභාව සහ මනසේ ප්‍රභාව පිළිබඳ ඉගැන්වීම්."
+        "english": "Explores four kinds of radiance or light, culminating in the radiance of wisdom which is the highest.",
+        "sinhala": "ආලෝක වර්ග හතරක් පිළිබඳව විමසා බලන අතර, එයින් ප්‍රඥාවේ ආලෝකය උතුම්ම ආලෝකය බව මෙහි පැහැදිලි කෙරේ."
       },
-      "link": "chapters/an4.15-Ābhāvaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.15-Ābhāvaggo.json"
     },
     {
       "id": "an4.16",
       "number": 16,
       "title": {
         "pali": "Indriyavaggo",
-        "english": "The Chapter on Faculties",
-        "sinhala": "ඉන්ද්‍රිය වග්ගය"
+        "english": "Faculties",
+        "sinhala": "ඉන්ද්‍රිය වර්ගය"
       },
       "description": {
-        "english": "Teachings on the spiritual faculties and their development.",
-        "sinhala": "ආධ්‍යාත්මික ඉන්ද්‍රිය සහ ඒවායේ දියුණුව පිළිබඳ ඉගැන්වීම්."
+        "english": "Detailed teachings on the development of the four spiritual faculties: faith, energy, mindfulness, and immersion.",
+        "sinhala": "ශ්‍රද්ධා, වීර්ය, සති, සමාධි යන ඉන්ද්‍රියයන් දියුණු කරගන්නා ආකාරය පිළිබඳව සවිස්තරාත්මක ඉගැන්වීම්."
       },
-      "link": "chapters/an4.16-Indriyavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.16-Indriyavaggo.json"
     },
     {
       "id": "an4.17",
       "number": 17,
       "title": {
         "pali": "Paṭipadāvaggo",
-        "english": "The Chapter on Practices",
-        "sinhala": "පටිපදා වග්ගය"
+        "english": "The Path",
+        "sinhala": "පටිපදා වර්ගය"
       },
       "description": {
-        "english": "Teachings on different types of spiritual practices and their characteristics.",
-        "sinhala": "විවිධ ආධ්‍යාත්මික භාවනා වර්ග සහ ඒවායේ ලක්ෂණ පිළිබඳ ඉගැන්වීම්."
+        "english": "Categorizes the four modes of practice: painful with slow insight, painful with quick insight, pleasant with slow insight, and pleasant with quick insight.",
+        "sinhala": "දුක් පටිපදා දන්ධ අභිඤ්ඤා ආදී වශයෙන් ප්‍රතිපදා හතරක් පුද්ගලයන්ගේ ස්වභාවය අනුව විස්තර කෙරේ."
       },
-      "link": "chapters/an4.17-Paṭipadāvaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.17-Paṭipadāvaggo.json"
     },
     {
       "id": "an4.18",
       "number": 18,
       "title": {
         "pali": "Sañcetaniyavaggo",
-        "english": "The Chapter on Intentional Actions",
-        "sinhala": "සඤ්චේතනිය වග්ගය"
+        "english": "Volition",
+        "sinhala": "සංචේතනිය වර්ගය"
       },
       "description": {
-        "english": "Teachings on intentional actions and their karmic consequences.",
-        "sinhala": "හිතාමතා කරන ක්‍රියා සහ ඒවායේ කර්මික ප්‍රතිඵල පිළිබඳ ඉගැන්වීම්."
+        "english": "Examines the role of volition and intention in creating karma through the body, speech, and mind.",
+        "sinhala": "කය, වචනය සහ මනසින් කර්ම රැස් කිරීමේදී චේතනාවේ භූමිකාව පිළිබඳව මෙහි විමසා බැලේ."
       },
-      "link": "chapters/an4.18-Sañcetaniyavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.18-Sañcetaniyavaggo.json"
     },
     {
-      "id": "an4.19",
+      "id": "an4.20",
       "number": 19,
       "title": {
         "pali": "Mahāvaggo",
         "english": "The Great Chapter",
-        "sinhala": "මහා වග්ගය"
+        "sinhala": "මහා වර්ගය"
       },
       "description": {
-        "english": "Important and comprehensive teachings on various aspects of the Dhamma.",
-        "sinhala": "ධර්මයේ විවිධ අංශ පිළිබඳ වැදගත් සහ සවිස්තරාත්මක ඉගැන්වීම්."
+        "english": "A collection of profound suttas on Dhamma, discipline, and the factors for achieving liberation.",
+        "sinhala": "ධර්මය, විනය සහ විමුක්තිය ලබා ගැනීම සඳහා අවශ්‍ය වන කරුණු පිළිබඳ ගැඹුරු දේශනා සමූහයකි."
       },
-      "link": "chapters/an4.19-Mahāvaggo.json"
-    },
-    {
-      "id": "an4.20",
-      "number": 20,
-      "title": {
-        "pali": "Sappurisavaggo",
-        "english": "The Chapter on Good Persons",
-        "sinhala": "සප්පුරිස වග්ගය"
-      },
-      "description": {
-        "english": "Teachings on the qualities and characteristics of good and noble persons.",
-        "sinhala": "හොඳ සහ උතුම් පුද්ගලයන්ගේ ගුණාංග සහ ලක්ෂණ පිළිබඳ ඉගැන්වීම්."
-      },
-      "link": "chapters/an4.20-Sappurisavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.20-Mahāvaggo.json"
     },
     {
       "id": "an4.21",
-      "number": 21,
+      "number": 20,
       "title": {
-        "pali": "Duccaritavaggo",
-        "english": "The Chapter on Misconduct",
-        "sinhala": "දුච්චරිත වග්ගය"
+        "pali": "Sappurisavaggo",
+        "english": "The Worthy Person",
+        "sinhala": "සප්පුරිස වර්ගය"
       },
       "description": {
-        "english": "Teachings on misconduct in body, speech, and mind and how to avoid it.",
-        "sinhala": "කාය, වචන සහ මනසේ දුරාචාර සහ එය වළක්වා ගන්නා ආකාරය පිළිබඳ ඉගැන්වීම්."
+        "english": "Outlines the qualities of a worthy person (Sappurisa) and the four ways they act to benefit the world.",
+        "sinhala": "සත්පුරුෂයෙකු සතු ගුණාංග සහ ලෝකයාගේ යහපත සඳහා ඔවුන් ක්‍රියා කරන ආකාරය මෙහි දක්වා ඇත."
       },
-      "link": "chapters/an4.21-Duccaritavaggo.json"
-    },
-    {
-      "id": "an4.22",
-      "number": 22,
-      "title": {
-        "pali": "Kammavaggo",
-        "english": "The Chapter on Actions",
-        "sinhala": "කම්ම වග්ගය"
-      },
-      "description": {
-        "english": "Comprehensive teachings on karma, actions, and their results.",
-        "sinhala": "කර්මය, ක්‍රියා සහ ඒවායේ ප්‍රතිඵල පිළිබඳ සවිස්තරාත්මක ඉගැන්වීම්."
-      },
-      "link": "chapters/an4.22-Kammavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.21-Sappurisavaggo.json"
     },
     {
       "id": "an4.23",
-      "number": 23,
+      "number": 21,
       "title": {
-        "pali": "Āpattibhayavaggo",
-        "english": "The Chapter on Fear of Transgression",
-        "sinhala": "ආපත්තිභය වග්ගය"
+        "pali": "Duccaritavaggo",
+        "english": "Misconduct",
+        "sinhala": "දුච්චරිත වර්ගය"
       },
       "description": {
-        "english": "Teachings on the fear of transgressing moral precepts and maintaining ethical conduct.",
-        "sinhala": "සදාචාර ප්‍රතිපත්ති උල්ලංඝනය කිරීමේ භීතිකාව සහ සදාචාරාත්මක හැසිරීම පවත්වා ගැනීම පිළිබඳ ඉගැන්වීම්."
+        "english": "Discusses the four types of physical and mental misconduct and their consequences.",
+        "sinhala": "කායික හා මානසික දුසිරිත් හතරක් සහ ඒවායේ විපාක පිළිබඳව මෙහි සාකච්ඡා කෙරේ."
       },
-      "link": "chapters/an4.23-Āpattibhayavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.23-Duccaritavaggo.json"
     },
     {
       "id": "an4.24",
-      "number": 24,
+      "number": 22,
       "title": {
-        "pali": "Abhiññāvaggo",
-        "english": "The Chapter on Higher Knowledge",
-        "sinhala": "අභිඤ්ඤා වග්ගය"
+        "pali": "Kammavaggo",
+        "english": "Karma",
+        "sinhala": "කම්ම වර්ගය"
       },
       "description": {
-        "english": "Teachings on the six higher knowledges and psychic powers.",
-        "sinhala": "උසස් ඥාන හය සහ මනෝ බලයන් පිළිබඳ ඉගැන්වීම්."
+        "english": "An analysis of the four kinds of karma: dark with dark results, bright with bright results, both, and neither.",
+        "sinhala": "කර්මය කොටස් හතරකට බෙදා දක්වයි: කළු කර්ම, සුදු කර්ම, කළු-සුදු මිශ්‍ර කර්ම සහ කර්ම ක්ෂය කරන කර්ම."
       },
-      "link": "chapters/an4.24-Abhiññāvaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.24-Kammavaggo.json"
     },
     {
       "id": "an4.25",
-      "number": 25,
+      "number": 23,
       "title": {
-        "pali": "Kammapathavaggo",
-        "english": "The Chapter on Courses of Action",
-        "sinhala": "කම්මපථ වග්ගය"
+        "pali": "Āpattibhayavaggo",
+        "english": "Fear of Offenses",
+        "sinhala": "ආපත්තිභය වර්ගය"
       },
       "description": {
-        "english": "Detailed teachings on the ten courses of wholesome and unwholesome action.",
-        "sinhala": "කුසල සහ අකුසල ක්‍රියා මාර්ග දහය පිළිබඳ විස්තරාත්මක ඉගැන්වීම්."
+        "english": "Focuses on the importance of fearing moral transgressions and the benefits of maintaining integrity.",
+        "sinhala": "වැරදි කිරීමට ඇති බිය (ලජ්ජා භය) සහ හික්මීම පවත්වා ගැනීමේ වැදගත්කම මෙහි අවධාරණය කෙරේ."
       },
-      "link": "chapters/an4.25-Kammapathavaggo.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.25-Āpattibhayavaggo.json"
     },
     {
       "id": "an4.26",
+      "number": 24,
+      "title": {
+        "pali": "Abhiññāvaggo",
+        "english": "Higher Knowledge",
+        "sinhala": "අභිඤ්ඤා වර්ගය"
+      },
+      "description": {
+        "english": "Describes the four components of higher knowledge and the path to spiritual mastery.",
+        "sinhala": "විශේෂ දැනුම හෙවත් අභිඤ්ඤා ලබා ගැනීමේ මඟ සහ එහි අංග හතරක් පිළිබඳව විස්තර කෙරේ."
+      },
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.26-Abhiññāvaggo.json"
+    },
+    {
+      "id": "an4.27",
+      "number": 25,
+      "title": {
+        "pali": "Kammapathavaggo",
+        "english": "Paths of Action",
+        "sinhala": "කම්මපථ වර්ගය"
+      },
+      "description": {
+        "english": "Lists the courses of action that lead to rebirth in lower or higher realms based on four-fold classifications.",
+        "sinhala": "සතර වැදගත් වූ කර්ම පථයන් සහ ඒවා මගින් විවිධ භවයන් කරා පමුණුවන ආකාරය මෙහි දැක්වේ."
+      },
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.27-Kammapathavaggo.json"
+    },
+    {
+      "id": "an4.28",
       "number": 26,
       "title": {
         "pali": "Rāgapeyyālaṃ",
-        "english": "The Repetition Series on Greed",
-        "sinhala": "රාග පේය්‍යාලය"
+        "english": "Series on Lust",
+        "sinhala": "රාග පෙය්‍යාලය"
       },
       "description": {
-        "english": "Systematic repetitions on greed, hatred, delusion and their opposites in groups of four.",
-        "sinhala": "ලෝභය, ද්වේෂය, මෝහය සහ ඒවායේ ප්‍රතිවිරුද්ධ ගුණාංග හතරේ කණ්ඩායම්වල ක්‍රමානුකූල පුනරාවර්තන."
+        "english": "An abbreviated series detailing the four factors for the complete removal of lust, greed, and delusion.",
+        "sinhala": "රාගය, ලෝභය සහ මෝහය සහමුලින්ම දුරු කිරීම සඳහා අවශ්‍ය වන කරුණු හතරක් කෙටියෙන් විස්තර කරන දේශනා පෙළකි."
       },
-      "link": "chapters/an4.26-Rāgapeyyālaṃ.json"
+      "link": "Aṅguttaranikāyo/Catukkanipātapāḷi/chapters/an4.28-Rāgapeyyālaṃ.json"
     }
   ]
 }
