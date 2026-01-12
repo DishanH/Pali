@@ -1,0 +1,127 @@
+================================================================================
+                    DUPLICATE SECTIONS CHECK RESULTS
+================================================================================
+
+STATISTICS:
+-----------
+✓ Total Files Checked:     291
+✓ Total Sections Found:    6,576
+✗ Files with Duplicates:   3
+⚠ Files with Missing:      52 (mostly intentional - peyyāla chapters)
+
+================================================================================
+                         DUPLICATE SECTIONS FOUND
+================================================================================
+
+These MUST be fixed:
+
+1. Majjhima Nikāya - mn.3.1-Devadahavaggo.json
+   - Section 2 appears 2 times
+   - Location: Majjhimanikāye/Uparipaṇṇāsapāḷi/chapters/
+
+2. Saṃyutta Nikāya - sn.2.1-Nidānasaṃyuttaṃ.json
+   - Section 73 appears 3 times (WORST CASE)
+   - Location: Saṃyuttanikāyo/Nidānavaggo/chapters/
+
+3. Saṃyutta Nikāya - sn.4.1-Saḷāyatanasaṃyuttaṃ.json
+   - Section 1 appears 2 times
+   - Location: Saṃyuttanikāyo/Saḷāyatanavaggo/chapters/
+
+Total duplicate entries to remove: 4
+
+================================================================================
+                              HOW TO FIX
+================================================================================
+
+STEP 1: Remove duplicates from database
+----------------------------------------
+Command: python remove_duplicate_sections_from_db.py
+
+What it does:
+- Connects to Turso database
+- Finds all duplicates
+- Shows dry run first
+- Asks for confirmation
+- Removes duplicates (keeps first occurrence)
+- Verifies no duplicates remain
+
+STEP 2: Add unique constraint (prevent future duplicates)
+----------------------------------------------------------
+Command: python add_unique_constraint.py
+
+What it does:
+- Adds unique index on (chapter_id, section_number)
+- Prevents future duplicate imports
+- Database will reject duplicate entries
+
+STEP 3: Fix JSON files (optional but recommended)
+--------------------------------------------------
+Command: python fix_duplicate_sections.py
+
+What it does:
+- Creates backups (.json.backup)
+- Removes duplicates from 3 JSON files
+- Keeps only first occurrence
+
+STEP 4: Verify everything is fixed
+-----------------------------------
+Command: python check_sections_simple.py
+
+Expected result:
+- Files with duplicate sections: 0 ✓
+
+================================================================================
+                         MISSING SECTIONS INFO
+================================================================================
+
+52 files have gaps in section numbering. Examples:
+
+- an1.20-Amatavaggo.json: Missing 579 sections (21-599)
+- an11.3-Sāmaññavaggo.json: Missing 432 sections
+- an4.20-Mahāvaggo.json: Missing 185 sections
+
+WHY THIS IS OK:
+- These are "peyyāla" (repetition) chapters
+- Original Pali texts use abbreviations for repetitive content
+- PDF sources intentionally omit repetitions
+- This is NORMAL and EXPECTED
+
+ACTION: No automatic fixing needed. Review manually only if needed.
+
+================================================================================
+                           QUICK START
+================================================================================
+
+Run these commands in order:
+
+1. python remove_duplicate_sections_from_db.py
+   (Type 'yes' when prompted)
+
+2. python add_unique_constraint.py
+
+3. python check_sections_simple.py
+   (Should show 0 duplicates)
+
+Done! Your database is now clean.
+
+================================================================================
+                         FILES CREATED
+================================================================================
+
+Check Scripts:
+- check_sections_simple.py
+- check_duplicate_missing_sections.py
+- file_section_check_report.json
+
+Fix Scripts:
+- remove_duplicate_sections_from_db.py
+- fix_duplicate_sections.py
+- add_unique_constraint.py
+
+Documentation:
+- DUPLICATE_SECTIONS_REPORT.md
+- FIX_DUPLICATES_WORKFLOW.md
+- SECTION_CHECK_SUMMARY.md
+- QUICK_SUMMARY.txt (this file)
+
+================================================================================

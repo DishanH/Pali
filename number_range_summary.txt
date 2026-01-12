@@ -1,0 +1,284 @@
+NumberRange Field Summary
+============================================================
+
+Total JSON files scanned: 291
+Total sections with numberRange: 180
+
+Sections by chapter:
+------------------------------------------------------------
+
+an1.10:
+  Section 102: 102-109
+  Section 118: 118-128
+
+an1.11:
+  Section 142: 142-149
+
+an1.12:
+  Section 152: 152-159
+  Section 162: 162-169
+
+an1.13:
+  Section 175: 175-186
+
+an1.15:
+  Section 281: 281-283
+  Section 285: 285-286
+  Section 288: 288-289
+  Section 291: 291-292
+  Section 294: 294-295
+
+an1.16:
+  Section 336: 336-3389
+  Section 339: 339-341
+  Section 342: 342-344
+  Section 345: 345-347
+  Section 348: 348-350
+  Section 351: 351-353
+  Section 354: 354-356
+  Section 357: 357-359
+  Section 360: 360-362
+  Section 363: 363-365
+
+an1.17:
+  Section 366: 366-381
+
+an1.18:
+  Section 383: 383-389
+  Section 390: 390-393
+  Section 394: 394-397
+  Section 398: 398-401
+  Section 402: 403-406
+  Section 407: 407-411
+  Section 412: 412-418
+  Section 419: 419-426
+  Section 427: 427-434
+  Section 435: 435-442
+  Section 443: 443-452
+  Section 453: 453-462
+  Section 463: 463-472
+  Section 473: 473-482
+  Section 483: 483-492
+  Section 493: 493-562
+
+an1.19:
+  Section 564: 564-570
+  Section 575: 575-576
+  Section 577: 577-579
+  Section 580: 580-583
+  Section 584: 584-599
+
+an10.16:
+  Section 156: 156-169
+
+an10.20:
+  Section 200: 200-209
+
+an10.22:
+  Section 225: 225-228
+  Section 229: 229-232
+  Section 233: 233-236
+
+an10.23:
+  Section 240: 240-266
+  Section 267: 267-746
+
+an11.3:
+  Section 22: 22-29
+  Section 30: 30-69
+  Section 70: 70-117
+  Section 118: 118-165
+  Section 166: 166-213
+  Section 214: 214-261
+  Section 262: 262-309
+  Section 310: 310-357
+  Section 358: 358-405
+  Section 406: 406-453
+  Section 454: 454-501
+
+an11.4:
+  Section 503: 503-511
+  Section 512: 512-671
+
+an2.17:
+  Section 191: 191-200
+
+an2.18:
+  Section 202: 202-230
+
+an2.19:
+  Section 232: 232-246
+
+an3.16:
+  Section 157: 157-163
+
+an3.17:
+  Section 164: 164-183
+
+an5.26:
+  Section 257: 257-263
+  Section 265: 265-271
+
+an5.27:
+  Section 273: 273-285
+
+an5.28:
+  Section 287: 287-292
+  Section 294: 294-302
+
+an5.29:
+  Section 308: 308-1151
+
+an6.12:
+  Section 120: 120-139
+
+an6.13:
+  Section 143: 143-169
+  Section 170: 170-649
+
+an7.10:
+  Section 96: 96-622
+
+an7.11:
+  Section 626: 626-652
+  Section 653: 653-1132
+
+an9.10:
+  Section 95: 95-112
+  Section 113: 113-432
+
+an9.9:
+  Section 84: 84-91
+
+sn.3.10:
+  Section 441: 441-449
+  Section 450: 450-459
+  Section 460: 460-549
+
+sn.3.11:
+  Section 552: 552-561
+  Section 562: 562-601
+
+sn.3.12:
+  Section 612: 612-616
+  Section 617: 617-621
+  Section 622: 622-626
+  Section 627: 627-631
+  Section 632: 632-636
+  Section 637: 637-641
+  Section 642: 642-646
+  Section 647: 647-651
+  Section 652: 652-656
+  Section 657: 657-660
+
+sn.3.13:
+  Section 681: 681-688
+  Section 689: 689-695
+  Section 696: 696-701
+  Section 702: 702-706
+
+sn.3.3:
+  Section 225: 225-240
+  Section 251: 251-274
+  Section 277: 277-300
+
+sn.3.8:
+  Section 352: 352-361
+  Section 362: 362-391
+
+sn.3.9:
+  Section 395: 395-397
+  Section 398: 398-407
+  Section 408: 408-437
+
+sn.4.1:
+  Section 171: 171-173
+  Section 174: 174-176
+  Section 177: 177-179
+  Section 180: 180-182
+  Section 183: 183-185
+  Section 189: 189-191
+  Section 192: 192-194
+  Section 195: 195-197
+  Section 198: 198-200
+  Section 201: 201-203
+  Section 207: 207-209
+  Section 210: 210-212
+  Section 213: 213-215
+  Section 216: 216-218
+  Section 219: 219-221
+
+sn.4.9:
+  Section 379: 379-408
+
+sn.5.1:
+  Section 42: 42-47
+  Section 50: 50-54
+  Section 57: 57-61
+  Section 64: 64-68
+  Section 71: 71-75
+  Section 78: 78-82
+  Section 85: 85-89
+  Section 92: 92-95
+  Section 98: 98-102
+  Section 122: 122-126
+  Section 128: 128-132
+  Section 134: 134-138
+
+sn.5.12:
+  Section 1166: 1166-1171
+  Section 1175: 1175-1177
+  Section 1178: 1178-1180
+  Section 1181: 1181-1183
+  Section 1184: 1184-1186
+  Section 1187: 1187-1189
+  Section 1190: 1190-1192
+  Section 1193: 1193-1195
+  Section 1196: 1196-1198
+  Section 1199: 1199-1200
+
+sn.5.2:
+  Section 258: 258-269
+  Section 270: 270-279
+  Section 280: 280-291
+  Section 292: 292-301
+  Section 302: 302-311
+  Section 312: 312-323
+  Section 324: 324-333
+  Section 334: 334-345
+  Section 346: 346-356
+  Section 357: 357-366
+
+sn.5.3:
+  Section 417: 417-428
+  Section 429: 429-438
+  Section 439: 439-450
+  Section 451: 451-460
+  Section 461: 461-470
+
+sn.5.4:
+  Section 541: 541-552
+  Section 587: 587-596
+  Section 597: 597-608
+  Section 641: 641-650
+
+sn.5.5:
+  Section 651: 651-662
+  Section 673: 673-684
+  Section 685: 685-694
+  Section 695: 695-704
+
+sn.5.6:
+  Section 705: 705-716
+  Section 749: 749-758
+  Section 759: 759-770
+  Section 792: 792-802
+  Section 803: 803-812
+
+sn.5.7:
+  Section 845: 845-856
+  Section 889: 889-898
+
+sn.5.9:
+  Section 923: 923-934
+  Section 967: 967-976

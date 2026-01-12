@@ -97,14 +97,20 @@ CREATE VIRTUAL TABLE IF NOT EXISTS sections_fts USING fts5(
     pali,
     english,
     sinhala,
+    pali_title,
+    english_title,
+    sinhala_title,
+    vagga,
+    vagga_english,
+    vagga_sinhala,
     content=sections,
     content_rowid=id
 );
 
 -- Triggers to keep FTS index in sync
 CREATE TRIGGER IF NOT EXISTS sections_ai AFTER INSERT ON sections BEGIN
-    INSERT INTO sections_fts(rowid, chapter_id, section_number, pali, english, sinhala)
-    VALUES (new.id, new.chapter_id, new.section_number, new.pali, new.english, new.sinhala);
+    INSERT INTO sections_fts(rowid, chapter_id, section_number, pali, english, sinhala, pali_title, english_title, sinhala_title, vagga, vagga_english, vagga_sinhala)
+    VALUES (new.id, new.chapter_id, new.section_number, new.pali, new.english, new.sinhala, new.pali_title, new.english_title, new.sinhala_title, new.vagga, new.vagga_english, new.vagga_sinhala);
 END;
 
 CREATE TRIGGER IF NOT EXISTS sections_ad AFTER DELETE ON sections BEGIN
@@ -117,7 +123,13 @@ CREATE TRIGGER IF NOT EXISTS sections_au AFTER UPDATE ON sections BEGIN
         section_number = new.section_number,
         pali = new.pali,
         english = new.english,
-        sinhala = new.sinhala
+        sinhala = new.sinhala,
+        pali_title = new.pali_title,
+        english_title = new.english_title,
+        sinhala_title = new.sinhala_title,
+        vagga = new.vagga,
+        vagga_english = new.vagga_english,
+        vagga_sinhala = new.vagga_sinhala
     WHERE rowid = new.id;
 END;
 

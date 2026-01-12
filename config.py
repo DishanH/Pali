@@ -325,6 +325,29 @@ def validate_config():
     
     return errors
 
+# ============================================================================
+# Database Configuration
+# ============================================================================
+
+def get_turso_connection():
+    """Get Turso database connection using turso-python package"""
+    import os
+    from turso_python import TursoClient
+    from dotenv import load_dotenv
+    
+    # Load environment variables
+    load_dotenv()
+    
+    # Get database credentials
+    db_url = os.getenv("TURSO_DB_URL", "")
+    auth_token = os.getenv("TURSO_AUTH_TOKEN", "")
+    
+    if not db_url or not auth_token:
+        raise ValueError("TURSO_DB_URL and TURSO_AUTH_TOKEN must be set in .env file")
+    
+    # Return TursoClient instance
+    return TursoClient(database_url=db_url, auth_token=auth_token)
+
 # Validate on import
 _validation_errors = validate_config()
 if _validation_errors:

@@ -1,0 +1,902 @@
+[
+  {
+    "chapter_id": "an1.10",
+    "section_number": 102,
+    "number_range": "102-109"
+  },
+  {
+    "chapter_id": "an1.10",
+    "section_number": 118,
+    "number_range": "118-128"
+  },
+  {
+    "chapter_id": "an1.11",
+    "section_number": 142,
+    "number_range": "142-149"
+  },
+  {
+    "chapter_id": "an1.12",
+    "section_number": 152,
+    "number_range": "152-159"
+  },
+  {
+    "chapter_id": "an1.12",
+    "section_number": 162,
+    "number_range": "162-169"
+  },
+  {
+    "chapter_id": "an1.13",
+    "section_number": 175,
+    "number_range": "175-186"
+  },
+  {
+    "chapter_id": "an1.15",
+    "section_number": 281,
+    "number_range": "281-283"
+  },
+  {
+    "chapter_id": "an1.15",
+    "section_number": 285,
+    "number_range": "285-286"
+  },
+  {
+    "chapter_id": "an1.15",
+    "section_number": 288,
+    "number_range": "288-289"
+  },
+  {
+    "chapter_id": "an1.15",
+    "section_number": 291,
+    "number_range": "291-292"
+  },
+  {
+    "chapter_id": "an1.15",
+    "section_number": 294,
+    "number_range": "294-295"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 336,
+    "number_range": "336-3389"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 339,
+    "number_range": "339-341"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 342,
+    "number_range": "342-344"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 345,
+    "number_range": "345-347"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 348,
+    "number_range": "348-350"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 351,
+    "number_range": "351-353"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 354,
+    "number_range": "354-356"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 357,
+    "number_range": "357-359"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 360,
+    "number_range": "360-362"
+  },
+  {
+    "chapter_id": "an1.16",
+    "section_number": 363,
+    "number_range": "363-365"
+  },
+  {
+    "chapter_id": "an1.17",
+    "section_number": 366,
+    "number_range": "366-381"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 383,
+    "number_range": "383-389"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 390,
+    "number_range": "390-393"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 394,
+    "number_range": "394-397"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 398,
+    "number_range": "398-401"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 402,
+    "number_range": "403-406"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 407,
+    "number_range": "407-411"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 412,
+    "number_range": "412-418"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 419,
+    "number_range": "419-426"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 427,
+    "number_range": "427-434"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 435,
+    "number_range": "435-442"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 443,
+    "number_range": "443-452"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 453,
+    "number_range": "453-462"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 463,
+    "number_range": "463-472"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 473,
+    "number_range": "473-482"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 483,
+    "number_range": "483-492"
+  },
+  {
+    "chapter_id": "an1.18",
+    "section_number": 493,
+    "number_range": "493-562"
+  },
+  {
+    "chapter_id": "an1.19",
+    "section_number": 564,
+    "number_range": "564-570"
+  },
+  {
+    "chapter_id": "an1.19",
+    "section_number": 575,
+    "number_range": "575-576"
+  },
+  {
+    "chapter_id": "an1.19",
+    "section_number": 577,
+    "number_range": "577-579"
+  },
+  {
+    "chapter_id": "an1.19",
+    "section_number": 580,
+    "number_range": "580-583"
+  },
+  {
+    "chapter_id": "an1.19",
+    "section_number": 584,
+    "number_range": "584-599"
+  },
+  {
+    "chapter_id": "an10.16",
+    "section_number": 156,
+    "number_range": "156-169"
+  },
+  {
+    "chapter_id": "an10.20",
+    "section_number": 200,
+    "number_range": "200-209"
+  },
+  {
+    "chapter_id": "an10.22",
+    "section_number": 225,
+    "number_range": "225-228"
+  },
+  {
+    "chapter_id": "an10.22",
+    "section_number": 229,
+    "number_range": "229-232"
+  },
+  {
+    "chapter_id": "an10.22",
+    "section_number": 233,
+    "number_range": "233-236"
+  },
+  {
+    "chapter_id": "an10.23",
+    "section_number": 240,
+    "number_range": "240-266"
+  },
+  {
+    "chapter_id": "an10.23",
+    "section_number": 267,
+    "number_range": "267-746"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 22,
+    "number_range": "22-29"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 30,
+    "number_range": "30-69"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 70,
+    "number_range": "70-117"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 118,
+    "number_range": "118-165"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 166,
+    "number_range": "166-213"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 214,
+    "number_range": "214-261"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 262,
+    "number_range": "262-309"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 310,
+    "number_range": "310-357"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 358,
+    "number_range": "358-405"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 406,
+    "number_range": "406-453"
+  },
+  {
+    "chapter_id": "an11.3",
+    "section_number": 454,
+    "number_range": "454-501"
+  },
+  {
+    "chapter_id": "an11.4",
+    "section_number": 503,
+    "number_range": "503-511"
+  },
+  {
+    "chapter_id": "an11.4",
+    "section_number": 512,
+    "number_range": "512-671"
+  },
+  {
+    "chapter_id": "an2.17",
+    "section_number": 191,
+    "number_range": "191-200"
+  },
+  {
+    "chapter_id": "an2.18",
+    "section_number": 202,
+    "number_range": "202-230"
+  },
+  {
+    "chapter_id": "an2.19",
+    "section_number": 232,
+    "number_range": "232-246"
+  },
+  {
+    "chapter_id": "an3.16",
+    "section_number": 157,
+    "number_range": "157-163"
+  },
+  {
+    "chapter_id": "an3.17",
+    "section_number": 164,
+    "number_range": "164-183"
+  },
+  {
+    "chapter_id": "an5.26",
+    "section_number": 257,
+    "number_range": "257-263"
+  },
+  {
+    "chapter_id": "an5.26",
+    "section_number": 265,
+    "number_range": "265-271"
+  },
+  {
+    "chapter_id": "an5.27",
+    "section_number": 273,
+    "number_range": "273-285"
+  },
+  {
+    "chapter_id": "an5.28",
+    "section_number": 287,
+    "number_range": "287-292"
+  },
+  {
+    "chapter_id": "an5.28",
+    "section_number": 294,
+    "number_range": "294-302"
+  },
+  {
+    "chapter_id": "an5.29",
+    "section_number": 308,
+    "number_range": "308-1151"
+  },
+  {
+    "chapter_id": "an6.12",
+    "section_number": 120,
+    "number_range": "120-139"
+  },
+  {
+    "chapter_id": "an6.13",
+    "section_number": 143,
+    "number_range": "143-169"
+  },
+  {
+    "chapter_id": "an6.13",
+    "section_number": 170,
+    "number_range": "170-649"
+  },
+  {
+    "chapter_id": "an7.10",
+    "section_number": 96,
+    "number_range": "96-622"
+  },
+  {
+    "chapter_id": "an7.11",
+    "section_number": 626,
+    "number_range": "626-652"
+  },
+  {
+    "chapter_id": "an7.11",
+    "section_number": 653,
+    "number_range": "653-1132"
+  },
+  {
+    "chapter_id": "an9.10",
+    "section_number": 95,
+    "number_range": "95-112"
+  },
+  {
+    "chapter_id": "an9.10",
+    "section_number": 113,
+    "number_range": "113-432"
+  },
+  {
+    "chapter_id": "an9.9",
+    "section_number": 84,
+    "number_range": "84-91"
+  },
+  {
+    "chapter_id": "sn.3.10",
+    "section_number": 441,
+    "number_range": "441-449"
+  },
+  {
+    "chapter_id": "sn.3.10",
+    "section_number": 450,
+    "number_range": "450-459"
+  },
+  {
+    "chapter_id": "sn.3.10",
+    "section_number": 460,
+    "number_range": "460-549"
+  },
+  {
+    "chapter_id": "sn.3.11",
+    "section_number": 552,
+    "number_range": "552-561"
+  },
+  {
+    "chapter_id": "sn.3.11",
+    "section_number": 562,
+    "number_range": "562-601"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 612,
+    "number_range": "612-616"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 617,
+    "number_range": "617-621"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 622,
+    "number_range": "622-626"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 627,
+    "number_range": "627-631"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 632,
+    "number_range": "632-636"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 637,
+    "number_range": "637-641"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 642,
+    "number_range": "642-646"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 647,
+    "number_range": "647-651"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 652,
+    "number_range": "652-656"
+  },
+  {
+    "chapter_id": "sn.3.12",
+    "section_number": 657,
+    "number_range": "657-660"
+  },
+  {
+    "chapter_id": "sn.3.13",
+    "section_number": 681,
+    "number_range": "681-688"
+  },
+  {
+    "chapter_id": "sn.3.13",
+    "section_number": 689,
+    "number_range": "689-695"
+  },
+  {
+    "chapter_id": "sn.3.13",
+    "section_number": 696,
+    "number_range": "696-701"
+  },
+  {
+    "chapter_id": "sn.3.13",
+    "section_number": 702,
+    "number_range": "702-706"
+  },
+  {
+    "chapter_id": "sn.3.3",
+    "section_number": 225,
+    "number_range": "225-240"
+  },
+  {
+    "chapter_id": "sn.3.3",
+    "section_number": 251,
+    "number_range": "251-274"
+  },
+  {
+    "chapter_id": "sn.3.3",
+    "section_number": 277,
+    "number_range": "277-300"
+  },
+  {
+    "chapter_id": "sn.3.8",
+    "section_number": 352,
+    "number_range": "352-361"
+  },
+  {
+    "chapter_id": "sn.3.8",
+    "section_number": 362,
+    "number_range": "362-391"
+  },
+  {
+    "chapter_id": "sn.3.9",
+    "section_number": 395,
+    "number_range": "395-397"
+  },
+  {
+    "chapter_id": "sn.3.9",
+    "section_number": 398,
+    "number_range": "398-407"
+  },
+  {
+    "chapter_id": "sn.3.9",
+    "section_number": 408,
+    "number_range": "408-437"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 171,
+    "number_range": "171-173"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 174,
+    "number_range": "174-176"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 177,
+    "number_range": "177-179"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 180,
+    "number_range": "180-182"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 183,
+    "number_range": "183-185"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 189,
+    "number_range": "189-191"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 192,
+    "number_range": "192-194"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 195,
+    "number_range": "195-197"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 198,
+    "number_range": "198-200"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 201,
+    "number_range": "201-203"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 207,
+    "number_range": "207-209"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 210,
+    "number_range": "210-212"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 213,
+    "number_range": "213-215"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 216,
+    "number_range": "216-218"
+  },
+  {
+    "chapter_id": "sn.4.1",
+    "section_number": 219,
+    "number_range": "219-221"
+  },
+  {
+    "chapter_id": "sn.4.9",
+    "section_number": 379,
+    "number_range": "379-408"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 42,
+    "number_range": "42-47"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 50,
+    "number_range": "50-54"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 57,
+    "number_range": "57-61"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 64,
+    "number_range": "64-68"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 71,
+    "number_range": "71-75"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 78,
+    "number_range": "78-82"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 85,
+    "number_range": "85-89"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 92,
+    "number_range": "92-95"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 98,
+    "number_range": "98-102"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 122,
+    "number_range": "122-126"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 128,
+    "number_range": "128-132"
+  },
+  {
+    "chapter_id": "sn.5.1",
+    "section_number": 134,
+    "number_range": "134-138"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1166,
+    "number_range": "1166-1171"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1175,
+    "number_range": "1175-1177"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1178,
+    "number_range": "1178-1180"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1181,
+    "number_range": "1181-1183"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1184,
+    "number_range": "1184-1186"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1187,
+    "number_range": "1187-1189"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1190,
+    "number_range": "1190-1192"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1193,
+    "number_range": "1193-1195"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1196,
+    "number_range": "1196-1198"
+  },
+  {
+    "chapter_id": "sn.5.12",
+    "section_number": 1199,
+    "number_range": "1199-1200"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 258,
+    "number_range": "258-269"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 270,
+    "number_range": "270-279"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 280,
+    "number_range": "280-291"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 292,
+    "number_range": "292-301"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 302,
+    "number_range": "302-311"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 312,
+    "number_range": "312-323"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 324,
+    "number_range": "324-333"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 334,
+    "number_range": "334-345"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 346,
+    "number_range": "346-356"
+  },
+  {
+    "chapter_id": "sn.5.2",
+    "section_number": 357,
+    "number_range": "357-366"
+  },
+  {
+    "chapter_id": "sn.5.3",
+    "section_number": 417,
+    "number_range": "417-428"
+  },
+  {
+    "chapter_id": "sn.5.3",
+    "section_number": 429,
+    "number_range": "429-438"
+  },
+  {
+    "chapter_id": "sn.5.3",
+    "section_number": 439,
+    "number_range": "439-450"
+  },
+  {
+    "chapter_id": "sn.5.3",
+    "section_number": 451,
+    "number_range": "451-460"
+  },
+  {
+    "chapter_id": "sn.5.3",
+    "section_number": 461,
+    "number_range": "461-470"
+  },
+  {
+    "chapter_id": "sn.5.4",
+    "section_number": 541,
+    "number_range": "541-552"
+  },
+  {
+    "chapter_id": "sn.5.4",
+    "section_number": 587,
+    "number_range": "587-596"
+  },
+  {
+    "chapter_id": "sn.5.4",
+    "section_number": 597,
+    "number_range": "597-608"
+  },
+  {
+    "chapter_id": "sn.5.4",
+    "section_number": 641,
+    "number_range": "641-650"
+  },
+  {
+    "chapter_id": "sn.5.5",
+    "section_number": 651,
+    "number_range": "651-662"
+  },
+  {
+    "chapter_id": "sn.5.5",
+    "section_number": 673,
+    "number_range": "673-684"
+  },
+  {
+    "chapter_id": "sn.5.5",
+    "section_number": 685,
+    "number_range": "685-694"
+  },
+  {
+    "chapter_id": "sn.5.5",
+    "section_number": 695,
+    "number_range": "695-704"
+  },
+  {
+    "chapter_id": "sn.5.6",
+    "section_number": 705,
+    "number_range": "705-716"
+  },
+  {
+    "chapter_id": "sn.5.6",
+    "section_number": 749,
+    "number_range": "749-758"
+  },
+  {
+    "chapter_id": "sn.5.6",
+    "section_number": 759,
+    "number_range": "759-770"
+  },
+  {
+    "chapter_id": "sn.5.6",
+    "section_number": 792,
+    "number_range": "792-802"
+  },
+  {
+    "chapter_id": "sn.5.6",
+    "section_number": 803,
+    "number_range": "803-812"
+  },
+  {
+    "chapter_id": "sn.5.7",
+    "section_number": 845,
+    "number_range": "845-856"
+  },
+  {
+    "chapter_id": "sn.5.7",
+    "section_number": 889,
+    "number_range": "889-898"
+  },
+  {
+    "chapter_id": "sn.5.9",
+    "section_number": 923,
+    "number_range": "923-934"
+  },
+  {
+    "chapter_id": "sn.5.9",
+    "section_number": 967,
+    "number_range": "967-976"
+  }
+]
